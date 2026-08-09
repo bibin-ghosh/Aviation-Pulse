@@ -1,0 +1,19 @@
+name = "aviation-pulse-api"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+
+[[kv_namespaces]]
+binding = "NEWS_CACHE"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+preview_id = "REPLACE_WITH_YOUR_PREVIEW_KV_NAMESPACE_ID"
+
+[vars]
+ALLOWED_ORIGIN = "https://YOUR-GITHUB-USERNAME.github.io"
+REFRESH_LIMIT = "5"
+
+[triggers]
+crons = ["17 */6 * * *"]
+
+# Optional variables/secrets:
+# NEWS_API_KEY      Adds articles from the approved domains in src/index.js.
+# EXTRA_FEEDS_JSON  JSON array of additional publisher-approved RSS feeds.

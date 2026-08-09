@@ -1,0 +1,444 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A fast, source-linked view of current and historical aviation industry developments.">
+  <meta name="theme-color" content="#071724">
+  <title>Aviation Pulse</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --navy-950:#04111b;
+      --navy-900:#071724;
+      --navy-850:#0a1d2d;
+      --navy-800:#0b2231;
+      --navy-750:#0e2a39;
+      --line:#173b4b;
+      --line-strong:#2b5c6c;
+      --text:#edf7f6;
+      --soft:#b8ccd2;
+      --muted:#7f9da9;
+      --teal:#35c7bd;
+      --teal-deep:#092e35;
+      --amber:#efad43;
+      --amber-soft:#2c2518;
+      --red:#ff8e8e;
+      --shadow:0 18px 60px rgba(0,0,0,.28);
+      --radius:16px;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:radial-gradient(circle at 80% -20%,#103448 0,transparent 34%),var(--navy-950);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.5}
+    button,a{font:inherit}
+    button{color:inherit}
+    a{color:inherit}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+    .shell{width:min(1180px,calc(100% - 32px));margin:22px auto 44px;background:var(--navy-900);border:1px solid var(--line);border-radius:22px;box-shadow:var(--shadow);overflow:hidden}
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:18px 24px;background:rgba(10,29,45,.95);border-bottom:1px solid var(--line)}
+    .brand{display:flex;align-items:center;gap:12px;min-width:0}
+    .brand-mark{width:40px;height:40px;display:grid;place-items:center;color:#05222b;background:var(--teal);border-radius:12px;box-shadow:0 0 0 5px rgba(53,199,189,.08)}
+    .brand-mark svg{width:23px;height:23px}
+    .brand-name{font-weight:650;letter-spacing:.01em}
+    .brand-subtitle{display:block;margin-top:1px;color:var(--muted);font-size:.75rem}
+    .scope-switch{display:inline-flex;gap:3px;padding:4px;border:1px solid var(--line-strong);border-radius:12px;background:var(--navy-950)}
+    .scope-switch button{min-width:76px;padding:8px 12px;border:0;border-radius:8px;background:transparent;color:var(--soft);font-size:.78rem;cursor:pointer;transition:background .15s,color .15s,transform .15s}
+    .scope-switch button:hover{color:var(--text)}
+    .scope-switch button[aria-pressed="true"]{background:var(--teal);color:#05222b;font-weight:650;box-shadow:0 3px 12px rgba(53,199,189,.18)}
+    .scope-switch button:active{transform:translateY(1px)}
+    .content{padding:0 24px 30px}
+    .tabs{display:flex;gap:26px;border-bottom:1px solid var(--line);margin-bottom:24px}
+    .tabs button{position:relative;padding:17px 1px 14px;border:0;background:transparent;color:var(--muted);cursor:pointer}
+    .tabs button[aria-selected="true"]{color:var(--text)}
+    .tabs button[aria-selected="true"]::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--amber)}
+    .live-dot{display:inline-block;width:7px;height:7px;margin-right:8px;border-radius:50%;background:var(--teal);box-shadow:0 0 0 4px rgba(53,199,189,.12)}
+    .panel[hidden]{display:none}
+    .section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:15px}
+    .eyebrow{color:var(--amber);font-size:.7rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase}
+    h1{margin:5px 0 0;font-size:clamp(1.4rem,3vw,2rem);line-height:1.18;letter-spacing:-.025em}
+    .refresh-cluster{display:flex;align-items:center;gap:11px}
+    .timestamp{color:var(--muted);font-size:.72rem;text-align:right}
+    .timestamp strong{display:block;color:var(--soft);font-weight:500}
+    .refresh-button{display:inline-flex;align-items:center;gap:8px;padding:9px 12px;border:1px solid #3f7180;border-radius:10px;background:var(--navy-750);color:#dff8f4;cursor:pointer}
+    .refresh-button:hover{border-color:var(--teal)}
+    .refresh-button:disabled{opacity:.62;cursor:wait}
+    .refresh-button svg{width:16px;height:16px}
+    .refresh-button.loading svg{animation:spin 1s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .feed-summary{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:11px;padding:10px 12px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);color:var(--muted);font-size:.74rem}
+    .feed-summary strong{color:var(--text);font-weight:650}.feed-summary .active-scope{color:var(--teal);font-weight:700}
+    .notice{display:none;margin:0 0 11px;padding:10px 12px;border-left:3px solid var(--amber);background:var(--amber-soft);color:#efd8aa;font-size:.75rem}
+    .notice.visible{display:block}.notice.error{border-color:var(--red);color:#ffd0d0;background:#2b191d}
+    .feed{display:grid;gap:9px}
+    .news-card{border:1px solid var(--line);border-radius:13px;background:var(--navy-800);overflow:hidden;transition:border-color .15s,transform .15s}
+    .news-card:hover{border-color:#28586a;transform:translateY(-1px)}
+    .news-trigger{width:100%;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:11px;padding:13px 14px;border:0;background:transparent;color:var(--text);text-align:left;cursor:pointer}
+    .source-pill{padding:4px 7px;border:1px solid rgba(53,199,189,.24);border-radius:7px;background:rgba(53,199,189,.08);color:var(--teal);font-size:.64rem;font-weight:700;letter-spacing:.03em;white-space:nowrap}
+    .headline{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:.87rem;font-weight:540}
+    .chevron{width:18px;height:18px;color:var(--muted);transition:transform .18s}
+    .news-trigger[aria-expanded="true"] .chevron{transform:rotate(180deg)}
+    .details{display:none;padding:0 42px 14px 78px;color:var(--soft);font-size:.8rem}
+    .details.open{display:block}.details p{margin:0 0 9px}.meta{display:flex;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:.7rem}.meta a{color:var(--amber);text-decoration:none}.meta a:hover{text-decoration:underline}
+    .empty{padding:26px;border:1px dashed var(--line-strong);border-radius:14px;text-align:center;color:var(--muted)}
+    .empty strong{display:block;margin-bottom:4px;color:var(--text)}
+    .history-map{position:relative;margin-bottom:20px;padding:18px 19px 22px;border:1px solid var(--line);border-radius:14px;background:var(--navy-850)}
+    .history-map-line{position:absolute;left:7%;right:7%;top:35px;height:2px;background:linear-gradient(90deg,var(--teal),#266071 55%,var(--line-strong))}
+    .history-years{position:relative;display:grid;grid-template-columns:repeat(4,1fr)}
+    .history-year{text-align:center;color:var(--muted);font-size:.69rem}.history-year i{display:block;width:12px;height:12px;margin:11px auto 8px;border:3px solid var(--navy-850);border-radius:50%;background:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+    .history-year strong{color:var(--soft);font-size:.78rem}
+    .timeline{display:grid;gap:20px}
+    .year-group{display:grid;grid-template-columns:64px 1fr;gap:15px}
+    .year-label{padding-top:1px;color:var(--amber);font-size:1.04rem;font-weight:700}
+    .year-events{display:grid;gap:10px;padding-left:18px;border-left:1px solid var(--line-strong)}
+    .history-event{position:relative}
+    .history-event::before{content:"";position:absolute;left:-23px;top:17px;width:8px;height:8px;border:2px solid var(--navy-900);border-radius:50%;background:var(--teal)}
+    .history-trigger{width:100%;display:grid;grid-template-columns:92px minmax(0,1fr) auto;gap:11px;align-items:center;padding:11px 12px;border:1px solid transparent;border-radius:10px;background:transparent;color:var(--text);text-align:left;cursor:pointer}
+    .history-trigger:hover{border-color:var(--line);background:var(--navy-850)}
+    .history-trigger time{color:var(--muted);font-size:.7rem}.history-main strong{display:block;font-size:.82rem}.history-main span{display:block;margin-top:3px;color:var(--muted);font-size:.7rem}
+    .history-detail{display:none;margin:0 35px 8px 104px;color:var(--soft);font-size:.77rem}.history-detail.open{display:block}.history-detail p{margin:0 0 7px}
+    footer{display:flex;justify-content:space-between;gap:16px;margin-top:28px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.68rem}footer a{color:var(--soft)}
+    @media(max-width:760px){.shell{width:min(100% - 20px,1180px);margin:10px auto 24px}.topbar{align-items:flex-start;flex-direction:column;padding:16px}.scope-switch{width:100%}.scope-switch button{flex:1;min-width:0}.content{padding:0 16px 22px}.section-head{align-items:flex-start;flex-direction:column}.refresh-cluster{width:100%;justify-content:space-between}}
+    @media(max-width:520px){.brand-subtitle{display:none}.tabs{gap:20px}.feed-summary{align-items:flex-start;flex-direction:column;gap:2px}.news-trigger{grid-template-columns:minmax(0,1fr) auto}.source-pill{grid-column:1;width:max-content}.headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.chevron{grid-column:2;grid-row:1/span 2}.details{padding:0 36px 13px 14px}.year-group{grid-template-columns:46px 1fr;gap:10px}.history-trigger{grid-template-columns:1fr auto}.history-trigger time{grid-column:1}.history-main{grid-column:1}.history-trigger .chevron{grid-column:2;grid-row:1/span 2}.history-detail{margin:0 27px 9px 12px}.history-main span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}footer{flex-direction:column}}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M3 12h18M12 3l3.5 9L12 21l-1.7-9L12 3Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+        <div><span class="brand-name">Aviation Pulse</span><span class="brand-subtitle">Verified aviation intelligence</span></div>
+      </div>
+      <div class="scope-switch" aria-label="News scope">
+        <button type="button" data-scope="air-india" aria-pressed="false">Air India</button>
+        <button type="button" data-scope="india" aria-pressed="false">India</button>
+        <button type="button" data-scope="world" aria-pressed="true" aria-description="World includes India">World</button>
+      </div>
+    </header>
+
+    <main class="content">
+      <nav class="tabs" aria-label="Aviation Pulse sections">
+        <button type="button" data-tab="current" aria-selected="true"><span class="live-dot"></span>Current</button>
+        <button type="button" data-tab="history" aria-selected="false">Past 4 years</button>
+      </nav>
+
+      <section class="panel" data-panel="current">
+        <div class="section-head">
+          <div><div class="eyebrow">Live · cached</div><h1>What’s moving aviation now</h1></div>
+          <div class="refresh-cluster">
+            <div class="timestamp">Last refreshed<strong id="last-refreshed">Loading cache…</strong></div>
+            <button class="refresh-button" id="refresh-button" type="button">
+              <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.34 5.66M20 5v6h-6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <span>Refresh</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="notice" id="current-notice" role="status"></div>
+        <div class="feed-summary"><span class="active-scope" id="current-scope-label">World</span><span><strong id="update-count">—</strong> recent updates from <strong id="publisher-count">—</strong> verified sources</span></div>
+        <div class="feed" id="current-feed" aria-live="polite"></div>
+      </section>
+
+      <section class="panel" data-panel="history" hidden>
+        <div class="section-head">
+          <div><div class="eyebrow">Curated · source-checked</div><h1>Four years in perspective</h1></div>
+        </div>
+        <div class="history-map" aria-label="History spans 2023 through 2026">
+          <div class="history-map-line" aria-hidden="true"></div>
+          <div class="history-years"><div class="history-year"><strong>2023</strong><i></i><span>Recovery</span></div><div class="history-year"><strong>2024</strong><i></i><span>Reshaping</span></div><div class="history-year"><strong>2025</strong><i></i><span>Pressure</span></div><div class="history-year"><strong>2026</strong><i></i><span>Now</span></div></div>
+        </div>
+        <div class="notice" id="history-notice" role="status"></div>
+        <div class="timeline" id="history-timeline"></div>
+      </section>
+
+      <footer><span>Headlines and dates link to their original publishers. Breaking information may change.</span><span>World includes India · Methodology in the repository README</span></footer>
+    </main>
+  </div>
+
+  <script>
+    const CONFIG = {
+      apiBase: "",
+      currentUrl: "./data/current-news.json",
+      historyUrl: "./data/historical-events.json",
+      maxCurrentItems: 18
+    };
+
+    const VERIFIED_STARTER_EDITION = [
+      {id:"air-india-ceo-2026",headline:"Air India appoints Tewolde Gebremariam as CEO and Managing Director",summary:"Air India’s board appointed former Ethiopian Airlines Group chief Tewolde Gebremariam to succeed Campbell Wilson. The airline said the exact onboarding and transition schedule will be announced separately.",date:"2026-08-05T00:00:00Z",source:"Air India",sourceUrl:"https://www.airindia.com/in/en/newsroom/press-release/air-india-appoints-tewolde-gebremariam-as-chief-executive-officer-and-managing-director.html",scopes:["world","india","air-india"],topics:["business","leadership"]},
+      {id:"air-india-canada-2026",headline:"Air India adds Mumbai–Toronto service and deploys a new 787-9 to Toronto",summary:"Air India announced a seasonal three-times-weekly Mumbai–Toronto route for winter 2026–27 and began using its new Boeing 787-9 on Delhi–Toronto flights. It expects India–Canada capacity to increase by 4,400 seats per month.",date:"2026-08-01T00:00:00Z",source:"Air India",sourceUrl:"https://www.airindia.com/in/en/newsroom/press-release/Air-India-expands-service-to-Canada-for-winter-season-with-new-Mumbai-Toronto-flights-begins-operating-brand-new-B787-9-on-Delhi-Toronto-flights.html",scopes:["world","india","air-india"],topics:["routes","fleet"]},
+      {id:"air-india-medical-logistics-2026",headline:"Air India, SkyDrive and Suzuki study eVTOL medical logistics in India",summary:"The three companies signed an MoU to assess using electric vertical take-off and landing aircraft for medical air logistics in India.",date:"2026-07-31T00:00:00Z",source:"Air India",sourceUrl:"https://www.airindia.com/in/en/newsroom/press-release/Air-India-SkyDrive-and-Suzuki-Sign-MoU-for-Feasibility-Study-of-Medical-Air-Logistics-in-India.html",scopes:["world","india","air-india"],topics:["technology","cargo"]},
+      {id:"moca-amritsar-hub-2026",headline:"India launches international hub-and-spoke operations from Amritsar",summary:"The Ministry of Civil Aviation inaugurated international hub-and-spoke operations from Amritsar, allowing through check-in and baggage connections via Delhi to more international destinations.",date:"2026-07-28T05:30:00Z",source:"PIB / Ministry of Civil Aviation",sourceUrl:"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290234&lang=1&reg=48",scopes:["world","india"],topics:["airports","operations"]},
+      {id:"indigo-cfm-engines-2026",headline:"IndiGo and CFM sign MoU covering more than 1,000 LEAP-1A engines",summary:"IndiGo signed an MoU with CFM International for engines to power 510 Airbus A320neo-family aircraft. The agreement also covers support for IndiGo’s planned engine maintenance facility.",date:"2026-07-20T00:00:00Z",source:"IndiGo",sourceUrl:"https://www.goindigo.in/press-releases/indigo-cfm-sign-mou-for-1000-leap-1a-engines.html",scopes:["world","india"],topics:["fleet","business"]},
+      {id:"alliance-air-daman-2026",headline:"Alliance Air begins the first direct scheduled air link between Daman and Delhi",summary:"Alliance Air launched the Daman–Delhi service from the newly operational NAMO Airport. The government said the terminal can currently handle 14 ATR flights per day.",date:"2026-07-17T05:39:00Z",source:"PIB / Ministry of Civil Aviation",sourceUrl:"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285630&lang=1&reg=22",scopes:["world","india"],topics:["routes","airports"]},
+      {id:"akasa-growth-2026",headline:"Akasa Air maintains a 30% capacity-growth target for FY27",summary:"Akasa Air said it was retaining its growth plan despite geopolitical and fuel-cost pressure. The airline reported a fleet of 39 Boeing 737 MAX aircraft, with about a quarter of capacity deployed internationally.",date:"2026-06-23T08:17:00Z",source:"Business Standard",sourceUrl:"https://www.business-standard.com/industry/aviation/akasa-air-eyes-30-capacity-growth-in-fy27-despite-geopolitical-risks-126062300501_1.html",scopes:["world","india"],topics:["business","fleet"]},
+      {id:"easa-gnss-2026",headline:"EASA updates Safety Information Bulletin on GNSS interference",summary:"EASA updated its safety guidance concerning interference with global navigation satellite systems.",date:"2026-07-02T00:00:00Z",source:"EASA",sourceUrl:"https://www.easa.europa.eu/en/newsroom-and-events/news",scopes:["world"],topics:["safety","operations"]},
+      {id:"easa-article89-2026",headline:"EASA assesses socio-economic factors affecting aviation safety",summary:"EASA published its second Article 89 report examining the relationship between safety and socio-economic factors affecting safety-critical personnel.",date:"2026-06-08T00:00:00Z",source:"EASA",sourceUrl:"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-publishes-article-89-report-aviation-safety-and-socio",scopes:["world"],topics:["safety","regulation"]},
+      {id:"ntsb-dashboard-2026",headline:"NTSB expands its civil aviation accident dashboard with findings data",summary:"The NTSB enhanced its public civil aviation accident dashboard to include findings data.",date:"2026-05-04T00:00:00Z",source:"NTSB",sourceUrl:"https://www.ntsb.gov/news/press-releases/Pages/default.aspx",scopes:["world"],topics:["safety","data"]},
+      {id:"air-india-787-procedures",headline:"Air India told to ensure pilots follow correct procedures after 787 fuel-switch snag",summary:"India’s regulator advised Air India to circulate Boeing’s recommended procedures after crew concerns on a Heathrow–Bengaluru 787 service.",date:"2026-02-03T15:01:00Z",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/air-india/19354.subject",scopes:["world","india","air-india"],topics:["safety","operations"]},
+      {id:"air-india-max-xlr-order",headline:"Air India orders more Max jets and converts 15 A321neos to XLRs",summary:"Air India added to its 737 Max order and converted part of its A321neo order to the longer-range A321XLR.",date:"2026-01-29T16:15:00Z",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/air-india/19354.subject",scopes:["world","india","air-india"],topics:["fleet","business"]},
+      {id:"air-india-first-787-9",headline:"Air India receives its first factory-fresh Boeing 787-9",summary:"Air India took delivery of its first factory-fresh Boeing 787-9 as its widebody renewal continued.",date:"2026-01-13T08:06:00Z",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/fleets/316.more?page=1",scopes:["world","india","air-india"],topics:["fleet","business"]}
+    ];
+
+    const HISTORICAL_FALLBACK = [
+      {id:"2023-faa-notam-outage",date:"2023-01-11",headline:"FAA NOTAM outage triggers a nationwide US ground stop",significance:"A critical information-system failure temporarily halted domestic departures across the United States.",summary:"The FAA paused domestic departures while it restored the Notice to Air Missions system.",source:"FAA",sourceUrl:"https://www.faa.gov/newsroom/faa-notam-statement",scopes:["world"],topics:["operations","safety"]},
+      {id:"2023-air-india-boeing-order",date:"2023-02-14",headline:"Air India agrees to order 220 Boeing aircraft",significance:"The commitment became a central part of Air India’s fleet renewal under Tata Group ownership.",summary:"Air India agreed to firm orders for 190 Boeing 737 Max aircraft, 20 787s and 10 777Xs.",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/airframers/air-india-to-order-220-narrowbody-and-widebody-jets-from-boeing/152045.article",scopes:["world","india","air-india"],topics:["fleet","business"]},
+      {id:"2023-easa-safety-review",date:"2023-08-16",headline:"EASA publishes its 2023 Annual Safety Review",significance:"The review fed observed risks into Europe’s continuing aviation-safety planning process.",summary:"The review assessed European aviation safety performance during 2022 as traffic recovered from the pandemic.",source:"EASA",sourceUrl:"https://www.easa.europa.eu/en/newsroom-and-events/news/easa-annual-safety-review-2023-published",scopes:["world"],topics:["safety","regulation"]},
+      {id:"2024-max9-grounding",date:"2024-01-06",headline:"FAA grounds certain Boeing 737-9 Max aircraft",significance:"The order affected about 171 aircraft worldwide following the Alaska Airlines door-plug event.",summary:"The FAA required immediate inspections of affected aircraft before further flight.",source:"FAA",sourceUrl:"https://www.faa.gov/newsroom/updates-boeing-737-9-max-aircraft",scopes:["world"],topics:["safety","fleet","regulation"]},
+      {id:"2024-iata-outlook",date:"2024-06-03",headline:"IATA raises its 2024 airline profitability outlook",significance:"The forecast pointed to record traveller numbers and revenues despite thin margins.",summary:"IATA forecast a $30.5 billion aggregate airline net profit for 2024 and nearly five billion travellers.",source:"IATA",sourceUrl:"https://www.iata.org/en/pressroom/2024-releases/2024-06-03-01/",scopes:["world"],topics:["business"]},
+      {id:"2024-vistara-merger",date:"2024-11-11",headline:"Vistara begins operating as part of Air India",significance:"The merger consolidated Tata Group’s full-service airline operations under the Air India brand.",summary:"Vistara’s operations moved into Air India following the long-planned merger.",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/airlines/vistara-to-operate-under-air-india-from-november/159786.article",scopes:["world","india","air-india"],topics:["business","operations","fleet"]},
+      {id:"2025-dca-collision",date:"2025-01-29",headline:"Passenger jet and US Army helicopter collide near Washington National",significance:"The fatal accident prompted urgent scrutiny of airspace design and helicopter operations near DCA.",summary:"The NTSB opened a major investigation and later issued urgent safety recommendations.",source:"NTSB",sourceUrl:"https://www.ntsb.gov/investigations/Pages/DCA25MA108.aspx",scopes:["world"],topics:["safety","operations"]},
+      {id:"2025-dgca-icao-recognition",date:"2025-09-23",headline:"ICAO recognises India’s progress in aviation safety oversight",significance:"The recognition highlighted improvements in India’s implementation of international safety standards.",summary:"DGCA received an ICAO Council President Certificate during the 42nd ICAO Assembly.",source:"DGCA India",sourceUrl:"https://www.dgca.gov.in/",scopes:["world","india"],topics:["safety","regulation"]},
+      {id:"2025-navi-mumbai-licence",date:"2025-09-30",headline:"DGCA grants an aerodrome licence to Navi Mumbai International Airport",significance:"The licence marked a key milestone for additional airport capacity in the Mumbai region.",summary:"DGCA granted the airport a code 4F aerodrome licence.",source:"DGCA India",sourceUrl:"https://www.dgca.gov.in/",scopes:["world","india"],topics:["airports","regulation"]},
+      {id:"2026-traffic-demand",date:"2026-01-29",headline:"IATA reports record passenger demand and load factors for 2025",significance:"Strong demand persisted while airlines faced aircraft, engine and maintenance constraints.",summary:"IATA reported 2025 passenger demand rose 5.3%; domestic India recorded the highest full-year load factor among covered domestic markets.",source:"IATA",sourceUrl:"https://www.iata.org/en/pressroom/2026-releases/2026-01-29-02/",scopes:["world","india"],topics:["business","operations"]},
+      {id:"2026-indigo-cfm",date:"2026-07-20",headline:"IndiGo and CFM outline a record engine agreement",significance:"The proposed 1,000-plus engine agreement supports one of the world’s largest narrowbody growth programmes.",summary:"The MoU covers LEAP-1A engines for 510 Airbus A320neo-family aircraft and maintenance support in India.",source:"IndiGo",sourceUrl:"https://www.goindigo.in/press-releases/indigo-cfm-sign-mou-for-1000-leap-1a-engines.html",scopes:["world","india"],topics:["fleet","business"]},
+      {id:"2026-air-india-ceo",date:"2026-08-05",headline:"Air India appoints Tewolde Gebremariam as CEO and Managing Director",significance:"The appointment places an experienced airline turnaround leader in charge of Air India’s next expansion phase.",summary:"Air India appointed the former Ethiopian Airlines Group chief to succeed Campbell Wilson.",source:"Air India",sourceUrl:"https://www.airindia.com/in/en/newsroom/press-release/air-india-appoints-tewolde-gebremariam-as-chief-executive-officer-and-managing-director.html",scopes:["world","india","air-india"],topics:["business","leadership"]}
+    ];
+
+    const AIR_INDIA_HISTORY_FALLBACK = `
+2023-02-07|Air India Group begins a new phase of domestic network optimisation|The changes started aligning routes between Air India and AirAsia India.|Selected stations and frequencies were reassigned between the full-service and low-cost businesses.|https://www.airindia.com/in/en/newsroom/press-release/enlarged-air-india-group-continues-progressive-network-optimisat.html|operations,business
+2023-04-26|Air India expands Dubai services from Delhi and Mumbai|The schedule alignment strengthened a major international market.|Air India increased services and coordinated timings with Air India Express.|https://www.airindia.com/in/en/newsroom/press-release/air-india-adds-more-flights-to-dubai-from-delhi-and-mumbai.html|routes,operations
+2023-08-10|Air India unveils a new global brand and aircraft livery|The Vista identity became the public face of the post-privatisation transformation.|The airline introduced a new logo, colour system and livery under Vihaan.AI.|https://www.airindia.com/content/air-india/in/en/newsroom/press-release/a-new-air-india-is-unveiled--representing-bold-new-india-on-the-.html|business,passenger-experience
+2023-09-29|Air India completes acquisition of its first A350-900 through GIFT IFSC|The transaction advanced fleet renewal and India’s aircraft-leasing ecosystem.|The aircraft was the first of six A350-900s due to join Air India.|https://www.airindia.com/in/en/newsroom/press-release/a350-acquisition-gift-ifsc.html|fleet,business
+2023-11-03|Air India plans more than 400 additional weekly flights|The expansion converted incoming aircraft into a larger network.|The plan covered more than 200 domestic and 200 international weekly flights.|https://www.airindia.com/in/en/newsroom/press-release/air-india-to-add-400--weekly-flights-to-route-network-over-next-.html|routes,fleet,operations
+2023-12-19|Air India starts rolling out its new identity across customer touchpoints|The new brand moved into operational deployment.|Digital channels, airport touchpoints and incoming aircraft began adopting the identity.|https://www.airindia.com/in/en/newsroom/press-release/air-india-starts-rollout-of-new-global-brand-identity.html|business,passenger-experience
+2024-01-18|Air India launches a 600,000-square-foot aviation training academy|The facility created capacity for rapid fleet and workforce growth.|The Gurugram academy was planned with more than 20 full-flight simulator bays.|https://www.airindia.com/in/en/newsroom/press-release/south-asia-largest-training-academy.html|operations,business
+2024-01-22|Air India’s first Airbus A350 enters passenger service|The flight marked the commercial debut of the A350 in India.|The first passenger service operated from Bengaluru to Mumbai.|https://www.airindia.com/in/en/newsroom/press-release/indias-first-airbus-a350-takes-wings-with-passengers-from-bengaluru.html|fleet,operations
+2024-10-18|Air India details the Vistara customer transition and AI2 flight codes|The announcement explained the post-merger product and loyalty transition.|Former Vistara aircraft retained their service proposition under AI2 flight numbers.|https://www.airindia.com/in/en/newsroom/press-release/vistara-experience-post-merger.html|business,passenger-experience
+2024-11-27|Air India concentrates upgraded narrowbody cabins on major metro routes|The plan standardised a three-class product on high-frequency routes.|Former Vistara aircraft were prioritised on five metro-to-metro markets.|https://www.airindia.com/in/en/newsroom/press-release/narrowbody-cabin-enhancement.html|fleet,operations
+2024-12-09|Air India adds 100 Airbus aircraft to its firm orders|The follow-on order deepened the group’s long-term fleet commitment.|The order comprised 10 A350s and 90 A320-family aircraft.|https://www.airindia.com/content/dam/air-india/newsroom/press-releases/pdf/PressRelease_AirIndiaAdds100AirbusAircrafttoFirmOrders_09Dec2024.pdf|fleet,business
+2025-01-01|Air India becomes the first Indian airline to offer Wi-Fi on domestic flights|The rollout introduced onboard connectivity to selected domestic aircraft.|Wi-Fi launched on A350s, 787-9s and selected A321neos.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-becomes-the-first-Indian-airline-to-offer-wi-fi-on-domestic-flights.html|technology,passenger-experience
+2025-03-03|Air India shifts Delhi–Tokyo flights to Haneda and expands its ANA codeshare|The move improved central Tokyo access and onward connectivity.|The expanded codeshare added connections to six Japanese cities.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-shifts-operations-to-Haneda-expands-codeshare-with-ANA.html|routes,partnerships
+2025-06-12|Air India Flight AI171 crashes shortly after take-off from Ahmedabad|The fatal accident became Air India’s most consequential recent safety event.|The airline confirmed the accident, supported affected families and cooperated with investigators.|https://www.airindia.com/in/en/newsroom/press-release/AI171.html|safety,operations
+2025-07-15|Air India begins restoring international schedules after its safety pause|The restoration followed additional 787 checks and network reductions.|Selected frequencies returned from August with full restoration planned for October.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-International-Operations-Update.html|safety,operations,routes
+2025-12-11|Air India adds a Scoot interline partnership across Asia and Australasia|The agreement extended connectivity through Singapore.|Single-ticket connections opened access to much of Scoot’s network.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-enters-new-interline-partnership-with-Scoot-to-boost-connectivity-across-Asia-and-Australasia.html|partnerships,routes
+2025-12-24|Air India announces its return to Rome after nearly six years|The service restored another major European destination.|Four weekly Delhi–Rome flights were scheduled from March 2026.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-to-resume-non-stop-flights-to-Rome-from-March-2026.html|routes,operations
+2026-01-29|Air India converts 15 A321neo orders to the A321XLR|The longer-range type creates scope for new medium-haul routes.|Deliveries of the converted orders are expected in 2029 and 2030.|https://www.airindia.com/in/en/newsroom/press-release/air-india-converts-15-airbus-a321neo-orders-to-latest-generation.html|fleet,business
+2026-02-17|Air India and Lufthansa Group establish a joint-business framework|The MoU opened a path to deeper India–Europe coordination.|The carriers will explore scheduling, sales and customer-experience cooperation subject to approvals.|https://www.airindia.com/content/air-india/in/en/newsroom/press-release/Air-India-and-Lufthansa-Group-sign-landmark-MoU-to-advance-joint-business-partnership.html|partnerships,business
+2026-04-07|Air India announces Campbell Wilson’s resignation|The announcement initiated a leadership transition.|Wilson was to remain until a successor was announced and in place.|https://www.airindia.com/content/air-india/in/en/newsroom/press-release/Announcement.html|business,leadership
+2026-07-03|Air India and SIA Engineering explore an Indian MRO partnership|The agreement supports local maintenance capability.|The potential collaboration could include an MRO joint venture in India.|https://www.airindia.com/in/en/newsroom/press-release/air-india-inks-agreement-with-sia-engineering-company-for-collaboration-on-mro.html|maintenance,partnerships
+2026-07-23|Air India and Saudia agree to expand strategic cooperation|The MoU broadened cooperation in a fast-growing market.|The airlines will explore codesharing, connections, terminals and loyalty cooperation.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-and-Saudia-sign-Memorandum-of-Understanding-to-expand-strategic-cooperation.html|partnerships,routes
+2026-08-01|Air India expands Canada service and deploys its new 787-9 to Toronto|The changes increased capacity and introduced a new cabin product.|A seasonal Mumbai–Toronto route joined the upgraded Delhi–Toronto operation.|https://www.airindia.com/in/en/newsroom/press-release/Air-India-expands-service-to-Canada-for-winter-season-with-new-Mumbai-Toronto-flights-begins-operating-brand-new-B787-9-on-Delhi-Toronto-flights.html|routes,fleet`
+      .trim().split("\n").map((row,index) => {
+        const [date,headline,significance,summary,sourceUrl,topicList] = row.split("|");
+        return {id:`fallback-air-india-${date}-${index}`,date,headline,significance,summary,source:"Air India",sourceUrl,scopes:["world","india","air-india"],topics:topicList.split(",")};
+      });
+
+    const COMPLETE_HISTORICAL_FALLBACK = [...HISTORICAL_FALLBACK, ...AIR_INDIA_HISTORY_FALLBACK];
+
+    const state = {
+      scope: sessionStorage.getItem("aviation-pulse-scope") || "world",
+      currentItems: VERIFIED_STARTER_EDITION,
+      historyItems: []
+    };
+
+    const elements = {
+      currentFeed: document.getElementById("current-feed"),
+      historyTimeline: document.getElementById("history-timeline"),
+      currentNotice: document.getElementById("current-notice"),
+      historyNotice: document.getElementById("history-notice"),
+      refreshButton: document.getElementById("refresh-button"),
+      lastRefreshed: document.getElementById("last-refreshed"),
+      currentScopeLabel: document.getElementById("current-scope-label"),
+      updateCount: document.getElementById("update-count"),
+      publisherCount: document.getElementById("publisher-count")
+    };
+
+    const scopeCopy = {
+      "air-india": ["Air India watch","Focused signals on Air India fleet, safety and transformation."],
+      india: ["India aviation","India-focused signals across airlines, airports and regulation."],
+      world: ["Global aviation","Verified signals across safety, regulation and airline operations."]
+    };
+
+    function inScope(item) {
+      return state.scope === "world" || Array.isArray(item.scopes) && item.scopes.includes(state.scope);
+    }
+
+    function filteredCurrent() {
+      return state.currentItems.filter(inScope).sort((a,b) => new Date(b.date) - new Date(a.date)).slice(0, CONFIG.maxCurrentItems);
+    }
+
+    function filteredHistory() {
+      return state.historyItems.filter(inScope).sort((a,b) => b.date.localeCompare(a.date));
+    }
+
+    function renderCurrent() {
+      const items = filteredCurrent();
+      const [title] = scopeCopy[state.scope];
+      elements.currentScopeLabel.textContent = title;
+      elements.updateCount.textContent = items.length;
+      elements.publisherCount.textContent = new Set(items.map(item => item.source)).size;
+
+      if (!items.length) {
+        elements.currentFeed.innerHTML = '<div class="empty"><strong>No verified updates found</strong><span>Try another scope or refresh the cached edition.</span></div>';
+        return;
+      }
+
+      elements.currentFeed.innerHTML = items.map(item => `
+        <article class="news-card">
+          <button class="news-trigger" type="button" aria-expanded="false">
+            <span class="source-pill">${escapeHtml(item.source)}</span>
+            <span class="headline">${escapeHtml(item.headline)}</span>
+            ${chevron()}
+          </button>
+          <div class="details">
+            <p>${escapeHtml(item.summary)}</p>
+            <div class="meta"><time datetime="${escapeHtml(item.date)}">${longDate(item.date)}</time><span>${escapeHtml((item.topics || []).join(" · "))}</span><a href="${safeUrl(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></div>
+          </div>
+        </article>`).join("");
+    }
+
+    function renderHistory() {
+      const items = filteredHistory();
+      if (!items.length) {
+        elements.historyTimeline.innerHTML = '<div class="empty"><strong>No curated events found</strong><span>Try another scope.</span></div>';
+        elements.historyGrid.innerHTML = "";
+        return;
+      }
+      const groups = items.reduce((result,item) => {
+        const year = item.date.slice(0,4);
+        (result[year] ||= []).push(item);
+        return result;
+      },{});
+      elements.historyTimeline.innerHTML = Object.keys(groups).sort((a,b) => b-a).map(year => `
+        <section class="year-group" aria-labelledby="year-${year}">
+          <div class="year-label" id="year-${year}">${year}</div>
+          <div class="year-events">${groups[year].map(historyRow).join("")}</div>
+        </section>`).join("");
+    }
+
+    function historyRow(item) {
+      return `<article class="history-event"><button class="history-trigger" type="button" aria-expanded="false"><time datetime="${escapeHtml(item.date)}">${shortDate(item.date)}</time><span class="history-main"><strong>${escapeHtml(item.headline)}</strong><span>${escapeHtml(item.significance)}</span></span>${chevron()}</button><div class="history-detail"><p>${escapeHtml(item.summary)}</p><div class="meta"><span>${escapeHtml(item.source)}</span><span>${escapeHtml((item.topics || []).join(" · "))}</span><a href="${safeUrl(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></div></div></article>`;
+    }
+
+    async function loadCurrent() {
+      if (!hasWorker()) return loadPublishedEdition(false);
+      try {
+        const response = await fetch(`${CONFIG.apiBase}/api/news`,{headers:{Accept:"application/json"}});
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        if (Array.isArray(payload.items) && payload.items.length) state.currentItems = mergeCurrentEditions(payload.items);
+        elements.lastRefreshed.textContent = payload.refreshedAt ? relativeTime(payload.refreshedAt) : "No cached refresh yet";
+        if (!payload.items?.length) showNotice(elements.currentNotice,"No cached Worker edition exists yet. Use Refresh to create one.");
+      } catch {
+        elements.lastRefreshed.textContent = "Starter edition";
+        showNotice(elements.currentNotice,"The live cache is unavailable. Showing the verified starter edition.",true);
+      }
+      renderCurrent();
+    }
+
+    async function refreshCurrent() {
+      if (!hasWorker()) return loadPublishedEdition(true);
+      setRefreshLoading(true);
+      hideNotice(elements.currentNotice);
+      try {
+        const response = await fetch(`${CONFIG.apiBase}/api/refresh`,{method:"POST",headers:{Accept:"application/json"}});
+        const payload = await response.json();
+        if (!response.ok) {
+          if (payload.cached?.items?.length) state.currentItems = mergeCurrentEditions(payload.cached.items);
+          throw new Error(payload.message || "Refresh failed");
+        }
+        state.currentItems = Array.isArray(payload.items) && payload.items.length ? mergeCurrentEditions(payload.items) : state.currentItems;
+        elements.lastRefreshed.textContent = "Just now";
+        showNotice(elements.currentNotice,`Refresh complete · ${payload.remaining} manual refresh${payload.remaining === 1 ? "" : "es"} remaining today.`);
+        renderCurrent();
+      } catch (error) {
+        showNotice(elements.currentNotice,error.message || "Refresh failed. The cached edition remains visible.",true);
+        renderCurrent();
+      } finally {
+        setRefreshLoading(false);
+      }
+    }
+
+    async function loadHistory() {
+      if (location.protocol === "file:") {
+        state.historyItems = COMPLETE_HISTORICAL_FALLBACK;
+        showNotice(elements.historyNotice,"Showing the built-in, source-checked four-year timeline.");
+        renderHistory();
+        return;
+      }
+      try {
+        const response = await fetch(CONFIG.historyUrl,{headers:{Accept:"application/json"}});
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        if (!Array.isArray(payload)) throw new Error("Invalid historical dataset");
+        state.historyItems = payload;
+        hideNotice(elements.historyNotice);
+      } catch {
+        state.historyItems = COMPLETE_HISTORICAL_FALLBACK;
+        showNotice(elements.historyNotice,"The separate timeline file was unavailable, so the built-in verified timeline is shown.");
+      }
+      renderHistory();
+    }
+
+    function hasWorker() {
+      return /^https:\/\//.test(CONFIG.apiBase) && !CONFIG.apiBase.includes("YOUR-WORKER");
+    }
+
+    async function loadPublishedEdition(manual) {
+      if (manual) setRefreshLoading(true);
+      try {
+        if (location.protocol === "file:") throw new Error("local-file");
+        const separator = CONFIG.currentUrl.includes("?") ? "&" : "?";
+        const response = await fetch(`${CONFIG.currentUrl}${separator}v=${Date.now()}`,{headers:{Accept:"application/json"},cache:"no-store"});
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        if (!Array.isArray(payload.items) || !payload.items.length) throw new Error("No published items");
+        state.currentItems = mergeCurrentEditions(payload.items);
+        elements.lastRefreshed.textContent = payload.refreshedAt ? relativeTime(payload.refreshedAt) : "Latest published edition";
+        showNotice(elements.currentNotice,manual ? "Latest source-checked repository edition loaded." : "Source-checked repository edition loaded. Connect the optional Worker for server-fetched live updates.");
+      } catch {
+        state.currentItems = VERIFIED_STARTER_EDITION;
+        elements.lastRefreshed.textContent = "Built-in verified edition";
+        showNotice(elements.currentNotice,manual ? "The built-in source-checked edition is already up to date." : "Showing the built-in source-checked edition.");
+      } finally {
+        renderCurrent();
+        if (manual) setRefreshLoading(false);
+      }
+    }
+
+    function setRefreshLoading(loading) {
+      elements.refreshButton.disabled = loading;
+      elements.refreshButton.classList.toggle("loading",loading);
+      elements.refreshButton.querySelector("span").textContent = loading ? "Refreshing" : "Refresh";
+    }
+
+    function mergeCurrentEditions(liveItems) {
+      const starterCutoff = Date.now() - 120 * 86400000;
+      const recentStarter = VERIFIED_STARTER_EDITION.filter(item => new Date(item.date).getTime() >= starterCutoff);
+      const seen = new Set();
+      return [...liveItems, ...recentStarter]
+        .filter(item => {
+          const key = `${String(item.sourceUrl || "").toLowerCase()}|${String(item.headline || "").toLowerCase().replace(/[^a-z0-9]+/g," ").trim()}`;
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        })
+        .sort((a,b) => new Date(b.date) - new Date(a.date));
+    }
+
+    function showNotice(element,message,isError=false) { element.textContent=message;element.classList.add("visible");element.classList.toggle("error",isError); }
+    function hideNotice(element) { element.classList.remove("visible","error");element.textContent=""; }
+    function chevron(){return '<svg class="chevron" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m7 9 5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>'}
+    function escapeHtml(value){return String(value ?? "").replace(/[&<>'"]/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[char]))}
+    function safeUrl(value){try{const url=new URL(value);return ["http:","https:"].includes(url.protocol)?escapeHtml(url.href):"#"}catch{return "#"}}
+    function longDate(value){return new Intl.DateTimeFormat("en-IN",{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"}).format(new Date(value))}
+    function shortDate(value){return new Intl.DateTimeFormat("en-IN",{day:"numeric",month:"short",timeZone:"UTC"}).format(new Date(value))}
+    function compactDate(value){return new Intl.DateTimeFormat("en-IN",{day:"numeric",month:"short",timeZone:"UTC"}).format(new Date(value))}
+    function relativeTime(value){const delta=Date.now()-new Date(value).getTime();if(delta<60000)return "Just now";if(delta<3600000)return `${Math.floor(delta/60000)}m ago`;if(delta<86400000)return `${Math.floor(delta/3600000)}h ago`;return longDate(value)}
+
+    document.querySelectorAll("[data-scope]").forEach(button => {
+      button.setAttribute("aria-pressed",String(button.dataset.scope===state.scope));
+      button.addEventListener("click",()=>{state.scope=button.dataset.scope;sessionStorage.setItem("aviation-pulse-scope",state.scope);document.querySelectorAll("[data-scope]").forEach(peer=>peer.setAttribute("aria-pressed",String(peer===button)));renderCurrent();renderHistory()});
+    });
+    document.querySelectorAll("[data-tab]").forEach(button => button.addEventListener("click",()=>{document.querySelectorAll("[data-tab]").forEach(peer=>peer.setAttribute("aria-selected",String(peer===button)));document.querySelectorAll("[data-panel]").forEach(panel=>panel.hidden=panel.dataset.panel!==button.dataset.tab)}));
+    document.addEventListener("click",event=>{const trigger=event.target.closest(".news-trigger,.history-trigger");if(!trigger)return;const expanded=trigger.getAttribute("aria-expanded")==="true";trigger.setAttribute("aria-expanded",String(!expanded));const detail=trigger.nextElementSibling;if(detail)detail.classList.toggle("open",!expanded)});
+    elements.refreshButton.addEventListener("click",refreshCurrent);
+
+    renderCurrent();
+    loadCurrent();
+    loadHistory();
+  </script>
+</body>
+</html>
