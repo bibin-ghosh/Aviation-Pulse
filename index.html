@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A fast, source-linked view of current and historical aviation industry developments.">
   <meta name="theme-color" content="#071724">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <title>Aviation Pulse</title>
   <style>
     :root {
@@ -46,13 +47,15 @@
     .scope-switch button:hover{color:var(--text)}
     .scope-switch button[aria-pressed="true"]{background:var(--teal);color:#05222b;font-weight:650;box-shadow:0 3px 12px rgba(53,199,189,.18)}
     .scope-switch button:active{transform:translateY(1px)}
-    .content{padding:0 24px 30px}
-    .tabs{display:flex;gap:26px;border-bottom:1px solid var(--line);margin-bottom:24px}
+    .content{padding:22px 24px 30px}
+    .briefing-box{border:1px solid var(--line);border-radius:17px;background:var(--navy-850);overflow:hidden}
+    .tabs{display:flex;gap:26px;padding:0 20px;border-bottom:1px solid var(--line);margin:0}
     .tabs button{position:relative;padding:17px 1px 14px;border:0;background:transparent;color:var(--muted);cursor:pointer}
     .tabs button[aria-selected="true"]{color:var(--text)}
     .tabs button[aria-selected="true"]::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--amber)}
     .live-dot{display:inline-block;width:7px;height:7px;margin-right:8px;border-radius:50%;background:var(--teal);box-shadow:0 0 0 4px rgba(53,199,189,.12)}
     .panel[hidden]{display:none}
+    .briefing-box>.panel{padding:20px}
     .section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:15px}
     .eyebrow{color:var(--amber);font-size:.7rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase}
     h1{margin:5px 0 0;font-size:clamp(1.4rem,3vw,2rem);line-height:1.18;letter-spacing:-.025em}
@@ -70,6 +73,27 @@
     .notice{display:none;margin:0 0 11px;padding:10px 12px;border-left:3px solid var(--amber);background:var(--amber-soft);color:#efd8aa;font-size:.75rem}
     .notice.visible{display:block}.notice.error{border-color:var(--red);color:#ffd0d0;background:#2b191d}
     .feed{display:grid;gap:9px}
+    .hot-news-box{margin-bottom:20px;border:1px solid rgba(239,173,67,.4);border-radius:17px;background:linear-gradient(120deg,#211e18 0%,var(--navy-850) 62%);overflow:hidden}
+    .hot-news-head{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;padding:17px 19px;border-bottom:1px solid rgba(239,173,67,.18)}
+    .hot-news-title{display:flex;align-items:center;gap:9px;color:var(--amber);font-size:.7rem;font-weight:750;letter-spacing:.13em;text-transform:uppercase}
+    .hot-pulse{width:8px;height:8px;border-radius:50%;background:var(--amber);box-shadow:0 0 0 5px rgba(239,173,67,.11)}
+    .hot-news-head h1{font-size:1.35rem}.hot-news-head p{margin:4px 0 0;color:var(--muted);font-size:.75rem}
+    .hot-summary{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:999px;background:rgba(239,173,67,.09);color:var(--muted);font-size:.7rem;white-space:nowrap}
+    .hot-summary .active-scope,.hot-summary strong{color:var(--amber)}
+    .weekly-intro{padding:11px 19px 0;color:var(--muted);font-size:.72rem}
+    .hot-news-box .notice{margin:11px 19px 0}
+    .weekly-feed{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;max-height:520px;overflow-y:auto;scrollbar-color:var(--line-strong) transparent}
+    .weekly-feed>.empty{grid-column:1/-1;margin:16px}
+    .hot-news-item{border-right:1px solid rgba(239,173,67,.15);border-bottom:1px solid rgba(239,173,67,.15);background:transparent;min-width:0}
+    .hot-news-item:nth-child(3n){border-right:0}
+    .hot-news-item:hover{background:rgba(239,173,67,.045)}
+    .hot-news-trigger{grid-template-columns:minmax(0,1fr) auto;align-items:start;padding:15px 18px}
+    .hot-news-trigger .source-line{display:flex;align-items:center;justify-content:space-between;gap:10px;grid-column:1/-1;color:var(--amber);font-size:.66rem}
+    .hot-news-trigger .source-pill{padding:0;border:0;background:transparent;color:var(--amber)}
+    .hot-news-trigger .headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;font-size:.82rem;line-height:1.42}
+    .hot-news-trigger .chevron{grid-column:2;grid-row:2}
+    .hot-news-item .details{padding:0 38px 15px 18px}
+    .week-date{color:var(--muted);font-size:.66rem;white-space:nowrap}
     .news-card{border:1px solid var(--line);border-radius:13px;background:var(--navy-800);overflow:hidden;transition:border-color .15s,transform .15s}
     .news-card:hover{border-color:#28586a;transform:translateY(-1px)}
     .news-trigger{width:100%;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:11px;padding:13px 14px;border:0;background:transparent;color:var(--text);text-align:left;cursor:pointer}
@@ -97,8 +121,9 @@
     .history-trigger time{color:var(--muted);font-size:.7rem}.history-main strong{display:block;font-size:.82rem}.history-main span{display:block;margin-top:3px;color:var(--muted);font-size:.7rem}
     .history-detail{display:none;margin:0 35px 8px 104px;color:var(--soft);font-size:.77rem}.history-detail.open{display:block}.history-detail p{margin:0 0 7px}
     footer{display:flex;justify-content:space-between;gap:16px;margin-top:28px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.68rem}footer a{color:var(--soft)}
-    @media(max-width:760px){.shell{width:min(100% - 20px,1180px);margin:10px auto 24px}.topbar{align-items:flex-start;flex-direction:column;padding:16px}.scope-switch{width:100%}.scope-switch button{flex:1;min-width:0}.content{padding:0 16px 22px}.section-head{align-items:flex-start;flex-direction:column}.refresh-cluster{width:100%;justify-content:space-between}}
-    @media(max-width:520px){.brand-subtitle{display:none}.tabs{gap:20px}.feed-summary{align-items:flex-start;flex-direction:column;gap:2px}.news-trigger{grid-template-columns:minmax(0,1fr) auto}.source-pill{grid-column:1;width:max-content}.headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.chevron{grid-column:2;grid-row:1/span 2}.details{padding:0 36px 13px 14px}.year-group{grid-template-columns:46px 1fr;gap:10px}.history-trigger{grid-template-columns:1fr auto}.history-trigger time{grid-column:1}.history-main{grid-column:1}.history-trigger .chevron{grid-column:2;grid-row:1/span 2}.history-detail{margin:0 27px 9px 12px}.history-main span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}footer{flex-direction:column}}
+    @media(max-width:900px){.weekly-feed{grid-template-columns:repeat(2,minmax(0,1fr))}.hot-news-item:nth-child(3n){border-right:1px solid rgba(239,173,67,.15)}.hot-news-item:nth-child(2n){border-right:0}}
+    @media(max-width:760px){.shell{width:min(100% - 20px,1180px);margin:10px auto 24px}.topbar{align-items:flex-start;flex-direction:column;padding:16px}.scope-switch{width:100%}.scope-switch button{flex:1;min-width:0}.content{padding:16px}.section-head{align-items:flex-start;flex-direction:column}.refresh-cluster{width:100%;justify-content:space-between}.hot-news-head{align-items:flex-start;flex-direction:column}.hot-summary{white-space:normal}}
+    @media(max-width:520px){.brand-subtitle{display:none}.tabs{gap:20px}.briefing-box>.panel{padding:16px}.weekly-feed{grid-template-columns:1fr;max-height:560px}.hot-news-item,.hot-news-item:nth-child(2n),.hot-news-item:nth-child(3n){border-right:0}.feed-summary{align-items:flex-start;flex-direction:column;gap:2px}.news-trigger{grid-template-columns:minmax(0,1fr) auto}.source-pill{grid-column:1;width:max-content}.headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.chevron{grid-column:2;grid-row:1/span 2}.details{padding:0 36px 13px 14px}.hot-news-trigger .source-line{grid-column:1/-1}.hot-news-trigger .headline{grid-column:1;-webkit-line-clamp:3}.hot-news-trigger .chevron{grid-row:2}.hot-news-item .details{padding:0 36px 14px 18px}.year-group{grid-template-columns:46px 1fr;gap:10px}.history-trigger{grid-template-columns:1fr auto}.history-trigger time{grid-column:1}.history-main{grid-column:1}.history-trigger .chevron{grid-column:2;grid-row:1/span 2}.history-detail{margin:0 27px 9px 12px}.history-main span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}footer{flex-direction:column}}
     @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
   </style>
 </head>
@@ -119,39 +144,55 @@
     </header>
 
     <main class="content">
-      <nav class="tabs" aria-label="Aviation Pulse sections">
-        <button type="button" data-tab="current" aria-selected="true"><span class="live-dot"></span>Current</button>
-        <button type="button" data-tab="history" aria-selected="false">Past 4 years</button>
-      </nav>
-
-      <section class="panel" data-panel="current">
-        <div class="section-head">
-          <div><div class="eyebrow">Live · cached</div><h1>What’s moving aviation now</h1></div>
-          <div class="refresh-cluster">
-            <div class="timestamp">Last refreshed<strong id="last-refreshed">Loading cache…</strong></div>
-            <button class="refresh-button" id="refresh-button" type="button">
-              <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.34 5.66M20 5v6h-6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              <span>Refresh</span>
-            </button>
+      <section class="hot-news-box" aria-labelledby="hot-news-heading">
+        <div class="hot-news-head">
+          <div>
+            <div class="hot-news-title"><span class="hot-pulse" aria-hidden="true"></span>Past 7 days</div>
+            <h1 id="hot-news-heading">Hot News</h1>
+            <p>Fast-moving reports, incidents and operational changes.</p>
           </div>
+          <div class="hot-summary"><span class="active-scope" id="weekly-scope-label">World</span><span><strong id="weekly-count">—</strong> updates · <strong id="weekly-publisher-count">—</strong> sources</span></div>
         </div>
-
-        <div class="notice" id="current-notice" role="status"></div>
-        <div class="feed-summary"><span class="active-scope" id="current-scope-label">World</span><span><strong id="update-count">—</strong> recent updates from <strong id="publisher-count">—</strong> verified sources</span></div>
-        <div class="feed" id="current-feed" aria-live="polite"></div>
+        <div class="weekly-intro">Newest reports appear first. Select a headline for its verified summary, date and original source.</div>
+        <div class="notice" id="weekly-notice" role="status"></div>
+        <div class="feed weekly-feed" id="weekly-feed" aria-live="polite"></div>
       </section>
 
-      <section class="panel" data-panel="history" hidden>
-        <div class="section-head">
-          <div><div class="eyebrow">Curated · source-checked</div><h1>Four years in perspective</h1></div>
-        </div>
-        <div class="history-map" aria-label="History spans 2023 through 2026">
-          <div class="history-map-line" aria-hidden="true"></div>
-          <div class="history-years"><div class="history-year"><strong>2023</strong><i></i><span>Recovery</span></div><div class="history-year"><strong>2024</strong><i></i><span>Reshaping</span></div><div class="history-year"><strong>2025</strong><i></i><span>Pressure</span></div><div class="history-year"><strong>2026</strong><i></i><span>Now</span></div></div>
-        </div>
-        <div class="notice" id="history-notice" role="status"></div>
-        <div class="timeline" id="history-timeline"></div>
-      </section>
+      <div class="briefing-box">
+        <nav class="tabs" aria-label="Industry briefing sections">
+          <button type="button" data-tab="current" aria-selected="true"><span class="live-dot"></span>Current</button>
+          <button type="button" data-tab="history" aria-selected="false">Past 4 years</button>
+        </nav>
+
+        <section class="panel" data-panel="current">
+          <div class="section-head">
+            <div><div class="eyebrow">Live · cached</div><h1>What’s moving aviation now</h1></div>
+            <div class="refresh-cluster">
+              <div class="timestamp">Last refreshed<strong id="last-refreshed">Loading cache…</strong></div>
+              <button class="refresh-button" id="refresh-button" type="button">
+                <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.34 5.66M20 5v6h-6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <span>Refresh</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="notice" id="current-notice" role="status"></div>
+          <div class="feed-summary"><span class="active-scope" id="current-scope-label">World</span><span><strong id="update-count">—</strong> recent updates from <strong id="publisher-count">—</strong> verified sources</span></div>
+          <div class="feed" id="current-feed" aria-live="polite"></div>
+        </section>
+
+        <section class="panel" data-panel="history" hidden>
+          <div class="section-head">
+            <div><div class="eyebrow">Curated · source-checked</div><h1>Four years in perspective</h1></div>
+          </div>
+          <div class="history-map" aria-label="History spans 2023 through 2026">
+            <div class="history-map-line" aria-hidden="true"></div>
+            <div class="history-years"><div class="history-year"><strong>2023</strong><i></i><span>Recovery</span></div><div class="history-year"><strong>2024</strong><i></i><span>Reshaping</span></div><div class="history-year"><strong>2025</strong><i></i><span>Pressure</span></div><div class="history-year"><strong>2026</strong><i></i><span>Now</span></div></div>
+          </div>
+          <div class="notice" id="history-notice" role="status"></div>
+          <div class="timeline" id="history-timeline"></div>
+        </section>
+      </div>
 
       <footer><span>Headlines and dates link to their original publishers. Breaking information may change.</span><span>World includes India · Methodology in the repository README</span></footer>
     </main>
@@ -161,8 +202,10 @@
     const CONFIG = {
       apiBase: "",
       currentUrl: "./data/current-news.json",
+      weeklyUrl: "./data/weekly-news.json",
       historyUrl: "./data/historical-events.json",
-      maxCurrentItems: 18
+      maxCurrentItems: 18,
+      maxWeeklyItems: 96
     };
 
     const VERIFIED_STARTER_EDITION = [
@@ -179,6 +222,13 @@
       {id:"air-india-787-procedures",headline:"Air India told to ensure pilots follow correct procedures after 787 fuel-switch snag",summary:"India’s regulator advised Air India to circulate Boeing’s recommended procedures after crew concerns on a Heathrow–Bengaluru 787 service.",date:"2026-02-03T15:01:00Z",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/air-india/19354.subject",scopes:["world","india","air-india"],topics:["safety","operations"]},
       {id:"air-india-max-xlr-order",headline:"Air India orders more Max jets and converts 15 A321neos to XLRs",summary:"Air India added to its 737 Max order and converted part of its A321neo order to the longer-range A321XLR.",date:"2026-01-29T16:15:00Z",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/air-india/19354.subject",scopes:["world","india","air-india"],topics:["fleet","business"]},
       {id:"air-india-first-787-9",headline:"Air India receives its first factory-fresh Boeing 787-9",summary:"Air India took delivery of its first factory-fresh Boeing 787-9 as its widebody renewal continued.",date:"2026-01-13T08:06:00Z",source:"FlightGlobal",sourceUrl:"https://www.flightglobal.com/fleets/316.more?page=1",scopes:["world","india","air-india"],topics:["fleet","business"]}
+    ];
+
+    const WEEKLY_STARTER_EDITION = [
+      {id:"faa-737-max-crack-inspections-2026",headline:"FAA orders crack inspections for hundreds of Boeing 737 Max jets",summary:"The FAA's final rule applies to 471 US-registered 737-8, 737-9 and 737-8200 aircraft and takes effect on 10 September. It requires inspections addressing a cracking concern and any necessary corrective action.",date:"2026-08-07T00:00:00Z",source:"Associated Press",sourceUrl:"https://apnews.com/article/f9d4c01a70c760f82520f09ea91137ac",scopes:["world"],topics:["safety","regulation","fleet"]},
+      {id:"easyjet-apollo-offer-2026",headline:"easyJet accepts a £5.7 billion takeover offer from Apollo",summary:"easyJet accepted Apollo Global Management's offer, but completion still depends on shareholder approval and regulatory clearance. The ownership structure must also comply with British and European airline-control rules.",date:"2026-08-07T13:30:01Z",source:"Le Monde",sourceUrl:"https://www.lemonde.fr/en/economy/article/2026/08/07/what-does-easyjet-s-acquisition-by-apollo-mean-for-the-low-cast-airline_6756260_19.html",scopes:["world"],topics:["business","regulation"]},
+      {id:"voepass-investigation-accusations-2026",headline:"Brazilian police formally accuse 16 people over the 2024 Voepass crash",summary:"Brazil's federal police formally accused 16 current and former Voepass employees following its investigation of the fatal ATR 72 crash. Prosecutors will decide whether to bring charges.",date:"2026-08-06T19:36:12Z",source:"Associated Press",sourceUrl:"https://apnews.com/article/cdbf914814936c4660d687e17ef0f2c2",scopes:["world"],topics:["safety","investigation","regulation"]},
+      {id:"air-india-phuket-delhi-turbulence-2026",headline:"Air India Phuket-Delhi flight encounters severe turbulence",summary:"NDTV reported that Flight AI2379 encountered severe turbulence en route from Phuket to Delhi, with passengers injured. The occurrence was subsequently treated as a serious incident under investigation.",date:"2026-08-04T00:00:00Z",source:"NDTV",sourceUrl:"https://www.ndtv.com/india-news/air-india-phuket-delhi-flight-hit-by-turbulence-12-injured-11863396",scopes:["world","india","air-india"],topics:["incident","safety","operations"]}
     ];
 
     const HISTORICAL_FALLBACK = [
@@ -230,19 +280,25 @@
     const state = {
       scope: sessionStorage.getItem("aviation-pulse-scope") || "world",
       currentItems: VERIFIED_STARTER_EDITION,
+      weeklyItems: WEEKLY_STARTER_EDITION,
       historyItems: []
     };
 
     const elements = {
       currentFeed: document.getElementById("current-feed"),
+      weeklyFeed: document.getElementById("weekly-feed"),
       historyTimeline: document.getElementById("history-timeline"),
       currentNotice: document.getElementById("current-notice"),
+      weeklyNotice: document.getElementById("weekly-notice"),
       historyNotice: document.getElementById("history-notice"),
       refreshButton: document.getElementById("refresh-button"),
       lastRefreshed: document.getElementById("last-refreshed"),
       currentScopeLabel: document.getElementById("current-scope-label"),
       updateCount: document.getElementById("update-count"),
       publisherCount: document.getElementById("publisher-count")
+      ,weeklyScopeLabel: document.getElementById("weekly-scope-label")
+      ,weeklyCount: document.getElementById("weekly-count")
+      ,weeklyPublisherCount: document.getElementById("weekly-publisher-count")
     };
 
     const scopeCopy = {
@@ -261,6 +317,12 @@
 
     function filteredHistory() {
       return state.historyItems.filter(inScope).sort((a,b) => b.date.localeCompare(a.date));
+    }
+
+    function filteredWeekly() {
+      const cutoff = Date.now() - 7 * 86400000;
+      return state.weeklyItems.filter(item => inScope(item) && new Date(item.date).getTime() >= cutoff)
+        .sort((a,b) => new Date(b.date) - new Date(a.date)).slice(0, CONFIG.maxWeeklyItems);
     }
 
     function renderCurrent() {
@@ -293,7 +355,6 @@
       const items = filteredHistory();
       if (!items.length) {
         elements.historyTimeline.innerHTML = '<div class="empty"><strong>No curated events found</strong><span>Try another scope.</span></div>';
-        elements.historyGrid.innerHTML = "";
         return;
       }
       const groups = items.reduce((result,item) => {
@@ -308,6 +369,27 @@
         </section>`).join("");
     }
 
+    function renderWeekly() {
+      const items = filteredWeekly();
+      const [title] = scopeCopy[state.scope];
+      elements.weeklyScopeLabel.textContent = title;
+      elements.weeklyCount.textContent = items.length;
+      elements.weeklyPublisherCount.textContent = new Set(items.map(item => item.source)).size;
+      if (!items.length) {
+        elements.weeklyFeed.innerHTML = '<div class="empty"><strong>No source-checked reports in the past seven days</strong><span>Try another scope or refresh to run a new source check.</span></div>';
+        return;
+      }
+      elements.weeklyFeed.innerHTML = items.map(item => `
+        <article class="hot-news-item">
+          <button class="news-trigger hot-news-trigger" type="button" aria-expanded="false">
+            <span class="source-line"><span class="source-pill">${escapeHtml(item.source)}</span><time datetime="${escapeHtml(item.date)}">${compactDate(item.date)}</time></span>
+            <span class="headline">${escapeHtml(item.headline)}</span>
+            ${chevron()}
+          </button>
+          <div class="details"><p>${escapeHtml(item.summary)}</p><div class="meta"><time datetime="${escapeHtml(item.date)}">${longDate(item.date)}</time><span>${escapeHtml((item.topics || []).join(" · "))}</span><a href="${safeUrl(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></div></div>
+        </article>`).join("");
+    }
+
     function historyRow(item) {
       return `<article class="history-event"><button class="history-trigger" type="button" aria-expanded="false"><time datetime="${escapeHtml(item.date)}">${shortDate(item.date)}</time><span class="history-main"><strong>${escapeHtml(item.headline)}</strong><span>${escapeHtml(item.significance)}</span></span>${chevron()}</button><div class="history-detail"><p>${escapeHtml(item.summary)}</p><div class="meta"><span>${escapeHtml(item.source)}</span><span>${escapeHtml((item.topics || []).join(" · "))}</span><a href="${safeUrl(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></div></div></article>`;
     }
@@ -319,6 +401,7 @@
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const payload = await response.json();
         if (Array.isArray(payload.items) && payload.items.length) state.currentItems = mergeCurrentEditions(payload.items);
+        if (Array.isArray(payload.weeklyItems)) state.weeklyItems = mergeWeeklyEditions(payload.weeklyItems);
         elements.lastRefreshed.textContent = payload.refreshedAt ? relativeTime(payload.refreshedAt) : "No cached refresh yet";
         if (!payload.items?.length) showNotice(elements.currentNotice,"No cached Worker edition exists yet. Use Refresh to create one.");
       } catch {
@@ -326,6 +409,7 @@
         showNotice(elements.currentNotice,"The live cache is unavailable. Showing the verified starter edition.",true);
       }
       renderCurrent();
+      renderWeekly();
     }
 
     async function refreshCurrent() {
@@ -337,16 +421,20 @@
         const payload = await response.json();
         if (!response.ok) {
           if (payload.cached?.items?.length) state.currentItems = mergeCurrentEditions(payload.cached.items);
+          if (Array.isArray(payload.cached?.weeklyItems)) state.weeklyItems = mergeWeeklyEditions(payload.cached.weeklyItems);
           throw new Error(payload.message || "Refresh failed");
         }
         state.currentItems = Array.isArray(payload.items) && payload.items.length ? mergeCurrentEditions(payload.items) : state.currentItems;
-        elements.lastRefreshed.textContent = "Just now";
+        if (Array.isArray(payload.weeklyItems)) state.weeklyItems = mergeWeeklyEditions(payload.weeklyItems);
         showNotice(elements.currentNotice,`Refresh complete · ${payload.remaining} manual refresh${payload.remaining === 1 ? "" : "es"} remaining today.`);
         renderCurrent();
+        renderWeekly();
       } catch (error) {
         showNotice(elements.currentNotice,error.message || "Refresh failed. The cached edition remains visible.",true);
         renderCurrent();
+        renderWeekly();
       } finally {
+        recordRefreshCheck();
         setRefreshLoading(false);
       }
     }
@@ -380,22 +468,34 @@
       if (manual) setRefreshLoading(true);
       try {
         if (location.protocol === "file:") throw new Error("local-file");
-        const separator = CONFIG.currentUrl.includes("?") ? "&" : "?";
-        const response = await fetch(`${CONFIG.currentUrl}${separator}v=${Date.now()}`,{headers:{Accept:"application/json"},cache:"no-store"});
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const payload = await response.json();
-        if (!Array.isArray(payload.items) || !payload.items.length) throw new Error("No published items");
-        state.currentItems = mergeCurrentEditions(payload.items);
-        elements.lastRefreshed.textContent = payload.refreshedAt ? relativeTime(payload.refreshedAt) : "Latest published edition";
-        showNotice(elements.currentNotice,manual ? "Latest source-checked repository edition loaded." : "Source-checked repository edition loaded. Connect the optional Worker for server-fetched live updates.");
+        const version = Date.now();
+        const [currentResult, weeklyResult] = await Promise.allSettled([
+          fetch(`${CONFIG.currentUrl}?v=${version}`,{headers:{Accept:"application/json"},cache:"no-store"}).then(async response => {if(!response.ok) throw new Error(`HTTP ${response.status}`); return response.json()}),
+          fetch(`${CONFIG.weeklyUrl}?v=${version}`,{headers:{Accept:"application/json"},cache:"no-store"}).then(async response => {if(!response.ok) throw new Error(`HTTP ${response.status}`); return response.json()})
+        ]);
+        if (currentResult.status === "fulfilled" && Array.isArray(currentResult.value.items) && currentResult.value.items.length) state.currentItems = mergeCurrentEditions(currentResult.value.items);
+        if (weeklyResult.status === "fulfilled" && Array.isArray(weeklyResult.value.items)) state.weeklyItems = mergeWeeklyEditions(weeklyResult.value.items);
+        if (currentResult.status === "rejected" && weeklyResult.status === "rejected") throw new Error("No published editions");
+        if (!manual) elements.lastRefreshed.textContent = currentResult.status === "fulfilled" && currentResult.value.refreshedAt ? relativeTime(currentResult.value.refreshedAt) : "Latest published edition";
+        showNotice(elements.currentNotice,manual ? "Source check complete; both live sections have been reloaded." : "Source-checked repository edition loaded. Connect the optional Worker for server-fetched live updates.");
+        hideNotice(elements.weeklyNotice);
       } catch {
         state.currentItems = VERIFIED_STARTER_EDITION;
-        elements.lastRefreshed.textContent = "Built-in verified edition";
+        state.weeklyItems = WEEKLY_STARTER_EDITION;
+        if (!manual) elements.lastRefreshed.textContent = "Built-in verified edition";
         showNotice(elements.currentNotice,manual ? "The built-in source-checked edition is already up to date." : "Showing the built-in source-checked edition.");
+        showNotice(elements.weeklyNotice,"Showing the built-in seven-day source-checked edition.");
       } finally {
         renderCurrent();
-        if (manual) setRefreshLoading(false);
+        renderWeekly();
+        if (manual) { recordRefreshCheck(); setRefreshLoading(false); }
       }
+    }
+
+    function recordRefreshCheck() {
+      const checkedAt = new Date().toISOString();
+      sessionStorage.setItem("aviation-pulse-last-check", checkedAt);
+      elements.lastRefreshed.textContent = "Just now";
     }
 
     function setRefreshLoading(loading) {
@@ -418,6 +518,19 @@
         .sort((a,b) => new Date(b.date) - new Date(a.date));
     }
 
+    function mergeWeeklyEditions(liveItems) {
+      const cutoff = Date.now() - 7 * 86400000;
+      const seen = new Set();
+      return [...liveItems, ...WEEKLY_STARTER_EDITION]
+        .filter(item => new Date(item.date).getTime() >= cutoff)
+        .filter(item => {
+          const key = `${String(item.sourceUrl || "").toLowerCase()}|${String(item.headline || "").toLowerCase().replace(/[^a-z0-9]+/g," ").trim()}`;
+          if (!key || seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        }).sort((a,b) => new Date(b.date) - new Date(a.date));
+    }
+
     function showNotice(element,message,isError=false) { element.textContent=message;element.classList.add("visible");element.classList.toggle("error",isError); }
     function hideNotice(element) { element.classList.remove("visible","error");element.textContent=""; }
     function chevron(){return '<svg class="chevron" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m7 9 5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>'}
@@ -430,13 +543,14 @@
 
     document.querySelectorAll("[data-scope]").forEach(button => {
       button.setAttribute("aria-pressed",String(button.dataset.scope===state.scope));
-      button.addEventListener("click",()=>{state.scope=button.dataset.scope;sessionStorage.setItem("aviation-pulse-scope",state.scope);document.querySelectorAll("[data-scope]").forEach(peer=>peer.setAttribute("aria-pressed",String(peer===button)));renderCurrent();renderHistory()});
+      button.addEventListener("click",()=>{state.scope=button.dataset.scope;sessionStorage.setItem("aviation-pulse-scope",state.scope);document.querySelectorAll("[data-scope]").forEach(peer=>peer.setAttribute("aria-pressed",String(peer===button)));renderCurrent();renderWeekly();renderHistory()});
     });
     document.querySelectorAll("[data-tab]").forEach(button => button.addEventListener("click",()=>{document.querySelectorAll("[data-tab]").forEach(peer=>peer.setAttribute("aria-selected",String(peer===button)));document.querySelectorAll("[data-panel]").forEach(panel=>panel.hidden=panel.dataset.panel!==button.dataset.tab)}));
     document.addEventListener("click",event=>{const trigger=event.target.closest(".news-trigger,.history-trigger");if(!trigger)return;const expanded=trigger.getAttribute("aria-expanded")==="true";trigger.setAttribute("aria-expanded",String(!expanded));const detail=trigger.nextElementSibling;if(detail)detail.classList.toggle("open",!expanded)});
     elements.refreshButton.addEventListener("click",refreshCurrent);
 
     renderCurrent();
+    renderWeekly();
     loadCurrent();
     loadHistory();
   </script>

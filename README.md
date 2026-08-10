@@ -1,9 +1,9 @@
 # Aviation Pulse
 
-A static, single-page aviation briefing with three scopes—Air India, India and World—and two modes:
+A static, single-page aviation briefing with three scopes—Air India, India and World—and a clear two-level layout:
 
-- **Current:** a source-checked repository edition, optionally upgraded with cached live updates from a Cloudflare Worker.
-- **Past 4 years:** a timeline-only, source-linked historical view covering 2023–2026.
+- **Hot News — Past 7 days:** a standalone box at the top for smaller incidents, diversions, technical notices, route changes, operational reports and regulatory updates.
+- **Industry briefing:** a two-tab component containing **Current**, the source-checked live edition, and **Past 4 years**, the curated timeline covering 2023–2026.
 
 The World scope includes Indian and Air India stories. Every item retains its original publisher link.
 
@@ -12,8 +12,10 @@ The World scope includes Indian and Air India stories. Every item retains its or
 ```text
 index.html                       Single-file HTML/CSS/JavaScript frontend
 data/current-news.json          Same-origin current edition used by GitHub Pages
+data/weekly-news.json           Same-origin rolling seven-day report feed
 data/historical-events.json     Curated four-year timeline
 data/sources.json               Approved source registry and ingestion mode
+favicon.svg                     Browser icon matching the header logo
 scripts/refresh-news.mjs        Scheduled GitHub edition builder
 .github/workflows/refresh-news.yml  Daily and manual GitHub refresh workflow
 worker/src/index.js             Cloudflare Worker
@@ -57,17 +59,17 @@ Copy the resulting `workers.dev` address. In `index.html`, replace:
 apiBase: ""
 ```
 
-with the deployed address, without a trailing slash. Leaving it empty is supported: Refresh will reload the latest `data/current-news.json` edition instead of displaying a configuration error.
+with the deployed address, without a trailing slash. Leaving it empty is supported: Refresh will reload the latest `data/current-news.json` and `data/weekly-news.json` editions instead of displaying a configuration error.
 
 ### Optional broader trade-news coverage
 
-The Worker works without an API key and starts with official EASA and FAA RSS feeds. To add current articles from the expanded trade, safety, regulatory, Indian-business and Air India source groups, create a NewsAPI key and save it only as a Worker secret:
+The Worker works without an API key and starts with official EASA and FAA RSS feeds. To add current articles from the expanded trade, safety-investigation, regulatory, manufacturer, infrastructure, airline-newsroom, Indian-business and Air India source groups, create a NewsAPI key and save it only as a Worker secret:
 
 ```bash
 npx wrangler secret put NEWS_API_KEY
 ```
 
-The key never reaches the browser. The Worker runs separate World, safety/regulatory, India and Air India queries and filters every returned URL against the trusted-domain registry in `worker/src/index.js`.
+The key never reaches the browser. The Worker runs separate World, safety/regulatory, manufacturer, airline-newsroom, India and Air India queries and filters every returned URL against the trusted-domain registry in `worker/src/index.js`. The registry covers more than 90 approved domains; availability still depends on each publisher and the licensed aggregator.
 
 Additional publisher-approved RSS feeds can be supplied through `EXTRA_FEEDS_JSON`. Use only feeds offered by the publisher or feeds you are authorised to consume. Example:
 
@@ -127,7 +129,7 @@ If a refresh fails, the Worker leaves the previous cached edition intact.
 6. Select the default branch and `/ (root)`, then save.
 7. Open the Pages address shown by GitHub after deployment finishes.
 
-The included GitHub workflow runs daily and can also be started from **Actions → Refresh verified aviation news → Run workflow**. It fetches approved official feeds, rebuilds `data/current-news.json`, and commits a changed edition. To include broader domain-filtered coverage, add a repository Actions secret named `NEWS_API_KEY`, subject to the provider’s licence and usage terms. The workflow still operates with the official feeds when this optional secret is absent.
+The included GitHub workflow runs daily and can also be started from **Actions → Refresh verified aviation news → Run workflow**. It fetches approved official feeds, rebuilds both `data/current-news.json` and `data/weekly-news.json`, and commits a changed edition. To include broader domain-filtered coverage, add a repository Actions secret named `NEWS_API_KEY`, subject to the provider’s licence and usage terms. The workflow still operates with the official feeds when this optional secret is absent.
 
 Publishing the Worker source is safe. Secrets entered with `wrangler secret put` are stored by Cloudflare and are not written into the repository.
 
@@ -141,7 +143,7 @@ npx serve .
 
 ## Current-data behavior
 
-Without a Worker, the Refresh button requests `data/current-news.json` with cache bypassing so GitHub Pages serves the latest published edition. When the page is opened directly from disk, Refresh confirms and redraws the built-in source-checked edition. It no longer asks for a Worker URL.
+Without a Worker, the Refresh button requests both live JSON editions with cache bypassing so GitHub Pages serves the latest published files. When the page is opened directly from disk, Refresh confirms and redraws the built-in source-checked editions. The displayed refresh time records when that check completed, even when no new article was found or the network request failed.
 
 The Worker:
 
@@ -149,10 +151,11 @@ The Worker:
 2. optionally fetches NewsAPI results limited to the configured trusted domains;
 3. strips markup and rejects entries without a valid source link or publication date;
 4. classifies Air India separately while the India scope covers IndiGo, Akasa Air, SpiceJet, Alliance Air, airports, regulators and other Indian aviation subjects;
-5. removes closely matching headlines;
-6. excludes entries older than 90 days from the Current edition;
-7. retains the original link, publication date and publisher name;
-8. stores only the completed result in KV.
+5. removes closely matching headlines from the concise Current briefing;
+6. builds the separate Past 7 days feed with exact same-publisher deduplication only, preserving smaller reports up to 96 entries;
+7. excludes entries older than 90 days from the Current edition and older than seven days from the weekly feed;
+8. retains the original link, publication date and publisher name;
+9. stores only the completed result in KV.
 
 The frontend merges any Worker edition with source-checked starter items published within the last 120 days. This prevents a newly verified major item from disappearing behind an older KV cache while allowing the starter edition to age out automatically.
 
@@ -205,6 +208,7 @@ Avoid automatically promoting live headlines into the historical timeline. Histo
 ## API responses
 
 - `GET /api/news` returns the last successful cached edition.
+- `GET /api/weekly` returns the rolling seven-day portion of the cached edition.
 - `POST /api/refresh` refreshes all configured sources and updates KV.
 - `GET /api/health` confirms that the Worker is running.
 - `429` indicates that the daily manual-refresh limit has been reached.

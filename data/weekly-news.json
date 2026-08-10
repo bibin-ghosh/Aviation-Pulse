@@ -1,0 +1,46 @@
+{
+  "refreshedAt": "2026-08-10T05:30:00.000Z",
+  "edition": "source-checked-seven-day-edition",
+  "items": [
+    {
+      "id": "faa-737-max-crack-inspections-2026",
+      "headline": "FAA orders crack inspections for hundreds of Boeing 737 Max jets",
+      "summary": "The FAA's final rule applies to 471 US-registered 737-8, 737-9 and 737-8200 aircraft and takes effect on 10 September. It requires inspections addressing a cracking concern and any necessary corrective action.",
+      "date": "2026-08-07T00:00:00Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/f9d4c01a70c760f82520f09ea91137ac",
+      "scopes": ["world"],
+      "topics": ["safety", "regulation", "fleet"]
+    },
+    {
+      "id": "easyjet-apollo-offer-2026",
+      "headline": "easyJet accepts a £5.7 billion takeover offer from Apollo",
+      "summary": "easyJet accepted Apollo Global Management's offer, but completion still depends on shareholder approval and regulatory clearance. The ownership structure must also comply with British and European airline-control rules.",
+      "date": "2026-08-07T13:30:01Z",
+      "source": "Le Monde",
+      "sourceUrl": "https://www.lemonde.fr/en/economy/article/2026/08/07/what-does-easyjet-s-acquisition-by-apollo-mean-for-the-low-cast-airline_6756260_19.html",
+      "scopes": ["world"],
+      "topics": ["business", "regulation"]
+    },
+    {
+      "id": "voepass-investigation-accusations-2026",
+      "headline": "Brazilian police formally accuse 16 people over the 2024 Voepass crash",
+      "summary": "Brazil's federal police formally accused 16 current and former Voepass employees following its investigation of the fatal ATR 72 crash. Prosecutors will decide whether to bring charges.",
+      "date": "2026-08-06T19:36:12Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/cdbf914814936c4660d687e17ef0f2c2",
+      "scopes": ["world"],
+      "topics": ["safety", "investigation", "regulation"]
+    },
+    {
+      "id": "air-india-phuket-delhi-turbulence-2026",
+      "headline": "Air India Phuket-Delhi flight encounters severe turbulence",
+      "summary": "NDTV reported that Flight AI2379 encountered severe turbulence en route from Phuket to Delhi, with passengers injured. The occurrence was subsequently treated as a serious incident under investigation.",
+      "date": "2026-08-04T00:00:00Z",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/india-news/air-india-phuket-delhi-flight-hit-by-turbulence-12-injured-11863396",
+      "scopes": ["world", "india", "air-india"],
+      "topics": ["incident", "safety", "operations"]
+    }
+  ]
+}

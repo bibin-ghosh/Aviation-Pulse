@@ -1,7 +1,9 @@
 const CACHE_KEY = "aviation-pulse:latest:v1";
 const DEFAULT_LIMIT = 5;
 const MAX_ITEMS = 36;
+const MAX_WEEKLY_ITEMS = 96;
 const RECENT_WINDOW_DAYS = 90;
+const WEEKLY_WINDOW_DAYS = 7;
 const OFFICIAL_FEEDS = [
   {
     name: "EASA",
@@ -38,6 +40,42 @@ const SOURCE_GROUPS = [
       "aviation-safety.net", "flightsafety.org", "ntsb.gov", "avherald.com", "aaib.gov.in",
       "icao.int", "iata.org", "faa.gov", "easa.europa.eu", "eurocontrol.int",
       "reuters.com", "bloomberg.com", "thepointsguy.com"
+    ]
+  },
+  {
+    name: "Global investigation authorities and regulators",
+    query: "(aviation OR aircraft OR airline OR airport OR incident OR accident OR airworthiness)",
+    domains: [
+      "aaib.gov.uk", "atsb.gov.au", "tsb.gc.ca", "bea.aero", "bfu-web.de",
+      "caa.co.uk", "casa.gov.au", "tc.canada.ca", "caas.gov.sg",
+      "aviation.govt.nz", "gcaa.gov.ae", "anac.gov.br", "caap.gov.ph",
+      "caa.lk", "info.gov.hk"
+    ]
+  },
+  {
+    name: "Manufacturers and aviation infrastructure",
+    query: "(aircraft OR aviation OR airline OR airport OR engine OR air traffic)",
+    domains: [
+      "airbus.com", "boeing.com", "embraer.com", "atr-aircraft.com",
+      "geaerospace.com", "rtx.com", "rolls-royce.com", "aci.aero", "canso.org"
+    ]
+  },
+  {
+    name: "Additional global aviation reporting",
+    query: "(aviation OR airline OR aircraft OR airport OR flight OR incident)",
+    domains: [
+      "aeroinside.com", "airport-technology.com", "airlinegeeks.com",
+      "runwaygirlnetwork.com", "paxex.aero", "aviationsource.news",
+      "airlineratings.com", "airlive.net", "apnews.com", "lemonde.fr"
+    ]
+  },
+  {
+    name: "Global airline newsrooms",
+    query: "(airline OR aircraft OR route OR fleet OR operations)",
+    domains: [
+      "news.delta.com", "united.com", "news.aa.com", "lufthansagroup.com",
+      "iairgroup.com", "emirates.com", "qatarairways.com", "qantasnewsroom.com.au",
+      "corporate.ryanair.com", "southwestairlinesinvestorrelations.com"
     ]
   },
   {
@@ -90,6 +128,16 @@ export default {
         }, 200, headers);
       }
       return json({ ok: true, ...cached }, 200, headers);
+    }
+
+    if (url.pathname === "/api/weekly" && request.method === "GET") {
+      const cached = await readCache(env);
+      return json({
+        ok: true,
+        items: cached?.weeklyItems || [],
+        refreshedAt: cached?.refreshedAt || null,
+        stale: !cached
+      }, 200, headers);
     }
 
     if (url.pathname === "/api/refresh" && request.method === "POST") {
@@ -181,8 +229,17 @@ async function refreshNews(env) {
 
   if (!cleaned.length) throw new Error(`No verified item was published within the last ${RECENT_WINDOW_DAYS} days`);
 
+  const weeklyCutoff = Date.now() - WEEKLY_WINDOW_DAYS * 86400000;
+  const weeklyItems = deduplicateWeekly(items.filter(item => {
+    const published = new Date(item.date).getTime();
+    return Number.isFinite(published) && published >= weeklyCutoff && published <= Date.now() + 86400000;
+  }))
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, MAX_WEEKLY_ITEMS);
+
   return {
     items: cleaned,
+    weeklyItems,
     refreshedAt: new Date().toISOString(),
     stale: false,
     sourceStatus
@@ -233,7 +290,7 @@ async function fetchNewsApi(apiKey) {
     url.searchParams.set("domains", group.domains.join(","));
     url.searchParams.set("language", "en");
     url.searchParams.set("sortBy", "publishedAt");
-    url.searchParams.set("pageSize", "40");
+    url.searchParams.set("pageSize", "100");
     const response = await fetch(url, { headers: { "X-Api-Key": apiKey } });
     if (!response.ok) throw new Error(`NewsAPI ${group.name} returned HTTP ${response.status}`);
     const payload = await response.json();
@@ -298,6 +355,18 @@ function deduplicate(items) {
     }
   }
   return output;
+}
+
+function deduplicateWeekly(items) {
+  const seen = new Set();
+  return items.filter(item => {
+    let host = "publisher";
+    try { host = new URL(item.sourceUrl).hostname.toLowerCase(); } catch {}
+    const key = `${host}|${normalizeTitle(item.headline)}`;
+    if (!normalizeTitle(item.headline) || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 function titleSimilarity(a, b) {

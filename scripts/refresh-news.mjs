@@ -1,10 +1,13 @@
 import fs from "node:fs/promises";
 
 const currentPath = new URL("../data/current-news.json", import.meta.url);
+const weeklyPath = new URL("../data/weekly-news.json", import.meta.url);
 const sourcesPath = new URL("../data/sources.json", import.meta.url);
 const existing = JSON.parse(await fs.readFile(currentPath, "utf8"));
+const existingWeekly = JSON.parse(await fs.readFile(weeklyPath, "utf8"));
 const registry = JSON.parse(await fs.readFile(sourcesPath, "utf8"));
 const cutoff = Date.now() - 90 * 86400000;
+const weeklyCutoff = Date.now() - 7 * 86400000;
 const feeds = [
   ["EASA", "https://www.easa.europa.eu/newsroom-and-events/news/feed.xml"],
   ["EASA", "https://www.easa.europa.eu/newsroom-and-events/press-releases/feed.xml"],
@@ -30,27 +33,29 @@ if (process.env.NEWS_API_KEY) {
   ];
   for (const [scope, domains] of groups) {
     if (!domains.length) continue;
-    try {
-      const url = new URL("https://newsapi.org/v2/everything");
-      url.searchParams.set("q", scope === "air-india" ? '"Air India"' : scope === "india" ? "(aviation OR airline OR airport OR DGCA)" : "(aviation OR airline OR aircraft OR airport)");
-      url.searchParams.set("domains", [...new Set(domains)].join(","));
-      url.searchParams.set("language", "en");
-      url.searchParams.set("sortBy", "publishedAt");
-      url.searchParams.set("pageSize", "40");
-      const response = await fetch(url, {headers:{"X-Api-Key":process.env.NEWS_API_KEY}});
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const payload = await response.json();
-      fetched.push(...(payload.articles || []).map((article, index) => shape({
-        id:`newsapi-${scope}-${index}-${hash(article.title || "")}`,
-        headline:clean(article.title || "").replace(/\s+-\s+[^-]+$/, ""),
-        summary:summarize(clean(article.description || "")),
-        date:article.publishedAt,
-        source:clean(article.source?.name || hostLabel(article.url)),
-        sourceUrl:article.url,
-        scopeHint:scope
-      })).filter(Boolean));
-    } catch (error) {
-      console.warn(`NewsAPI ${scope} group skipped: ${error.message}`);
+    for (const [chunkIndex, domainChunk] of chunks([...new Set(domains)], 20).entries()) {
+      try {
+        const url = new URL("https://newsapi.org/v2/everything");
+        url.searchParams.set("q", scope === "air-india" ? '"Air India"' : scope === "india" ? "(aviation OR airline OR airport OR DGCA)" : "(aviation OR airline OR aircraft OR airport)");
+        url.searchParams.set("domains", domainChunk.join(","));
+        url.searchParams.set("language", "en");
+        url.searchParams.set("sortBy", "publishedAt");
+        url.searchParams.set("pageSize", "100");
+        const response = await fetch(url, {headers:{"X-Api-Key":process.env.NEWS_API_KEY}});
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        fetched.push(...(payload.articles || []).map((article, index) => shape({
+          id:`newsapi-${scope}-${chunkIndex}-${index}-${hash(article.title || "")}`,
+          headline:clean(article.title || "").replace(/\s+-\s+[^-]+$/, ""),
+          summary:summarize(clean(article.description || "")),
+          date:article.publishedAt,
+          source:clean(article.source?.name || hostLabel(article.url)),
+          sourceUrl:article.url,
+          scopeHint:scope
+        })).filter(Boolean));
+      } catch (error) {
+        console.warn(`NewsAPI ${scope} group ${chunkIndex + 1} skipped: ${error.message}`);
+      }
     }
   }
 }
@@ -68,8 +73,25 @@ const items = combined.filter(item => {
 }).slice(0,36);
 
 if (!items.length) throw new Error("No recent verified items were available; existing edition was left unchanged.");
-await fs.writeFile(currentPath, `${JSON.stringify({refreshedAt:new Date().toISOString(),edition:"github-scheduled-source-check",items}, null, 2)}\n`, "utf8");
-console.log(`Published ${items.length} items from ${new Set(items.map(x => x.source)).size} sources.`);
+const weeklySeen = new Set();
+const weeklyItems = [...fetched, ...(existingWeekly.items || [])]
+  .filter(item => validItem(item, trusted) && new Date(item.date).getTime() >= weeklyCutoff)
+  .sort((a,b) => new Date(b.date) - new Date(a.date))
+  .filter(item => {
+    let host = "publisher";
+    try { host = new URL(item.sourceUrl).hostname.toLowerCase(); } catch {}
+    const key = `${host}|${normalize(item.headline)}`;
+    if (!normalize(item.headline) || weeklySeen.has(key)) return false;
+    weeklySeen.add(key);
+    return true;
+  }).slice(0,96);
+
+const refreshedAt = new Date().toISOString();
+await Promise.all([
+  fs.writeFile(currentPath, `${JSON.stringify({refreshedAt,edition:"github-scheduled-source-check",items}, null, 2)}\n`, "utf8"),
+  fs.writeFile(weeklyPath, `${JSON.stringify({refreshedAt,edition:"github-scheduled-seven-day-check",items:weeklyItems}, null, 2)}\n`, "utf8")
+]);
+console.log(`Published ${items.length} milestone items and ${weeklyItems.length} seven-day reports.`);
 
 function parseFeed(xml, source) {
   const blocks = xml.match(/<item\b[\s\S]*?<\/item>/gi) || xml.match(/<entry\b[\s\S]*?<\/entry>/gi) || [];
@@ -105,3 +127,4 @@ function normalize(value) { return clean(value).toLowerCase().replace(/[^a-z0-9]
 function hash(value) { let h=2166136261; for (const char of String(value)) h=Math.imul(h^char.charCodeAt(0),16777619); return (h>>>0).toString(36); }
 function hostLabel(url) { try { return new URL(url).hostname.replace(/^www\./,""); } catch { return "Publisher"; } }
 function topics(text) { const rules=[["safety",/safety|accident|incident|risk|investigat|airworthiness|emergency/],["fleet",/aircraft|fleet|boeing|airbus|engine|delivery|order/],["regulation",/regulat|rule|authority|faa|easa|icao|dgca|policy/],["airports",/airport|runway|terminal|air traffic/],["business",/profit|revenue|merger|finance|demand|capacity/],["operations",/route|service|flight|network|schedule|operation/]]; const found=rules.filter(([,rule])=>rule.test(text)).map(([name])=>name); return found.length?found.slice(0,3):["industry"]; }
+function chunks(items, size) { const output=[]; for(let index=0;index<items.length;index+=size) output.push(items.slice(index,index+size)); return output; }
