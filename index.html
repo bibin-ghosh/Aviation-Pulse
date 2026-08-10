@@ -59,15 +59,8 @@
     .section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:15px}
     .eyebrow{color:var(--amber);font-size:.7rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase}
     h1{margin:5px 0 0;font-size:clamp(1.4rem,3vw,2rem);line-height:1.18;letter-spacing:-.025em}
-    .refresh-cluster{display:flex;align-items:center;gap:11px}
-    .timestamp{color:var(--muted);font-size:.72rem;text-align:right}
-    .timestamp strong{display:block;color:var(--soft);font-weight:500}
-    .refresh-button{display:inline-flex;align-items:center;gap:8px;padding:9px 12px;border:1px solid #3f7180;border-radius:10px;background:var(--navy-750);color:#dff8f4;cursor:pointer}
-    .refresh-button:hover{border-color:var(--teal)}
-    .refresh-button:disabled{opacity:.62;cursor:wait}
-    .refresh-button svg{width:16px;height:16px}
-    .refresh-button.loading svg{animation:spin 1s linear infinite}
-    @keyframes spin{to{transform:rotate(360deg)}}
+    .schedule-status{color:var(--muted);font-size:.72rem;text-align:right}
+    .schedule-status strong{display:block;color:var(--soft);font-weight:500}
     .feed-summary{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:11px;padding:10px 12px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);color:var(--muted);font-size:.74rem}
     .feed-summary strong{color:var(--text);font-weight:650}.feed-summary .active-scope{color:var(--teal);font-weight:700}
     .notice{display:none;margin:0 0 11px;padding:10px 12px;border-left:3px solid var(--amber);background:var(--amber-soft);color:#efd8aa;font-size:.75rem}
@@ -82,17 +75,21 @@
     .hot-summary .active-scope,.hot-summary strong{color:var(--amber)}
     .weekly-intro{padding:11px 19px 0;color:var(--muted);font-size:.72rem}
     .hot-news-box .notice{margin:11px 19px 0}
-    .weekly-feed{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;max-height:520px;overflow-y:auto;scrollbar-color:var(--line-strong) transparent}
+    .weekly-feed{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;padding:14px;max-height:640px;overflow-y:auto;scrollbar-color:var(--line-strong) transparent}
     .weekly-feed>.empty{grid-column:1/-1;margin:16px}
-    .hot-news-item{border-right:1px solid rgba(239,173,67,.15);border-bottom:1px solid rgba(239,173,67,.15);background:transparent;min-width:0}
-    .hot-news-item:nth-child(3n){border-right:0}
-    .hot-news-item:hover{background:rgba(239,173,67,.045)}
-    .hot-news-trigger{grid-template-columns:minmax(0,1fr) auto;align-items:start;padding:15px 18px}
-    .hot-news-trigger .source-line{display:flex;align-items:center;justify-content:space-between;gap:10px;grid-column:1/-1;color:var(--amber);font-size:.66rem}
-    .hot-news-trigger .source-pill{padding:0;border:0;background:transparent;color:var(--amber)}
-    .hot-news-trigger .headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;font-size:.82rem;line-height:1.42}
-    .hot-news-trigger .chevron{grid-column:2;grid-row:2}
-    .hot-news-item .details{padding:0 38px 15px 18px}
+    .hot-news-card{display:flex;min-width:0;min-height:174px;border:1px solid var(--line);border-radius:13px;background:var(--navy-800);overflow:hidden;transition:border-color .15s,transform .15s}
+    .hot-news-card:hover{border-color:#68572f;transform:translateY(-1px)}
+    .hot-rank{display:flex;align-items:flex-start;justify-content:center;flex:0 0 48px;padding-top:15px;border-right:1px solid rgba(239,173,67,.2);background:rgba(239,173,67,.055);color:var(--amber);font-size:1.08rem;font-weight:700;font-variant-numeric:tabular-nums}
+    .hot-card-body{display:flex;flex:1;flex-direction:column;min-width:0}
+    .news-trigger.hot-news-trigger{display:flex;flex:1;flex-direction:column;align-items:stretch;gap:10px;padding:14px}
+    .hot-news-trigger .source-line{display:flex;align-items:center;justify-content:space-between;gap:10px;color:var(--muted);font-size:.66rem}
+    .hot-news-trigger .source-pill{padding:0;border:0;background:transparent;color:var(--teal)}
+    .hot-news-trigger .headline{white-space:normal;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;font-size:.84rem;line-height:1.42}
+    .hot-card-footer{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:auto}
+    .hot-topics{display:flex;gap:5px;flex-wrap:wrap}
+    .hot-topic{padding:3px 6px;border:1px solid var(--line);border-radius:6px;color:var(--muted);font-size:.61rem;text-transform:capitalize}
+    .hot-news-trigger .chevron{flex:0 0 18px}
+    .hot-news-card .details{padding:0 36px 14px 14px}
     .week-date{color:var(--muted);font-size:.66rem;white-space:nowrap}
     .news-card{border:1px solid var(--line);border-radius:13px;background:var(--navy-800);overflow:hidden;transition:border-color .15s,transform .15s}
     .news-card:hover{border-color:#28586a;transform:translateY(-1px)}
@@ -121,9 +118,8 @@
     .history-trigger time{color:var(--muted);font-size:.7rem}.history-main strong{display:block;font-size:.82rem}.history-main span{display:block;margin-top:3px;color:var(--muted);font-size:.7rem}
     .history-detail{display:none;margin:0 35px 8px 104px;color:var(--soft);font-size:.77rem}.history-detail.open{display:block}.history-detail p{margin:0 0 7px}
     footer{display:flex;justify-content:space-between;gap:16px;margin-top:28px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.68rem}footer a{color:var(--soft)}
-    @media(max-width:900px){.weekly-feed{grid-template-columns:repeat(2,minmax(0,1fr))}.hot-news-item:nth-child(3n){border-right:1px solid rgba(239,173,67,.15)}.hot-news-item:nth-child(2n){border-right:0}}
-    @media(max-width:760px){.shell{width:min(100% - 20px,1180px);margin:10px auto 24px}.topbar{align-items:flex-start;flex-direction:column;padding:16px}.scope-switch{width:100%}.scope-switch button{flex:1;min-width:0}.content{padding:16px}.section-head{align-items:flex-start;flex-direction:column}.refresh-cluster{width:100%;justify-content:space-between}.hot-news-head{align-items:flex-start;flex-direction:column}.hot-summary{white-space:normal}}
-    @media(max-width:520px){.brand-subtitle{display:none}.tabs{gap:20px}.briefing-box>.panel{padding:16px}.weekly-feed{grid-template-columns:1fr;max-height:560px}.hot-news-item,.hot-news-item:nth-child(2n),.hot-news-item:nth-child(3n){border-right:0}.feed-summary{align-items:flex-start;flex-direction:column;gap:2px}.news-trigger{grid-template-columns:minmax(0,1fr) auto}.source-pill{grid-column:1;width:max-content}.headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.chevron{grid-column:2;grid-row:1/span 2}.details{padding:0 36px 13px 14px}.hot-news-trigger .source-line{grid-column:1/-1}.hot-news-trigger .headline{grid-column:1;-webkit-line-clamp:3}.hot-news-trigger .chevron{grid-row:2}.hot-news-item .details{padding:0 36px 14px 18px}.year-group{grid-template-columns:46px 1fr;gap:10px}.history-trigger{grid-template-columns:1fr auto}.history-trigger time{grid-column:1}.history-main{grid-column:1}.history-trigger .chevron{grid-column:2;grid-row:1/span 2}.history-detail{margin:0 27px 9px 12px}.history-main span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}footer{flex-direction:column}}
+    @media(max-width:760px){.shell{width:min(100% - 20px,1180px);margin:10px auto 24px}.topbar{align-items:flex-start;flex-direction:column;padding:16px}.scope-switch{width:100%}.scope-switch button{flex:1;min-width:0}.content{padding:16px}.section-head{align-items:flex-start;flex-direction:column}.schedule-status{text-align:left}.hot-news-head{align-items:flex-start;flex-direction:column}.hot-summary{white-space:normal}}
+    @media(max-width:620px){.brand-subtitle{display:none}.tabs{gap:20px}.briefing-box>.panel{padding:16px}.weekly-feed{grid-template-columns:1fr;max-height:620px}.feed-summary{align-items:flex-start;flex-direction:column;gap:2px}.news-trigger{grid-template-columns:minmax(0,1fr) auto}.source-pill{grid-column:1;width:max-content}.headline{grid-column:1;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.chevron{grid-column:2;grid-row:1/span 2}.details{padding:0 36px 13px 14px}.hot-news-trigger{display:flex}.hot-news-trigger .headline{-webkit-line-clamp:3}.hot-news-trigger .chevron{grid-row:auto}.hot-news-card .details{padding:0 34px 14px 14px}.year-group{grid-template-columns:46px 1fr;gap:10px}.history-trigger{grid-template-columns:1fr auto}.history-trigger time{grid-column:1}.history-main{grid-column:1}.history-trigger .chevron{grid-column:2;grid-row:1/span 2}.history-detail{margin:0 27px 9px 12px}.history-main span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}footer{flex-direction:column}}
     @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
   </style>
 </head>
@@ -153,7 +149,7 @@
           </div>
           <div class="hot-summary"><span class="active-scope" id="weekly-scope-label">World</span><span><strong id="weekly-count">—</strong> updates · <strong id="weekly-publisher-count">—</strong> sources</span></div>
         </div>
-        <div class="weekly-intro">Newest reports appear first. Select a headline for its verified summary, date and original source.</div>
+        <div class="weekly-intro">Select any card for its verified summary, publication date and original source.</div>
         <div class="notice" id="weekly-notice" role="status"></div>
         <div class="feed weekly-feed" id="weekly-feed" aria-live="polite"></div>
       </section>
@@ -166,14 +162,8 @@
 
         <section class="panel" data-panel="current">
           <div class="section-head">
-            <div><div class="eyebrow">Live · cached</div><h1>What’s moving aviation now</h1></div>
-            <div class="refresh-cluster">
-              <div class="timestamp">Last refreshed<strong id="last-refreshed">Loading cache…</strong></div>
-              <button class="refresh-button" id="refresh-button" type="button">
-                <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.34 5.66M20 5v6h-6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                <span>Refresh</span>
-              </button>
-            </div>
+            <div><div class="eyebrow">Daily · source-checked</div><h1>What’s moving aviation now</h1></div>
+            <div class="schedule-status">Automatic source check<strong>Daily at 7:47 AM IST · <span id="last-refreshed">Loading latest edition…</span></strong></div>
           </div>
 
           <div class="notice" id="current-notice" role="status"></div>
@@ -291,7 +281,6 @@
       currentNotice: document.getElementById("current-notice"),
       weeklyNotice: document.getElementById("weekly-notice"),
       historyNotice: document.getElementById("history-notice"),
-      refreshButton: document.getElementById("refresh-button"),
       lastRefreshed: document.getElementById("last-refreshed"),
       currentScopeLabel: document.getElementById("current-scope-label"),
       updateCount: document.getElementById("update-count"),
@@ -376,17 +365,20 @@
       elements.weeklyCount.textContent = items.length;
       elements.weeklyPublisherCount.textContent = new Set(items.map(item => item.source)).size;
       if (!items.length) {
-        elements.weeklyFeed.innerHTML = '<div class="empty"><strong>No source-checked reports in the past seven days</strong><span>Try another scope or refresh to run a new source check.</span></div>';
+        elements.weeklyFeed.innerHTML = '<div class="empty"><strong>No source-checked reports in the past seven days</strong><span>Try another scope or check again after the next daily update.</span></div>';
         return;
       }
-      elements.weeklyFeed.innerHTML = items.map(item => `
-        <article class="hot-news-item">
+      elements.weeklyFeed.innerHTML = items.map((item,index) => `
+        <article class="hot-news-card">
+          <span class="hot-rank" aria-label="Item ${index + 1}">${String(index + 1).padStart(2,"0")}</span>
+          <div class="hot-card-body">
           <button class="news-trigger hot-news-trigger" type="button" aria-expanded="false">
             <span class="source-line"><span class="source-pill">${escapeHtml(item.source)}</span><time datetime="${escapeHtml(item.date)}">${compactDate(item.date)}</time></span>
             <span class="headline">${escapeHtml(item.headline)}</span>
-            ${chevron()}
+            <span class="hot-card-footer"><span class="hot-topics">${(item.topics || []).slice(0,2).map(topic => `<span class="hot-topic">${escapeHtml(topic)}</span>`).join("")}</span>${chevron()}</span>
           </button>
           <div class="details"><p>${escapeHtml(item.summary)}</p><div class="meta"><time datetime="${escapeHtml(item.date)}">${longDate(item.date)}</time><span>${escapeHtml((item.topics || []).join(" · "))}</span><a href="${safeUrl(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></div></div>
+          </div>
         </article>`).join("");
     }
 
@@ -395,7 +387,7 @@
     }
 
     async function loadCurrent() {
-      if (!hasWorker()) return loadPublishedEdition(false);
+      if (!hasWorker()) return loadPublishedEdition();
       try {
         const response = await fetch(`${CONFIG.apiBase}/api/news`,{headers:{Accept:"application/json"}});
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -410,33 +402,6 @@
       }
       renderCurrent();
       renderWeekly();
-    }
-
-    async function refreshCurrent() {
-      if (!hasWorker()) return loadPublishedEdition(true);
-      setRefreshLoading(true);
-      hideNotice(elements.currentNotice);
-      try {
-        const response = await fetch(`${CONFIG.apiBase}/api/refresh`,{method:"POST",headers:{Accept:"application/json"}});
-        const payload = await response.json();
-        if (!response.ok) {
-          if (payload.cached?.items?.length) state.currentItems = mergeCurrentEditions(payload.cached.items);
-          if (Array.isArray(payload.cached?.weeklyItems)) state.weeklyItems = mergeWeeklyEditions(payload.cached.weeklyItems);
-          throw new Error(payload.message || "Refresh failed");
-        }
-        state.currentItems = Array.isArray(payload.items) && payload.items.length ? mergeCurrentEditions(payload.items) : state.currentItems;
-        if (Array.isArray(payload.weeklyItems)) state.weeklyItems = mergeWeeklyEditions(payload.weeklyItems);
-        showNotice(elements.currentNotice,`Refresh complete · ${payload.remaining} manual refresh${payload.remaining === 1 ? "" : "es"} remaining today.`);
-        renderCurrent();
-        renderWeekly();
-      } catch (error) {
-        showNotice(elements.currentNotice,error.message || "Refresh failed. The cached edition remains visible.",true);
-        renderCurrent();
-        renderWeekly();
-      } finally {
-        recordRefreshCheck();
-        setRefreshLoading(false);
-      }
     }
 
     async function loadHistory() {
@@ -464,8 +429,7 @@
       return /^https:\/\//.test(CONFIG.apiBase) && !CONFIG.apiBase.includes("YOUR-WORKER");
     }
 
-    async function loadPublishedEdition(manual) {
-      if (manual) setRefreshLoading(true);
+    async function loadPublishedEdition() {
       try {
         if (location.protocol === "file:") throw new Error("local-file");
         const version = Date.now();
@@ -476,32 +440,19 @@
         if (currentResult.status === "fulfilled" && Array.isArray(currentResult.value.items) && currentResult.value.items.length) state.currentItems = mergeCurrentEditions(currentResult.value.items);
         if (weeklyResult.status === "fulfilled" && Array.isArray(weeklyResult.value.items)) state.weeklyItems = mergeWeeklyEditions(weeklyResult.value.items);
         if (currentResult.status === "rejected" && weeklyResult.status === "rejected") throw new Error("No published editions");
-        if (!manual) elements.lastRefreshed.textContent = currentResult.status === "fulfilled" && currentResult.value.refreshedAt ? relativeTime(currentResult.value.refreshedAt) : "Latest published edition";
-        showNotice(elements.currentNotice,manual ? "Source check complete; both live sections have been reloaded." : "Source-checked repository edition loaded. Connect the optional Worker for server-fetched live updates.");
+        elements.lastRefreshed.textContent = currentResult.status === "fulfilled" && currentResult.value.refreshedAt ? relativeTime(currentResult.value.refreshedAt) : "Latest published edition";
+        showNotice(elements.currentNotice,"Daily source-checked repository edition loaded.");
         hideNotice(elements.weeklyNotice);
       } catch {
         state.currentItems = VERIFIED_STARTER_EDITION;
         state.weeklyItems = WEEKLY_STARTER_EDITION;
-        if (!manual) elements.lastRefreshed.textContent = "Built-in verified edition";
-        showNotice(elements.currentNotice,manual ? "The built-in source-checked edition is already up to date." : "Showing the built-in source-checked edition.");
+        elements.lastRefreshed.textContent = "Built-in verified edition";
+        showNotice(elements.currentNotice,"Showing the built-in source-checked edition.");
         showNotice(elements.weeklyNotice,"Showing the built-in seven-day source-checked edition.");
       } finally {
         renderCurrent();
         renderWeekly();
-        if (manual) { recordRefreshCheck(); setRefreshLoading(false); }
       }
-    }
-
-    function recordRefreshCheck() {
-      const checkedAt = new Date().toISOString();
-      sessionStorage.setItem("aviation-pulse-last-check", checkedAt);
-      elements.lastRefreshed.textContent = "Just now";
-    }
-
-    function setRefreshLoading(loading) {
-      elements.refreshButton.disabled = loading;
-      elements.refreshButton.classList.toggle("loading",loading);
-      elements.refreshButton.querySelector("span").textContent = loading ? "Refreshing" : "Refresh";
     }
 
     function mergeCurrentEditions(liveItems) {
@@ -547,8 +498,6 @@
     });
     document.querySelectorAll("[data-tab]").forEach(button => button.addEventListener("click",()=>{document.querySelectorAll("[data-tab]").forEach(peer=>peer.setAttribute("aria-selected",String(peer===button)));document.querySelectorAll("[data-panel]").forEach(panel=>panel.hidden=panel.dataset.panel!==button.dataset.tab)}));
     document.addEventListener("click",event=>{const trigger=event.target.closest(".news-trigger,.history-trigger");if(!trigger)return;const expanded=trigger.getAttribute("aria-expanded")==="true";trigger.setAttribute("aria-expanded",String(!expanded));const detail=trigger.nextElementSibling;if(detail)detail.classList.toggle("open",!expanded)});
-    elements.refreshButton.addEventListener("click",refreshCurrent);
-
     renderCurrent();
     renderWeekly();
     loadCurrent();
