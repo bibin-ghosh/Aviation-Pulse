@@ -1,0 +1,34 @@
+name: Refresh verified aviation news
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build current source-checked edition
+        run: node scripts/refresh-news.mjs
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+
+      - name: Publish changed edition
+        run: |
+          if git diff --quiet -- data/current-news.json data/weekly-news.json; then exit 0; fi
+          git config user.name "aviation-pulse-bot"
+          git config user.email "aviation-pulse-bot@users.noreply.github.com"
+          git add data/current-news.json data/weekly-news.json
+          git commit -m "data: refresh verified aviation edition"
+          git push
