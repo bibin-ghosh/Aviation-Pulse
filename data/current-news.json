@@ -1,106 +1,593 @@
 {
-  "refreshedAt": "2026-08-09T06:30:00Z",
-  "edition": "source-checked-repository",
+  "refreshedAt": "2026-08-10T14:44:07.798Z",
+  "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "air-india-ceo-2026",
-      "headline": "Air India appoints Tewolde Gebremariam as CEO and Managing Director",
-      "summary": "Air India’s board appointed former Ethiopian Airlines Group chief Tewolde Gebremariam to succeed Campbell Wilson. The airline said the exact onboarding and transition schedule will be announced separately.",
-      "date": "2026-08-05T00:00:00Z",
-      "source": "Air India",
-      "sourceUrl": "https://www.airindia.com/in/en/newsroom/press-release/air-india-appoints-tewolde-gebremariam-as-chief-executive-officer-and-managing-director.html",
-      "scopes": ["world", "india", "air-india"],
-      "topics": ["business", "leadership"]
+      "id": "newsapi-india-0-0-ekl9hj",
+      "headline": "Confirmatory dope test results awaited for Air India pilot",
+      "summary": "Awaiting confirmatory dope test results for Air India pilot after initial screening indicated psychoactive substance presence following altitude incident.",
+      "date": "2026-08-09T13:17:34.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/confirmatory-dope-test-results-awaited-for-air-india-pilot/article71324881.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "safety"
+      ]
     },
     {
-      "id": "air-india-canada-2026",
-      "headline": "Air India adds Mumbai–Toronto service and deploys a new 787-9 to Toronto",
-      "summary": "Air India announced a seasonal three-times-weekly Mumbai–Toronto route for winter 2026–27 and began using its new Boeing 787-9 on Delhi–Toronto flights.",
-      "date": "2026-08-01T00:00:00Z",
-      "source": "Air India",
-      "sourceUrl": "https://www.airindia.com/in/en/newsroom/press-release/Air-India-expands-service-to-Canada-for-winter-season-with-new-Mumbai-Toronto-flights-begins-operating-brand-new-B787-9-on-Delhi-Toronto-flights.html",
-      "scopes": ["world", "india", "air-india"],
-      "topics": ["routes", "fleet"]
+      "id": "newsapi-world-0-0-pvwoat",
+      "headline": "I toured the 'Miracle on the Hudson' plane — here’s what surprised me",
+      "summary": "This is what it's like to tour the \"Miracle on the Hudson\" plane, which is on display near Charlotte Douglas International Airport (CLT).",
+      "date": "2026-08-09T13:00:51.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/guide/miracle-on-the-hudson-experience/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports"
+      ]
     },
     {
-      "id": "air-india-medical-logistics-2026",
-      "headline": "Air India, SkyDrive and Suzuki study eVTOL medical logistics in India",
-      "summary": "The three companies signed an MoU to assess using electric vertical take-off and landing aircraft for medical air logistics in India.",
-      "date": "2026-07-31T00:00:00Z",
-      "source": "Air India",
-      "sourceUrl": "https://www.airindia.com/in/en/newsroom/press-release/Air-India-SkyDrive-and-Suzuki-Sign-MoU-for-Feasibility-Study-of-Medical-Air-Logistics-in-India.html",
-      "scopes": ["world", "india", "air-india"],
-      "topics": ["technology", "cargo"]
-    },
-    {
-      "id": "moca-amritsar-hub-2026",
-      "headline": "India launches international hub-and-spoke operations from Amritsar",
-      "summary": "The Ministry of Civil Aviation inaugurated international hub-and-spoke operations from Amritsar, allowing through check-in and baggage connections via Delhi.",
-      "date": "2026-07-28T05:30:00Z",
-      "source": "PIB / Ministry of Civil Aviation",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290234&lang=1&reg=48",
-      "scopes": ["world", "india"],
-      "topics": ["airports", "operations"]
-    },
-    {
-      "id": "indigo-cfm-engines-2026",
-      "headline": "IndiGo and CFM sign MoU covering more than 1,000 LEAP-1A engines",
-      "summary": "The proposed agreement covers engines for 510 Airbus A320neo-family aircraft and support for IndiGo’s planned engine maintenance facility.",
-      "date": "2026-07-20T00:00:00Z",
-      "source": "IndiGo",
-      "sourceUrl": "https://www.goindigo.in/press-releases/indigo-cfm-sign-mou-for-1000-leap-1a-engines.html",
-      "scopes": ["world", "india"],
-      "topics": ["fleet", "business"]
-    },
-    {
-      "id": "alliance-air-daman-2026",
-      "headline": "Alliance Air begins the first direct scheduled air link between Daman and Delhi",
-      "summary": "Alliance Air launched the Daman–Delhi service from the newly operational NAMO Airport.",
-      "date": "2026-07-17T05:39:00Z",
-      "source": "PIB / Ministry of Civil Aviation",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285630&lang=1&reg=22",
-      "scopes": ["world", "india"],
-      "topics": ["routes", "airports"]
-    },
-    {
-      "id": "akasa-growth-2026",
-      "headline": "Akasa Air maintains a 30% capacity-growth target for FY27",
-      "summary": "Akasa Air said it was retaining its growth plan despite geopolitical and fuel-cost pressure. The airline reported a fleet of 39 Boeing 737 MAX aircraft.",
-      "date": "2026-06-23T08:17:00Z",
+      "id": "newsapi-india-0-1-1woaffv",
+      "headline": "CIAL posts record profit of ₹502 cr, plans foray into airport consultancy",
+      "summary": "The Cochin International Airport Ltd (CIAL) has said that it has reported its highest-ever annual financial performance, registering a record profit of over Rs 500 crore, for the first time in the company's history. CIAL, in a statement, further said that the…",
+      "date": "2026-08-09T05:38:28.000Z",
       "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/akasa-air-eyes-30-capacity-growth-in-fy27-despite-geopolitical-risks-126062300501_1.html",
-      "scopes": ["world", "india"],
-      "topics": ["business", "fleet"]
+      "sourceUrl": "https://www.business-standard.com/companies/news/cial-posts-record-profit-of-502-cr-plans-foray-into-airport-consultancy-126080900135_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
     },
     {
-      "id": "easa-gnss-2026",
-      "headline": "EASA updates Safety Information Bulletin on GNSS interference",
-      "summary": "EASA updated its safety guidance concerning interference with global navigation satellite systems.",
-      "date": "2026-07-02T00:00:00Z",
-      "source": "EASA",
-      "sourceUrl": "https://www.easa.europa.eu/en/newsroom-and-events/news",
-      "scopes": ["world"],
-      "topics": ["safety", "operations"]
+      "id": "newsapi-india-0-2-u6jdmh",
+      "headline": "Cochin International Airport says FY26 profit surpasses ₹500 cr on higher revenue",
+      "summary": "Cochin International Airport reports FY26 profit exceeds ₹500 crore, driven by increased revenue and plans for airport consultancy services.",
+      "date": "2026-08-09T04:13:49.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/cochin-international-airport-says-fy26-profit-surpasses-500-cr-on-higher-revenue/article71324021.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business",
+        "operations"
+      ]
     },
     {
-      "id": "easa-article89-2026",
-      "headline": "EASA assesses socio-economic factors affecting aviation safety",
-      "summary": "EASA published its second Article 89 report examining safety and socio-economic factors affecting safety-critical personnel.",
-      "date": "2026-06-08T00:00:00Z",
-      "source": "EASA",
-      "sourceUrl": "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-publishes-article-89-report-aviation-safety-and-socio",
-      "scopes": ["world"],
-      "topics": ["safety", "regulation"]
+      "id": "newsapi-india-0-3-ihc5ra",
+      "headline": "Pilots' body writes to PM Modi, tells why it wants ‘autonomous’ Civil Aviation Authority to replace DGCA",
+      "summary": "The Federation of Indian Pilots (FIP) said, “The objective was to replace the Directorate General of Civil Aviation (DGCA) with an autonomous statutory regulator having greater financial, administrative, and technical independence.”",
+      "date": "2026-08-09T01:46:26.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/pilots-body-writes-to-pm-modi-tells-why-it-wants-autonomous-civil-aviation-authority-to-replace-dgca-11786238751218.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
     },
     {
-      "id": "ntsb-dashboard-2026",
-      "headline": "NTSB expands its civil aviation accident dashboard with findings data",
-      "summary": "The NTSB enhanced its public civil aviation accident dashboard to include findings data.",
-      "date": "2026-05-04T00:00:00Z",
-      "source": "NTSB",
-      "sourceUrl": "https://www.ntsb.gov/news/press-releases/Pages/default.aspx",
-      "scopes": ["world"],
-      "topics": ["safety", "data"]
+      "id": "newsapi-india-0-4-10dui2o",
+      "headline": "Travel credit cards: The new winners after reward devaluations",
+      "summary": "Here is Mint'sannual ranking of the best travel-focused credit cards, taking into account not just reward rates but also recent devaluations.",
+      "date": "2026-08-09T00:59:32.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/money/personal-finance/travel-credit-cards-the-new-winners-after-reward-devaluations-11786040617975.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-c6ckhw",
+      "headline": "Washington, DC's Reagan National Airport plans $800 million expansion",
+      "summary": "Washington, D.C.'s Ronald Reagan Washington National Airport (DCA) is moving forward with a new nine-gate concourse for Southwest and other airlines.",
+      "date": "2026-08-08T15:00:12.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/washington-reagan-national-airport-dca-expansion/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-1zoc9u",
+      "headline": "Using AI to write complaint letters? Here's why it doesn't work",
+      "summary": "When travelers use AI to help write complaints to airlines, hotels and cruise lines, their efforts go off the rails. Here's what not to do.",
+      "date": "2026-08-08T13:00:07.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/ai-complaint-letter-fails/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-1c6kwnt",
+      "headline": "Air India can’t seem to catch a break as passengers blame airline for turbulence",
+      "summary": "A recent incident in which 17 passengers were injured due to turbulence on an Air India flight from Phuket has spawned a litany of complaints on social media",
+      "date": "2026-08-08T07:41:21.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-cant-seem-to-catch-a-break-as-passengers-blame-airline-for-turbulence/article71320636.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1n6xjbf",
+      "headline": "Akasa Air, AI Express say their B737 planes are not impacted by FAA directive",
+      "summary": "The US Federal Aviation Administration (FAA) on Thursday issued an Airworthiness Directive (AD) for certain Boeing 737-8, 737-9 and 737-8200 aircraft",
+      "date": "2026-08-08T06:05:27.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-ai-express-say-their-b737-planes-are-not-impacted-by-faa-directive/article71320562.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-1exvl1i",
+      "headline": "India, Sri Lanka review key power projects; reaffirm commitment to strengthening energy partnership",
+      "summary": "India and Sri Lanka strengthen energy partnership, reviewing key power projects and enhancing cooperation in renewable energy and cross-border trade.",
+      "date": "2026-08-08T05:11:26.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/india-sri-lanka-review-key-power-projects-reaffirm-commitment-to-strengthening-energy-partnership/article71320552.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1t4s8ma",
+      "headline": "ASK Property Fund invests in Bhoomika Group real estate projects",
+      "summary": "ASK Property Fund will invest ₹125 crore in a plotted development project in Faridabad, as a part of its arrangement to invest ₹500 crore in Bhoomika Group real estate projects",
+      "date": "2026-08-08T03:49:15.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/real-estate/ask-property-fund-invests-in-bhoomika-group-real-estate-projects/article71319102.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-3-11y3xo6",
+      "headline": "How I turn my Amex Platinum hotel statement credit into even more value",
+      "summary": "I’ve used my Amex Platinum hotel statement credit for five stays in two years. Here’s how I stack elite status, promotions and perks to maximize every booking.",
+      "date": "2026-08-07T16:00:51.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/amex-platinum-hotel-credit-strategy/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "faa-0-87chlh",
+      "headline": "FAA Opens New Asheville Air Traffic Control Tower to Support Record Growth in Western North Carolina",
+      "summary": "FAA Opens New Asheville Air Traffic Control Tower to Support Record Growth in Western North Carolina beth_krappweis Fri, 08/07/2026 - 11:51 ASHEVILLE, N.C. — The FAA today announced the opening of Asheville Regional Airport’s (AVL) new 121-foot air traffic control tower, which replaces the old facility built in 1961. The new facility provides controllers…",
+      "date": "2026-08-07T15:51:41.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-opens-new-asheville-air-traffic-control-tower-support-record-growth-western-north",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "faa-1-dffya5",
+      "headline": "FAA Proposes $289,215 Fine Against Gorge Drones for Unmanned Aircraft System Violations",
+      "summary": "FAA Proposes $289,215 Fine Against Gorge Drones for Unmanned Aircraft System Violations beth_krappweis Fri, 08/07/2026 - 11:24 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $289,215 civil penalty against Gorge Drones of Stevenson, Washington, for alleged unauthorized drone operations. The FAA alleges Gorge Drones operated a drone on…",
+      "date": "2026-08-07T15:24:41.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-289215-fine-against-gorge-drones-unmanned-aircraft-system-violations",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "fleet",
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-14x67pj",
+      "headline": "HAL Bengaluru introduces India’s first satellite-guided navigation for copters",
+      "summary": "Category H (RNP CAT H) helicopter approach procedure has been developed by the Airports Authority of India (AAI) and validated through flight trials by HAL test pilots",
+      "date": "2026-08-07T13:48:05.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/hal-bengaluru-introduces-indias-first-satellite-guided-navigation-for-copters/article71317139.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-pwd014",
+      "headline": "Akasa Air to ramp up operations with aircraft addition, loyalty programme",
+      "summary": "Akasa Air expands operations with new aircraft and a loyalty program, enhancing customer benefits and travel experiences.",
+      "date": "2026-08-07T13:46:53.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-to-ramp-up-operations-with-aircraft-addition-loyalty-programme/article71317900.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-bqz9ci",
+      "headline": "Safran explores expanding India presence beyond engines as aviation demand rises",
+      "summary": "Safran aims to expand its presence in India's aviation sector, targeting growth in engines, equipment, and interiors amid rising demand.",
+      "date": "2026-08-07T13:07:05.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/safran-explores-expanding-india-presence-beyond-engines-as-aviation-demand-rises/article71317140.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-1wd0vn9",
+      "headline": "Sensex today | Stock Market Highlights: Sensex falls 456 points, Nifty slips as banking stocks drag markets lower",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: 7 August 2026 - Indian benchmark indices closed lower on Friday, ending a two-day recovery, as weakness in banking and financial stocks combined with elevated crude oil prices and geopolitical concerns weighed…",
+      "date": "2026-08-07T10:53:45.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-7th-august-2026/article71314561.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-1lztldr",
+      "headline": "Malaysia Airlines' parent company MAG orders mandatory drug testing for pilots: Here's what we know",
+      "summary": "Malaysia Aviation Group (MAG) has ordered mandatory drug testing and stricter screening for pilots after a Malaysia Airlines pilot was arrested in Indonesia with 26 kg of MDMA.",
+      "date": "2026-08-07T07:28:42.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/malaysia-airlines-parent-company-mag-orders-mandatory-drug-testing-for-pilots-heres-what-we-know-11786086946888.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-1jktr4z",
+      "headline": "Akasa Air launches loyalty programme",
+      "summary": "Akasa Air launches 'Akasa Elevate' loyalty programme, rewarding members with points on flights and services for enhanced travel experiences.",
+      "date": "2026-08-07T06:02:45.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-launches-loyalty-programme/article71316391.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-101l09v",
+      "headline": "FAA directs Boeing to inspect hundreds of 737 Max jets over possible cracks: How many are active in India?",
+      "summary": "The FAA on Thursday (local time) ordered inspections of 471 Boeing 737 Max jets over concerns about possible cracks in a structural component. Boeing said it supports the directive and is working on fixes. The order comes amid past safety scrutiny of the airc…",
+      "date": "2026-08-07T05:12:24.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/faa-directs-boeing-to-inspect-hundreds-of-737-max-jets-over-possible-cracks-how-many-are-active-in-india-11786078775650.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-4-1sp14nb",
+      "headline": "7 years in the making: Delta will return to former Tokyo Narita hub in 2027",
+      "summary": "Delta Air Lines is marking its return to Tokyo's Narita Airport (NRT). The carrier will begin nonstop flights from Seattle in March 2027.",
+      "date": "2026-08-07T00:00:05.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/delta-air-lines-returns-tokyo-narita-2027/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-5-qrneqd",
+      "headline": "American cuts free upgrades from coach to business class: Now, you'll get premium economy",
+      "summary": "American Airlines is tightening its upgrade policy: Elite status flyers on domestic routes will now get upgrades to premium economy instead of business class.",
+      "date": "2026-08-06T18:48:55.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/american-ends-domestic-upgrades-coach-business-class/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-6-1vf12yw",
+      "headline": "Best low-annual-fee credit cards with no foreign transaction fees",
+      "summary": "Traveling soon? These credit cards charge no foreign transaction fees and cost less than $100 a year to hold. Here's how to pick the right one for you.",
+      "date": "2026-08-06T18:00:26.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/best-cards-low-annual-fee-no-foreign-transaction-fees/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-7-1xe9cay",
+      "headline": "Book international award flights for 50% off: Alaska Airlines releases August Atmos Rewards Global Getaways deals",
+      "summary": "Save up to 50% on Alaska Airlines Atmos Rewards award flights to Italy, Australia, Fiji, Japan and more. Book these Global Getaways deals by Aug. 8.",
+      "date": "2026-08-06T17:00:23.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/deals/alaska-airlines-global-getaways-promotion/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "faa-2-14crxwf",
+      "headline": "FAA Marks Major Milestone with Hybrid-Electric Flight Test in Utah",
+      "summary": "FAA Marks Major Milestone with Hybrid-Electric Flight Test in Utah beth_krappweis Thu, 08/06/2026 - 12:41 The Federal Aviation Administration today announced that Ampaire Inc. and the Utah Department of Transportation conducted a hybrid-electric demonstration flight along Utah’s I-15 corridor to test future cargo service. The flight took place between…",
+      "date": "2026-08-06T16:41:37.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-marks-major-milestone-hybrid-electric-flight-test-utah",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-1cnbugk",
+      "headline": "RBI releases second NBFC upper layer list",
+      "summary": "RBI's second NBFC upper layer list includes Tata Sons and four government-owned entities, imposing stricter governance and regulatory requirements.",
+      "date": "2026-08-06T16:29:55.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/money-and-banking/rbi-releases-second-nbfc-upper-layer-list/article71314408.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-8-nesf9l",
+      "headline": "Wells Fargo Travel portal: What to know before booking",
+      "summary": "Learn how the Wells Fargo Travel portal works, from booking flights and hotels to redeeming points. Here's what to know before you book your next trip.",
+      "date": "2026-08-06T16:00:00.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/wells-fargo-travel-portal-guide/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-1uoewzd",
+      "headline": "Praj GenX, Subsidiary of Praj Industries, Expands with Global Supply Agreement for Hyperscale Data Centers",
+      "summary": "Praj GenX, Subsidiary of Praj Industries, Expands with Global Supply Agreement for Hyperscale Data Centers",
+      "date": "2026-08-06T15:07:24.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/praj-genx-subsidiary-of-praj-industries-expands-with-global-supply-agreement-for-hyperscale-data-centers/article71312776.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-1l0rjf8",
+      "headline": "Akasa Air secures ₹740 crore ECLGS loan from IndusInd Bank to strengthen liquidity",
+      "summary": "Government-backed funding strengthens Akasa Air's finances as the airline expands operations and remains focused on long-term growth and future public listing.",
+      "date": "2026-08-06T13:15:27.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-secures-740-crore-eclgs-loan-from-indusind-bank-to-strengthen-liquidity/article71313538.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-3l5pye",
+      "headline": "Spotlight: Tewolde Gebremariam",
+      "summary": "Air India appoints Tewolde Gebremariam, ex-CEO of Ethiopian Airlines, to navigate through financial turbulence and drive growth.",
+      "date": "2026-08-06T13:03:55.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/spotlight-tewolde-gebremariam-a-proven-navigator/article71313235.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-1clgg97",
+      "headline": "Sensex today | Stock Market Highlights: Sensex climbs 374 pts; Nifty ends above 24,600 on RBI, crude oil cues",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights August 6: Indian benchmark indices ended higher on Thursday after a volatile, range-bound session, supported by easing crude oil prices, the Reserve Bank of India's steady policy stance and selective buying in …",
+      "date": "2026-08-06T11:09:51.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-6-august-2026/article71309748.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-106q0zb",
+      "headline": "Cochin International Airport steps up rain preparedness amid heavy downpours",
+      "summary": "Cochin International Airport enhances flood preparedness with improved drainage systems and real-time monitoring amid heavy rainfall.",
+      "date": "2026-08-06T09:55:26.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/cochin-international-airport-steps-up-rain-preparedness-amid-heavy-downpours/article71312989.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-world-2-0-1wf268t",
+      "headline": "EVA Air To Launch Nonstop Taipei－Delhi Service on December 1",
+      "summary": "Expands South Asia Network and Enhances IndiaNorth America Connectivity TAIPEI, Aug. 5, 2026 /PRNewswire/ -- EVA Air will begin a new nonstop service from Taipei to Delhi on December 1, with bookings now open on EVA Air's website or travel agencies.",
+      "date": "2026-08-06T05:26:17.000Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/press-release/pr-newswire/press-release-69d6514a65861a20018174c56a24617d",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-23-69a7hw",
+      "headline": "Govt working to develop manufacturing ecosystem for trainer aircraft, seaplanes",
+      "summary": "To boost pilot training activities in the country, Naidu said the civil aviation ministry is discussing with aviation regulator DGCA to improve infrastructure facilities at the Flying Training Organisations (FTOs) in the country",
+      "date": "2026-08-06T04:30:22.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/govt-working-to-develop-manufacturing-ecosystem-for-trainer-aircraft-seaplanes/article71312053.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "regulation"
+      ]
     }
   ]
 }
