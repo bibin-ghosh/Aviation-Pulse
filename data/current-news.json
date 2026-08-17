@@ -1,7 +1,133 @@
 {
-  "refreshedAt": "2026-08-16T03:14:55.400Z",
+  "refreshedAt": "2026-08-17T03:14:33.678Z",
   "edition": "github-scheduled-source-check",
   "items": [
+    {
+      "id": "newsapi-world-0-0-15s2a28",
+      "headline": "12 new boutique hotels worth redeeming your points for",
+      "summary": "These hotels are unique, stylish and points-friendly",
+      "date": "2026-08-15T18:00:32.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/hotel/boutique-hotels-book-with-points/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-dn6ljw",
+      "headline": "Motilal Oswal Small Cap, Bank of India Small Cap, Parag Parikh Flexi Cap, Helios Flexi Cap: Flat Nifty, Divided Fortunes: The Two-Year Tale of Equity Fund Winners and Losers",
+      "summary": "Two-year performance reveals how market rotations, drawdown protection and stock selection sharply separated equity fund winners from laggards",
+      "date": "2026-08-15T16:13:04.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/big-story/motilal-oswal-small-cap-bank-of-india-small-cap-parag-parikh-flexi-cap-helios-flexi-cap-flat-nifty-divided-fortunes-the-two-year-tale-of-equity-fund-winners-and-losers/article71345282.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-h9ywnp",
+      "headline": "Reliance, Rolls-Royce team up for India’s advanced fighter jet engine programme",
+      "summary": "The proposed collaboration comes as India seeks greater self-reliance in defence technology and prepares to develop next-generation twin-engine combat aircraft",
+      "date": "2026-08-15T14:20:09.000Z",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/reliance-taps-rolls-royce-to-make-fighter-jet-engines-in-india",
+      "scopeHint": "world",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-1kzfjvf",
+      "headline": "Special offers on TPG's favorite travel tools and services",
+      "summary": "Discover exclusive travel deals and discounts through TPG, including savings on Clear+, Point.me, Junova and more.",
+      "date": "2026-08-15T14:00:48.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/deals/tpg-special-offers/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1f5l2l1",
+      "headline": "Investments, infrastructure development, job creation top priorities: Telangana CM Revanth Reddy",
+      "summary": "Telangana targeting high-growth sectors like life sciences, semiconductors, electronics and advanced manufacturing, CM Reddy says in his 80th Independence Day address",
+      "date": "2026-08-15T06:14:17.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/investments-infrastructure-development-job-creation-top-priorities-telangana-cm-revanth-reddy/article71348604.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-1bbnjnv",
+      "headline": "PM Modi announces AI training for 10 million youth over the next year",
+      "summary": "The programme would mark a sharp expansion of existing AI skilling efforts, with Modi also highlighting opportunities in aviation, sports, green mobility and other emerging sectors",
+      "date": "2026-08-15T05:41:33.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/modi-ai-training-one-crore-youth-independence-day-viksit-bharat-126081500716_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-zaq94k",
+      "headline": "Govt cuts windfall tax on diesel, petrol and ATF exports, effective today",
+      "summary": "Diesel export duty lowered to ₹24 a litre from ₹25.5, while petrol levy is scrapped and ATF tax cut to ₹19.5 a litre as oil prices fall",
+      "date": "2026-08-15T04:49:17.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/govt-cuts-windfall-tax-on-diesel-petrol-and-atf-exports-effective-today-126081500013_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-148lxi7",
+      "headline": "From sugar mill to biorefinery: The next transformation of India’s sugar industry",
+      "summary": "In future, they may be defined by how intelligently they convert cane and its associated streams into food, fuel, energy and higher-value products",
+      "date": "2026-08-15T04:40:16.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/agri-business/from-sugar-mill-to-biorefinery-the-next-transformation-of-indias-sugar-industry/article71346916.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
     {
       "id": "newsapi-world-2-0-1y9mykz",
       "headline": "Commander-In-Chief's Callous Response As US Sailors Throw Themselves Overboard In Iran war...",
@@ -35,7 +161,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-53vznc",
+      "id": "newsapi-world-0-3-53vznc",
       "headline": "Considering canceling your credit card? Here's why you might want to \"downgrade\" it instead",
       "summary": "Cancel, downgrade or product change? What should you do with your credit cards when you don't want to pay the annual fee again? Here are factors to consider.",
       "date": "2026-08-14T20:00:54.000Z",
@@ -65,7 +191,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-xzo4dc",
+      "id": "newsapi-india-0-5-xzo4dc",
       "headline": "Air India A320 briefly lost key flight controls, Airbus analysis shows",
       "summary": "Airbus' initial analysis showed the plane ​registered losses in all three hydraulic systems, which use pressurised fluid to power flight controls and other equipment, in quick succession.",
       "date": "2026-08-14T17:14:59.000Z",
@@ -83,7 +209,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-1-48txqz",
+      "id": "newsapi-world-0-4-48txqz",
       "headline": "Delta plans major Asia growth, confirms Singapore flights are coming: 'We're going to be back'",
       "summary": "Delta Air Lines hopes to resume service to Singapore's Changi Airport (SIN) as part of a build-up of its Pacific service.",
       "date": "2026-08-14T15:59:56.000Z",
@@ -99,7 +225,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1tum18j",
+      "id": "newsapi-india-0-6-1tum18j",
       "headline": "Q1 Results Today Highlights: BDL, Ashok Leyland, 3M India Q1 PAT rise y-o-y, Electrotherm, NATCO Pharma, Alkem Lab PAT decline, NMDC, Voltas, Cochin Shipyard, Physicswallah, PTC Ind, Borosil to announce Q1 results",
       "summary": "Q1 Results Today, 14th August 2026 Highlights: Find all the latest Q1 results 2026 updates of 3M India Ltd, 7Seas Entertainment Ltd, AAA Technologies Ltd, Aadhaar Ventures India Ltd, Aadi Industries Ltd, Aanchal Ispat Ltd, Aarey Drugs & Pharmaceuticals Ltd, A…",
       "date": "2026-08-14T15:39:55.000Z",
@@ -115,7 +241,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-gv2y5y",
+      "id": "newsapi-india-0-7-gv2y5y",
       "headline": "Reliance, Rolls-Royce join hands to develop indigenous engine for AMCA — full details here",
       "summary": "Reliance Industries and Rolls-Royce announced a partnership to develop a combat aircraft engine for India's AMCA programme, aiming to enhance domestic fighter-jet propulsion capabilities. They plan to establish an Aerospace Gas Turbine Complex in India for th…",
       "date": "2026-08-14T14:57:47.000Z",
@@ -131,7 +257,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-3ex4f0",
+      "id": "newsapi-india-0-8-3ex4f0",
       "headline": "Air India plans 16 B787-8 retrofits in 2027, over 100 new aircraft in two years",
       "summary": "Air India plans 16 B787-8 retrofits and over 100 new aircraft by 2028, amid ongoing fleet transformation efforts.",
       "date": "2026-08-14T14:52:13.000Z",
@@ -148,7 +274,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-lobf2z",
+      "id": "newsapi-india-0-9-lobf2z",
       "headline": "Public trust in aviation will not be allowed to be broken: Civil Aviation Minister Naidu",
       "summary": "Civil Aviation Minister Naidu assures public trust in aviation will remain intact, emphasizing stringent measures post-Air India incident investigation.",
       "date": "2026-08-14T14:39:27.000Z",
@@ -165,7 +291,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-vvrggw",
+      "id": "newsapi-india-0-10-vvrggw",
       "headline": "TFS posts strong Q1FY27 results; shares in red despite earnings beat",
       "summary": "Sales growth was a muted 0.8%, weighed down by passenger traffic disruptions linked to the West Asia conflict and terminal migration at airports",
       "date": "2026-08-14T13:36:02.000Z",
@@ -181,7 +307,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-66840v",
+      "id": "newsapi-india-0-11-66840v",
       "headline": "TCS & Rolls-Royce achieve milestone in hydrogen propulsion programme",
       "summary": "The companies demonstrated the operation of a modern aero gas turbine across a fully simulated flight cycle using 100 per cent hydrogen, including take-off and landing",
       "date": "2026-08-14T13:33:30.000Z",
@@ -197,7 +323,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-wec94l",
+      "id": "newsapi-india-0-12-wec94l",
       "headline": "Reliance, Rolls-Royce partner to co-develop fighter jet engine for 5th gen AMCA project",
       "summary": "RIL and R-R will explore the formation of a dedicated Aerospace Gas Turbine Complex that will be a centre of excellence for power and propulsion technology in India",
       "date": "2026-08-14T13:31:04.000Z",
@@ -213,7 +339,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1lau62v",
+      "id": "newsapi-india-0-13-1lau62v",
       "headline": "Air India CEO-designate Gebremariam meets top executives during India visit",
       "summary": "Tewolde Gebremariam, who is set to take over the reins of Air India next month, held meetings with senior airline executives this week during his first visit to India after being appointed as CEO and MD, according to officials. Gebremariam, an aviation indust…",
       "date": "2026-08-14T13:23:33.000Z",
@@ -230,7 +356,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-1kignyp",
+      "id": "newsapi-india-0-14-1kignyp",
       "headline": "Alluri Sitarama Raju International Airport at Bhogapuram to begin operations from Aug 17",
       "summary": "Alluri Sitarama Raju International Airport in Bhogapuram will start operations on August 17, enhancing regional connectivity and opportunities.",
       "date": "2026-08-14T12:55:26.000Z",
@@ -247,7 +373,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-tswp48",
+      "id": "newsapi-india-0-15-tswp48",
       "headline": "Airbus’ initial report flags temporary loss of flight-control in Air India incident",
       "summary": "Airbus' report identifies hydraulic system loss causing temporary flight-control issues in Air India's August 4 incident; investigation ongoing.",
       "date": "2026-08-14T12:40:39.000Z",
@@ -266,7 +392,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-1qlpeyr",
+      "id": "newsapi-india-0-17-1qlpeyr",
       "headline": "Sensex today | Stock Market Highlights: Sensex shed 70.71 pts or 0.09% to end at 78,009.25 after hitting a low of 77,684.37; Nifty 50 dipped 29.85 pts or 0.12% to 24,366",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights - Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 14th August 2026.",
       "date": "2026-08-14T10:37:55.000Z",
@@ -282,7 +408,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-1qz9qa1",
+      "id": "newsapi-india-0-18-1qz9qa1",
       "headline": "Campus placements rebound in 2026 as IT firms step up fresher hiring",
       "summary": "Better visibility among major service firms alongside increasing demand from start-ups and core sectors is contributing to a rebound in fresher hiring this year, say experts",
       "date": "2026-08-14T10:12:16.000Z",
@@ -299,7 +425,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-15-2puvd4",
+      "id": "newsapi-india-0-20-2puvd4",
       "headline": "160X8.0 Series Launch 21st August -- Breakthrough GT1200 Carbon Plate Powers Xtep's 160X 8.0 Ultra",
       "summary": "160X8.0 Series Launch 21st August -- Breakthrough GT1200 Carbon Plate Powers Xtep's 160X 8.0 Ultra",
       "date": "2026-08-14T08:02:10.000Z",
@@ -315,7 +441,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-s7d90o",
+      "id": "newsapi-india-0-21-s7d90o",
       "headline": "Air India Express sale: Save up to 20% on flights; how to get extra 10% off",
       "summary": "Bookings are open until 16 August 2026 for travel between 16 August 2026 and 31 October 2026",
       "date": "2026-08-14T07:56:35.000Z",
@@ -332,7 +458,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-17-19gag82",
+      "id": "newsapi-india-0-22-19gag82",
       "headline": "Uttar Pradesh Multi-Modal Logistics Park Policy, 2024: Key features",
       "summary": "UP Multi-Modal Logistics Park Policy: The policy is a specialised state framework for attracting large private investments in integrated freight and logistics infrastructure",
       "date": "2026-08-14T04:51:43.000Z",
@@ -348,7 +474,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-2-nsplan",
+      "id": "newsapi-world-0-5-nsplan",
       "headline": "Asian stocks rise as US inflation, tech spur gains",
       "summary": "Asian stocks rise 0.5% as US inflation eases, boosting tech shares and extending gains for a fourth consecutive week.",
       "date": "2026-08-14T04:32:24.000Z",
@@ -363,7 +489,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-18-44566k",
+      "id": "newsapi-india-0-23-44566k",
       "headline": "IndiGo launches Vijayawada-Varanasi and Vijayawada-Kolkata flights",
       "summary": "IndiGo has launched new Vijayawada flights to Varanasi and Kolkata, operating three days a week, with more routes and international connectivity planned.",
       "date": "2026-08-14T03:18:04.000Z",
@@ -379,7 +505,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-19-14ufj7f",
+      "id": "newsapi-india-0-24-14ufj7f",
       "headline": "House panel recommends airport-style overhaul for bus terminals: Details",
       "summary": "A parliamentary panel has proposed a national authority, common terminal standards and fee-based access for private buses, alongside digital permits and safety reforms",
       "date": "2026-08-14T03:10:53.000Z",
@@ -397,7 +523,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-20-y6clbe",
+      "id": "newsapi-india-0-25-y6clbe",
       "headline": "Beyond early retirement, the real FIRE power of financial independence",
       "summary": "While financial independence can be liberating, retiring early may feel hollow if it means withdrawing entirely from work or society without a clear end goal.",
       "date": "2026-08-14T01:00:17.000Z",
@@ -413,7 +539,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-3-13k9lp8",
+      "id": "newsapi-world-0-6-13k9lp8",
       "headline": "I paid $3 for the best eclipse view on Earth — and it was from a plane",
       "summary": "I booked a flight for 14,000 Avios plus 2.50 British pounds (about $3) in taxes and fees, and watched the solar eclipse from the sky.",
       "date": "2026-08-14T00:03:09.000Z",
@@ -428,7 +554,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-4-af4903",
+      "id": "newsapi-world-0-7-af4903",
       "headline": "Which United credit card is right for you? Comparing the Explorer, Quest, Club and Business cards",
       "summary": "Not sure which United credit card to get? Compare the Explorer, Quest, Club and Business cards to find the best fit for your travel style.",
       "date": "2026-08-13T19:00:48.000Z",
@@ -443,7 +569,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-21-4rrsl7",
+      "id": "newsapi-india-0-26-4rrsl7",
       "headline": "Air India faces challenges; group plans to induct over 100 planes in 2 yrs",
       "summary": "Air India is facing challenges due to external volatility but remains focused on the profitability path and plans to induct over 100 new planes over the next two years, its CEO Campbell Wilson said on Thursday. The loss-making airline has been facing multiple…",
       "date": "2026-08-13T18:12:21.000Z",
@@ -457,134 +583,6 @@
       ],
       "topics": [
         "business"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-5-1qrjozj",
-      "headline": "Delta to launch Paris flights from Austin, a major boost for its Texas focus city",
-      "summary": "Delta Air Lines is planning to bring its first long-haul service to Austin, Texas, its fast-growing focus city. Paris service begins in March 2027.",
-      "date": "2026-08-13T18:00:28.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/delta-air-lines-new-service-austin-paris/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-4-18qetyo",
-      "headline": "Under N Chandrasekaran, Tata Sons earned ₹2.71 trillion dividend",
-      "summary": "He used the dividend bonanza to invest nearly ₹1 trillion in group unlisted companies and new ventures, more than its predecessors",
-      "date": "2026-08-13T18:00:11.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/news/under-n-chandrasekaran-tata-sons-earned-2-71-trillion-dividend-126081301954_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-qhrdnw",
-      "headline": "Top Business & Market Headlines Today — BL Morning Report, August 14, 2026",
-      "summary": "BL Morning Report August 14, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "date": "2026-08-13T16:01:43.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-august-14-2026/article71341789.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-qodbz7",
-      "headline": "Tata Trusts begins process to select Chandra’s successor as Tata Sons Chairman",
-      "summary": "Tata Trusts has initiated the process to select a new Chairman in place of incumbent N Chandrasekaran, who has opted against a third term beginning February 2027. The Sir Dorabji Tata Trust (SDTT) passed a resolution on Thursday “to initiate the setting up of…",
-      "date": "2026-08-13T15:32:54.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/tata-trusts-begins-process-to-select-chandras-successor-as-tata-sons-chairman/article71341984.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-6-dn39m8",
-      "headline": "United adds 2 San Francisco routes, indefinitely postpones Chicago expansion",
-      "summary": "United Airlines is growing in San Francisco after the FAA eased flight limits but remains hamstrung at Chicago O'Hare.",
-      "date": "2026-08-13T15:00:41.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/united-airlines-routes-san-francisco-chicago-ohare/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-1fiukbw",
-      "headline": "Who will be next chairman of Tata Sons as N Chandrasekaran exits? Speculation swirls around 'proven Tata insider'",
-      "summary": "While Tata Trusts does not play a role in the day-to-day management of the conglomerate, its shareholding in the parent company gives it decisive influence over the group's future.",
-      "date": "2026-08-13T14:41:16.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/who-will-be-next-chairman-of-tata-sons-as-n-chandrasekaran-exits-speculation-swirls-around-proven-tata-insider-11786625660460.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-6-1aem2pz",
-      "headline": "Japanese eVTOL maker SkyDrive may start commercial India flights from 2029",
-      "summary": "SkyDrive plans to spend the next two years securing type certification in the US and Japan before pursuing approvals in India and other markets, its CEO said",
-      "date": "2026-08-13T14:01:44.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/japanese-evtol-maker-skydrive-may-start-commercial-india-flights-from-2029-126081301791_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-7-15ir1n1",
-      "headline": "The wait is over: Blade flights are now bookable using Bilt Cash",
-      "summary": "Bilt members can now redeem up to $350 in Bilt Cash for Blade helicopter flights twice per year. Here's how the new redemption option works.",
-      "date": "2026-08-13T14:00:45.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/bilt-cash-blade-flights/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
       ]
     }
   ]
