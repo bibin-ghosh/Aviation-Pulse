@@ -1,9 +1,305 @@
 {
-  "refreshedAt": "2026-08-26T03:27:36.328Z",
+  "refreshedAt": "2026-08-27T12:50:44.453Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "faa-0-c33l5f",
+      "id": "faa-0-swziac",
+      "headline": "FAA Proposes $127,500 Fine Against Ameriflight for Alleged Drug and Alcohol Testing Violations",
+      "summary": "FAA Proposes $127,500 Fine Against Ameriflight for Alleged Drug and Alcohol Testing Violations jennifer_rossi Wed, 08/26/2026 - 11:58 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $127,500 civil penalty against Ameriflight, LLC of Dallas-Fort Worth, Texas, for allegedly violating drug and alcohol testing regulations. &nbsp; The FAA…",
+      "date": "2026-08-26T15:58:16.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-127500-fine-against-ameriflight-alleged-drug-and-alcohol-testing-violations",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "faa-1-8hq1kq",
+      "headline": "FAA Proposes $60,000 Fine Against Lycoming Engines for Aircraft Maintenance Violations",
+      "summary": "FAA Proposes $60,000 Fine Against Lycoming Engines for Aircraft Maintenance Violations jennifer_rossi Wed, 08/26/2026 - 11:56 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $60,000 civil penalty against Lycoming Engines of Williamsport, Pennsylvania, for allegedly violating aircraft maintenance regulations. &nbsp; &nbsp; The FAA…",
+      "date": "2026-08-26T15:56:57.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-60000-fine-against-lycoming-engines-aircraft-maintenance-violations",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "faa-2-y02jj4",
+      "headline": "FAA Proposes $69,948 Fine Against Holling Enterprises for Aircraft Maintenance Violations",
+      "summary": "FAA Proposes $69,948 Fine Against Holling Enterprises for Aircraft Maintenance Violations jennifer_rossi Wed, 08/26/2026 - 11:55 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $69,948 civil penalty against Holling Enterprises of St. Augustine, Florida, for allegedly violating aircraft maintenance regulations. &nbsp; The FAA alleges the…",
+      "date": "2026-08-26T15:55:47.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-69948-fine-against-holling-enterprises-aircraft-maintenance-violations",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "faa-3-1r0b2qn",
+      "headline": "FAA Proposes $73,000 Fine Against Lifeflight Aviation Services for Alleged Drug and Alcohol Testing Violations",
+      "summary": "FAA Proposes $73,000 Fine Against Lifeflight Aviation Services for Alleged Drug and Alcohol Testing Violations jennifer_rossi Wed, 08/26/2026 - 11:54 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $73,000 civil penalty against Lifeflight Aviation Services, LLC of Bangor, Maine, for allegedly violating FAA drug and alcohol testing…",
+      "date": "2026-08-26T15:54:40.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-73000-fine-against-lifeflight-aviation-services-alleged-drug-and-alcohol",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-z81txi",
+      "headline": "HAL and Safran ink deal for joint development, manufacture of new-generation copter engine",
+      "summary": "HAL and Safran partner to develop the Aravalli helicopter engine, enhancing India’s aerospace capabilities by 2032-33.",
+      "date": "2026-08-26T12:36:59.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/hal-and-safran-ink-deal-for-joint-development-manufacture-of-copter-engine-aravalli/article71392720.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-0-resdhx",
+      "headline": "Skyways Air Services IPO subscribed 5.08 times",
+      "summary": "The offer received bids for 15.02 crore shares as against 2.95 crore shares on offer.",
+      "date": "2026-08-26T11:46:10.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-5-08-times-126082600887_1.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1w52t3x",
+      "headline": "Flight ticket prices may remain high in India despite easing jet fuel rates",
+      "summary": "Asia-Pacific airlines, including India's, may maintain high fares despite falling jet fuel prices due to strong passenger demand, says S&P.",
+      "date": "2026-08-26T09:17:53.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/flight-ticket-prices-may-remain-high-in-india-despite-easing-jet-fuel-rates/article71392106.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-4izs0z",
+      "headline": "Over 600,000 Indian travellers visited Singapore in first half of 2026",
+      "summary": "India continued to be an important source market for Singapore's tourism sector in the first half of 2026, with visitor arrivals crossing 6,00,000 between January and June, the Singapore Tourism Board (STB) said on Wednesday. \"India's consistent performance i…",
+      "date": "2026-08-26T08:28:56.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/over-600-000-indian-travellers-visited-singapore-in-first-half-of-2026-126082600515_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-8jw0qu",
+      "headline": "Air India, Bhutan's Drukair to offer travel across each other's networks",
+      "summary": "Air India on Wednesday said it has entered into an interline partnership with Bhutanese flag carrier Drukair-Royal Bhutan Airlines to offer passengers seamless travel on each other's network and strengthen connectivity between the two South Asian neighbours. …",
+      "date": "2026-08-26T08:07:22.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-bhutan-s-drukair-to-offer-travel-across-each-other-s-networks-126082600488_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-zykxhn",
+      "headline": "Air India ties up with Drukair-Royal Bhutan Airlines for offering flight service on each other's network",
+      "summary": "Tata group-owned Air India says it now provides connectivity to nearly all countries in the SAARC region through its own or partner networks",
+      "date": "2026-08-26T07:56:27.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-ties-up-with-drukair-royal-bhutan-airlines-for-offering-flight-service-on-each-others-network/article71392011.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-1djgisz",
+      "headline": "Bill Gates seeks meeting with Xi Jinping to push global AI safety efforts",
+      "summary": "Gates' staff are working to finalize a meeting with Xi for his next China trip, his spokesperson said, scheduled tentatively ​for November",
+      "date": "2026-08-26T07:54:54.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/bill-gates-seeks-meeting-with-xi-jinping-to-push-global-ai-safety-efforts-126082600500_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-16aj7ox",
+      "headline": "Why is Bill Gates spooked by AI all of a sudden?",
+      "summary": "Bill Gates seeks dialogue with Xi Jinping to address global AI risks and propose collaborative policy measures for safety.",
+      "date": "2026-08-26T07:44:42.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/why-is-bill-gates-spooked-by-ai-all-of-a-sudden/article71391952.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-1osznv6",
+      "headline": "Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways",
+      "summary": "Chennai Airport's proposed Terminal 5 aims to boost capacity by 20 million passengers without disrupting existing runways.",
+      "date": "2026-08-26T06:31:56.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/chennai-airports-proposed-terminal-5-likely-to-be-positioned-between-two-runways/article71391318.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1e6sqbj",
+      "headline": "Delhi-Mumbai Expressway reaches Delhi: Check all route details here",
+      "summary": "The 9-km elevated stretch connects DND Flyway with the Delhi-Mumbai Expressway, offering faster routes to Faridabad, Ballabhgarh and Sohna while easing traffic on Delhi's existing roads",
+      "date": "2026-08-26T04:04:32.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/9-km-dnd-flyway-jaitpur-stretch-opens-on-trial-all-you-need-to-know-126082600176_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-t8hety",
+      "headline": "Elon Musk's SpaceX to build ‘biggest launch site on Earth’ in Louisiana for $100 billion",
+      "summary": "SpaceX plans to invest $100 billion to build Starbase Louisiana, a 125,000-acre spaceport expected to support thousands of Starship flights annually. Construction will begin in 2027, with the first launch planned for 2029. The company expects to create over 3…",
+      "date": "2026-08-26T02:32:06.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/elon-musks-spacex-to-build-biggest-launch-site-on-earth-in-louisiana-for-100-billion-11787710915634.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-170t1n5",
+      "headline": "Air India seeks $1.5 billion fresh equity from Tata Sons, Singapore Airlines",
+      "summary": "Air India seeks about $1.5 billion in fresh equity from Tata Sons and Singapore Airlines as the airline tackles record losses and a costly turnaround.",
+      "date": "2026-08-26T01:46:13.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-seeks-15-billion-fresh-equity-from-tata-sons-singapore-airlines/article71391239.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-1r0tno6",
+      "headline": "Best of BS Opinion: Limits of 'Economic D-Day' lie at China's gates",
+      "summary": "Today's Best of BS Opinion examines US sanctions on Iran, H1N1 risks, aviation regulation, hard-to-abate sector transition plans and India's software product journey.",
+      "date": "2026-08-26T00:45:33.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-iran-sanctions-h1n1-aviation-regulation-126082501526_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-1hq4n7r",
+      "headline": "We raced from JFK to the Empire State Building — which mode of transportation was fastest?",
+      "summary": "Three TPG staffers raced from New York's John F. Kennedy International Airport (JFK) to the Empire State Building using three different modes of transportation. Which was fastest?",
+      "date": "2026-08-25T21:30:35.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/travel/new-york-jfk-empire-state-building-race/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "faa-4-c33l5f",
       "headline": "Trump’s Transportation Secretary Duffy & FAA Administrator Bedford Celebrate Opening of Key Manufacturing Plant for Air Traffic Control Modernization",
       "summary": "Trump’s Transportation Secretary Duffy & FAA Administrator Bedford Celebrate Opening of Key Manufacturing Plant for Air Traffic Control Modernization brianne_dorsey Tue, 08/25/2026 - 17:22 Plant supports agency’s aggressive air traffic control system modernization overhaul WASHINGTON, D.C. — U.S. Transportation Secretary Sean P. Duffy and Federal…",
       "date": "2026-08-25T21:22:34.000Z",
@@ -19,219 +315,27 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-uxzrt5",
-      "headline": "US unveils 'economic D-Day' against Iran, warns trade partners of sanctions",
-      "summary": "The statement marked the latest bid to force capitulation from Iran, which has refused to bow to US demands despite months of US bombing that began in February as well as decades of economic sanctions",
-      "date": "2026-08-25T02:08:07.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/us-unveils-economic-d-day-against-iran-warns-trade-partners-of-sanctions-126082500082_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-0-sai65u",
-      "headline": "A $10 billion financial knot awaits Chandrasekaran’s successor",
-      "summary": "Capital allocation, management bandwidth and attention across new-age and listed businesses will put the next Tata group chairperson’s leadership to the test.",
-      "date": "2026-08-25T00:31:00.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/a-10-billion-financial-knot-awaits-chandrasekaran-s-successor-11787565128753.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-0-1d3ejoh",
-      "headline": "JetBlue says all Mint flyers can now access its lounges",
-      "summary": "JetBlue will start allowing passengers flying in Mint business class on domestic flights to access its airport lounges at New York's JFK and Boston Logan.",
-      "date": "2026-08-24T20:45:26.000Z",
+      "id": "newsapi-world-0-1-175v88d",
+      "headline": "TPG’s 10 commandments of credit card rewards",
+      "summary": "10 rules for maximizing travel credit cards, such as avoiding interest payments and getting a card with no foreign transaction fees.",
+      "date": "2026-08-25T20:00:12.000Z",
       "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/jetblue-lounge-access-domestic-mint-bluehouse/",
+      "sourceUrl": "https://thepointsguy.com/loyalty-programs/ten-credit-card-commandments/",
       "scopeHint": "world",
       "scopes": [
         "world"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-1-rd22sy",
-      "headline": "JetBlue opens new Boston BlueHouse lounge",
-      "summary": "JetBlue unveiled its new Boston Logan International Airport (BOS) lounge, featuring locally inspired food, cocktails, coffee and spaces. See what it's like inside.",
-      "date": "2026-08-24T19:00:00.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/jetblue-boston-lounge-bluehouse/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-1-1cyv07j",
-      "headline": "Weak rains, services likely eased Q1 FY27 growth to 4-quarter low",
-      "summary": "India's GDP growth is likely to ease to around 7.2% in Q1 FY27, a four-quarter low, amid softer services activity and a delayed monsoon despite resilient domestic demand",
-      "date": "2026-08-24T18:40:13.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/news/weak-rains-services-likely-eased-q1-fy27-growth-to-4-quarter-low-126082401125_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-x5fxi",
-      "headline": "Everything you need to know about Amex Pay with Points",
-      "summary": "Learn how Amex Pay with Points works, how much Membership Rewards points are worth and when this redemption option makes sense.",
-      "date": "2026-08-24T16:00:01.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/amex-pay-with-points-guide/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-1l2ax7",
-      "headline": "Allegiant's new first-class seats are now on sale: Which routes can you book?",
-      "summary": "Budget carrier Allegiant Air has put its new first-class seats on sale for select flights in and out of a Florida airport.",
-      "date": "2026-08-24T15:30:30.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/allegiant-first-class-seats-available-march-2027/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-2-1dtpo8j",
-      "headline": "Economic activity growth eases to 11.4% in July from 12.1% in June: ICRA",
-      "summary": "Mining, electricity, e-way bills and domestic air traffic weighed on growth in July, while cement and coal output strengthened and unemployment declined",
-      "date": "2026-08-24T15:27:31.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/news/economic-activity-growth-eases-to-11-4-in-july-from-12-1-in-june-icra-126082401282_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-3-5krh8j",
-      "headline": "Chennai’s second airport search back on the agenda after Parandur setback",
-      "summary": "Chennai's second airport search resumes after Parandur setback, focusing on Kancheepuram and Chengalpattu districts for potential sites.",
-      "date": "2026-08-24T14:47:03.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/chennais-second-airport-search-back-on-the-agenda-after-parandur-setback/article71384632.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-world-2-0-15oug9t",
-      "headline": "Ontario says Canada should be ready to cut electricity, critical minerals to US",
-      "summary": "Ontario Premier Doug Ford tells The Associated Press that Ronald Reagan would be “throwing up” over President Donald Trump’s trade policies and threatened to cut off electricity and critical minerals to the United States if the Canada-U.S. trade fight worsens…",
-      "date": "2026-08-24T14:43:12.000Z",
-      "source": "Associated Press",
-      "sourceUrl": "https://apnews.com/article/canada-trade-trump-ontario-53c4f83c8365c14b372b314396ae8179",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-4-c35ggg",
-      "headline": "How to Get an Instant Credit Card with JioFinance Without Any Credit History",
-      "summary": "How to Get an Instant Credit Card with JioFinance Without Any Credit History",
-      "date": "2026-08-24T14:21:53.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/how-to-get-an-instant-credit-card-with-jiofinance-without-any-credit-history/article71364315.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-5-1lep2y4",
-      "headline": "Private operators expected to invest ₹8,622 cr in 11 AAI airports proposed for lease",
-      "summary": "Private operators are set to invest ₹8,622 crore in 11 AAI airports, promising strong equity returns and city-side development.",
-      "date": "2026-08-24T13:54:00.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/private-operators-expected-to-invest-8622-cr-in-11-aai-airports-proposed-for-lease/article71384798.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-6-17ayyey",
-      "headline": "Foreign airlines knock DGCA’s doors for dangerous goods carriage permit",
-      "summary": "Foreign airlines seek DGCA approval for transporting dangerous goods to/from India following new regulations implemented last week.",
-      "date": "2026-08-24T13:39:07.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/foreign-airlinesknock-dgcas-doors-for-dangerous-goods-carriagepermit/article71384732.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
       ],
       "topics": [
         "regulation"
       ]
     },
     {
-      "id": "newsapi-india-0-7-pcnkb8",
-      "headline": "Global brands betting big on Indian developers",
-      "summary": "For global brands, India represents more than a high-growth market and real estate offers a long-term extension of brand identity, making the choice of Indian development partners critical",
-      "date": "2026-08-24T13:11:35.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/real-estate/global-brands-betting-big-on-indian-developers/article71384365.ece",
+      "id": "newsapi-india-0-12-11fxe4f",
+      "headline": "Govt mulls random drug tests for all commercial pilots round the year",
+      "summary": "The civil aviation ministry is looking at the possibility of carrying out psychoactive substance tests for all commercial pilots round the year on a random basis. Civil Aviation Minister K Rammohan Naidu on Tuesday said the Directorate General of Civil Aviati…",
+      "date": "2026-08-25T17:57:15.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/govt-mulls-random-drug-tests-for-all-commercial-pilots-round-the-year-126082500490_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -242,28 +346,28 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1xjnifl",
-      "headline": "MIAL to begin partial demolition of Mumbai airport's T1 from January 15",
-      "summary": "Adani Group-operated Mumbai airport will start demolishing a part of Terminal 1 from January 15, 2027 and has commenced redistribution of air traffic to Terminal 2 as well as to Navi Mumbai International Airport, according to a letter. The Mumbai Internationa…",
-      "date": "2026-08-24T12:55:34.000Z",
+      "id": "newsapi-india-0-13-1eq96lg",
+      "headline": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
+      "summary": "Bitcoin crosses $80,000 as ETF inflows, weaker dollar and renewed crypto optimism fuel a sharp rebound, while falling crude prices lift Indian equities",
+      "date": "2026-08-25T17:31:02.000Z",
       "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/mial-to-begin-partial-demolition-of-mumbai-airport-s-t1-from-january-15-126082400959_1.html",
+      "sourceUrl": "https://www.business-standard.com/markets/news/bitcoin-tops-80-000-as-optimistic-mood-returns-to-crypto-market-126082501545_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
         "india"
       ],
       "topics": [
-        "airports"
+        "industry"
       ]
     },
     {
-      "id": "newsapi-world-0-4-brz1pc",
-      "headline": "Airplane etiquette survey: Many Americans say passenger behavior is getting worse",
-      "summary": "A new survey reveals Americans' biggest airline etiquette pet peeves, from loud passengers and reclining seats to armrests, window shades and deplaning.",
-      "date": "2026-08-24T12:00:42.000Z",
+      "id": "newsapi-world-0-2-1y28ia2",
+      "headline": "Chicago O'Hare is a huge construction site — here's what's going up",
+      "summary": "American Airlines and United Airlines fliers can look forward to the first new Chicago O'Hare concourse in two years.",
+      "date": "2026-08-25T17:00:07.000Z",
       "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/airplane-etiquette-survey/",
+      "sourceUrl": "https://thepointsguy.com/news/chicago-ohare-airport-ordnext-construction-update/",
       "scopeHint": "world",
       "scopes": [
         "world"
@@ -273,79 +377,12 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-1-8063ou",
-      "headline": "Skyways Air Services IPO subscribed 1.16 times",
-      "summary": "The offer received bids for 3.42 crore shares as against 2.95 crore shares on offer.",
-      "date": "2026-08-24T11:46:09.000Z",
+      "id": "newsapi-india-0-14-1vg9326",
+      "headline": "Limits of 'Economic D-Day'",
+      "summary": "Beijing is the customer of almost 90 per cent of Iran's exports of crude oil and it supplies Tehran much-needed infrastructure support and dual-use technologies",
+      "date": "2026-08-25T16:04:37.000Z",
       "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-1-16-times-126082400884_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-9-193dbtc",
-      "headline": "Air India flight from Delhi suffers bird hit at Patna airport, all safe",
-      "summary": "An Air India flight from Delhi suffered a bird hit while landing at the Patna airport on Monday morning, prompting authorities to conduct a runway inspection, an official said. The Delhi-Patna flight, with 164 passengers on board, was about to land when the i…",
-      "date": "2026-08-24T10:08:26.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-flight-from-delhi-suffers-bird-hit-at-patna-airport-all-safe-126082400606_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-10-162e3n1",
-      "headline": "15 flights diverted at Delhi airport due to bad weather",
-      "summary": "Fifteen flights diverted from Delhi airport due to inclement weather, causing delays and cancellations amid thunderstorms and heavy rain.",
-      "date": "2026-08-24T10:08:13.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/15-flights-diverted-at-delhi-airport-due-to-bad-weather/article71383897.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-5-86g5i7",
-      "headline": "The Citi / AAdvantage Executive's new benefits are live: 6 things to do now",
-      "summary": "The Citi / AAdvantage Executive Mastercard's new benefits are now live. Here are six things cardholders should do now to maximize the refreshed perks.",
-      "date": "2026-08-24T10:00:50.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/citi-aadvantage-executive-new-benefits-live-2026/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-906tbb",
-      "headline": "The National carrier of the Hashemite Kingdom of Jordan, Royal Jordanian Airlines Selects Ramco Systems to Power Its Next Phase of Growth",
-      "summary": "The National carrier of the Hashemite Kingdom of Jordan, Royal Jordanian Airlines Selects Ramco Systems to Power Its Next Phase of Growth",
-      "date": "2026-08-24T10:00:21.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/the-national-carrier-of-the-hashemite-kingdom-of-jordan-royal-jordanian-airlines-selects-ramco-systems-to-power-its-next-phase-of-growth/article71383985.ece",
+      "sourceUrl": "https://www.business-standard.com/opinion/editorial/limits-of-economic-d-day-126082501404_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -356,63 +393,12 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-1tw4tkw",
-      "headline": "At least 15 flights were diverted at Delhi airport due to bad weather",
-      "summary": "At least 15 flights were diverted at the Delhi airport on Monday due to inclement weather conditions, according to an official. Scores of flights were delayed and some were cancelled at the Indira Gandhi International Airport (IGIA) in the national capital du…",
-      "date": "2026-08-24T09:32:11.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/at-least-15-flights-were-diverted-at-delhi-airport-due-to-bad-weather-126082400603_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-erirm1",
-      "headline": "Parandur airport: Stalin slams CM Vijay, says TN's interests can't be 'mortgaged for petty political considerations'",
-      "summary": "\"The announcement made today by the Hon'ble Chief Minister of Tamil Nadu to drop the Parandur International Airport project will set the state's development back by several years,” says Stalin",
-      "date": "2026-08-24T09:21:55.000Z",
+      "id": "newsapi-india-0-15-14n2hj5",
+      "headline": "Top Business & Market Headlines Today — BL Morning Report, August 26, 2026",
+      "summary": "BL Morning Report, August 26, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
+      "date": "2026-08-25T15:58:18.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/parandur-airport-stalin-slams-cm-vijay-says-tns-interests-cant-be-mortgaged-for-petty-political-considerations/article71383850.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-1mzcmm2",
-      "headline": "Air India flight from Delhi suffers bird hit at Patna airport, passengers safe",
-      "summary": "Air India flight from Delhi safely encounters bird strike during landing at Patna airport; all 164 passengers unharmed.",
-      "date": "2026-08-24T09:14:27.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-flight-from-delhi-suffers-bird-hit-at-patna-airport-passengers-safe/article71383794.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-1etnrd2",
-      "headline": "L&T wins over ₹15,000 crore gas compression project in West Asia",
-      "summary": "L&T has secured an ultra-mega gas compression project worth over ₹15,000 crore in the Middle East, covering EPC of plants and related infrastructure.",
-      "date": "2026-08-24T07:37:55.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/lt-wins-over-15000-crore-gas-compression-project-in-west-asia/article71383616.ece",
+      "sourceUrl": "https://www.thehindubusinessline.com/multimedia/audio/top-business-market-headlines-today-bl-morning-report-august-26-2026/article71389839.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -423,12 +409,12 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-1dw88c4",
-      "headline": "What is an oligopoly? Which Indian sectors have few dominant players",
-      "summary": "The Finance Ministry's concern over concentration in India's aviation sector has brought the term \"oligopoly\" into focus. Here's what it means and which other sectors have similar market structures",
-      "date": "2026-08-24T06:48:58.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/what-is-an-oligopoly-which-indian-sectors-have-few-dominant-players-126082400372_1.html",
+      "id": "newsapi-india-0-16-q9lk0g",
+      "headline": "Featherlite Developers lines up 2 mn sq ft realty pipeline, enters Bengaluru housing",
+      "summary": "Featherlite Developers plans 2 million sq ft of real estate projects in Bengaluru, targeting ₹150 crore revenue this year.",
+      "date": "2026-08-25T15:03:47.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/real-estate/featherlite-developers-lines-up-2-mn-sq-ft-realty-pipeline-enters-bengaluru-housing/article71389517.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -439,12 +425,79 @@
       ]
     },
     {
-      "id": "newsapi-india-0-17-1w0vga2",
-      "headline": "Why airfares are rising even as fewer Indians fly",
-      "summary": "Airlines are cutting flights faster than demand is falling, keeping planes more than 85% full and leaving passengers with fewer chances of cheaper fares.",
-      "date": "2026-08-24T06:39:14.000Z",
+      "id": "newsapi-india-0-17-1kb46e5",
+      "headline": "Mumbai airport asks airlines to shift 30% of international flights to Navi Mumbai from October",
+      "summary": "MIAL has proposed the partial shifting of international operations to Navi Mumbai as it plans to redevelop terminal 1 in phases from January 2027",
+      "date": "2026-08-25T14:36:52.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/mumbai-airport-asks-airlines-to-shift-30-of-international-flights-to-navimumbai-from-october/article71389510.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-1litsu2",
+      "headline": "Hyderabad airport to charge arriving domestic, international passengers UDF for the first time",
+      "summary": "The tariff regulator is changing how operators recover infrastructure costs by splitting the charge between arriving and departing passengers.",
+      "date": "2026-08-25T14:25:21.000Z",
       "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/india-domestic-airfares-rise-airline-capacity-falls-passenger-traffic-11787539828384.html",
+      "sourceUrl": "https://www.livemint.com/companies/news/hyderabad-airport-udf-domestic-arrivals-international-arrivals-passengers-aera-airport-infrastructure-charges-11787659856518.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-1x2ywoc",
+      "headline": "Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount: Report",
+      "summary": "Air India is pursuing $1.5 billion in fresh equity from Tata Sons and Singapore Airlines to address substantial losses, following a record $2.33 billion deficit last fiscal year.&nbsp;",
+      "date": "2026-08-25T14:11:10.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/air-india-seeks-1-5-billion-from-owners-tata-singapore-air-as-losses-mount-report-11787666926953.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-1oqzlq8",
+      "headline": "Weekly Rupee View: Rupee recovers",
+      "summary": "Rupee rebounds as falling crude prices and positive foreign inflows provide support, with key resistance levels to watch.",
+      "date": "2026-08-25T13:32:09.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/technical-analysis/weekly-rupee-viewrupee-recovers/article71387999.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-8dad26",
+      "headline": "FedEx ramps up India investment as high-value exports take off",
+      "summary": "India is a strategic growth market for FedEx and one of the fastest-growing markets in its global network, with the country’s growing role in global trade to drive demand for time-sensitive logistics",
+      "date": "2026-08-25T13:13:12.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/fedex-ramps-up-india-investment-as-high-value-exports-take-off-11787652674778.html",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -456,28 +509,12 @@
       ]
     },
     {
-      "id": "newsapi-india-0-18-ljorlm",
-      "headline": "Govt will abandon plans to set up new airport in Parandur: TN CM Vijay",
-      "summary": "Chief Minister said the new airport should be located at a place where agricultural land and residential areas are minimally affected",
-      "date": "2026-08-24T06:37:12.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/govt-will-abandon-plans-to-set-up-new-airport-in-parandur-tn-cm-vijay-126082400193_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-10sd44x",
-      "headline": "No more boarding pass stamps from Sept 1: What travellers need to know",
-      "summary": "International travellers departing India will be able to use e-boarding passes as immigration authorities end mandatory boarding pass stamping from September 1",
-      "date": "2026-08-24T06:21:07.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/immigration/no-more-boarding-pass-stamps-from-sept-1-what-travellers-need-to-know-126082400348_1.html",
+      "id": "newsapi-india-0-22-1vm99ah",
+      "headline": "Thoise air link could expand Nubra’s tourism and investment potential",
+      "summary": "Thoise air link plans aim to enhance Nubra's tourism and investment potential, boosting local economy and accessibility by December 2026.",
+      "date": "2026-08-25T13:07:06.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/thoise-air-link-could-expand-nubras-tourism-and-investment-potential/article71389033.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -488,61 +525,29 @@
       ]
     },
     {
-      "id": "newsapi-india-0-20-1ll9jvg",
-      "headline": "TN CM announces more free buses for women, 3 free cooking gas cylinders",
-      "summary": "Tamil Nadu Chief Minister C Joseph Vijay on Monday announced expansion of the fare-free bus travel scheme for women and made services such as deluxe and express free for beneficiaries. Making several announcements in the Assembly, Vijay, fulfilling TVK's key …",
-      "date": "2026-08-24T05:34:10.000Z",
+      "id": "newsapi-india-0-23-sane53",
+      "headline": "Air India seeks $1.5 bn from owners Tata, Singapore Air as losses mount",
+      "summary": "The carrier and its budget unit Air India Express posted combined losses of $2.33 billion in the fiscal year ended March, more than double the prior year's losses",
+      "date": "2026-08-25T12:46:29.000Z",
       "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/tn-cm-announces-more-free-buses-for-women-3-free-cooking-gas-cylinders-126082400237_1.html",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-seeks-1-5-bn-from-owners-tata-singapore-air-as-losses-mount-126082501097_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
-        "india"
+        "india",
+        "air-india"
       ],
       "topics": [
-        "operations"
+        "industry"
       ]
     },
     {
-      "id": "newsapi-india-0-21-39gfu5",
-      "headline": "TN CM Vijay announces more free buses for women; 3- free cooking gas cylinders",
-      "summary": "Tamil Nadu CM Vijay announces expanded free bus services for women and three free cooking gas cylinders, shelving the Parandur airport project.",
-      "date": "2026-08-24T05:17:00.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/tn-cm-vijay-announces-more-free-buses-for-women-3-free-cooking-gas-cylinders/article71383253.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-1y0hvk4",
-      "headline": "Tamil Nadu govt abandons Parandur airport plan, looks for alternative site",
-      "summary": "Chief Minister C Joseph Vijay made the official announcement in the State Assembly noting that the government is seeking to avoid the displacement of residents and loss of agricultural land",
-      "date": "2026-08-24T05:00:59.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/tamil-nadu-govt-abandons-parandur-airport-plan-looks-for-alternative-site/article71383188.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-172eog3",
-      "headline": "Nifty edges higher at open; IT and Pharma drag, metals lead",
-      "summary": "Infosys led the Nifty gainers, rising 1.71% to ₹1,140.20, followed by Hindalco at ₹1,049.30, up 1.48%, and HCL Technologies at ₹1,321.00, gaining 1.42%",
-      "date": "2026-08-24T04:06:21.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/nifty-edges-higher-at-open-it-and-pharma-drag-metals-lead/article71383138.ece",
+      "id": "newsapi-india-0-24-b121kh",
+      "headline": "Infrastructure projects see cost overrun of ₹3.4 trillion: MoSPI",
+      "summary": "Infrastructure projects worth more than Rs 150 crore each recorded a cumulative cost overrun of around Rs 3,40,504 crore, according to a monthly government report for July 2026. A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ De…",
+      "date": "2026-08-25T12:19:28.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/infrastructure-projects-see-cost-overrun-of-3-4-trillion-mospi-126082500936_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -553,33 +558,32 @@
       ]
     },
     {
-      "id": "newsapi-india-0-24-16iu8wj",
-      "headline": "GMR Airports plans $2 billion expansion of Delhi, Hyderabad facilities",
-      "summary": "The plans come as demand is surging in the world's third-largest domestic aviation market, trailing only the US and China",
-      "date": "2026-08-24T02:28:59.000Z",
+      "id": "newsapi-air-india-0-5-1wfp3o4",
+      "headline": "Skyways Air Services IPO subscribed 2.46 times",
+      "summary": "The offer received bids for 7.26 crore shares as against 2.95 crore shares on offer.",
+      "date": "2026-08-25T12:01:26.000Z",
       "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/gmr-airports-plans-2-billion-expansion-of-delhi-hyderabad-facilities-126082400065_1.html",
-      "scopeHint": "india",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-2-46-times-126082500971_1.html",
+      "scopeHint": "air-india",
       "scopes": [
         "world",
-        "india"
+        "india",
+        "air-india"
       ],
       "topics": [
-        "airports",
-        "business"
+        "operations"
       ]
     },
     {
-      "id": "newsapi-india-0-25-14xr346",
-      "headline": "Skyways Air Services IPO opens today: All you need to know",
-      "summary": "Skyways Air Services IPO opens today with key details on pricing, allocation, and investor insights for potential buyers.",
-      "date": "2026-08-24T02:16:25.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/skyways-air-services-ipo-opens-today-all-you-need-to-know/article71380957.ece",
-      "scopeHint": "india",
+      "id": "newsapi-world-0-3-fwvzx",
+      "headline": "United adds 10 new international destinations in massive 13-route global expansion",
+      "summary": "United Airlines is adding 10 new international destinations and a total of 13 new routes in an expansion dubbed the biggest route reveal in the carrier's history.",
+      "date": "2026-08-25T11:00:54.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/united-airlines-major-global-expansion-2027/",
+      "scopeHint": "world",
       "scopes": [
-        "world",
-        "india"
+        "world"
       ],
       "topics": [
         "operations"
