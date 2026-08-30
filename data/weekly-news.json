@@ -1,9 +1,293 @@
 {
-  "refreshedAt": "2026-08-29T09:06:29.724Z",
+  "refreshedAt": "2026-08-30T08:21:37.882Z",
   "edition": "github-scheduled-seven-day-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-qffqkf",
+      "id": "newsapi-india-0-0-5rwlk",
+      "headline": "Think. Over the week",
+      "summary": "Editorial highlights Chennai’s canceled airport project, rising sugar prices, SBI’s withdrawal fees, and insights on political leadership and AI.",
+      "date": "2026-08-29T07:27:50.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/newsletter/nl-opinion/think-over-the-week/article71403890.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1hfo04o",
+      "headline": "Argentina committed to reducing barriers to facilitate entry of Indian pharma sector: Govt",
+      "summary": "This is expected to provide greater opportunities for Indian pharmaceutical companies and contribute to improving access to quality and affordable healthcare in Argentina",
+      "date": "2026-08-29T07:12:31.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/argentina-committed-to-reducing-barriers-to-facilitate-entry-of-indian-pharma-sector-govt/article71403793.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-1bgvspl",
+      "headline": "Max Estates buys 85-acre land in Delhi, eyes ₹10,000-12,000 cr revenue",
+      "summary": "Realty firm Max Estates Ltd has acquired 84.71 acre land in West Delhi from promoters' land holding entities, in a share-swap deal worth Rs 420 crore, as part of its expansion plan. The company will develop residential and commercial projects on this land par…",
+      "date": "2026-08-29T07:05:45.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/max-estates-buys-85-acre-land-in-delhi-eyes-10-000-12-000-cr-revenue-126082900285_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-1w0oxz4",
+      "headline": "21 Tamil Nadu pilgrims rescued from Nepal floods arrive in Chennai",
+      "summary": "Tearful embraces, hushed prayers, and narrow escape marked the scene at the airport here as the Nepal flood survivors arrived safely. Twenty-one pilgrims from Tamil Nadu, caught in the jaws of catastrophic disaster in Nepal, set foot on home soil, carrying wi…",
+      "date": "2026-08-29T04:49:17.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/21-tamil-nadu-pilgrims-rescued-from-nepal-floods-arrive-in-chennai-126082900147_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-4u0fso",
+      "headline": "IndiGo invests in Sarvam AI to boost AI-driven operations and passenger experience",
+      "summary": "IndiGo Ventures invested in Sarvam AI as part of the full-stack sovereign artificial intelligence company's Series B round of funding.",
+      "date": "2026-08-29T03:44:49.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/indigo-invests-in-sarvam-ai-to-boost-ai-driven-operations-and-passenger-experience-11787973652513.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-1149iza",
+      "headline": "Deal alert: Get 2 or even 3 times more value from Southwest Rapid Rewards points",
+      "summary": "Southwest Airlines has launched a limited-time sale for fares booked with Rapid Rewards points, with flights available at more than 4 cents per point.",
+      "date": "2026-08-28T20:17:00.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/deals/rapid-rewards-points-deal-alert/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-1mymr5b",
+      "headline": "Ink Business Cash vs. Amex Blue Business Cash: Which no-annual-fee business card is better?",
+      "summary": "Compare the Ink Business Cash and Amex Blue Business Cash to see which no-annual-fee card is the better fit for your business.",
+      "date": "2026-08-28T19:00:52.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/ink-business-cash-vs-amex-blue-business-cash/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-5v8l2p",
+      "headline": "United's Airbus A321XLR is about to make its (domestic) debut: Here are the routes",
+      "summary": "United Airlines will introduce its new long-haul Airbus A321XLR on select California flights from Washington in September.",
+      "date": "2026-08-28T18:30:38.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/united-airlines-airbus-a321xlr-domestic-debut/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "fleet",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-xc2s1a",
+      "headline": "5 million international flyers to shift to Navi Mumbai airport from Oct 1",
+      "summary": "About 5 million passengers of international capacity will move from Mumbai T2 to Navi Mumbai airport as T1 prepares for redevelopment beginning January 2027",
+      "date": "2026-08-28T15:17:38.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/5-million-international-flyers-to-shift-to-navi-mumbai-airport-from-oct-1-126082801018_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-4g3kj0",
+      "headline": "Letters to Editor",
+      "summary": "Letters to Editor",
+      "date": "2026-08-28T15:17:28.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/letters-to-editor/article71401510.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-1ywmjpn",
+      "headline": "Tamil Nadu begins discussions with stakeholders on upgradation and expansion of Chennai airport",
+      "summary": "Tamil Nadu initiates discussions to upgrade Chennai airport and expand infrastructure, following the cancellation of the Parandur project.",
+      "date": "2026-08-28T15:10:23.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-begins-discussions-with-stakeholders-on-upgradation-and-expansion-of-chennai-airport/article71400501.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1yvsp8d",
+      "headline": "Tamil Nadu advances MRTS plans for five cities",
+      "summary": "Tamil Nadu plans MRTS for five cities to address traffic congestion, with various proposals under consideration and awaiting governmental approval.",
+      "date": "2026-08-28T15:09:21.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-advances-mrts-plans-for-five-cities/article71400831.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1j5jnv7",
+      "headline": "IndiGo Ventures invests in AI firm Sarvam as part of Series B round",
+      "summary": "IndiGo and Sarvam are working on AI applications for customer service, employee productivity and airline operations, with successful use cases set to be scaled up",
+      "date": "2026-08-28T14:31:36.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/start-ups/indigo-ventures-invests-in-ai-firm-sarvam-as-part-of-series-b-round-126082801204_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-3-1fiqus5",
+      "headline": "Frontier makes it easier to earn top-tier elite status in 2027 but cuts earning rates for basic fares and noncardholders",
+      "summary": "Frontier Airlines is changing Frontier Miles earning rates and elite benefits, cutting basic fare earnings while lowering the Elite Diamond status threshold.",
+      "date": "2026-08-28T14:07:30.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/frontier-miles-2026-program-changes/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-4-bruf2j",
+      "headline": "Ten years with the Chase Sapphire Reserve",
+      "summary": "I've had the Chase Sapphire Reserve for ten years. Here's why it's still a major player in my wallet.",
+      "date": "2026-08-28T14:00:24.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/ten-years-sapphire-reserve/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-h0yahr",
+      "headline": "IndiGo steps up AI focus, announces investment in Sarvam",
+      "summary": "The funding, made through IndiGo Ventures during Sarvam’s Series B round, aims to leverage advanced AI capabilities tailored for the aviation industry.",
+      "date": "2026-08-28T13:51:20.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-steps-up-ai-focus-announces-investment-in-sarvam/article71400771.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-2-0-1cloe95",
+      "headline": "Congo's Ebola outbreak spreads to 2 new health zones",
+      "summary": "Congo government figures show that the fastest-growing Ebola outbreak in history has spread to two new health zones in eastern Congo. A total of 60 zones are now affected. The two new zones affected are Biena and Manguredjipa in Congo’s North Kivu province. T…",
+      "date": "2026-08-28T10:11:32.000Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ebola-outbreak-congo-615dcbccd5b37f68aca89f8e286f4d7b",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-130idn4",
+      "headline": "India needs green taxonomy, carbon markets, dedicated green financing institution: Jayant Sinha",
+      "summary": "Jayant Sinha emphasises the need for green taxonomy, carbon markets, and dedicated financing to boost India's sustainability investments.",
+      "date": "2026-08-28T10:03:16.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/india-needs-green-taxonomy-carbon-markets-dedicated-green-financing-institution-jayant-sinha/article71399769.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-qffqkf",
       "headline": "Gold outlook hinges on Warsh speech as hawkish Fed stance may weigh",
       "summary": "A hawkish signal from Warsh could trigger further correction in gold towards the $4,500-$4,520 support zone, although downside may remain limited ahead of next week's US nonfarm payroll data.",
       "date": "2026-08-28T06:55:45.000Z",
@@ -19,7 +303,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-0-r4jo88",
+      "id": "newsapi-air-india-0-1-r4jo88",
       "headline": "Noel Tata, Shapoorji Pallonji discuss share swap for Tata Sons stake sale",
       "summary": "Representatives of Noel Tata are exploring the possibility where SP Group receives shares of companies such as Tata Power against some or all of its 18.4% stake in Tata Sons.",
       "date": "2026-08-28T06:34:52.000Z",
@@ -36,7 +320,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-8820y2",
+      "id": "newsapi-india-0-15-8820y2",
       "headline": "China evacuates over 1,000 after flash floods near Tibet-Nepal border",
       "summary": "Chinese officials on Friday said more than 1,000 people, including 555 tourists, have been evacuated from Gyirong County near the Tibet-Nepal border after devastating flash floods that caused heavy casualties. The flash floods struck Gyirong Port in the Tibet…",
       "date": "2026-08-28T05:30:31.000Z",
@@ -52,7 +336,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-1-1380lu8",
+      "id": "newsapi-air-india-0-2-1380lu8",
       "headline": "Skyways Air Services IPO wraps up 71.25x subscription",
       "summary": "The offer received bids for 210.79 crore shares as against 2.95 crore shares on offer.",
       "date": "2026-08-28T05:23:15.000Z",
@@ -69,7 +353,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-2-r4jo88",
+      "id": "newsapi-air-india-0-3-r4jo88",
       "headline": "Noel Tata, Shapoorji Pallonji discuss share swap for Tata Sons stake sale",
       "summary": "Representatives of Noel Tata are exploring the possibility where SP Group receives shares of companies such as Tata Power in exchange for some or all of its 18.4% in the privately-held Tata Sons",
       "date": "2026-08-28T05:12:34.000Z",
@@ -86,7 +370,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-5474c0",
+      "id": "newsapi-india-0-16-5474c0",
       "headline": "Centre moves to de-risk aircraft leasing, financing",
       "summary": "The Centre is enhancing aircraft leasing and financing in India by evaluating taxation, protections, and mechanisms to attract international lessors.",
       "date": "2026-08-28T02:12:40.000Z",
@@ -103,7 +387,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-kkiwi4",
+      "id": "newsapi-india-0-17-kkiwi4",
       "headline": "Catch them young: VCs are scouting college campuses for the next big startup",
       "summary": "Campus Fund is raising a $100 million fund as venture capital firms increasingly look to student-led startups for early bets, encouraged by a growing deal pipeline and successful follow-on rounds.",
       "date": "2026-08-28T00:30:29.000Z",
@@ -149,7 +433,7 @@
       ]
     },
     {
-      "id": "newsapi-world-2-0-ghn0i4",
+      "id": "newsapi-world-2-1-ghn0i4",
       "headline": "MARINE ONE RADIO SCARE",
       "summary": "Investigators say air traffic controllers in Washington and the pilots of President Donald Trump’s helicopter met to discuss communication issues one week before a jet and the chopper were allowed to take off at the same time. The National Transportation Safe…",
       "date": "2026-08-27T19:00:20.000Z",
@@ -165,7 +449,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-22ya8a",
+      "id": "newsapi-world-0-5-22ya8a",
       "headline": "I already thought Cava was the best fast-casual chain — its rewards program sealed the deal",
       "summary": "Cava Rewards lets members earn points toward free food, unlock status perks and more. Here's how the free loyalty program works.",
       "date": "2026-08-27T18:30:46.000Z",
@@ -180,7 +464,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-1cin80o",
+      "id": "newsapi-india-0-18-1cin80o",
       "headline": "Plane truth",
       "summary": "A second airport for Chennai brooks no further delay",
       "date": "2026-08-27T15:47:46.000Z",
@@ -196,7 +480,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-1nfbkhv",
+      "id": "newsapi-india-0-19-1nfbkhv",
       "headline": "BLUE takes AI-native video infrastructure global with production deployment in the US and pilots across Africa and Sri Lanka",
       "summary": "BLUE takes AI-native video infrastructure global with production deployment in the US and pilots across Africa and Sri Lanka",
       "date": "2026-08-27T14:47:47.000Z",
@@ -212,7 +496,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-48hnj0",
+      "id": "newsapi-india-0-20-48hnj0",
       "headline": "Real estate developer G Square denies political affiliations with any party and says it has no business interest in Parandur",
       "summary": "G Square Housing refutes political ties and allegations regarding Parandur, seeking removal of mentions from assembly records.",
       "date": "2026-08-27T14:10:28.000Z",
@@ -228,7 +512,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-11uy8il",
+      "id": "newsapi-india-0-21-11uy8il",
       "headline": "Broker’s call: GMR Airport (Hold)",
       "summary": "ICICI Securities maintains a Hold on GMR Airport with a target price of ₹99 amid new tariff developments.",
       "date": "2026-08-27T14:03:12.000Z",
@@ -244,7 +528,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-6cfu58",
+      "id": "newsapi-india-0-22-6cfu58",
       "headline": "G Square denies political affiliations with any party; says it has no business interest in Parandur",
       "summary": "G Square started off as a private land aggregator in 2012 and have facilitated close to 5,000 acres of land deals between 2011 and 2021 for various large corporates, says Ramajayam, Founder and MD",
       "date": "2026-08-27T14:03:10.000Z",
@@ -260,7 +544,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-1-1t5p7ct",
+      "id": "newsapi-world-0-6-1t5p7ct",
       "headline": "Explora Journeys loyalty program guide: The Explora Club, explained",
       "summary": "The Explora Club cruise loyalty program offers Explora Journeys passengers some truly valuable perks.",
       "date": "2026-08-27T14:00:16.000Z",
@@ -275,7 +559,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-1i0w06f",
+      "id": "newsapi-india-0-23-1i0w06f",
       "headline": "India Inc’s revenue growth to slow to 13-15% in Q2, margins under pressure: ICRA",
       "summary": "Operating profit margins could contract by 100-150 basis points year-on-year in Q2, pressured by high raw material, fuel, freight and packaging costs",
       "date": "2026-08-27T13:23:42.000Z",
@@ -291,7 +575,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-2-16lqfy4",
+      "id": "newsapi-world-0-7-16lqfy4",
       "headline": "United's posh new Airbus A321XLR is headed overseas: Sneak peek on board",
       "summary": "United Airlines finally has its brand-new Airbus A321XLR. Now, the airline is preparing to launch ambitious international routes with the aircraft.",
       "date": "2026-08-27T13:00:24.000Z",
@@ -307,7 +591,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-3-1lvc6jh",
+      "id": "newsapi-air-india-0-4-1lvc6jh",
       "headline": "Skyways Air Services IPO subscribed 71.25 times",
       "summary": "The offer received bids for 210.79 crore shares as against 2.95 crore shares on offer.",
       "date": "2026-08-27T12:46:01.000Z",
@@ -324,7 +608,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-3-1drlea",
+      "id": "newsapi-world-0-8-1drlea",
       "headline": "American Airlines adds 3 new European destinations in 7-route expansion",
       "summary": "American Airlines will add three new destinations in Europe as gets ready to roll out its 2027 travel schedule.",
       "date": "2026-08-27T12:00:23.000Z",
@@ -339,7 +623,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-11-999mp8",
+      "id": "newsapi-india-0-25-999mp8",
       "headline": "Singapore Airlines will carefully consider fund infusion in Air India",
       "summary": "Law maker Kenneth Tiong has said Singapore Airlines should not seek funding from the government-owned firm Temasek to invest further in Air India",
       "date": "2026-08-27T11:08:15.000Z",
@@ -356,7 +640,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-l76e09",
+      "id": "newsapi-india-0-26-l76e09",
       "headline": "Mohali's GCC Opportunity Gains Momentum as Government of Punjab Partners with Zinnov at Confluence 2026",
       "summary": "Mohali's GCC Opportunity Gains Momentum as Government of Punjab Partners with Zinnov at Confluence 2026",
       "date": "2026-08-27T11:00:40.000Z",
@@ -372,7 +656,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-1usx5fv",
+      "id": "newsapi-india-0-27-1usx5fv",
       "headline": "Tourist or traveller? Bali doesn’t make too much of binaries and that’s part of its charm as a destination",
       "summary": "Visitors from various countries often make Bali feel like its attractions are under siege from a non-violent infantry toting selfie sticks and marching behind tour guides with colourful flags. But its real charm? It’s home to people with great humour and sens…",
       "date": "2026-08-27T10:31:17.000Z",
@@ -388,7 +672,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-14-1y7xz47",
+      "id": "newsapi-india-0-28-1y7xz47",
       "headline": "BPCL plans to raise Kochi refinery capacity to 17 mmtpa",
       "summary": "The expansion follows record crude throughput at BPCL’s refineries, while the company advances investments across refining, petrochemicals and emerging energy businesses.",
       "date": "2026-08-27T09:33:19.000Z",
@@ -404,7 +688,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-15-1gjwqqs",
+      "id": "newsapi-india-0-29-1gjwqqs",
       "headline": "Adani, GMR increase bets on non-aero revenue to drive growth",
       "summary": "Major airport developers, Adani and GMR, are aggressively expanding retail, dining, and commercial offerings to drive profitability as passenger traffic growth cools down.&nbsp;",
       "date": "2026-08-27T09:15:37.000Z",
@@ -421,7 +705,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-hmqpj5",
+      "id": "newsapi-india-0-30-hmqpj5",
       "headline": "Sugee Lake District to Shape Thane's Next Chapter of Commercial Growth",
       "summary": "Sugee Lake District to Shape Thane's Next Chapter of Commercial Growth",
       "date": "2026-08-27T09:00:26.000Z",
@@ -437,7 +721,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-4-1kvhpan",
+      "id": "newsapi-air-india-0-5-1kvhpan",
       "headline": "Singapore Oppn lawmaker opposes use of Temasek funds to shore up Air India",
       "summary": "Singapore Oppn lawmaker Kenneth Tiong said Air India's $1.5 bn funding request is not only matter for private shareholders, given Singapore Airlines' stake and Temasek's majority ownership of carrier",
       "date": "2026-08-27T08:48:50.000Z",
@@ -454,7 +738,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-17-1jawg3f",
+      "id": "newsapi-india-0-31-1jawg3f",
       "headline": "Unlimit Mobile Unlocks Instant, Contract-Free UK eSIM Connectivity for Indian Students",
       "summary": "Unlimit Mobile Unlocks Instant, Contract-Free UK eSIM Connectivity for Indian Students",
       "date": "2026-08-27T08:00:39.000Z",
@@ -470,7 +754,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-18-1lseczz",
+      "id": "newsapi-india-0-32-1lseczz",
       "headline": "Adani Enterprises up 39% YTD; why is MOFSL betting on Nifty's top gainer?",
       "summary": "Adani Enterprises Target Price: Motilal Oswal Financial Services has initiated coverage of Adani Enterprises with a 'Buy' rating and a target price of ₹3,880, implying a 25 per cent upside from the previous close of ₹3,112.",
       "date": "2026-08-27T06:40:13.000Z",
@@ -486,7 +770,7 @@
       ]
     },
     {
-      "id": "newsapi-world-2-1-1p43c0v",
+      "id": "newsapi-world-2-2-1p43c0v",
       "headline": "Avelo Airlines Extends Flight Schedule Through April 20, 2027",
       "summary": "Affordable one-way fares start at $42 Avelo serves over 35 destinations across the United States HOUSTON, Aug. 26, 2026 /PRNewswire/ -- Avelo Airlines announced today that it is extending its flight schedule through April 20, 2027, just in time to start plann…",
       "date": "2026-08-27T04:41:14.000Z",
@@ -501,7 +785,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-19-9az8wd",
+      "id": "newsapi-india-0-33-9az8wd",
       "headline": "HAL, Samtel open India's first public-private defence avionics facility",
       "summary": "The new facility will house testing and quality assurance capabilities for advanced display systems, besides supporting the design, development, manufacturing and product support of display systems",
       "date": "2026-08-27T02:48:48.000Z",
@@ -517,7 +801,7 @@
       ]
     },
     {
-      "id": "newsapi-world-2-2-vtchan",
+      "id": "newsapi-world-2-3-vtchan",
       "headline": "More than 1,300 missing in Nepal and Tibet after floods caused by a glacier collapse",
       "summary": "Rescue teams are searching for hundreds of missing people along the Nepal-China border. A a catastrophic and deadly torrent of floods and mud swept through several communities on Wednesday following a glacier collapse. The disaster left nearly 170 people dead…",
       "date": "2026-08-27T02:48:45.000Z",
@@ -532,7 +816,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-4-icnt0z",
+      "id": "newsapi-world-0-9-icnt0z",
       "headline": "Nepal flash flood death toll rises to 157; Bihar, UP on high alert",
       "summary": "Almost 300 foreign nationals from countries including India, Malaysia, the UK, the US, and Australia have been confirmed missing after the disaster",
       "date": "2026-08-27T02:12:36.000Z",
@@ -548,7 +832,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-5-1hwqykk",
+      "id": "newsapi-world-0-10-1hwqykk",
       "headline": "Who is covered by credit card travel insurance?",
       "summary": "Want to know who is covered by your travel credit card insurance? Coverage may extend to family members, partners and even travel companions.",
       "date": "2026-08-26T19:00:03.000Z",
@@ -563,7 +847,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-6-z87eyz",
+      "id": "newsapi-world-0-11-z87eyz",
       "headline": "United's epic Greenland flight (and others) coming back in 2027; luxe new domestic plane delayed",
       "summary": "On top of its new routes, United Airlines will bring back all the noteworthy international destinations it flew in 2026. Plus, a new aircraft is delayed.",
       "date": "2026-08-26T18:00:09.000Z",
@@ -579,7 +863,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-20-dvmx7n",
+      "id": "newsapi-india-0-34-dvmx7n",
       "headline": "Odisha raises R&R assistance, but land losers seek fairer compensation",
       "summary": "Revised assistance covers relocation, housing, farmland and maintenance until March 2028, but affected families say increases fail to reflect land values and livelihood loss",
       "date": "2026-08-26T16:10:30.000Z",
@@ -659,7 +943,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-21-1xsm6au",
+      "id": "newsapi-india-0-35-1xsm6au",
       "headline": "Top Business & Market Headlines Today — BL Morning Report, August 27, 2026",
       "summary": "BL Morning Report, August 27, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
       "date": "2026-08-26T15:39:42.000Z",
@@ -675,7 +959,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-7-1o4cfgz",
+      "id": "newsapi-world-0-12-1o4cfgz",
       "headline": "My '9 to 5' sent me to sleep in Dolly Parton’s $10,000 tour bus suite — here’s what it was like",
       "summary": "Here's what it's like to stay at Dolly Parton's Suite 1986 Tour Bus Experience at Dollywood’s DreamMore Resort and Spa.",
       "date": "2026-08-26T15:00:33.000Z",
@@ -690,7 +974,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-22-z81txi",
+      "id": "newsapi-india-0-36-z81txi",
       "headline": "HAL and Safran ink deal for joint development, manufacture of new-generation copter engine",
       "summary": "HAL and Safran partner to develop the Aravalli helicopter engine, enhancing India’s aerospace capabilities by 2032-33.",
       "date": "2026-08-26T14:58:11.000Z",
@@ -706,7 +990,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-23-1krzxgp",
+      "id": "newsapi-india-0-37-1krzxgp",
       "headline": "US immigrant visa pause adds to uncertainty over India-US travel plans",
       "summary": "Travel firms expect deferred bookings and destination substitution, while weekly non-stop India-US seat capacity has dropped 58.1 per cent from a year earlier amid visa uncertainty",
       "date": "2026-08-26T14:31:43.000Z",
@@ -722,7 +1006,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-24-awmeo0",
+      "id": "newsapi-india-0-38-awmeo0",
       "headline": "Indian carriers have Philippines on radar, Air India increases capacity, IndiGo plans new flights",
       "summary": "Indian airlines are increasing flights to the Philippines, enhancing travel options amid rising tourism and trade between the countries.",
       "date": "2026-08-26T14:06:54.000Z",
@@ -740,7 +1024,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-8-1itghho",
+      "id": "newsapi-world-0-13-1itghho",
       "headline": "Phantom award space: What it is and how to avoid it",
       "summary": "Learn what phantom award space is, why it happens and how to verify award availability before transferring points or miles.",
       "date": "2026-08-26T14:00:33.000Z",
@@ -755,7 +1039,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-25-1rp1z03",
+      "id": "newsapi-india-0-39-1rp1z03",
       "headline": "HAL, Safran signs contract to develop helicopter engines for armed forces",
       "summary": "The 3,500-4,000 shp Aravalli engine will power HAL's indigenous IMRH and naval variant, with development shared equally and production planned at Tumakuru, Karnataka",
       "date": "2026-08-26T13:58:36.000Z",
@@ -771,7 +1055,7 @@
       ]
     },
     {
-      "id": "newsapi-world-2-3-g97sfu",
+      "id": "newsapi-world-2-4-g97sfu",
       "headline": "Harry and Meghan arrive in UK as they make fresh start in Britain...",
       "summary": "Prince Harry and his wife Meghan arrived in the United Kingdom as they make a fresh start in Britain after six years in the United States. Britain’s Daily Telegraph reported their plane landed at Birmingham Airport just after midday Wednesday. Flight tracking…",
       "date": "2026-08-26T13:00:13.000Z",
@@ -787,7 +1071,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-6-resdhx",
+      "id": "newsapi-air-india-0-7-resdhx",
       "headline": "Skyways Air Services IPO subscribed 5.08 times",
       "summary": "The offer received bids for 15.02 crore shares as against 2.95 crore shares on offer.",
       "date": "2026-08-26T11:46:10.000Z",
@@ -804,7 +1088,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-27-1w52t3x",
+      "id": "newsapi-india-0-41-1w52t3x",
       "headline": "Flight ticket prices may remain high in India despite easing jet fuel rates",
       "summary": "Asia-Pacific airlines, including India's, may maintain high fares despite falling jet fuel prices due to strong passenger demand, says S&P.",
       "date": "2026-08-26T09:17:53.000Z",
@@ -821,7 +1105,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-28-4izs0z",
+      "id": "newsapi-india-0-42-4izs0z",
       "headline": "Over 600,000 Indian travellers visited Singapore in first half of 2026",
       "summary": "India continued to be an important source market for Singapore's tourism sector in the first half of 2026, with visitor arrivals crossing 6,00,000 between January and June, the Singapore Tourism Board (STB) said on Wednesday. \"India's consistent performance i…",
       "date": "2026-08-26T08:28:56.000Z",
@@ -837,7 +1121,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-29-8jw0qu",
+      "id": "newsapi-india-0-43-8jw0qu",
       "headline": "Air India, Bhutan's Drukair to offer travel across each other's networks",
       "summary": "Air India on Wednesday said it has entered into an interline partnership with Bhutanese flag carrier Drukair-Royal Bhutan Airlines to offer passengers seamless travel on each other's network and strengthen connectivity between the two South Asian neighbours. …",
       "date": "2026-08-26T08:07:22.000Z",
@@ -854,7 +1138,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-30-zykxhn",
+      "id": "newsapi-india-0-44-zykxhn",
       "headline": "Air India ties up with Drukair-Royal Bhutan Airlines for offering flight service on each other's network",
       "summary": "Tata group-owned Air India says it now provides connectivity to nearly all countries in the SAARC region through its own or partner networks",
       "date": "2026-08-26T07:56:27.000Z",
@@ -871,7 +1155,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-31-1djgisz",
+      "id": "newsapi-india-0-45-1djgisz",
       "headline": "Bill Gates seeks meeting with Xi Jinping to push global AI safety efforts",
       "summary": "Gates' staff are working to finalize a meeting with Xi for his next China trip, his spokesperson said, scheduled tentatively ​for November",
       "date": "2026-08-26T07:54:54.000Z",
@@ -888,7 +1172,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-32-16aj7ox",
+      "id": "newsapi-india-0-46-16aj7ox",
       "headline": "Why is Bill Gates spooked by AI all of a sudden?",
       "summary": "Bill Gates seeks dialogue with Xi Jinping to address global AI risks and propose collaborative policy measures for safety.",
       "date": "2026-08-26T07:44:42.000Z",
@@ -905,7 +1189,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-33-1osznv6",
+      "id": "newsapi-india-0-47-1osznv6",
       "headline": "Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways",
       "summary": "Chennai Airport's proposed Terminal 5 aims to boost capacity by 20 million passengers without disrupting existing runways.",
       "date": "2026-08-26T06:31:56.000Z",
@@ -922,7 +1206,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-34-1e6sqbj",
+      "id": "newsapi-india-0-48-1e6sqbj",
       "headline": "Delhi-Mumbai Expressway reaches Delhi: Check all route details here",
       "summary": "The 9-km elevated stretch connects DND Flyway with the Delhi-Mumbai Expressway, offering faster routes to Faridabad, Ballabhgarh and Sohna while easing traffic on Delhi's existing roads",
       "date": "2026-08-26T04:04:32.000Z",
@@ -938,7 +1222,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-35-t8hety",
+      "id": "newsapi-india-0-49-t8hety",
       "headline": "Elon Musk's SpaceX to build ‘biggest launch site on Earth’ in Louisiana for $100 billion",
       "summary": "SpaceX plans to invest $100 billion to build Starbase Louisiana, a 125,000-acre spaceport expected to support thousands of Starship flights annually. Construction will begin in 2027, with the first launch planned for 2029. The company expects to create over 3…",
       "date": "2026-08-26T02:32:06.000Z",
@@ -954,7 +1238,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-36-170t1n5",
+      "id": "newsapi-india-0-50-170t1n5",
       "headline": "Air India seeks $1.5 billion fresh equity from Tata Sons, Singapore Airlines",
       "summary": "Air India seeks about $1.5 billion in fresh equity from Tata Sons and Singapore Airlines as the airline tackles record losses and a costly turnaround.",
       "date": "2026-08-26T01:46:13.000Z",
@@ -971,7 +1255,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-37-1r0tno6",
+      "id": "newsapi-india-0-51-1r0tno6",
       "headline": "Best of BS Opinion: Limits of 'Economic D-Day' lie at China's gates",
       "summary": "Today's Best of BS Opinion examines US sanctions on Iran, H1N1 risks, aviation regulation, hard-to-abate sector transition plans and India's software product journey.",
       "date": "2026-08-26T00:45:33.000Z",
@@ -988,7 +1272,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-9-1hq4n7r",
+      "id": "newsapi-world-0-14-1hq4n7r",
       "headline": "We raced from JFK to the Empire State Building — which mode of transportation was fastest?",
       "summary": "Three TPG staffers raced from New York's John F. Kennedy International Airport (JFK) to the Empire State Building using three different modes of transportation. Which was fastest?",
       "date": "2026-08-25T21:30:35.000Z",
@@ -1019,7 +1303,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-10-175v88d",
+      "id": "newsapi-world-0-15-175v88d",
       "headline": "TPG’s 10 commandments of credit card rewards",
       "summary": "10 rules for maximizing travel credit cards, such as avoiding interest payments and getting a card with no foreign transaction fees.",
       "date": "2026-08-25T20:00:12.000Z",
@@ -1034,7 +1318,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-38-11fxe4f",
+      "id": "newsapi-india-0-52-11fxe4f",
       "headline": "Govt mulls random drug tests for all commercial pilots round the year",
       "summary": "The civil aviation ministry is looking at the possibility of carrying out psychoactive substance tests for all commercial pilots round the year on a random basis. Civil Aviation Minister K Rammohan Naidu on Tuesday said the Directorate General of Civil Aviati…",
       "date": "2026-08-25T17:57:15.000Z",
@@ -1050,7 +1334,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-39-1eq96lg",
+      "id": "newsapi-india-0-53-1eq96lg",
       "headline": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
       "summary": "Bitcoin crosses $80,000 as ETF inflows, weaker dollar and renewed crypto optimism fuel a sharp rebound, while falling crude prices lift Indian equities",
       "date": "2026-08-25T17:31:02.000Z",
@@ -1066,7 +1350,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-11-1y28ia2",
+      "id": "newsapi-world-0-16-1y28ia2",
       "headline": "Chicago O'Hare is a huge construction site — here's what's going up",
       "summary": "American Airlines and United Airlines fliers can look forward to the first new Chicago O'Hare concourse in two years.",
       "date": "2026-08-25T17:00:07.000Z",
@@ -1081,7 +1365,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-40-1vg9326",
+      "id": "newsapi-india-0-54-1vg9326",
       "headline": "Limits of 'Economic D-Day'",
       "summary": "Beijing is the customer of almost 90 per cent of Iran's exports of crude oil and it supplies Tehran much-needed infrastructure support and dual-use technologies",
       "date": "2026-08-25T16:04:37.000Z",
@@ -1097,7 +1381,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-41-14n2hj5",
+      "id": "newsapi-india-0-55-14n2hj5",
       "headline": "Top Business & Market Headlines Today — BL Morning Report, August 26, 2026",
       "summary": "BL Morning Report, August 26, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
       "date": "2026-08-25T15:58:18.000Z",
@@ -1113,7 +1397,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-42-q9lk0g",
+      "id": "newsapi-india-0-56-q9lk0g",
       "headline": "Featherlite Developers lines up 2 mn sq ft realty pipeline, enters Bengaluru housing",
       "summary": "Featherlite Developers plans 2 million sq ft of real estate projects in Bengaluru, targeting ₹150 crore revenue this year.",
       "date": "2026-08-25T15:03:47.000Z",
@@ -1129,7 +1413,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-43-1kb46e5",
+      "id": "newsapi-india-0-57-1kb46e5",
       "headline": "Mumbai airport asks airlines to shift 30% of international flights to Navi Mumbai from October",
       "summary": "MIAL has proposed the partial shifting of international operations to Navi Mumbai as it plans to redevelop terminal 1 in phases from January 2027",
       "date": "2026-08-25T14:36:52.000Z",
@@ -1146,7 +1430,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-44-1litsu2",
+      "id": "newsapi-india-0-58-1litsu2",
       "headline": "Hyderabad airport to charge arriving domestic, international passengers UDF for the first time",
       "summary": "The tariff regulator is changing how operators recover infrastructure costs by splitting the charge between arriving and departing passengers.",
       "date": "2026-08-25T14:25:21.000Z",
@@ -1163,7 +1447,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-45-1x2ywoc",
+      "id": "newsapi-india-0-59-1x2ywoc",
       "headline": "Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount: Report",
       "summary": "Air India is pursuing $1.5 billion in fresh equity from Tata Sons and Singapore Airlines to address substantial losses, following a record $2.33 billion deficit last fiscal year.&nbsp;",
       "date": "2026-08-25T14:11:10.000Z",
@@ -1180,7 +1464,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-46-1oqzlq8",
+      "id": "newsapi-india-0-60-1oqzlq8",
       "headline": "Weekly Rupee View: Rupee recovers",
       "summary": "Rupee rebounds as falling crude prices and positive foreign inflows provide support, with key resistance levels to watch.",
       "date": "2026-08-25T13:32:09.000Z",
@@ -1196,7 +1480,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-47-8dad26",
+      "id": "newsapi-india-0-61-8dad26",
       "headline": "FedEx ramps up India investment as high-value exports take off",
       "summary": "India is a strategic growth market for FedEx and one of the fastest-growing markets in its global network, with the country’s growing role in global trade to drive demand for time-sensitive logistics",
       "date": "2026-08-25T13:13:12.000Z",
@@ -1213,7 +1497,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-48-1vm99ah",
+      "id": "newsapi-india-0-62-1vm99ah",
       "headline": "Thoise air link could expand Nubra’s tourism and investment potential",
       "summary": "Thoise air link plans aim to enhance Nubra's tourism and investment potential, boosting local economy and accessibility by December 2026.",
       "date": "2026-08-25T13:07:06.000Z",
@@ -1229,7 +1513,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-49-sane53",
+      "id": "newsapi-india-0-63-sane53",
       "headline": "Air India seeks $1.5 bn from owners Tata, Singapore Air as losses mount",
       "summary": "The carrier and its budget unit Air India Express posted combined losses of $2.33 billion in the fiscal year ended March, more than double the prior year's losses",
       "date": "2026-08-25T12:46:29.000Z",
@@ -1246,7 +1530,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-50-b121kh",
+      "id": "newsapi-india-0-64-b121kh",
       "headline": "Infrastructure projects see cost overrun of ₹3.4 trillion: MoSPI",
       "summary": "Infrastructure projects worth more than Rs 150 crore each recorded a cumulative cost overrun of around Rs 3,40,504 crore, according to a monthly government report for July 2026. A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ De…",
       "date": "2026-08-25T12:19:28.000Z",
@@ -1256,299 +1540,6 @@
       "scopes": [
         "world",
         "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-11-1wfp3o4",
-      "headline": "Skyways Air Services IPO subscribed 2.46 times",
-      "summary": "The offer received bids for 7.26 crore shares as against 2.95 crore shares on offer.",
-      "date": "2026-08-25T12:01:26.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-2-46-times-126082500971_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-12-fwvzx",
-      "headline": "United adds 10 new international destinations in massive 13-route global expansion",
-      "summary": "United Airlines is adding 10 new international destinations and a total of 13 new routes in an expansion dubbed the biggest route reveal in the carrier's history.",
-      "date": "2026-08-25T11:00:54.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/united-airlines-major-global-expansion-2027/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-51-13n4fzd",
-      "headline": "Travel from Hyderabad airport to get cheaper with revised user fee to come into effect from Sept 1",
-      "summary": "Travel for passengers from Rajiv Gandhi International Airport, Hyderabad, will be cheaper by Rs 235 due to a revised User Development Fee (UDF) effective from September 1, 2026.",
-      "date": "2026-08-25T10:24:03.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/travel-from-hyderabad-airport-to-get-cheaper-with-revised-user-fee-to-come-into-effect-from-sept-1/article71388246.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-52-1bl9lac",
-      "headline": "Govt weighs annual random drug tests for all airline pilots",
-      "summary": "If annual random testing is expanded to all pilots, then India would be the first country in the world to have such a norm.",
-      "date": "2026-08-25T10:06:18.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/india-commercial-pilots-random-drug-testing-dgca-11787645157075.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-53-w4hrvu",
-      "headline": "India targets 10 million tonnes of air cargo by 2030: Minister",
-      "summary": "India aims for 10 million tonnes of air cargo by 2030, enhancing trans-shipment and infrastructure to boost efficiency.",
-      "date": "2026-08-25T09:42:00.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/india-targets-10-million-tonnes-of-air-cargo-by-2030-minister/article71388177.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-54-149waj2",
-      "headline": "FIP seeks formal stakeholder status in aviation policy, safety matters of MoCA, DGCA and AAIB",
-      "summary": "FIP said pilots are primary operators of the aviation system and are directly affected by policies on safety, fatigue management, training standards, licensing, flight operations, psychoactive substance testing, occurrence reporting and accident prevention",
-      "date": "2026-08-25T09:04:01.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/fip-seeks-formal-stakeholder-status-in-aviation-policy-safety-matters-of-moca-dgca-and-aaib/article71388023.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-55-wcxzy",
-      "headline": "Centre weighs 100% random dope testing of airline pilots",
-      "summary": "DGCA assessing safety and operational impact of expanding testing from current 10% requirement",
-      "date": "2026-08-25T08:10:43.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/centre-weighs-100-random-dope-testing-of-airline-pilots/article71387831.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-56-wczelf",
-      "headline": "TN Ministers defend Parandur airport decision, policy note says new airport site will be selected",
-      "summary": "Tabling the policy note in the Assembly, Industries Minister S Keerthana assuring that land acquisition for an alternative airport would not come at the cost of agriculturists’ livelihoods.",
-      "date": "2026-08-25T07:58:16.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/tn-ministers-defend-parandur-airport-decision-policy-note-says-new-airport-site-will-be-selected/article71387800.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation",
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-57-gtb7x6",
-      "headline": "Dry bulk freight rates surge 36% to three-year high amid Iran war, higher oil prices: BoB Report",
-      "summary": "The report said freight rates across dry bulk carriers witnessed significant upward pressure during the period of the US-Iran war, with the Baltic Dry Index rising about 36% between February and July",
-      "date": "2026-08-25T07:08:27.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/dry-bulk-freight-rates-surge-36-to-three-year-high-amid-iran-war-higher-oil-prices-bob-report/article71387605.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-58-1eqe2nt",
-      "headline": "\"Every pilot has to undergo a dope test\": Civil Aviation Minister Naidu on DGCA's 100% testing plan",
-      "summary": "Naidu stated that current rules mandate dope testing for 10% of pilots, while the DGCA is discussing with stakeholders to expand testing",
-      "date": "2026-08-25T07:02:43.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/every-pilot-has-to-undergo-a-dope-test-civil-aviation-minister-naidu-on-dgcas-100-testing-plan/article71387596.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-59-deg7y2",
-      "headline": "FedEx to invest $150 million to develop air cargo hub at Delhi airport",
-      "summary": "Federal Express Corporation (FedEx) plans to invest USD 150 million to develop an air cargo hub spread across 2,30,000 square feet at the Delhi airport. The groundbreaking ceremony for the facility was held in the national capital on Tuesday in the presence o…",
-      "date": "2026-08-25T05:52:02.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/fedex-to-invest-150-million-to-develop-air-cargo-hub-at-delhi-airport-126082500268_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-60-15nnr9t",
-      "headline": "FedEx to invest $150 million for air cargo hub at Delhi airport",
-      "summary": "The air cargo hub at GMR Cargo City, Indira Gandhi International Airport, will enhance connectivity in North and East India, connecting businesses to global markets",
-      "date": "2026-08-25T05:33:52.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/fedex-to-invest-150-million-for-air-cargo-hub-at-delhi-airport/article71387379.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-61-uxzrt5",
-      "headline": "US unveils 'economic D-Day' against Iran, warns trade partners of sanctions",
-      "summary": "The statement marked the latest bid to force capitulation from Iran, which has refused to bow to US demands despite months of US bombing that began in February as well as decades of economic sanctions",
-      "date": "2026-08-25T02:08:07.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/us-unveils-economic-d-day-against-iran-warns-trade-partners-of-sanctions-126082500082_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-13-sai65u",
-      "headline": "A $10 billion financial knot awaits Chandrasekaran’s successor",
-      "summary": "Capital allocation, management bandwidth and attention across new-age and listed businesses will put the next Tata group chairperson’s leadership to the test.",
-      "date": "2026-08-25T00:31:00.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/a-10-billion-financial-knot-awaits-chandrasekaran-s-successor-11787565128753.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-13-1d3ejoh",
-      "headline": "JetBlue says all Mint flyers can now access its lounges",
-      "summary": "JetBlue will start allowing passengers flying in Mint business class on domestic flights to access its airport lounges at New York's JFK and Boston Logan.",
-      "date": "2026-08-24T20:45:26.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/jetblue-lounge-access-domestic-mint-bluehouse/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-14-rd22sy",
-      "headline": "JetBlue opens new Boston BlueHouse lounge",
-      "summary": "JetBlue unveiled its new Boston Logan International Airport (BOS) lounge, featuring locally inspired food, cocktails, coffee and spaces. See what it's like inside.",
-      "date": "2026-08-24T19:00:00.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/jetblue-boston-lounge-bluehouse/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-62-1cyv07j",
-      "headline": "Weak rains, services likely eased Q1 FY27 growth to 4-quarter low",
-      "summary": "India's GDP growth is likely to ease to around 7.2% in Q1 FY27, a four-quarter low, amid softer services activity and a delayed monsoon despite resilient domestic demand",
-      "date": "2026-08-24T18:40:13.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/news/weak-rains-services-likely-eased-q1-fy27-growth-to-4-quarter-low-126082401125_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-15-x5fxi",
-      "headline": "Everything you need to know about Amex Pay with Points",
-      "summary": "Learn how Amex Pay with Points works, how much Membership Rewards points are worth and when this redemption option makes sense.",
-      "date": "2026-08-24T16:00:01.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/amex-pay-with-points-guide/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
       ],
       "topics": [
         "industry"
