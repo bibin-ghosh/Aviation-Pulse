@@ -1,9 +1,234 @@
 {
-  "refreshedAt": "2026-09-02T07:08:23.155Z",
+  "refreshedAt": "2026-09-03T07:13:02.969Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "faa-0-q945dy",
+      "id": "faa-0-19rylty",
+      "headline": "Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology",
+      "summary": "Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology jennifer_rossi Wed, 09/02/2026 - 09:26 WASHINGTON, D.C. – U.S. Transportation Secretary Sean P. Duffy today announced that the Federal Aviation Administration (FAA) installed the 100th Surface Awareness…",
+      "date": "2026-09-02T13:26:22.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-announces-milestone-air-traffic-control",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "safety",
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-17tfk5i",
+      "headline": "Oil spike weighs on aviation stocks; IndiGo, SpiceJet dive up to 4%",
+      "summary": "Analysts noted that Aviation Turbine Fuel (ATF) represents a significant share of airlines' operating cost and any rise in crude oil price is a negative for the sector.",
+      "date": "2026-09-02T06:35:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/oil-spike-weighs-on-aviation-stocks-indigo-spicejet-dive-up-to-4-126090200428_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-11qg7xm",
+      "headline": "Volumes soar at Havells India Ltd counter",
+      "summary": "Havells India Ltd recorded volume of 7.35 lakh shares by 10:46 IST on BSE, a 7.74 times surge over two-week average daily volume of 94952 shares",
+      "date": "2026-09-02T05:36:36.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-havells-india-ltd-counter-126090200342_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-i6psc3",
+      "headline": "Wall Street bets on shielding Indian real estate from climate disaster",
+      "summary": "As floods, storms and extreme rainfall become more frequent, climate resilience is emerging as a new measure of value.",
+      "date": "2026-09-02T05:24:36.000Z",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-09-02/brookfield-blackstone-bet-on-shielding-india-real-estate-from-climate-disaster",
+      "scopeHint": "world",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-dfkgqr",
+      "headline": "Meet Shakti Sharma, first woman non-medical Air Vice Marshal in IAF",
+      "summary": "Air Vice Marshal Shakti Sharma: With a career spanning more than three decades, Shakti Sharma has become the first woman non-medical officer in the IAF to rise to the rank of Air Vice Marshal",
+      "date": "2026-09-02T05:09:51.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/meet-shakti-sharma-first-woman-non-medical-air-vice-marshal-in-iaf-126090200247_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-1d6pgua",
+      "headline": "Nifty breaches 24,000 as oil spike and bond yield surge rattle markets",
+      "summary": "Sensex falls over 700 points and Nifty slips below 24,000 as crude oil surges amid US-Iran tensions and rising US Treasury yields pressure equities.",
+      "date": "2026-09-02T04:03:22.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/nifty-breaches-24000-as-oil-spike-and-bond-yield-surge-rattle-markets/article71418055.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-150jz7u",
+      "headline": "India plans 100 new airports with ₹30,000 crore UDAN outlay",
+      "summary": "India plans 100 new airports over 10 years under UDAN with Rs 30,000 crore outlay, as the government seeks to expand domestic and international connectivity.",
+      "date": "2026-09-02T03:32:28.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/india-plans-100-new-airports-with-30000-crore-udan-outlay/article71418014.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-1v6uv26",
+      "headline": "100 new airports to be built in India over next 10 years: Aviation minister",
+      "summary": "India will build 100 new airports in the next 10 years under the Centre's regional connectivity scheme UDAN with an outlay of Rs 30,000 crore, Civil Aviation Minister K Rammohan Naidu has said. He inaugurated India's third 'hub & spoke' operations from Ahmeda…",
+      "date": "2026-09-02T03:24:45.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/100-new-airports-to-be-built-in-india-over-next-10-years-aviation-minister-126090200127_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1r8fiph",
+      "headline": "Akasa Air inducts 42nd aircraft, its 11th addition in 2026",
+      "summary": "Boeing 737 MAX 8-200 lands at Navi Mumbai; airline has 226 MAX aircraft on firm order",
+      "date": "2026-09-02T02:42:38.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-inducts-42nd-aircraft-its-11th-addition-in-2026/article71417962.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-world-2-0-13moar4",
+      "headline": "USA NEW WAVE OF STRIKES; TEHRAN FIRES BACK...",
+      "summary": "The U.S. military has hit targets in Iran, and Tehran has fired missiles and drones in response. Iranian officials say the latest U.S. attacks hit a house hosting a wedding, killing five people. Central Command said late Tuesday that the new barrage was compl…",
+      "date": "2026-09-02T00:00:13.000Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/iran-us-strikes-ad84a64884aedbbd1e5914182bb3cd8d",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-1jxvqcg",
+      "headline": "NHAI receives 17 bids for Odisha coastal highway corridor",
+      "summary": "The 160-km access-controlled Rameshwar-Paradeep corridor will be built in two packages under HAM and is expected to cut travel time by two-and-a-half hours",
+      "date": "2026-09-01T18:58:34.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/nhai-receives-17-bids-for-odisha-coastal-highway-corridor-126090200016_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1jddk4z",
+      "headline": "US launches new barrage of strikes on Iran around Strait of Hormuz",
+      "summary": "\"Today at 12 p.m. ET (1600 ​GMT), US forces began striking Islamic Revolutionary Guard Corps (IRGC) targets in Iran,\" US Central Command posted on X.",
+      "date": "2026-09-01T18:37:05.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz-126090200003_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-1v91bcb",
+      "headline": "Tata Elxsi inks pact with Sarla Aviation to make air taxi platform Shunya",
+      "summary": "Design and technology services firm Tata Elxsi on Tuesday said it has signed an initial pact with startup Sarla Aviation to collaborate on the development of the Bengaluru-based firm's air taxi platform Shunya. Under the collaboration, Tata Elxsi will provide…",
+      "date": "2026-09-01T18:02:48.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/tata-elxsi-inks-pact-with-sarla-aviation-to-make-air-taxi-platform-shunya-126090100734_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1lueljo",
+      "headline": "Scott Bessent says US likely to announce Iran bank sanctions this week",
+      "summary": "Bessent said it could be entities, airline leasing companies. He added, \"It could be anyone who does business with the IRGC. We are tracking down the IRGC's assets\"",
+      "date": "2026-09-01T18:01:18.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/scott-bessent-says-us-likely-to-announce-iran-bank-sanctions-this-week-126090101649_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "faa-1-q945dy",
       "headline": "FAA Proposes $67,500 Fine Against MIA Solutions, LLC for Alleged Violation of Hazardous Materials Regulations",
       "summary": "FAA Proposes $67,500 Fine Against MIA Solutions, LLC for Alleged Violation of Hazardous Materials Regulations beth_krappweis Tue, 09/01/2026 - 13:21 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $67,500 civil penalty against MIA Solutions LLC of Doral, Florida, for allegedly violating U.S. Department of Transportation hazardous…",
       "date": "2026-09-01T17:21:04.000Z",
@@ -18,173 +243,155 @@
       ]
     },
     {
-      "id": "faa-1-10ogg2t",
-      "headline": "FAA Grants Commercial Operating Certificate to Washington Manassas Airport",
-      "summary": "FAA Grants Commercial Operating Certificate to Washington Manassas Airport jennifer_rossi Tue, 09/01/2026 - 06:42 WASHINGTON — The Federal Aviation Administration (FAA) today announced it granted Washington Manassas Airport (HEF) a Part 139 Airport Operating Certificate, which allows the airport to accommodate certain commercial passenger airlines.…",
-      "date": "2026-09-01T10:42:01.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/faa-grants-commercial-operating-certificate-washington-manassas-airport",
-      "scopeHint": "world",
+      "id": "newsapi-india-0-11-1jl21gs",
+      "headline": "100 airports to be built in India in next 10 yrs: Civil Aviation Min Naidu",
+      "summary": "India will build 100 airports in the next 10 years under the Centre's regional connectivity scheme UDAN with an outlay of Rs 30,000 crore, Civil Aviation Minister Ram Mohan Naidu said here on Tuesday. Gujarat Chief Minister Bhupendra Patel and Deputy CM Harsh…",
+      "date": "2026-09-01T17:01:49.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/100-airports-to-be-built-in-india-in-next-10-yrs-civil-aviation-min-naidu-126090101552_1.html",
+      "scopeHint": "india",
       "scopes": [
-        "world"
+        "world",
+        "india"
       ],
       "topics": [
-        "regulation",
         "airports"
       ]
     },
     {
-      "id": "newsapi-india-0-0-eay4rm",
-      "headline": "ATF price hiked 5.46%; commercial LPG rates up ₹9.50 per cylinder",
-      "summary": "Aviation turbine fuel (ATF) prices on Tuesday were hiked by 5.46 per cent, while the price of commercial LPG, used by establishments such as hotels and restaurants, was raised by Rs 9.50 per 19-kg cylinder, in line with a rise in their international benchmark…",
-      "date": "2026-09-01T06:17:07.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/atf-price-hiked-546-commercial-lpg-rates-up-950-per-cylinder/article71413885.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-0-2l62k0",
-      "headline": "Skyways Air Services slips on market debut",
-      "summary": "Shares of Skyways Air Services were currently trading at Rs 129.90 at 10:10 IST on the BSE, representing a discount of 6.30% as compared with the issue price of Rs 138.",
-      "date": "2026-09-01T05:20:02.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-slips-on-market-debut-126090100270_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-1-1tde96p",
-      "headline": "Nifty Prediction Today – September 1, 2026: Nifty futures: A key support under test",
-      "summary": "A breach of 24,150 can drag Nifty futures (Sep) to 24,000 quickly",
-      "date": "2026-09-01T04:54:26.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-september-1-2026-nifty-futures-a-key-support-under-test/article71413666.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-2-1fswuoc",
-      "headline": "ATF price up 5.46%, commercial LPG rates of 19 kg cylinder hiked by ₹9.50",
-      "summary": "Jet fuel prices rose by ₹6.28 per litre to ₹121.28, while commercial LPG increased to ₹2,747.50 per 19-kg cylinder, raising costs for airlines and businesses",
-      "date": "2026-09-01T04:30:52.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/news/atf-price-up-5-46-commercial-lpg-rates-of-19-kg-cylinder-hiked-by-9-50-126090100162_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-0-12lz6lh",
-      "headline": "United ending Newark-South America route that dates back to the Continental days",
-      "summary": "United Airlines is ending nonstop service form Newark to Lima in 2027, doubling its service from Houston instead.",
-      "date": "2026-08-31T23:30:20.000Z",
+      "id": "newsapi-world-0-1-1hjzz80",
+      "headline": "See for yourself: JetBlue just unveiled its new first-class seats",
+      "summary": "Later this year, JetBlue will debut its new “BlueFirst” cabin. It's the carrier's first attempt at a fleetwide domestic first-class product.",
+      "date": "2026-09-01T17:00:24.000Z",
       "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/united-airlines-cuts-newark-route-lima-peru/",
+      "sourceUrl": "https://thepointsguy.com/news/jetblue-bluefirst-seats-unveiled/",
       "scopeHint": "world",
       "scopes": [
         "world"
       ],
       "topics": [
-        "operations"
+        "fleet"
       ]
     },
     {
-      "id": "newsapi-india-0-3-sgu5xl",
-      "headline": "Over a year after AI171 mishap, Air India's UK route biz in low gear",
-      "summary": "Air India's UK passenger traffic has fallen faster than capacity since the AI171 crash, highlighting the combined impact of weaker demand, airspace restrictions and geopolitical disruptions",
-      "date": "2026-08-31T18:24:56.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/over-a-year-after-ai171-mishap-air-india-s-uk-route-biz-in-low-gear-126083101581_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-1-ht4shy",
-      "headline": "Delta is (again) cutting America's longest domestic flight",
-      "summary": "Delta Air Lines is once again cutting America's longest domestic route, ending Boston-Honolulu flight shortly after the holidays.",
-      "date": "2026-08-31T18:15:27.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/delta-air-lines-cuts-boston-honolulu-route-again/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-4-1qbz15q",
-      "headline": "Flynas to start Kochi–Riyadh services from CIAL",
-      "summary": "The new service will operate three times a week on Wednesdays, Fridays and Sundays from Cochin International Airport Ltd",
-      "date": "2026-08-31T15:44:38.000Z",
+      "id": "newsapi-india-0-12-1pnkjwm",
+      "headline": "Keralam’s GCC Boilerplate and Sensory Workspaces pitch to attract GCCs",
+      "summary": "Keralam unveils its GCC boilerplate and sensory workspace to attract global capability centers, emphasizing a competitive, accessible environment.",
+      "date": "2026-09-01T16:44:26.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/flynas-to-start-kochiriyadh-services-from-cial/article71410721.ece",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/keralams-gcc-boilerplate-and-sensory-workspaces-pitch-to-attract-gccs/article71416769.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
         "india"
       ],
       "topics": [
-        "airports",
-        "operations"
+        "industry"
       ]
     },
     {
-      "id": "newsapi-world-2-0-opue12",
-      "headline": "George Santos banned by Kalshi for insider trading on prediction platform",
-      "summary": "The online prediction market platform Kalshi has permanently banned former U.S. Rep. George Santos after concluding the former Republican congressman likely engaged in insider trading when he made over $17,000 betting against his attendance at the State of th…",
-      "date": "2026-08-31T15:18:01.000Z",
-      "source": "Associated Press",
-      "sourceUrl": "https://apnews.com/article/kalshi-george-santos-lifetime-ban-c8ac3e25aec55cd5509485a84f79f9e0",
-      "scopeHint": "world",
+      "id": "newsapi-india-0-13-1mzu6j0",
+      "headline": "Delhi Traffic Police issues advisory for BRICS Summit rehearsal on Sept 2",
+      "summary": "The Delhi Traffic Police has issued a traffic advisory ahead of the motorcade rehearsal for the BRICS Summit 2026, announcing that restrictions and diversions will affect several key roads in the national Capital on September 2, officials said on Tuesday. The…",
+      "date": "2026-09-01T16:16:22.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/delhi-traffic-police-issues-advisory-for-brics-summit-rehearsal-on-sept-2-126090101512_1.html",
+      "scopeHint": "india",
       "scopes": [
-        "world"
+        "world",
+        "india"
       ],
       "topics": [
         "industry"
       ]
     },
     {
-      "id": "newsapi-india-0-5-1tslhmi",
-      "headline": "IndiGo says aircraft constraints haven’t deferred routes despite network cuts",
-      "summary": "IndiGo assures no route deferrals due to aircraft constraints, focusing on frequency growth and strategic international expansion.",
-      "date": "2026-08-31T14:54:12.000Z",
+      "id": "newsapi-india-0-14-16pbqvd",
+      "headline": "Test for India’s energy diplomacy",
+      "summary": "New Delhi must continue diversifying its energy supply base and maintain equidistance from all geopolitical blocs",
+      "date": "2026-09-01T15:49:10.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-says-aircraft-constraints-havent-deferred-routes-despite-network-cuts/article71411458.ece",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/test-for-indias-energy-diplomacy/article71416369.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-195q9po",
+      "headline": "17 bidders vie for ₹8,300 crore Rameshwar-Paradip coastal highway",
+      "summary": "Ten bids received for the Rameshwar-Konark package and seven for Konark-Paradip as NHAI moves ahead with the 160-km greenfield coastal highway project",
+      "date": "2026-09-01T15:44:58.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/17-bidders-vie-for-8-300-crore-rameshwar-paradip-coastal-highway-126090101533_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-1qngwgq",
+      "headline": "Ports and airports at the heart of Andhra’s MSME push, says Minister",
+      "summary": "Andhra Pradesh plans extensive ports and airports to enhance MSME trade and export capabilities, boosting economic growth.",
+      "date": "2026-09-01T15:16:35.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/ports-and-airports-at-the-heart-of-andhras-msme-push-says-minister/article71414578.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-t4282i",
+      "headline": "Delay in depositing foreign travel tax cannot draw non-payment penalty: SC",
+      "summary": "Supreme Court sets aside ₹71.29 lakh penalty on Saudi Arabian Airlines, ruling that 'failure to pay' under Finance Act does not cover delayed tax deposits",
+      "date": "2026-09-01T14:44:20.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/delay-in-depositing-foreign-travel-tax-cannot-draw-non-payment-penalty-sc-126090101426_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-1cue7bk",
+      "headline": "India raises diesel export levy, imposes petrol duty; cuts ATF levy",
+      "summary": "Diesel export duty rises to Rs 25 per litre and petrol attracts a Rs 1.5 levy, while the export duty on aviation turbine fuel falls to Rs 19 per litre",
+      "date": "2026-09-01T14:41:18.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/india-raises-diesel-export-levy-imposes-petrol-duty-cuts-atf-levy-126090101423_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-3bbdwh",
+      "headline": "SpiceJet ends Boeing 737 Max operations",
+      "summary": "This decision comes amid ongoing financial struggles, including a cash crunch that has seen the airline’s market share plummet to 1.6% and delays in salary and vendor payments.",
+      "date": "2026-09-01T14:31:22.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/spicejet-ends-boeing-737-max-operations/article71414720.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -196,12 +403,90 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-rakp1v",
-      "headline": "Air India Express calls FY26 weak financial performance ‘one off’",
-      "summary": "The airline plans fleet expansion, network optimisation and cost controls while seeking continued financial support from lenders and shareholders",
-      "date": "2026-08-31T14:50:51.000Z",
+      "id": "newsapi-world-0-2-1bv4cwj",
+      "headline": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+      "summary": "Article URL: https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept Comments URL: https://news.ycombinator.com/item?id=49522374 Points: 3 # Comments: 0",
+      "date": "2026-09-01T14:19:30.000Z",
+      "source": "Aviation Week",
+      "sourceUrl": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-16apb0d",
+      "headline": "Govt hikes windfall gains tax on petrol, diesel exports; cuts levy on ATF",
+      "summary": "The government on Tuesday hiked windfall gains tax on export of petrol and diesel, and reduced it marginally on ATF for the next fortnight. The rate of special additional excise duty (SAED) along with road and infrastructure cess on export of diesel now stand…",
+      "date": "2026-09-01T14:13:15.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/govt-hikes-windfall-gains-tax-on-petrol-diesel-exports-cuts-levy-on-atf-126090101185_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-3-1y7v04h",
+      "headline": "New Carnival Cruise Line loyalty program kicks off Tuesday",
+      "summary": "The new Carnival Rewards loyalty program replaces the line's VIFP Club program.",
+      "date": "2026-09-01T14:00:19.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/cruise/carnival-rewards-loyalty-program-debuts/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-wurym1",
+      "headline": "WRO India National Championship 2026 Showcases How Robotics Is Preparing India’s Next Generation for an AI-Powered World",
+      "summary": "WRO India National Championship 2026 Showcases How Robotics Is Preparing India’s Next Generation for an AI-Powered World",
+      "date": "2026-09-01T13:54:06.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-express-calls-fy26-weak-financial-performance-one-off/article71411430.ece",
+      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/wro-india-national-championship-2026-showcases-how-robotics-is-preparing-indias-next-generation-for-an-ai-powered-world/article71414351.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-p2h2cp",
+      "headline": "India's LPG consumption plunges 16% in Aug; petrol, diesel demand robust",
+      "summary": "LPG consumption fell 16.15 per cent year-on-year in August amid import pressures, while petrol and diesel demand rose 7.88 per cent and 6.46 per cent, respectively",
+      "date": "2026-09-01T13:53:55.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/india-s-lpg-consumption-plunges-16-in-aug-petrol-diesel-demand-robust-126090101307_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-24-pl6jfb",
+      "headline": "ALPA India flags senior pilots attrition at Air India Group; seeks independent review",
+      "summary": "ALPA India raises alarms over pilot attrition at Air India Group, urging an independent review of conditions and safety protocols.",
+      "date": "2026-09-01T13:05:22.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/alpa-india-flags-senior-pilots-attrition-at-air-india-group-seeks-independent-review/article71415027.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -209,97 +494,16 @@
         "air-india"
       ],
       "topics": [
-        "fleet",
-        "operations"
+        "safety"
       ]
     },
     {
-      "id": "newsapi-india-0-7-ydhonz",
-      "headline": "Industry credit growth accelerates to 20% in July; gold loans moderate",
-      "summary": "Industrial credit growth accelerated from 6.5 per cent a year earlier, while loans against gold jewellery grew 88.1 per cent, down from 136.4 per cent",
-      "date": "2026-08-31T14:27:57.000Z",
+      "id": "newsapi-india-0-25-1726a0r",
+      "headline": "Tata Elxsi signs MoU with Sarla Aviation",
+      "summary": "For development of Shunya, India's First Indigenous eVTOL Aircraft",
+      "date": "2026-09-01T12:20:08.000Z",
       "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/banking/industry-credit-growth-accelerates-to-20-in-july-gold-loans-moderate-126083101230_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "faa-2-wwvp5b",
-      "headline": "FAA Announces Key Demonstrations with the First Remotely-Piloted Hybrid-Electric Flight for Cargo Shipment",
-      "summary": "FAA Announces Key Demonstrations with the First Remotely-Piloted Hybrid-Electric Flight for Cargo Shipment jennifer_rossi Mon, 08/31/2026 - 10:11 WASHINGTON — The Federal Aviation Administration (FAA) announced that Elroy and the Louisiana Department of Transportation and Development conducted a hybrid-electric demonstration flight to test cargo…",
-      "date": "2026-08-31T14:11:39.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/faa-announces-key-demonstrations-first-remotely-piloted-hybrid-electric-flight-cargo",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-8-2to96l",
-      "headline": "SpiceJet seeks more time from Delhi HC to meet ₹144.5 cr payment dues",
-      "summary": "SpiceJet cited delays in receiving government-backed financial support as it sought more time to meet its payment obligations to KAL Airways and Kalanithi Maran",
-      "date": "2026-08-31T14:05:25.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/spicejet-seeks-more-time-from-delhi-hc-to-meet-144-5-cr-payment-dues-126083101190_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-kl0kb2",
-      "headline": "How I use Seats.aero every day to find the best airline award availability in seconds",
-      "summary": "If you have struggled to find the flights you want at the price you want to redeem your points and miles, this powerful tool could revolutionize your travel.",
-      "date": "2026-08-31T14:00:47.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/travel/seats-aero/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-9-6mi8f3",
-      "headline": "SpiceJet seeks more time from Delhi HC to pay ₹50 crore in dispute with Kal Airways",
-      "summary": "SpiceJet’s counsel submitted that the airline received the first tranche of emergency credit support from the Central government in June and the funds were used for its operations",
-      "date": "2026-08-31T12:39:45.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/spicejet-seeks-more-time-from-delhi-hc-to-pay-50-crore-in-dispute-with-kal-airways/article71410743.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-10-khh8qi",
-      "headline": "India's Fly91 close to ordering at least 20 ATR turboprops, sources say",
-      "summary": "Fly91 is set to order 20 ATR turboprops, signaling confidence in India's expanding regional aviation market.",
-      "date": "2026-08-31T11:54:58.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indias-fly91-close-to-ordering-at-least-20-atr-turboprops-sources-say/article71410557.ece",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/tata-elxsi-signs-mou-with-sarla-aviation-126090101110_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -310,156 +514,28 @@
       ]
     },
     {
-      "id": "newsapi-india-0-11-1n3fcvg",
-      "headline": "Sensex today | Stock Market Highlights: Benchmark indices trade in the red in late session, Sensex down 307.24 points at 76,957.27",
-      "summary": "Sensex, Nifty, Share Prices Highlights: The benchmark indices traded in the red ahead of the close on Monday. At 3.40 pm, the BSE Sensex was at 76,957.27, down 307.24 points or 0.40% lower. The Nifty 50 was at 24,080.40, down 95.25 points or 0.39% lower.",
-      "date": "2026-08-31T11:25:02.000Z",
+      "id": "newsapi-india-0-26-13nconx",
+      "headline": "Tata Elxsi, Sarla Aviation sign MoU to build India’s first indigenous eVTOL aircraft",
+      "summary": "Tata Elxsi and Sarla Aviation partner to develop India's first indigenous eVTOL aircraft, Shunya, enhancing air travel efficiency.",
+      "date": "2026-09-01T12:07:49.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-31st-august-2026/article71408208.ece",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/tata-elxsi-sarla-aviation-sign-mou-to-build-indias-first-indigenous-evtol-aircraft/article71414933.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
         "india"
       ],
       "topics": [
-        "industry"
+        "fleet"
       ]
     },
     {
-      "id": "newsapi-india-0-12-1jnpo28",
-      "headline": "India's GDP grows 7.8% in Q1FY27 despite disruptions from West Asia crisis",
-      "summary": "Gross value added grew 8.2 per cent in the June quarter, while manufacturing expanded 9.2 per cent and investment demand accelerated to 11.9 per cent",
-      "date": "2026-08-31T10:40:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/news/india-s-gdp-growth-accelerates-to-7-8-in-q1-fy27-despite-west-asia-shocks-126083100761_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-wzu98d",
-      "headline": "Manipal Hospitals Joins Hands with Sarla Aviation and Aeromed to Transform Emergency Medical Transport in India",
-      "summary": "Manipal Hospitals Joins Hands with Sarla Aviation and Aeromed to Transform Emergency Medical Transport in India",
-      "date": "2026-08-31T10:00:21.000Z",
+      "id": "newsapi-india-0-28-1m811c1",
+      "headline": "Central technical team to visit possible sites for Bhadradri Kothagudem airport in Telangana",
+      "summary": "Central technical team to assess new sites for Bhadradri Kothagudem airport in Telangana after previous locations deemed unsuitable.",
+      "date": "2026-09-01T11:40:06.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/manipal-hospitals-joins-hands-with-sarla-aviation-and-aeromed-to-transform-emergency-medical-transport-in-india/article71410271.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-s7uzmx",
-      "headline": "IOC boosted LPG output by 30% amid Iran war, refineries ran over capacity",
-      "summary": "State-owned Indian Oil Corporation (IOC) ramped up liquefied petroleum gas production by nearly 30 per cent and kept its refineries operating above 100 per cent utilisation as disruptions to maritime trade through the Strait of Hormuz threatened India's energ…",
-      "date": "2026-08-31T09:56:03.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/ioc-boosted-lpg-output-by-30-amid-iran-war-refineries-ran-over-capacity-126083100603_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-1fi35w0",
-      "headline": "IOC boosted LPG output by 30% amid Hormuz disruption, refineries ran above capacity",
-      "summary": "State-owned Indian Oil Corporation (IOC) ramped up liquefied petroleum gas production by nearly 30 per cent and kept its refineries operating above 100 per cent utilisation as disruptions to maritime trade through the Strait of Hormuz threatened India's energ…",
-      "date": "2026-08-31T09:22:44.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/ioc-boosted-lpg-output-by-30-amid-hormuz-disruption-refineries-ran-above-capacity/article71410153.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-2h9ja3",
-      "headline": "SpiceJet seeks more time to pay ₹50 crore to Maran",
-      "summary": "The airline told the Delhi high court it had planned to use the second tranche of emergency credit from the government to meet the first instalment of its ₹144.5 crore outstanding dues.",
-      "date": "2026-08-31T06:53:05.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/spicejet-seeks-more-time-to-pay-50-crore-to-maran-11788157455274.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-1huw9ge",
-      "headline": "US Open 2026 : Pegula, Medvedev and Kostyuk march into R2 with easy wins",
-      "summary": "Jessica Pegula was one of the first players to compete at the U.S. Open, and she learned last year that starting Sunday provided some nice relief. \"It is a little bit weird, but I did kind of enjoy that I could breathe for the next couple of days and everyone…",
-      "date": "2026-08-31T06:12:38.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/other-sports-news/us-open-2026-pegula-medvedev-and-kostyuk-march-into-r2-with-easy-wins-126083100147_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-t3htl4",
-      "headline": "Financial changes from September 1: ITR, LPG e-KYC, fuel prices and more",
-      "summary": "From tax filing to LPG verification and fuel prices, these deadlines and changes could affect your household budget",
-      "date": "2026-08-31T06:04:19.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/finance/personal-finance/financial-changes-from-september-1-itr-lpg-e-kyc-fuel-prices-and-more-126083100377_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-onn1si",
-      "headline": "84.7 acres acquired, Rs 12,000 crore GDV: Max Estates makes its Delhi debut",
-      "summary": "Max Estates Enters Delhi With 84.7 Acres, Eyes Rs 12,000 Crore Development Opportunity",
-      "date": "2026-08-31T04:38:54.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/finance/personal-finance/84-7-acres-acquired-rs-12-000-crore-gdv-max-estates-makes-its-delhi-debut-126083100199_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1oglykb",
-      "headline": "Airlines are short of planes. Why India’s airport boom is losing steam",
-      "summary": "The pressure is forcing airport operators to look beyond passenger traffic for growth, with cargo, maintenance, repair and overhaul, and other non-aeronautical businesses",
-      "date": "2026-08-31T00:31:10.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/infrastructure/airlines-are-short-of-planes-why-india-s-airport-boom-is-losing-steam-11788059235764.html",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/central-technical-team-to-visit-possible-sites-for-bhadradri-kothagudem-airport-in-telangana/article71414901.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -470,12 +546,12 @@
       ]
     },
     {
-      "id": "newsapi-india-0-21-4apmj",
-      "headline": "India hopes to win top global telecom post; Pakistan signals support",
-      "summary": "Revathi Mannepalli, joint wireless adviser at the department of telecommunications, is contesting against two European candidates for the post of director of the Radiocommunication Bureau at ITU.",
-      "date": "2026-08-31T00:00:49.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/telecom/india-hopes-to-win-top-global-telecom-post-pakistan-signals-support-11788074878958.html",
+      "id": "newsapi-india-0-29-19981b0",
+      "headline": "Uttar Pradesh govt taps global markets for processed food exports",
+      "summary": "Uttar Pradesh is expanding processed food exports to global markets, with shipments rising to ₹1,132 crore in FY26 and exporters now present across all 75 districts",
+      "date": "2026-09-01T11:27:39.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/uttar-pradesh-govt-taps-global-markets-for-processed-food-exports-126090100980_1.html",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -486,44 +562,12 @@
       ]
     },
     {
-      "id": "newsapi-india-0-22-xtvo3u",
-      "headline": "Air NZ Reluctant to Signal Return to Profit After Big Loss",
-      "summary": "Air New Zealand reported a smaller-than-expected full-year loss despite soaring fuel costs and engine maintenance issues, but stopped short of pledging an immediate return to profit.",
-      "date": "2026-08-30T21:09:10.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/air-nz-reluctant-to-signal-return-to-profit-after-big-loss-11788124150417.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-r2vv2j",
-      "headline": "How to apply for an Amex business card",
-      "summary": "This step-by-step guide will show you how to accurately complete an American Express business card application.",
-      "date": "2026-08-30T17:00:54.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/credit-cards/amex-business-card-application/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-1yd87w",
-      "headline": "Japan opens carbon credit opportunity for Indian green projects",
-      "summary": "Japan's carbon credit market opens lucrative opportunities for Indian green projects under the Paris Agreement's Article 6.2.",
-      "date": "2026-08-30T16:56:02.000Z",
+      "id": "newsapi-india-0-30-1uww75p",
+      "headline": "MakeMyTrip partners with Fly91 to offer holiday packages to Lakshadweep from Bengaluru",
+      "summary": "MakeMyTrip and Fly91 launch holiday packages to Lakshadweep from Bengaluru, offering seamless travel experiences for peak season vacations.",
+      "date": "2026-09-01T10:55:00.000Z",
       "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/specials/clean-tech/japan-opens-carbon-credit-opportunity-for-indian-green-projects/article71404252.ece",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/makemytrip-partners-with-fly91-to-offer-holiday-packages-to-lakshadweep-from-bengaluru/article71414639.ece",
       "scopeHint": "india",
       "scopes": [
         "world",
@@ -531,54 +575,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-113ysrv",
-      "headline": "PM Modi arrives in Kyrgyzstan to attend SCO summit",
-      "summary": "PM Modi is visiting Kyrgyzstan at the invitation of President Sadyr Zhaparov to participate in the 26th SCO Summit on August 31-September 1",
-      "date": "2026-08-30T15:50:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/pm-modi-arrives-in-kyrgyzstan-to-attend-sco-summit/article71408467.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-1kkx7im",
-      "headline": "Editorial. Right prescription",
-      "summary": "Public needs full information on drugs recalls",
-      "date": "2026-08-30T15:20:01.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/opinion/editorial/right-prescription/article71407517.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-192wvhv",
-      "headline": "Noida airport’s slow take-off: Four big challenges behind its ₹28.6 crore loss outlook & slow growth",
-      "summary": "Zurich AG said slower ramp up expected due to challenging geopolitical environment with near-time performance remaining subject to elevated uncertainty",
-      "date": "2026-08-30T13:28:11.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/infrastructure/noida-airport-s-slow-take-off-four-big-challenges-behind-its-28-6-crore-loss-outlook-slow-growth-11788092514502.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
       ]
     }
   ]
