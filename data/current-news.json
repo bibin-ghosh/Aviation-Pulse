@@ -1,7 +1,118 @@
 {
-  "refreshedAt": "2026-09-12T07:11:43.066Z",
+  "refreshedAt": "2026-09-13T07:30:01.154Z",
   "edition": "github-scheduled-source-check",
   "items": [
+    {
+      "id": "newsapi-india-0-0-k4s3lb",
+      "headline": "China Southern Airlines to resume Guangzhou-Delhi flights after 6 years",
+      "summary": "China Southern Airlines on Saturday announced that it will resume regular passenger services on the Guangzhou-New Delhi route from September 21, restarting the service after a six-year suspension. With the resumption, the airline will operate more than 100 we…",
+      "date": "2026-09-12T05:39:32.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/china-southern-airlines-to-resume-guangzhou-delhi-flights-after-6-years-126091200229_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-iskqxo",
+      "headline": "GIFT City eyes bigger slice of aircraft leasing business",
+      "summary": "India has a large aircraft-leasing opportunity, but much of the financing and leasing sits offshore. GIFT City wants to capture that value, says CEO Sanjay Kaul",
+      "date": "2026-09-12T01:31:13.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/gift-city-aircraft-ship-leasing-business-semiconductor-11789104548637.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-k6bnyy",
+      "headline": "US consumer inflation rises in August, bolstering Fed rate hike bets",
+      "summary": "\"It wasn't as hot as yesterday's PPI, ‌but today's CPI left the Fed with less room to maneuver as it tries to maintain ​its inflation-fighting credentials,\" said Morgan Stanley Wealth Management exec",
+      "date": "2026-09-11T16:43:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/us-consumer-inflation-rises-in-august-bolstering-fed-rate-hike-bets-126091101342_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-g5ukbk",
+      "headline": "BRICS Summit 2026 Highlights: Unified payment system achievable with right trust framework: South African chapter of BRICS council",
+      "summary": "BRICS Summit 2026: the summit will begin at 2:35 pm on Saturday with a closed-door session for BRICS member countries themed “Inclusive Global Governance and Strengthening Multilateralism.” On Sunday, leaders from BRICS member states, partner nations, and o…",
+      "date": "2026-09-11T16:22:03.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/brics-summit-2026-highlights-new-delhi-september-11/article71454726.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-11s5j69",
+      "headline": "BRICS Summit 2026: In photos",
+      "summary": "BRICS Summit 2026: Find here the latest photos from the BRICS Summit 2026 event happening in New Delhi",
+      "date": "2026-09-11T15:22:40.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/brics-summit-2026-in-photos/article71457245.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-q3xq2",
+      "headline": "Climate: Time for BRICS to act",
+      "summary": "Green agenda. BRICS must stop relying on the Global North for technology or finance on the climate front",
+      "date": "2026-09-11T15:09:00.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/climate-time-for-brics-to-act/article71457129.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-18bmwnm",
+      "headline": "The best rental car loyalty programs in 2026",
+      "summary": "Compare the best rental car loyalty programs in 2026, including how to earn rewards, get elite status, redeem points and keep rewards from expiring.",
+      "date": "2026-09-11T15:00:06.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/loyalty-programs/rental-car-rewards-programs/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
     {
       "id": "faa-0-19wf5p",
       "headline": "They Stood In The Breach",
@@ -34,7 +145,220 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-15nr504",
+      "id": "newsapi-india-0-6-1nyiiiq",
+      "headline": "UP Chief Minister Yogi Adityanath Hails Galgotias University’s Landmark MoU with Japan’s Yamanashi Prefecture",
+      "summary": "UP Chief Minister Yogi Adityanath Hails Galgotias University's Landmark MoU with Japan's Yamanashi Prefecture",
+      "date": "2026-09-11T13:42:30.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/up-chief-minister-yogi-adityanath-hails-galgotias-universitys-landmark-mou-with-japans-yamanashi-prefecture/article71454831.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-pw83my",
+      "headline": "Rupee falls 1% in three days as crude, foreign outflows weigh on currency",
+      "summary": "The rupee has weakened over 1 per cent in three sessions as high crude oil prices and foreign outflows weigh, while experts see 96 as a key level against the dollar",
+      "date": "2026-09-11T12:43:03.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/finance/news/rupee-falls-1-in-three-days-as-crude-foreign-outflows-weigh-on-currency-126091101066_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-t1dv56",
+      "headline": "Alliance Air plane suffers engine failure; makes emergency landing at Delhi airport",
+      "summary": "Alliance Air aircraft with 40 onboard makes emergency landing in Delhi due to engine failure; all passengers safe.",
+      "date": "2026-09-11T11:54:14.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/alliance-air-plane-suffers-engine-failure-makes-emergency-landing-at-delhi-airport/article71455641.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-1bwdruy",
+      "headline": "Glass Wall Systems (India) IPO ends with 81.65 times subscription",
+      "summary": "The offer received bids for 134.37 crore shares as against 1.64 crore shares on offer.",
+      "date": "2026-09-11T11:34:21.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/glass-wall-systems-india-ipo-ends-with-81-65-times-subscription-126091100908_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-16g00qx",
+      "headline": "25 years later: Looking back at how 9/11 reshaped the aviation industry",
+      "summary": "As the fallout from “9/11” reverberated across the nation, few things changed more for Americans that the way we fly.",
+      "date": "2026-09-11T11:30:53.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/9-11-aviation-industry-25-years-later/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1mh35rs",
+      "headline": "Alliance Air plane makes emergency landing at Delhi after engine failure",
+      "summary": "An Alliance Air aircraft, carrying around 40 people, made an emergency landing at the Delhi airport due to an engine failure on Friday afternoon, according to a source. The aircraft landed safely at the airport, the source said. The airline was operating the …",
+      "date": "2026-09-11T11:19:41.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/alliance-air-plane-makes-emergency-landing-at-delhi-after-engine-failure-126091100726_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-11zin8l",
+      "headline": "It's been 25 years since 9/11 — here's how you can honor the anniversary",
+      "summary": "It's been 25 years since the terrorist attacks of Sept. 11, 2001. Here are some organizations to which you can donate to commemorate the anniversary.",
+      "date": "2026-09-11T11:00:04.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/honor-25th-anniversary-september-11th/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-1lozpvr",
+      "headline": "Brics Summit 2026: Metro services to start early at 6 am on September 13",
+      "summary": "Delhi Metro Time Changed? Brics 2026: Delhi Metro will start services at 6 am on all lines on Sunday, September 13, amid traffic restrictions and diversions in Delhi for the BRICS Summit",
+      "date": "2026-09-11T10:55:08.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/brics-summit-2026-metro-services-to-start-early-at-6-am-on-september-13-nc-126091100825_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-14osjcl",
+      "headline": "Saudi Arabia airstrikes hit Houthi rebels-held Mokha airport in Yemen",
+      "summary": "Saudi airstrikes hit the rebel-held Mokha airport in Yemen on Friday, an Iranian-backed Houthi broadcaster reported, a day after the Houthis entered the key port city on the Red Sea, bringing them closer to the strategic Bab el-Mandeb Strait. Their advance fu…",
+      "date": "2026-09-11T10:03:58.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/saudi-arabia-airstrikes-hit-houthi-rebels-held-mokha-airport-in-yemen-126091100699_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-b8ogb9",
+      "headline": "Energy Edits Newsletter for September 11, 2026",
+      "summary": "Explore the latest energy trends, geopolitical challenges, and innovations in the Energy Edits Newsletter for November 11, 2026.",
+      "date": "2026-09-11T09:47:30.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/newsletter/bl-energy/energy-edits-newsletter-for-september-11-2026/article71455556.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-18ciyol",
+      "headline": "DreamFolks is moving beyond airport lounges. Can it regain lost ground?",
+      "summary": "DreamFolks expects to return to its pre-lounge-exit revenue by 2030, but with a radically different business mix spanning travel, dining, wellness, golf and railway lounges.",
+      "date": "2026-09-11T08:45:22.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/dreamfolks-services-liberatha-kallat-airport-lounges-travel-benefits-lifestyle-benefits-credit-cards-11789108814513.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-1sym0d6",
+      "headline": "IndiGo, Air India battle for Mumbai-Delhi route as Akasa doubles flights",
+      "summary": "IndiGo held 42.8 per cent of seat capacity during April-September, narrowly ahead of Air India Group's 41.9 per cent, while Akasa Air's share climbed to 10.7 per cent",
+      "date": "2026-09-11T08:25:29.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/indigo-air-india-akasa-mumbai-delhi-route-seat-capacity-126091100584_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-1ay7zff",
+      "headline": "JSW Infrastructure completes acquisition of NCR Rail",
+      "summary": "JSW Infrastructure said that it has completed the acquisition of NCR Rail Infrastructure through its wholly owned step-down subsidiary Khurja Rail Terminal, effective 10 September 2026.",
+      "date": "2026-09-11T07:20:20.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/jsw-infrastructure-completes-acquisition-of-ncr-rail-126091100522_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-15nr504",
       "headline": "BRICS Summit: Lutyens’ Delhi gets makeover with lights, flowers, themed signages",
       "summary": "From illuminated roundabouts and floral displays to freshly landscaped roads and BRICS-themed signages, central Delhi has been given a makeover as the national capital hosts the BRICS Summit starting Friday.",
       "date": "2026-09-11T05:30:03.000Z",
@@ -50,7 +374,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1s13agh",
+      "id": "newsapi-india-0-18-1s13agh",
       "headline": "Brics Summit: Delhi gets makeover with lights, flowers, themed signages",
       "summary": "From illuminated roundabouts and floral displays to freshly landscaped roads and BRICS-themed signages, central Delhi has been given a makeover as the national capital hosts the BRICS Summit starting Friday. Officials said decorative lighting has been install…",
       "date": "2026-09-11T05:15:14.000Z",
@@ -66,7 +390,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-1lfbsft",
+      "id": "newsapi-india-0-19-1lfbsft",
       "headline": "Brics Summit 2026 agenda: India-China bilateral meeting among key events",
       "summary": "Hosted by India under its 2026 Brics chairship, the two-day summit will mark the culmination of India's year-long leadership of the grouping",
       "date": "2026-09-11T04:32:00.000Z",
@@ -82,7 +406,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-pfhsnm",
+      "id": "newsapi-india-0-20-pfhsnm",
       "headline": "Russian President Vladimir Putin begins 3-day India visit",
       "summary": "It will be his first in-person participation at a BRICS summit outside Russia since the war in Ukraine began in February 2022",
       "date": "2026-09-11T03:37:00.000Z",
@@ -98,7 +422,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-17lyv29",
+      "id": "newsapi-india-0-21-17lyv29",
       "headline": "AI could possibly end humanity but how are humans supposed to process that?",
       "summary": "The technology is far from the only existential risk our species faces. But weighing such cosmic fears can become a mind-bending exercise",
       "date": "2026-09-11T03:02:44.000Z",
@@ -114,7 +438,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-18zam36",
+      "id": "newsapi-india-0-22-18zam36",
       "headline": "BRICS Summit: Delhi deploys 15,000 police personnel, 500 CCTV cameras",
       "summary": "Traffic officials have advised commuters to plan ahead as foreign dignitaries’ movements are expected to cause temporary restrictions across the capital",
       "date": "2026-09-11T03:01:51.000Z",
@@ -160,7 +484,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-iv3kxm",
+      "id": "newsapi-india-0-23-iv3kxm",
       "headline": "Brics Summit 2026 could pave way for sustainable aviation fuel market",
       "summary": "BRICS may align SAF standards, feedstock mapping and carbon tracking to enable cross-border trade and support global aviation decarbonisation",
       "date": "2026-09-10T18:50:47.000Z",
@@ -176,7 +500,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-4eaexn",
+      "id": "newsapi-india-0-24-4eaexn",
       "headline": "Planning a trip? Here’s how your unused credit card reward points could help pay for flights and hotels",
       "summary": "Unused credit card points could help reduce the cost of flights and hotel stays. But the value you get redeem them, the conversion rate, award availability, and the taxes or fees attached to the booking.&nbsp;",
       "date": "2026-09-10T18:26:44.000Z",
@@ -192,7 +516,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-279p3g",
+      "id": "newsapi-india-0-25-279p3g",
       "headline": "Govt measures put Indonesian economy on recovery path",
       "summary": "Official cites budget discipline, MSCI steps and rate action; president to pitch Danantara co-investment and a larger role for Indonesian industry",
       "date": "2026-09-10T16:39:29.000Z",
@@ -224,7 +548,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-1ndly3x",
+      "id": "newsapi-india-0-26-1ndly3x",
       "headline": "IndiGo to launch daily Mumbai–Dar es Salaam flights from November 20",
       "summary": "IndiGo launches daily Mumbai-Dar es Salaam flights from November 20, enhancing connectivity and trade between India and East Africa.",
       "date": "2026-09-10T15:34:58.000Z",
@@ -240,7 +564,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-ifwmja",
+      "id": "newsapi-india-0-27-ifwmja",
       "headline": "International flights from Navi Mumbai gets a fee waiver boost",
       "summary": "An airline already flying to Dubai from CSMIA can now launch Navi Mumbai-Dubai flights and still qualify for the fee waiver. Under the earlier rule, it would not have qualified.",
       "date": "2026-09-10T15:30:35.000Z",
@@ -254,327 +578,6 @@
       "topics": [
         "regulation",
         "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-1tzae7b",
-      "headline": "New pilot dope-testing guidelines likely by month-end: Minister",
-      "summary": "Civil Aviation Minister announces new dope-testing guidelines for pilots expected by month-end to enhance aviation safety.",
-      "date": "2026-09-10T15:06:23.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/new-pilot-dope-testing-guidelines-likely-by-month-end-minister/article71452522.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-0-9q14bf",
-      "headline": "Frontier plans first South America service, adds 3 former Spirit routes",
-      "summary": "Frontier Airlines is picking up where Spirit Airlines left off in Colombia, with three nonstop routes to Colombia launching in December.",
-      "date": "2026-09-10T14:36:35.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/frontier-airlines-new-service-south-america/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-5l08hv",
-      "headline": "Hero Motors revives M&A plans, eyes tech acquisitions after IPO",
-      "summary": "This move not only supports the company’s organic growth but also positions it for competitive advantage in the global market.",
-      "date": "2026-09-10T13:47:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/hero-motors-revives-mampa-plans-eyes-tech-acquisitions-after-ipo/article71448987.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-1-1k0nnc8",
-      "headline": "Chase Air Canada Aeroplan Card gets major refresh with new perks and higher annual fee",
-      "summary": "The Chase Air Canada Aeroplan Card now offers automatic 25K status, a 15% award discount and new credits — but its annual fee has increased.",
-      "date": "2026-09-10T13:45:03.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/chase-aeroplan-card-refresh-september-2026/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-1mywwir",
-      "headline": "Navi Mumbai airport eyes more international routes with waiver in landing charges",
-      "summary": "Navi Mumbai airport seeks to expand international routes with a one-year landing charge waiver to attract new airlines.",
-      "date": "2026-09-10T12:50:15.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/navi-mumbai-airport-eyes-more-international-routes-with-waiver-in-landing-charges/article71451478.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-1u6tytp",
-      "headline": "Glass Wall Systems (India) IPO subscribed 81.65 times",
-      "summary": "The offer received bids for 134.37 crore shares as against 1.64 crore shares on offer.",
-      "date": "2026-09-10T12:37:17.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/glass-wall-systems-india-ipo-subscribed-81-65-times-126091001183_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-10qbmdh",
-      "headline": "Uttar Pradesh steps up outreach to attract big-ticket global investments",
-      "summary": "Uttar Pradesh steps up efforts to attract foreign investment in manufacturing, semiconductors, electronics and data centres",
-      "date": "2026-09-10T11:30:41.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-steps-up-outreach-to-attract-big-ticket-global-investments-126091001007_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-9ojqew",
-      "headline": "Hiranandani enters Goa realty market with ₹450-crore partnerships",
-      "summary": "Under its Eleva model, Hiranandani Communities will provide project management consultancy services for two residential projects spread across five acres in Goa",
-      "date": "2026-09-10T11:12:05.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/hiranandani-enters-goa-realty-market-with-450-crore-partnerships-126091000952_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-1tauew1",
-      "headline": "Sensex today | Stock Market Highlights: Sensex rises 138 pts, Nifty closes at 23,477 as crude oil surge, geopolitical tensions weigh on sentiment",
-      "summary": "Sensex, Nifty, Stock Price Highlights: Indian equity markets closed marginally higher on Thursday, with benchmark indices ‘eking out gains’ despite Brent crude oil prices climbing to around $102 per barrel, as investors remained cautious amid geopolitical ten…",
-      "date": "2026-09-10T10:36:02.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-september-2026/article71448206.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-amj64f",
-      "headline": "DGCA orders one-time drug test for all pilots after Air India incident",
-      "summary": "The directive follows a recent case involving an Air India pilot who tested positive for illegal drugs after a flight experienced a rare hydraulic-system failure",
-      "date": "2026-09-10T10:03:46.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/dgca-orders-one-time-drug-tests-for-all-pilots-after-air-india-incident-126091000752_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "safety",
-        "fleet",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-1pd919g",
-      "headline": "Brics summit: 15,000 Delhi Police personnel to be deployed for security",
-      "summary": "Delhi Police has put in place a multi-layered security for the upcoming BRICS Summit, with around 15,000 personnel and 200 companies of paramilitary forces to be deployed across the national capital, a senior police officer said on Thursday. Manish Kumar Agra…",
-      "date": "2026-09-10T09:06:11.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/brics-summit-15-000-delhi-police-personnel-to-be-deployed-for-security-126091000621_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-182o4h7",
-      "headline": "Fortune to set up ₹60,000 cr hyperscale AI data centre park in Telangana",
-      "summary": "The proposed 170-acre campus in Ranga Reddy district will support 1,200-1,600 MW of IT load, with cumulative investment potentially rising to ₹1 trillion",
-      "date": "2026-09-10T08:55:47.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/fortune-to-set-up-60-000-cr-hyperscale-ai-data-centre-park-in-telangana-126091000632_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-hslfuo",
-      "headline": "Mumbai-Goa highway delay: Nitin Gadkari says he felt 'ashamed', vows action against contractors",
-      "summary": "Union minister Nitin Gadkari says he feels ashamed over delays in the Mumbai-Goa highway widening project and will inspect the entire route in October. He also says he would blacklist contractors and suspend officials responsible for delays or poor execution.",
-      "date": "2026-09-10T08:41:22.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/infrastructure/mumbaigoa-highway-delay-nitin-gadkari-says-he-felt-ashamed-vows-action-against-contractors-11789028632839.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-2wnwea",
-      "headline": "Need more Indian suppliers in global aerospace sector: K Rammohan Naidu",
-      "summary": "Indian aviation sector offers immense opportunities for MSMEs, and efforts are underway to have more Indian suppliers in the global aerospace market, Civil Aviation Minister K Rammohan Naidu on Thursday. Global aerospace players have a strong interest in Indi…",
-      "date": "2026-09-10T08:01:04.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/need-more-indian-suppliers-in-global-aerospace-sector-k-rammohan-naidu-126091000452_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-nhw57g",
-      "headline": "DGCA expected to come out with draft CAR on dope testing by month-end",
-      "summary": "Civil Aviation Ministry asks regulator to complete drafting within a month",
-      "date": "2026-09-10T06:59:48.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/dgca-expected-to-come-out-with-draft-car-on-dope-testing-by-month-end/article71450554.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-1ft6tfu",
-      "headline": "One nation, one tax: why the next phase of GST reform must restore the federal compact",
-      "summary": "States gave up agency over local taxes to help India achieve a single national tax, but the end of the GST compensation guarantee has left many of them fiscally vulnerable. The country must forge another grand Centre-state bargain to ease state anxieties over…",
-      "date": "2026-09-10T06:30:39.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/opinion/online-views/one-nation-one-tax-why-next-phase-gst-reform-must-restore-federal-compact-taxation-11788945614497.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-tm3tlm",
-      "headline": "Nifty Prediction Today – September 10, 2026: Nifty futures: Weakness persists",
-      "summary": "Today's Nifty prediction indicates a bearish trend, with potential declines to 23,300 amidst mixed sector performances.",
-      "date": "2026-09-10T05:04:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-september-10-2026-nifty-futures-weakness-persists/article71450228.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-bipn9s",
-      "headline": "Brics Summit 2026 Delhi: Check routes to reach railway stations, airport",
-      "summary": "Delhi Traffic Advisory for the BRICS Summit: The Delhi Traffic Police said that traffic arrangements may change depending on movement and security requirements and urged commuters to check official traffic updates.",
-      "date": "2026-09-10T04:56:46.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/brics-summit-2026-delhi-check-routes-to-reach-railway-stations-airport-126091000261_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-1mmeek3",
-      "headline": "Spacious suites and fine wines: A review of United's new Elevated Polaris business class",
-      "summary": "United Airlines introduced its \"Elevated\" Polaris business class for international routes earlier this year, and we flew the new suite-style seats, complete with closing doors.",
-      "date": "2026-09-09T20:00:23.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/airline/reviews/united-airlines-boeing-787-polaris-elevated/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-11b26ol",
-      "headline": "Have a travel problem? Here's how to write an effective complaint letter",
-      "summary": "Writing a successful complaint letter when your travels go wrong is hard. Here's our guide to making sure you get the resolution you want.",
-      "date": "2026-09-09T18:00:27.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/travel/how-to-write-travel-complaint-letter/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
       ]
     }
   ]
