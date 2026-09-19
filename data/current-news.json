@@ -1,7 +1,104 @@
 {
-  "refreshedAt": "2026-09-18T07:26:41.964Z",
+  "refreshedAt": "2026-09-19T07:22:45.422Z",
   "edition": "github-scheduled-source-check",
   "items": [
+    {
+      "id": "newsapi-india-0-0-mwdwxe",
+      "headline": "Demand strong, fuel crisis far less severe than COVID: AirAsia's Fernandes",
+      "summary": "Fernandes said AirAsia had strong ​liquidity and was adept at managing cash, adding the current crisis was largely driven by geopolitical tensions and ​higher fuel prices",
+      "date": "2026-09-18T05:47:40.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/demand-strong-fuel-crisis-far-less-severe-than-covid-airasia-s-fernandes-126091800316_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1anouse",
+      "headline": "Nifty Prediction Today – September 18, 2026: Nifty futures: Resistance ahead",
+      "summary": "Nifty 50 faces resistance at 23,400; potential drop to 23,200 signals cautious trading strategies for September futures.",
+      "date": "2026-09-18T05:32:18.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-september-18-2026-nifty-futures-resistance-ahead/article71479489.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-ftqcem",
+      "headline": "Shapoorji Group chairman welcomes RBI decision, backs listing of Tata Sons",
+      "summary": "SP Group chairman says public listing can strengthen transparency, governance and philanthropy, and calls for closer engagement with Tata Sons and Tata Trusts",
+      "date": "2026-09-18T05:21:46.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/shapoorji-pallonji-mistry-tata-sons-listing-rbi-decision-126091800296_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-1c5ex1q",
+      "headline": "IndiGo rises 2%; analysts expect ancillary service fee hike to aid margins",
+      "summary": "According to reports, IndiGo has hiked charges for various ancillary services, including infant travel and unaccompanied minors. Charges have been revised higher for travel of infants",
+      "date": "2026-09-18T05:12:22.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/indigo-rises-2-analysts-expect-ancillary-service-fee-hike-to-aid-margins-126091800273_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-1749bj2",
+      "headline": "IndiGo hikes rates on ancillary services including infant travel, unaccompanied minors",
+      "summary": "Charges for some of the ancillary services have been hiked in recent weeks amid rising operational costs, especially due to higher fuel prices, source says",
+      "date": "2026-09-18T05:01:20.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-hikes-rates-on-ancillary-services-including-infant-travel-unaccompanied-minors/article71479218.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-cbcqks",
+      "headline": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters",
+      "summary": "The waiver will allow Boeing to sell the planes for another three years after new emissions rules take ‌effect on January 1, 2028",
+      "date": "2026-09-18T04:56:49.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/faa-waives-emissions-rules-to-let-boeing-sell-35-additional-777f-freighters-126091800252_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "regulation"
+      ]
+    },
     {
       "id": "faa-0-ik9l3o",
       "headline": "Laser Strikes on Aircraft Continue to Drop But Are Still Too High",
@@ -16,6 +113,36 @@
       "topics": [
         "fleet",
         "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-1yzduuk",
+      "headline": "9 great ways to use Bilt Cash — from bonus points to helicopter rides",
+      "summary": "Bilt Cash can unlock bonus points, hotel savings, Blade helicopter rides and more. Here are 9 of our favorite ways to use it before most of it expires.",
+      "date": "2026-09-17T19:00:09.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/bilt-cash-best-ways-to-use/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-n9jtxa",
+      "headline": "Elite status, hotel nights and more: Your guide to the Virgin Red Rewards Mastercard",
+      "summary": "Whether you're a loyal Virgin flyer seeking elite status or a casual award traveler, this card deserves a second look.",
+      "date": "2026-09-17T18:00:25.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/virgin-red-rewards-mastercard-guide/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
       ]
     },
     {
@@ -35,7 +162,153 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-1d5ll7z",
+      "id": "newsapi-india-0-6-ycpqwr",
+      "headline": "HCL-Foxconn JV India Chip targets 40% of India’s display driver chip demand",
+      "summary": "India Chip’s more than ₹3,700-crore facility would focus initially on display driver chips used in smartphones, laptops, cars, wearables, televisions and medical devices",
+      "date": "2026-09-17T15:21:34.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/hcl-foxconn-jv-india-chip-targets-40-of-indias-display-driver-chip-demand/article71477150.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-1uatowf",
+      "headline": "Broker’s call: GMR Airports (Buy)",
+      "summary": "JM Financial maintains a \"Buy\" on GMR Airports, setting a target price of ₹115 amid current traffic challenges.",
+      "date": "2026-09-17T14:01:35.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/brokers-call-gmr-airports-buy/article71477039.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-13spkgg",
+      "headline": "Wine tasting, swimming holes and honky-tonks: A road trip through the Texas Hill Country",
+      "summary": "Follow this road trip itinerary to explore the picturesque Texas Hill Country between San Antonio and Austin.",
+      "date": "2026-09-17T14:00:58.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/travel/texas-hill-country-road-trip-itinerary/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-0-weo2lg",
+      "headline": "Drama at Tata Sons: Chandra gets fresh term; Tata Trusts calls it 'illegal'",
+      "summary": "While Noel Tata had voiced his objection to Chandrasekaran's reappointment as chairman in February, the Tata Sons board on Thursday relied on a resolution sent in by Tata Trusts last year to grant an extension",
+      "date": "2026-09-17T11:29:23.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/natarajan-chandrasekaran-tata-sons-chairman-noel-tata-trusts-tata-sons-ipo-listing-11789642339116.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-yngzql",
+      "headline": "Tata Sons board for Chandra's reappointment, moves to list co; Trusts may challenge decision",
+      "summary": "Noel Tata, chairman of Tata Trusts, voted against Chandrasekaran's reappointment, but the resolution passed by a majority vote of the board",
+      "date": "2026-09-17T11:12:21.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/tata-sons-board-for-chandras-reappointment-moves-to-list-co-trusts-may-challenge-decision/article71476352.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-oocs9x",
+      "headline": "Goa needn't aspire to become the next Bali—but it should do more to live up to its potential",
+      "summary": "Goa isn’t far behind Bali in its natural appeal as a holiday destination but attracted less than one foreign visitor for every 13 Bali did in 2025. Four largely man-made problems stand in the way of Goa’s success.",
+      "date": "2026-09-17T10:59:59.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/opinion/online-views/goa-doesnt-need-to-be-the-next-bali-lets-make-it-a-global-hotspot-tourism-11789563625108.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-ukvjdp",
+      "headline": "Sensex today | Stock Market Highlights: Nifty, Sensex close flat as high crude price concerns offset value buying",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights - Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 17th September 2026. Follow our NSE IPO Live to know real-time subscription data.",
+      "date": "2026-09-17T10:43:25.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-17th-september-2026/article71472777.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-1-e6kc2p",
+      "headline": "Tata Sons to go public, board clears 5-year extension for N Chandrasekaran",
+      "summary": "​The board meeting lasted about three hours on Thursday in the midst of organisational turmoil",
+      "date": "2026-09-17T09:18:08.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/tata-sons-to-go-public-board-clears-5-year-extension-for-n-chandrasekaran-126091700629_1.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-9wwwk2",
+      "headline": "Air India vs IndiGo vs SpiceJet",
+      "summary": "IndiGo remains India's largest airline with over 50% market share and 11.3 million seats despite a 4.5% capacity decrease. Air India and Air India Express follow, with notable reductions. Emirates was the only foreign airline to increase capacity, while low-c…",
+      "date": "2026-09-17T08:48:57.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/air-india-vs-indigo-vs-spicejet-what-numbers-reveal-about-india-s-aviation-market-in-september-11789634356466.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-1d5ll7z",
       "headline": "Windfall levy on petrol, diesel and jet fuel lowered",
       "summary": "The SAED along with road and infrastructure cess on export of diesel is now ₹20 per litre; SAED on export of ATF is set at ₹15/litre; Duty on petrol exports has been slashed to ₹0.5 per litre",
       "date": "2026-09-17T06:16:21.000Z",
@@ -51,7 +324,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-0-1gybo0d",
+      "id": "newsapi-air-india-0-3-1gybo0d",
       "headline": "Volumes soar at Allied Blenders & Distillers Ltd counter",
       "summary": "Allied Blenders & Distillers Ltd recorded volume of 5.75 lakh shares by 10:45 IST on BSE, a 25.68 times surge over two-week average daily volume of 22393 shares",
       "date": "2026-09-17T05:34:20.000Z",
@@ -68,7 +341,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1hht3o5",
+      "id": "newsapi-india-0-13-1hht3o5",
       "headline": "Asiad 2026: Indian contingent grapples with accommodation woes in Nagoya",
       "summary": "The rowing team was among the worst affected, with many athletes left without accommodation on the cruise ship designated to house them",
       "date": "2026-09-17T05:26:02.000Z",
@@ -84,7 +357,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-sic65x",
+      "id": "newsapi-india-0-14-sic65x",
       "headline": "Steamhouse India shares list with 17% premium over IPO price",
       "summary": "Steamhouse India shares opened at ₹94.50, marking a gain of ₹13.50 or 16.67 per cent over the issue price on the NSE.",
       "date": "2026-09-17T05:17:31.000Z",
@@ -100,7 +373,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-1xmq5o5",
+      "id": "newsapi-india-0-15-1xmq5o5",
       "headline": "RBI listing, N Chandrasekaran's decision on agenda: What's in store as Tata Sons meet today?",
       "summary": "Tata Sons board meeting on Thursday will address the RBI's public listing mandate and outgoing Chairman Natarajan Chandrasekaran's resignation. Friction with Tata Trusts Chairman Noel Tata over listing issues has led to tensions within the board.",
       "date": "2026-09-17T05:14:43.000Z",
@@ -116,7 +389,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-14zy02h",
+      "id": "newsapi-india-0-16-14zy02h",
       "headline": "Global Beverage Brand 'MALAYALI' Achieves Rare 100% Award-Winning Portfolio Recognition",
       "summary": "Global Beverage Brand 'MALAYALI' Achieves Rare 100% Award-Winning Portfolio Recognition",
       "date": "2026-09-17T05:00:20.000Z",
@@ -132,7 +405,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-11xsf3y",
+      "id": "newsapi-india-0-17-11xsf3y",
       "headline": "India, Bangladesh discuss air connectivity, cargo and defence in Dhaka talks",
       "summary": "High Commissioner Dinesh Trivedi meets civil aviation, water resources and defence advisers",
       "date": "2026-09-17T04:28:02.000Z",
@@ -148,7 +421,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-1yezta1",
+      "id": "newsapi-india-0-18-1yezta1",
       "headline": "India cuts windfall tax on export of petrol, diesel, and aviation fuel",
       "summary": "Export duty on diesel has been reduced to ₹20 per litre from ₹25, while levies on petrol have been cut to ₹0.5 from ₹1.5 per litre, respectively",
       "date": "2026-09-17T02:02:54.000Z",
@@ -164,7 +437,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1o4087o",
+      "id": "newsapi-india-0-19-1o4087o",
       "headline": "Trump calls Canada-EU plan a ‘hostile act’, threatens tariffs on Europe",
       "summary": "The US President linked any response to the intentions of European leaders, while suggesting Washington could restrict trade in certain areas.",
       "date": "2026-09-17T00:30:45.000Z",
@@ -195,7 +468,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1201dx",
+      "id": "newsapi-india-0-20-1201dx",
       "headline": "Government cuts export levies on petrol, diesel and ATF for next fortnight",
       "summary": "Government cuts export levies on petrol, diesel and ATF for the next fortnight, with revised rates effective September 16 and no change in domestic excise duties.",
       "date": "2026-09-16T18:33:09.000Z",
@@ -211,7 +484,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-7vsu16",
+      "id": "newsapi-world-0-3-7vsu16",
       "headline": "The highly anticipated Grand Hyatt Cancun Beach Resort will debut an all-inclusive experience",
       "summary": "You can now book stays this winter at Grand Hyatt's first all-inclusive property.",
       "date": "2026-09-16T18:15:46.000Z",
@@ -226,7 +499,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-2-f932rp",
+      "id": "newsapi-air-india-0-5-f932rp",
       "headline": "The ₹11.5 trillion-question hanging over Tata Sons' IPO valuation",
       "summary": "Listed holdco discounts suggest a much lower value for the parent",
       "date": "2026-09-16T17:42:44.000Z",
@@ -243,7 +516,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-1-1qij7rx",
+      "id": "newsapi-world-0-4-1qij7rx",
       "headline": "Wyndham Rewards guide: How to earn and redeem points, elite status and more",
       "summary": "Learn how Wyndham Rewards works, including how to earn and redeem points, qualify for elite status, transfer rewards and book award stays.",
       "date": "2026-09-16T17:00:39.000Z",
@@ -258,7 +531,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-2-1fttm6n",
+      "id": "newsapi-world-0-5-1fttm6n",
       "headline": "I make my own amenity kit for long flights — here’s what’s inside",
       "summary": "Stay comfortable on long flights by packing some of these simple items in your DIY amenity kit, including earplugs, eye drops, lotion and more.",
       "date": "2026-09-16T16:00:57.000Z",
@@ -273,7 +546,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-kuzdbt",
+      "id": "newsapi-india-0-21-kuzdbt",
       "headline": "Centre weighs stronger safeguards for hub-and-spoke flight operations",
       "summary": "The Centre is considering enhanced safeguards and boarding pass improvements for hub-and-spoke flight operations after a recent immigration lapse.",
       "date": "2026-09-16T15:49:24.000Z",
@@ -289,7 +562,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-vyaunn",
+      "id": "newsapi-india-0-22-vyaunn",
       "headline": "Thomas Cook opens forex counters at Visakhapatnam international airport",
       "summary": "Thomas Cook (India) has expanded its airport foreign exchange network with the opening of forex counters at Alluri Sitarama Raju International Airport, Bhogapuram, strengthening its presence in the Visakhapatnam market and the wider Andhra Pradesh region.",
       "date": "2026-09-16T14:20:01.000Z",
@@ -303,277 +576,6 @@
       "topics": [
         "airports",
         "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-k76ekj",
-      "headline": "Praj and Gevo Enter Development & Commercialization Agreement for Bio-IBA in India",
-      "summary": "Partnership advances the world’s first Bio-IBA application for diesel blending towards commercial demonstration in India, opening a new route to decarbonise the diesel economy",
-      "date": "2026-09-16T13:27:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/praj-and-gevo-enter-development-commercialization-agreement-for-bio-iba-in-india/article71471460.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-fe5icm",
-      "headline": "Listing will provide Tata Sons more power to fund Group’s big projects: InGovern",
-      "summary": "InGovern advocates for a public Tata Sons to enhance capital allocation for major projects, improving flexibility and transparency.",
-      "date": "2026-09-16T12:55:27.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/listing-will-provide-tata-sons-more-power-to-fund-groups-big-projects-ingovern/article71471612.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-ib2ree",
-      "headline": "Aditya Birla Group entity seeks GIFT City nod to enter aircraft leasing",
-      "summary": "Aditya Birla Group’s UHG Holdings IFSC has sought regulatory approval to undertake aircraft leasing activities under the IFSCA framework in GIFT City.",
-      "date": "2026-09-16T12:30:23.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/money-and-banking/aditya-birla-group-entity-seeks-gift-city-nod-to-enter-aircraft-leasing/article71472423.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-vekg6",
-      "headline": "Keralam steps up push to fast-track flagship projects, attract investments",
-      "summary": "Keralam aims to fast-track flagship projects, like 'Reimagining Keralam' and 'Invest in Keralam', and attract investments through innovative strategies and diaspora support.",
-      "date": "2026-09-16T11:35:30.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/keralam-steps-up-push-to-fast-track-flagship-projects-attract-investments/article71471899.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-1pibmde",
-      "headline": "SFO Technologies unveil Primary Power Distribution System for first indigenous aircraft",
-      "summary": "SFO Technologies launches Primary Power Distribution System for SARAS MKII, enhancing India's indigenous civil aviation capabilities.",
-      "date": "2026-09-16T11:18:32.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/sfo-technologies-unveil-primary-power-distribution-system-for-first-indigenous-aircraft/article71471818.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-ym7nns",
-      "headline": "These are North America's best airports, according to JD Power's 2026 rankings",
-      "summary": "J.D. Power released its annual best North American Airports report for 2026, which finds that airports are a bright spot in the travel experience.",
-      "date": "2026-09-16T11:01:57.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/jd-power-best-airports-north-america-2026/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-4-mwo009",
-      "headline": "First look: Inside Amex's new Centurion Lounge in Amsterdam",
-      "summary": "Amex is opening a new Centurion Lounge at Amsterdam Airport Schiphol, with a dedicated coffee bar, Dutch-inspired food and more. Here's a first look inside.",
-      "date": "2026-09-16T11:00:33.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/american-express-centurion-lounge-amsterdam/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-1v7nfoc",
-      "headline": "Juniper Hotels proposes acquisition of Novotel Imagicaa for Rs 248 crore",
-      "summary": "Juniper Hotels has announced the proposed acquisition of an operating hotel, Novotel Imagicaa from Imagicaaworld Entertainment for an aggregate consideration of Rs 248 crore at approximately Rs 86 lakh per key.",
-      "date": "2026-09-16T10:34:27.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/juniper-hotels-proposes-acquisition-of-novotel-imagicaa-for-rs-248-crore-126091600766_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-1qpiypo",
-      "headline": "Cash, Card, or Both? What Smart Travellers Actually Carry Before Crossing Borders",
-      "summary": "When a trip abroad starts coming together, most travellers do the same thing: they search for \"forex Close to me\" or \"currency Interchangenear me,\" expecting to walk into the nearest counter and be do",
-      "date": "2026-09-16T09:24:20.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/content/specials/cash-card-or-both-what-smart-travellers-actually-carry-before-crossing-borders-126091300054_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-nwhzzt",
-      "headline": "Giredmet inks pact with Alt Metals for titanium sponge pilot production unit",
-      "summary": "Russia’s State Research and Design Institute of Rare Metal Industry (Giredmet) has signed a contract with Alt Metals to establish a pilot production facility for titanium sponge, the primary feedstock for making titanium.",
-      "date": "2026-09-16T07:03:02.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/giredmet-inks-pact-with-alt-metals-for-titanium-sponge-pilot-production-unit/article71471396.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-zt19kd",
-      "headline": "Glass Wall Systems (India) jumps on market debut",
-      "summary": "Shares of Glass Wall Systems (India) were currently trading at Rs 204.70 at 10:15 IST on the BSE, representing a premium of 12.47% as compared with the issue price of Rs 182.",
-      "date": "2026-09-16T05:01:15.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/glass-wall-systems-india-jumps-on-market-debut-126091600249_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1dqheae",
-      "headline": "Asian Games-bound Pathirage's javelin damaged during flight to Japan",
-      "summary": "Sri Lankan javelin thrower Rumesh Pathirage has suffered a setback ahead of the upcoming Asian Games after five of his \"winning\" javelins were damaged in air travel. The 23-year-old was returning to Sri Lanka from Budapest after competing at the World Athleti…",
-      "date": "2026-09-16T04:47:25.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asian-games-bound-pathirage-s-javelin-damaged-during-flight-to-japan-126091500532_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-woba20",
-      "headline": "GMR Airports August passenger traffic rises 1% YoY",
-      "summary": "GMR Airports handled around 9.4 million passengers in August 2026, marking a 0.9% year-on-year (YoY) increase in passenger traffic.",
-      "date": "2026-09-16T04:34:44.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/gmr-airports-august-passenger-traffic-rises-1-yoy-126091600217_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-5-1y6rsco",
-      "headline": "Qantas’ A380 isn’t the newest way to fly — but kangaroo pajamas and an onboard lounge make it a treat",
-      "summary": "Qantas business class aboard the Airbus A380 jumbo jet remains one of the most comfortable ways to cross the Pacific. Here's how to book it as an award ticket.",
-      "date": "2026-09-15T19:00:12.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/airline/reviews/qantas-a380-business-class/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-kcjdwl",
-      "headline": "Nato jets shoot down drone that entered Lithuanian airspace from Belarus",
-      "summary": "The drone was intercepted five kilometers from a hydroelectric power plant near Pratkunai in central Lithuania",
-      "date": "2026-09-15T18:18:50.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/nato-jets-shoot-down-drone-that-entered-lithuanian-airspace-from-belarus-126091501379_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-99f49j",
-      "headline": "TREV sues Trevel over EV-cab brand as rivals chase ₹22,000-crore market",
-      "summary": "Delhi High Court has not granted an interim injunction; trademark fight returns to court on September 18 as EV-cab rivals chase ₹22,000-crore market",
-      "date": "2026-09-15T16:06:52.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/trev-sues-trevel-over-ev-cab-brand-as-rivals-chase-22000-crore-market/article71466372.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-nytt7i",
-      "headline": "AISATS personnel under scanner over Air India hub-and-spoke immigration lapse",
-      "summary": "AISATS personnel suspended amid investigation into immigration lapses involving three Italian nationals traveling from Amritsar to Munich.",
-      "date": "2026-09-15T15:47:40.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/aisats-personnel-under-scanner-over-air-india-hub-and-spoke-immigration-lapse/article71469278.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "safety"
       ]
     }
   ]
