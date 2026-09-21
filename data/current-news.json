@@ -1,9 +1,157 @@
 {
-  "refreshedAt": "2026-09-20T07:46:22.820Z",
+  "refreshedAt": "2026-09-21T07:59:47.026Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-air-india-0-0-184tewi",
+      "id": "newsapi-india-0-0-a7wu79",
+      "headline": "How green corridors are becoming lifelines for patients across Noida-NCR",
+      "summary": "A journey that would ordinarily be measured in traffic signals and minutes was reduced to a race against time: A donor heart travelled nearly 20 kilometres from Hindon Airport in Ghaziabad to a hospital in Noida in just 16 minutes, as traffic police cleared t…",
+      "date": "2026-09-20T04:56:58.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/how-green-corridors-are-becoming-lifelines-for-patients-across-noida-ncr-126092000127_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-g453l0",
+      "headline": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with ballistic missile",
+      "summary": "The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted; residents in Riyadh heard an explosion",
+      "date": "2026-09-20T03:53:07.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/world/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486988.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-4ym8mi",
+      "headline": "Alibaba, Meituan units in trouble? China antitrust probe follows Trip.com’s $776 million penalty",
+      "summary": "China investigates Alibaba and Meituan units over suspected unfair competition as Alibaba backs a $2.5 billion AI startup.",
+      "date": "2026-09-19T16:30:17.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/alibaba-meituan-units-in-trouble-china-antitrust-probe-follows-trip-com-s-776-million-penalty-11789834813094.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-znz3qn",
+      "headline": "Air India flight to Nepal returns to Delhi due to suspected tech issue",
+      "summary": "Air India flight to Nepal returns to Delhi over technical issue; passengers transferred to alternative aircraft for safe travel.",
+      "date": "2026-09-19T16:10:54.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-flight-to-nepal-returns-to-delhi-due-to-suspected-tech-issue/article71485664.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "fleet",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-545376",
+      "headline": "F&O Strategy: Buy IndiGo call option",
+      "summary": "Buy IndiGo call options as positive momentum continues; target ₹55-60 with a stop-loss at ₹25.",
+      "date": "2026-09-19T16:02:58.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/fampo-strategy-buy-indigo-call-option/article71483994.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-2tfgg",
+      "headline": "Citi / AAdvantage Executive vs. Globe: 2 great options for American Airlines fans",
+      "summary": "If you're a frequent American Airlines flyer, I break down which card is better for you: The Citi / AAdvantage Executive or Citi / AAdvantage Globe.",
+      "date": "2026-09-19T14:00:25.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/citi-aadvantage-executive-vs-citi-aadvantage-globe/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-mjezcg",
+      "headline": "Telangana CM Reddy invites public to suggest new name for Mamnoor airport",
+      "summary": "Telangana CM Reddy invites public suggestions for renaming Mamnoor Airport, enhancing regional connectivity and economic growth.",
+      "date": "2026-09-19T11:54:40.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/telangana-cm-reddy-invites-public-to-suggest-new-name-for-mamnoor-airport/article71484500.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1hblg3a",
+      "headline": "Delhi Int'l Airport to reopen third runway for operations from Sep 20",
+      "summary": "The comprehensive rehabilitation of Runway 11R/29L (commonly known as the third runway) is complete, and all necessary regulatory approvals are in place, paving the way for its recommissioning from September 20",
+      "date": "2026-09-19T09:52:37.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/delhi-intl-airport-to-reopen-third-runway-for-operations-from-sep-20/article71484150.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-0-1ey2d8u",
+      "headline": "Inside the 24 hours that laid bare Tata’s brutal power struggle",
+      "summary": "The push for Tata Sons listing and the return of Chairman Natarajan Chandrasekaran is set to fuel uncertainty for a company that's making iPhones in India and flying Air India globally.",
+      "date": "2026-09-19T08:14:40.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/tata-sons-board-meeting-ipo-listing-chairman-natarajan-chandrasekaran-tata-trusts-noel-tata-11789804829713.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-1-184tewi",
       "headline": "Inside the 24 hours that laid bare Tata's fight for control and its future",
       "summary": "Directors voted 4-1 to extend N Chandrasekaran's tenure by five years and advance listing plans, rebuffing Tata Trusts chairman Noel Tata's push to keep the group private",
       "date": "2026-09-19T07:46:16.000Z",
@@ -20,7 +168,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-irasz2",
+      "id": "newsapi-india-0-7-irasz2",
       "headline": "Asiad 2026: India's shooting contingent hit by accommodation, travel woes",
       "summary": "The shooting contingent arrived in Nagoya on September 16 after travelling from India, but the accommodation it found on the ground did not match the booking information provided to the IOA",
       "date": "2026-09-19T06:40:21.000Z",
@@ -36,7 +184,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-7ty7rg",
+      "id": "newsapi-india-0-8-7ty7rg",
       "headline": "Tata Sons-Tata Trusts row: Harish Salve backs listing, says company's legal position 'legally perfect'",
       "summary": "Harish Salve, advising Tata Sons Chairman N Chandrasekaran, called the company's legal position legally perfect amid its governance differences with Tata Trusts. He backed Tata Sons becoming a public company, citing RBI rules, greater transparency and profess…",
       "date": "2026-09-19T04:53:18.000Z",
@@ -52,7 +200,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-qk8qvf",
+      "id": "newsapi-india-0-9-qk8qvf",
       "headline": "Asiad 2026: Sports Ministry seeks diaspora support amid room crunch",
       "summary": "Alarmed by the accommodation crisis at the Asian Games, the Sports Ministry has reached out to the Indian diaspora here to \"help with the lodging\" of athletes in case the shortage of rooms is not resolved during the continental showpiece beginning on Saturday…",
       "date": "2026-09-19T03:43:28.000Z",
@@ -68,7 +216,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-13y8zex",
+      "id": "newsapi-india-0-10-13y8zex",
       "headline": "Asiad 2026: Pawan Sehrawat replaces Toor as flag-bearer at opening ceremony",
       "summary": "Seasoned kabaddi player Pawan Sehrawat replaced Tajinderpal Singh Toor as India's flag-bearer for the Asian Games opening ceremony here on Saturday as the celebrated shot-putter has not yet received his official kit, which will prevent him from attending the …",
       "date": "2026-09-19T03:40:28.000Z",
@@ -84,7 +232,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-jxy3aj",
+      "id": "newsapi-india-0-11-jxy3aj",
       "headline": "Trump to welcome Xi at airport when China's leader comes for US state visit",
       "summary": "The first state visit by the leader of China in more than a decade takes place next week when President Xi Jinping arrives in Washington for high-stakes talks - and a little schmoozing - at the White House with President Donald Trump. When Xi's plan lands at …",
       "date": "2026-09-19T03:24:56.000Z",
@@ -100,7 +248,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-4j0c3y",
+      "id": "newsapi-india-0-12-4j0c3y",
       "headline": "Tata Sons listing: Why Noel Tata opposes RBI-triggered public issue",
       "summary": "Noel Tata's objection to a public listing of Tata Sons goes beyond ownership or valuation. At the heart of it is a question he says is much bigger. What happens to the Tata Group's way of doing business if its holding company has to answer to public sharehold…",
       "date": "2026-09-19T01:32:58.000Z",
@@ -116,7 +264,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-1-401jmi",
+      "id": "newsapi-air-india-0-2-401jmi",
       "headline": "Air India CEO weighs folding budget unit into group to cut costs",
       "summary": "Tewolde Gebremariam is considering merging Air India Express with Air India to cut costs and streamline operations as the carrier battles heavy losses",
       "date": "2026-09-18T18:19:34.000Z",
@@ -133,7 +281,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-1ob3lxm",
+      "id": "newsapi-world-0-1-1ob3lxm",
       "headline": "Maintenance delay? Airlines may soon have fewer reasons to compensate you",
       "summary": "Usually, airlines will offer meals and hotel vouchers when there's a maintenance delay. But new rules in Washington, D.C., could change all that.",
       "date": "2026-09-18T16:05:36.000Z",
@@ -148,7 +296,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-a80p8u",
+      "id": "newsapi-india-0-13-a80p8u",
       "headline": "Take project delays seriously: Rajnath Singh cautions HAL over Tejas LCA delivery lags",
       "summary": "As per the contract for 83 LCA Mk-1A, the HAL was supposed to have started the deliveries from March 2024 but missed a few deadlines",
       "date": "2026-09-18T15:54:10.000Z",
@@ -164,7 +312,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-elvwss",
+      "id": "newsapi-india-0-14-elvwss",
       "headline": "Karnataka govt to seek public opinion on renaming Dakshina Kannada district",
       "summary": "Karnataka CM announced that the Cabinet will issue a notice for opinions and objections regarding renaming Dakshina Kannada district to Mangaluru",
       "date": "2026-09-18T15:21:03.000Z",
@@ -180,7 +328,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-g78c8u",
+      "id": "newsapi-india-0-15-g78c8u",
       "headline": "Air India's incoming CEO Gebremariam meets Civil Aviation Minister K Naidu",
       "summary": "Air India's incoming CEO Tewolde Gebremariam on Friday met Civil Aviation Minister K Rammohan Naidu. Naidu shared pictures of the meeting on X and said that with massive demand for better connectivity and enhanced passenger convenience, the airline has a chal…",
       "date": "2026-09-18T15:06:18.000Z",
@@ -197,7 +345,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-4mvrus",
+      "id": "newsapi-india-0-16-4mvrus",
       "headline": "Defence Min calls for indigenous tech, public-private synergy in aviation",
       "summary": "He underlined that the public and private sectors should not be viewed as competitors but as organisations that complement each other.",
       "date": "2026-09-18T15:03:25.000Z",
@@ -213,7 +361,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-1-6h4rt9",
+      "id": "newsapi-world-0-2-6h4rt9",
       "headline": "Capital One Lounge is reopening after months-long closure",
       "summary": "The Capital One Lounge at Washington Dulles International Airport is reopening on Sept. 18 after months of infrastructure and ventilation work.",
       "date": "2026-09-18T15:00:32.000Z",
@@ -228,7 +376,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-1ltadxa",
+      "id": "newsapi-india-0-17-1ltadxa",
       "headline": "Draft Cabinet note on rupee payment for SEZ services floated for inter-ministerial view",
       "summary": "The Commerce Department's draft Cabinet note aims to amend SEZ rules, allowing rupee payments for services to boost domestic contracts.",
       "date": "2026-09-18T14:03:35.000Z",
@@ -245,7 +393,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-2-cphkkf",
+      "id": "newsapi-world-0-3-cphkkf",
       "headline": "The ultimate guide to Delta One Suites",
       "summary": "Everything you'd ever want to know about the Delta One business-class suites, from routes to seat details to how to book award flights.",
       "date": "2026-09-18T14:00:30.000Z",
@@ -260,7 +408,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-3-1wysr10",
+      "id": "newsapi-world-0-4-1wysr10",
       "headline": "Delta adds another new city from LAX, bolsters 7 others as hub battle intensifies",
       "summary": "Delta Air Lines is planning its largest schedule ever at Los Angeles International Airport (LAX) as the hub battle heats up.",
       "date": "2026-09-18T13:01:04.000Z",
@@ -276,7 +424,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-4-i2bqxd",
+      "id": "newsapi-world-0-5-i2bqxd",
       "headline": "Should you transfer Chase points to Hyatt before Oct. 1? Here’s how I’m deciding what to do",
       "summary": "Chase-to-Hyatt transfers are changing Oct. 1 for some cardholders. Here are the pros and cons of transferring points now and what I plan to do.",
       "date": "2026-09-18T13:00:10.000Z",
@@ -291,7 +439,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-11-1l9bco6",
+      "id": "newsapi-india-0-18-1l9bco6",
       "headline": "Air India new CEO weighs Express merger to cut loss",
       "summary": "Air India's incoming CEO Tewolde Gebremariam may merge Air India Express into the main airline to cut costs after a $2.3 billion annual loss in FY26.",
       "date": "2026-09-18T12:51:10.000Z",
@@ -308,7 +456,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-n1zfnt",
+      "id": "newsapi-india-0-19-n1zfnt",
       "headline": "Cochin International Airport installs bridge-mounted equipment to power parked aircraft",
       "summary": "Cochin International Airport launches eco-friendly bridge-mounted equipment for parked aircraft, reducing emissions and enhancing operational efficiency.",
       "date": "2026-09-18T12:18:07.000Z",
@@ -326,7 +474,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-sz8rjb",
+      "id": "newsapi-india-0-20-sz8rjb",
       "headline": "Asiad 2026: 30-35 Indian athletes faced lodging issues, says Sahdev Yadav",
       "summary": "India's Chef de Mission for the Asian Games, Sahdev Yadav, said on Friday that he only learned after arriving in the city that organisers had removed around 30 to 35 Indian athletes from the accommodation list, forcing the contingent to book hotels for them. …",
       "date": "2026-09-18T11:29:04.000Z",
@@ -342,7 +490,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-14-1kdyx4o",
+      "id": "newsapi-india-0-21-1kdyx4o",
       "headline": "Sensex today | Stock Market Highlights: Sensex slips but Nifty gains 75 points by closing as easing crude offers relief",
       "summary": "Sensex, Nifty, Share Prices Highlights: Indian benchmark indices ended mixed on Friday, with the Nifty 50 gaining over 75 points while the Sensex closed marginally lower, as easing crude oil prices provided some relief to domestic equities.",
       "date": "2026-09-18T10:48:57.000Z",
@@ -358,7 +506,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-15-17i8ukn",
+      "id": "newsapi-india-0-22-17i8ukn",
       "headline": "Tata Group’s boardroom tussle: All you need to know",
       "summary": "Tata Sons and its controlling charity arm, Tata Trusts, have been ​at odds for months over issues including a potential listing of Tata Sons, Air India’s mounting losses and ⁠a planned exit of a minority shareholder",
       "date": "2026-09-18T09:57:52.000Z",
@@ -375,7 +523,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-1va221v",
+      "id": "newsapi-india-0-23-1va221v",
       "headline": "Klook and Kagoshima Prefecture Launch Free Shinkansen Campaign for International Travelers",
       "summary": "Klook and Kagoshima Prefecture Launch Free Shinkansen Campaign for International Travelers",
       "date": "2026-09-18T09:00:32.000Z",
@@ -391,7 +539,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-17-mwdwxe",
+      "id": "newsapi-india-0-24-mwdwxe",
       "headline": "Demand strong, fuel crisis far less severe than COVID: AirAsia's Fernandes",
       "summary": "Fernandes said AirAsia had strong ​liquidity and was adept at managing cash, adding the current crisis was largely driven by geopolitical tensions and ​higher fuel prices",
       "date": "2026-09-18T05:47:40.000Z",
@@ -407,7 +555,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-18-1anouse",
+      "id": "newsapi-india-0-25-1anouse",
       "headline": "Nifty Prediction Today – September 18, 2026: Nifty futures: Resistance ahead",
       "summary": "Nifty 50 faces resistance at 23,400; potential drop to 23,200 signals cautious trading strategies for September futures.",
       "date": "2026-09-18T05:32:18.000Z",
@@ -423,7 +571,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-19-ftqcem",
+      "id": "newsapi-india-0-26-ftqcem",
       "headline": "Shapoorji Group chairman welcomes RBI decision, backs listing of Tata Sons",
       "summary": "SP Group chairman says public listing can strengthen transparency, governance and philanthropy, and calls for closer engagement with Tata Sons and Tata Trusts",
       "date": "2026-09-18T05:21:46.000Z",
@@ -436,149 +584,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1c5ex1q",
-      "headline": "IndiGo rises 2%; analysts expect ancillary service fee hike to aid margins",
-      "summary": "According to reports, IndiGo has hiked charges for various ancillary services, including infant travel and unaccompanied minors. Charges have been revised higher for travel of infants",
-      "date": "2026-09-18T05:12:22.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/news/indigo-rises-2-analysts-expect-ancillary-service-fee-hike-to-aid-margins-126091800273_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-1749bj2",
-      "headline": "IndiGo hikes rates on ancillary services including infant travel, unaccompanied minors",
-      "summary": "Charges for some of the ancillary services have been hiked in recent weeks amid rising operational costs, especially due to higher fuel prices, source says",
-      "date": "2026-09-18T05:01:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-hikes-rates-on-ancillary-services-including-infant-travel-unaccompanied-minors/article71479218.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-cbcqks",
-      "headline": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters",
-      "summary": "The waiver will allow Boeing to sell the planes for another three years after new emissions rules take ‌effect on January 1, 2028",
-      "date": "2026-09-18T04:56:49.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/faa-waives-emissions-rules-to-let-boeing-sell-35-additional-777f-freighters-126091800252_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "regulation"
-      ]
-    },
-    {
-      "id": "faa-0-ik9l3o",
-      "headline": "Laser Strikes on Aircraft Continue to Drop But Are Still Too High",
-      "summary": "Laser Strikes on Aircraft Continue to Drop But Are Still Too High beth_krappweis Thu, 09/17/2026 - 15:59 WASHINGTON -- For the third year in a row, reported laser strikes in the National Airspace System are down. Pilots reported 4,470 laser strikes to the Federal Aviation Administration (FAA) in 2026 - a 24 percent decrease from this time last year. The…",
-      "date": "2026-09-17T19:59:14.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/laser-strikes-aircraft-continue-drop-are-still-too-high",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "fleet",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-5-1yzduuk",
-      "headline": "9 great ways to use Bilt Cash — from bonus points to helicopter rides",
-      "summary": "Bilt Cash can unlock bonus points, hotel savings, Blade helicopter rides and more. Here are 9 of our favorite ways to use it before most of it expires.",
-      "date": "2026-09-17T19:00:09.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/credit-cards/bilt-cash-best-ways-to-use/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-6-n9jtxa",
-      "headline": "Elite status, hotel nights and more: Your guide to the Virgin Red Rewards Mastercard",
-      "summary": "Whether you're a loyal Virgin flyer seeking elite status or a casual award traveler, this card deserves a second look.",
-      "date": "2026-09-17T18:00:25.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/credit-cards/virgin-red-rewards-mastercard-guide/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "faa-1-ijbty4",
-      "headline": "Trump’s Transportation Secretary Sean P. Duffy Announces First Virginia College to Join Air Traffic Controller Training Program",
-      "summary": "Trump’s Transportation Secretary Sean P. Duffy Announces First Virginia College to Join Air Traffic Controller Training Program beth_krappweis Thu, 09/17/2026 - 13:56 WASHINGTON, D.C. - U.S. Transportation Secretary Sean P. Duffy announced the Federal Aviation Administration (FAA) has partnered with Shenandoah University in Virginia to join the Enhanced…",
-      "date": "2026-09-17T17:56:17.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-announces-first-virginia-college-join-air",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation",
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-ycpqwr",
-      "headline": "HCL-Foxconn JV India Chip targets 40% of India’s display driver chip demand",
-      "summary": "India Chip’s more than ₹3,700-crore facility would focus initially on display driver chips used in smartphones, laptops, cars, wearables, televisions and medical devices",
-      "date": "2026-09-17T15:21:34.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/hcl-foxconn-jv-india-chip-targets-40-of-indias-display-driver-chip-demand/article71477150.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-1uatowf",
-      "headline": "Broker’s call: GMR Airports (Buy)",
-      "summary": "JM Financial maintains a \"Buy\" on GMR Airports, setting a target price of ₹115 amid current traffic challenges.",
-      "date": "2026-09-17T14:01:35.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/brokers-call-gmr-airports-buy/article71477039.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
       ]
     }
   ]
