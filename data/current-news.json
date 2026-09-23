@@ -1,9 +1,222 @@
 {
-  "refreshedAt": "2026-09-22T07:45:01.566Z",
+  "refreshedAt": "2026-09-23T07:48:01.819Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "faa-0-mazti",
+      "id": "faa-0-1jqptcn",
+      "headline": "FAA Proposes $260,868 Fine Against ExcelAire, LLC for Alleged Illegal Operations",
+      "summary": "FAA Proposes $260,868 Fine Against ExcelAire, LLC for Alleged Illegal Operations beth_krappweis Tue, 09/22/2026 - 13:39 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $260,868 civil penalty against ExcelAire, LLC of New York and Georgia for allegedly conducting unauthorized charter operations. The FAA alleges that in August 2025,…",
+      "date": "2026-09-22T17:39:44.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-260868-fine-against-excelaire-llc-alleged-illegal-operations",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-ofo6fr",
+      "headline": "19 states sign MoUs for next phase of UDAN scheme to develop 100 airstrips from existing unused airstrips",
+      "summary": "Nineteen states sign MoUs to transform unused airstrips into operational airports under the UDAN scheme, enhancing regional connectivity.",
+      "date": "2026-09-22T07:35:09.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/19-states-sign-mous-for-next-phase-of-udan-scheme-to-develop-100-airstrips-from-existing-unused-airstrips/article71494525.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-vsz09",
+      "headline": "Air India to roll out new IFE platform in 2027 second-half; eyes higher ancillary revenues",
+      "summary": "As it prepares to enhance the digital experience for the passengers, the new In-Flight Entertainment (IFE) platform will also help in boosting the airline's ancillary revenues.",
+      "date": "2026-09-22T07:23:29.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-to-roll-out-new-ife-platform-in-2027-second-half-eyes-higher-ancillary-revenues/article71494517.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-1k1y1vm",
+      "headline": "Air India to launch IFE platform in 2027, eyes higher ancillary revenues",
+      "summary": "As it prepares to enhance the digital experience for the passengers, the new In-Flight Entertainment (IFE) platform will also help in boosting the airline's ancillary revenues",
+      "date": "2026-09-22T07:16:11.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-to-launch-ife-platform-in-2027-eyes-higher-ancillary-revenues-126092200459_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-yy4jzj",
+      "headline": "Puravankara eyes ₹5,200 cr in GDV from its maiden Delhi-NCR project",
+      "summary": "The 13.44-acre parcel has 4.57 million sq ft of saleable potential and an estimated GDV of Rs 5,200 crore, marking the developer's first foray into Delhi-NCR",
+      "date": "2026-09-22T06:56:35.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/puravankara-delhi-ncr-entry-greater-noida-land-deal-rs-340-crore-126092200359_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-kip67z",
+      "headline": "US threatens to shut Iranian airlines out of global operations this week",
+      "summary": "US sanctions on Iranian airlines: The sanctions threat goes beyond the airlines, targeting airports, ticketing companies, fuel suppliers, and other support businesses that help air carriers operate abroad",
+      "date": "2026-09-22T05:04:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/us-threatens-to-shut-iranian-airlines-out-of-global-operations-126092200267_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-rkjis5",
+      "headline": "Geely and Xinwei-Backed Cross-Era Leap Talent Development Program Welcomes Inaugural Class of \"AI Natives\"",
+      "summary": "Geely and Xinwei-Backed Cross-Era Leap Talent Development Program Welcomes Inaugural Class of \"AI Natives\"",
+      "date": "2026-09-22T03:00:38.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/geely-and-xinwei-backed-cross-era-leap-talent-development-program-welcomes-inaugural-class-of-ai-natives/article71494024.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1p2xqcs",
+      "headline": "Flights disrupted across US Northeast after air traffic centre outage",
+      "summary": "Damaged communications lines at a key air traffic control facility in Philadelphia had been repaired, allowing airports across the US Northeast to resume operations after hours of disruptions, the nation's transportation secretary said. Hundreds of flights we…",
+      "date": "2026-09-22T02:13:45.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/flights-disrupted-across-us-northeast-after-air-traffic-centre-outage-126092200062_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-xbhzd7",
+      "headline": "US threatens secondary sanctions over services to Iranian airlines",
+      "summary": "The warning targets airports, fuel suppliers and ticketing companies as Washington intensifies pressure on Tehran’s international financial and commercial networks",
+      "date": "2026-09-22T01:19:17.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/us-threatens-secondary-sanctions-over-services-to-iranian-airlines/article71493938.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-a39ktt",
+      "headline": "1,000 flights (and counting) canceled on East Coast: What options do travelers have?",
+      "summary": "Here are TPG's tips for navigating Monday's mass flight cancellations on the East Coast after an FAA outage.",
+      "date": "2026-09-21T22:31:47.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/flights-canceled-what-consumers-can-do/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "easa-0-1qeemlt",
+      "headline": "New vacancies published: Air Operations Expert, Air Operations Expert - Rotorcraft and Human Factors Expert",
+      "summary": "The following new vacancy notices have been published on our Careers portal:",
+      "date": "2026-09-21T21:00:00.000Z",
+      "source": "EASA",
+      "sourceUrl": "https://www.easa.europa.eu/newsroom-and-events/news/new-vacancies-published-air-operations-expert-air-operations-expert-rotorcraft-and-human-factors",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-ar8i57",
+      "headline": "Citi adds an exciting new airline transfer partner — with a 30% bonus",
+      "summary": "Citi points now transfer to Japan Airlines Mileage Bank, opening up some excellent award options — with a limited- time 30% transfer bonus available at launch.",
+      "date": "2026-09-21T20:35:29.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/citi-japan-airlines-transfer-partner/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-y568sg",
+      "headline": "American Airlines expands Starlux partnership with new codeshare agreement",
+      "summary": "American Airlines and Starlux are expanding their partnership with a new codeshare agreement, making it easier to book connecting flights to Taiwan and beyond.",
+      "date": "2026-09-21T20:00:39.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/airline/american-airlines-starlux-codeshare/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "faa-1-mazti",
       "headline": "Trump’s Transportation Secretary Sean P. Duffy Delivers State-of-the Art Air Traffic Control Management Tool to Transform The Flying Experience, Reduce Delays & Cancellations For the Traveling Public",
       "summary": "Trump’s Transportation Secretary Sean P. Duffy Delivers State-of-the Art Air Traffic Control Management Tool to Transform The Flying Experience, Reduce Delays & Cancellations For the Traveling Public beth_krappweis Mon, 09/21/2026 - 13:23 WASHINGTON, D.C. – U.S. Transportation Secretary Sean P. Duffy and Federal Aviation Administrator (FAA) Bryan Bedford…",
       "date": "2026-09-21T17:23:59.000Z",
@@ -19,7 +232,153 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-k2rwli",
+      "id": "newsapi-india-0-8-f8smis",
+      "headline": "Japanese logistics provider Nippon Express looks at States like UP for next expansion",
+      "summary": "After Japan, the US, Europe and other parts of Asia, Nippon Express Group is now trying make a “big team in India”, says Katsuhito Kobayashi, Executive Officer, South Asia & Oceania Region",
+      "date": "2026-09-21T15:40:45.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/japanese-logistics-provider-nippon-express-looks-at-states-like-up-for-next-expansion/article71491776.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-ezdsjb",
+      "headline": "Delhi airport jumps 11 spots to rank 28th among global megahubs in 2026",
+      "summary": "Delhi airport climbed from 39th in 2025 to 28th in OAG's global megahub rankings and entered the top 10 low-cost megahubs for the first time in 2026",
+      "date": "2026-09-21T13:55:10.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/delhi-airport-jumps-11-spots-to-rank-28th-among-global-megahubs-in-2026-126092101109_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-135u1wo",
+      "headline": "Apeejay Surrendra Park Hotels appoints Manish Bhagat as CFO",
+      "summary": "Bhagat brings over 20 years of significant experience in finance across diverse sectors, including hospitality, retail, engineering, aviation and aerospace. Prior to joining ASPHL, he served as Vice President - Finance at SAMHI Hotels Limited following earlie…",
+      "date": "2026-09-21T13:01:01.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/apeejay-surrendra-park-hotels-appoints-manish-bhagat-as-cfo-126092101001_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-chpu74",
+      "headline": "Sensex today | Stock Market Highlights: Sensex rises 564 pts, Nifty closes at 23,414; Rupee ends at 95.81 in subdued trade",
+      "summary": "Sensex, Nifty, Stock Price Highlights: Indian shares edged higher on Monday, ​aided by bargain-buying following recent losses, while elevated crude prices ‌and heightened primary market activity limited the gains.",
+      "date": "2026-09-21T10:38:06.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-september-2026/article71488721.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-lpvw8t",
+      "headline": "Thailand changes visa-free rules: What the 30-day limit means for Indians",
+      "summary": "Following the reduction of Thailand's visa-exempt stay from 60 to 30 days, effective September 15, 2026, the existing work authorization framework for urgent business travel remains unchanged.",
+      "date": "2026-09-21T10:02:37.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/immigration/thailand-changes-visa-free-rules-what-the-30-day-limit-means-for-indians-126092100653_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-pk1g93",
+      "headline": "AI oversight: The UK has already built the watchdog that America’s tech royalty say they want",
+      "summary": "Leaders of artificial intelligence (AI) firms in the US say they would like a supervisory system for this technology, while the Trump administration has been unsure. London’s AI Security Institute is perfectly placed to evaluate risks. Here's why.",
+      "date": "2026-09-21T09:31:01.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/opinion/online-views/ai-oversight-us-tech-royalty-has-sought-an-artificial-intelligence-watchdog-heres-why-the-uk-has-what-it-needs-11789906756020.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-16dt7qd",
+      "headline": "Kothari Industrial Corp gains after securing service contract from Tiruppur City Municipal Corporation",
+      "summary": "Kothari Industrial Corporation added 1.25% to Rs 146.35 after the company announced that it has received a letter of acceptance (LOA) from Tiruppur City Municipal Corporation, Tiruppur, for a project worth Rs 24.93 crore.",
+      "date": "2026-09-21T08:35:12.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/kothari-industrial-corp-gains-after-securing-service-contract-from-tiruppur-city-municipal-corporation-126092100508_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-1gv2dcg",
+      "headline": "Delhi Airport opens third runway: Will you spend less time waiting for your flight? What flyers should know",
+      "summary": "Delhi International Airport Limited (DIAL) announced that Runway 11R/29L (commonly known as the third runway) will be operational from September 20. Here's what it could mean.",
+      "date": "2026-09-21T08:18:35.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/infrastructure/delhi-airport-opens-third-runway-will-you-spend-less-time-waiting-for-your-flight-what-flyers-should-know-11789978065421.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-1bx5pbb",
+      "headline": "Chinese President Xi Jinping to visit US on Sept 23 to 25 for summit talks with Trump",
+      "summary": "Chinese President Xi Jinping will pay a state visit to the United States from September 23 to 25 at the invitation of US President Donald Trump, a Chinese Foreign Ministry spokesperson announced on Monday.",
+      "date": "2026-09-21T08:14:20.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/world/chinese-president-xi-jinping-to-visit-us-on-sept-23-to-25-for-summit-talks-with-trump/article71490653.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-k2rwli",
       "headline": "Chinese President Xi to visit US on Sep 23-25 for summit talks with Trump",
       "summary": "Chinese President Xi Jinping will pay a state visit to the US from September 23 to 25 at the invitation of US President Donald Trump, a Chinese Foreign Ministry spokesperson announced on Monday. Xi is scheduled to arrive in Washington on September 23 and hold…",
       "date": "2026-09-21T07:33:34.000Z",
@@ -35,7 +394,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-rparje",
+      "id": "newsapi-india-0-19-rparje",
       "headline": "BSE SME Century Business Media makes a measured debut",
       "summary": "Century Business Media traded at Rs 76.60 on the BSE, a 3.51% premium to the issue price of Rs 74.",
       "date": "2026-09-21T06:20:21.000Z",
@@ -51,7 +410,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-1y1z9tf",
+      "id": "newsapi-india-0-20-1y1z9tf",
       "headline": "Bhogapuram aviation hub set to attract investments, spur regional growth",
       "summary": "The Aviation Hub coming up at Bhogapuram Alluri Sita Ramaraju International Airport in Andhra Pradesh is all set to emerge as a major investment and economic growth centre in the region, attracting businesses across aviation and allied sectors and creating ne…",
       "date": "2026-09-21T05:51:07.000Z",
@@ -67,7 +426,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-gc0gdn",
+      "id": "newsapi-india-0-21-gc0gdn",
       "headline": "China, US hold 'candid, in-depth' talks on tariffs, AI issues ahead of Xi-Trump meeting",
       "summary": "China and the US engage in crucial talks on tariffs and AI ahead of Xi Jinping's September visit to Washington.",
       "date": "2026-09-21T05:41:53.000Z",
@@ -83,7 +442,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-10fdnbi",
+      "id": "newsapi-india-0-22-10fdnbi",
       "headline": "China, US hold in-depth talks on tariffs, AI issues ahead of Xi-Trump meet",
       "summary": "Top officials from the US and China held \"candid, in-depth and constructive\" talks on economic and trade issues, including on AI, ahead of Chinese President Xi Jinping's visit to Washington, official media reported on Monday. The talks were held between Chine…",
       "date": "2026-09-21T05:28:03.000Z",
@@ -99,7 +458,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-10lub4o",
+      "id": "newsapi-india-0-23-10lub4o",
       "headline": "Air India Express Patna-Delhi flight cancelled on September 21 and 22 due to operational reasons",
       "summary": "Air India Express cancels Patna-Delhi flights on September 21 and 22 due to operational reasons, affecting scheduled passengers.",
       "date": "2026-09-21T04:29:53.000Z",
@@ -116,7 +475,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-0-zezs3m",
+      "id": "newsapi-air-india-0-1-zezs3m",
       "headline": "Tata's rival camps line up top lawyers ahead of looming legal battle",
       "summary": "Both sides are being advised by lawyers who have represented India's biggest companies, and have also recently hired senior counsel who are among the country's top litigators",
       "date": "2026-09-21T02:40:35.000Z",
@@ -133,7 +492,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-8tu117",
+      "id": "newsapi-india-0-24-8tu117",
       "headline": "Economy airfares took off most since Covid in H1; biz class became cheaper",
       "summary": "Airlines are willing to lose some price-sensitive passengers who travelled when tickets were cheaper, while essential travellers are considered more willing and able to pay higher fares",
       "date": "2026-09-20T18:01:12.000Z",
@@ -149,7 +508,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1gjucx0",
+      "id": "newsapi-india-0-25-1gjucx0",
       "headline": "Losses mount at Tata Sons' unlisted firms, led by Air India in FY26",
       "summary": "Seven out of its 16 unlisted subsidiaries reported a net loss in FY26 led by Air India",
       "date": "2026-09-20T17:48:01.000Z",
@@ -166,7 +525,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1lit8gl",
+      "id": "newsapi-india-0-26-1lit8gl",
       "headline": "Below the Line",
       "summary": "Below the Line",
       "date": "2026-09-20T16:11:59.000Z",
@@ -182,7 +541,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-3bihlp",
+      "id": "newsapi-india-0-27-3bihlp",
       "headline": "Fewer flight seats for festival travel",
       "summary": "Domestic airfares surge as fewer seats available for festival travel, causing higher costs and limited flight options for travelers.",
       "date": "2026-09-20T14:53:40.000Z",
@@ -198,7 +557,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-7wac82",
+      "id": "newsapi-india-0-28-7wac82",
       "headline": "Assam CM lays foundation for Adani's ₹48,000 crore power project at Chapar",
       "summary": "The 3,200 MW ultra-supercritical thermal power plant at Chapar will be commissioned in phases from December 2030 and is expected to generate 5,000 jobs once operational",
       "date": "2026-09-20T14:30:15.000Z",
@@ -214,7 +573,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-g8a4mk",
+      "id": "newsapi-world-0-3-g8a4mk",
       "headline": "What credit cards should you use to purchase gift cards?",
       "summary": "If you shop at the right merchant with the right credit card, you can earn extra rewards for purchasing gift cards for other retailers.",
       "date": "2026-09-20T14:00:59.000Z",
@@ -226,366 +585,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-1sogjvr",
-      "headline": "Adani seeks Centre’s nod for US pre-clearance at Navi Mumbai airport",
-      "summary": "Proposal envisages a facility at Navi Mumbai airport that would allow passengers to undergo US immigration and customs checks before departure on direct flights",
-      "date": "2026-09-20T12:56:47.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/adani-seeks-centres-nod-for-us-pre-clearance-counter-at-navi-mumbai-airport/article71487882.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-1nfj1xu",
-      "headline": "Japanese fighter aircraft operate from Indian soil for the first time",
-      "summary": "Japanese fighter aircraft operating from Indian soil for the first time marks a major milestone in defence cooperation between India and Japan, Air Chief Marshal A P Singh said here on Sunday during an ongoing bilateral air exercise. The exercise, being held …",
-      "date": "2026-09-20T11:58:28.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/japanese-fighter-aircraft-operate-from-indian-soil-for-the-first-time-126092000435_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-xf38z",
-      "headline": "CIAL to enter the global aviation consultancy sector with expert services initiative",
-      "summary": "SEO Description 1/3 CIAL launches ACES, a global aviation consultancy initiative offering expert services in airport development and operations starting September 24",
-      "date": "2026-09-20T11:21:24.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/cial-to-enter-the-global-aviation-consultancy-sector-with-expert-services-initiative/article71487646.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-1bg31d7",
-      "headline": "Foundation stone laid for Adani Power’s ₹48,000 cr thermal power project in Assam",
-      "summary": "Beyond power generation, the group is also developing and operating Guwahati’s Lokpriya Gopinath Bordoloi International Airport",
-      "date": "2026-09-20T09:34:16.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/foundation-stone-laid-for-adani-powers-48000-cr-thermal-power-project-in-assam/article71487450.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-a7wu79",
-      "headline": "How green corridors are becoming lifelines for patients across Noida-NCR",
-      "summary": "A journey that would ordinarily be measured in traffic signals and minutes was reduced to a race against time: A donor heart travelled nearly 20 kilometres from Hindon Airport in Ghaziabad to a hospital in Noida in just 16 minutes, as traffic police cleared t…",
-      "date": "2026-09-20T04:56:58.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/how-green-corridors-are-becoming-lifelines-for-patients-across-noida-ncr-126092000127_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-g453l0",
-      "headline": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with ballistic missile",
-      "summary": "The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted; residents in Riyadh heard an explosion",
-      "date": "2026-09-20T03:53:07.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/world/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486988.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-4ym8mi",
-      "headline": "Alibaba, Meituan units in trouble? China antitrust probe follows Trip.com’s $776 million penalty",
-      "summary": "China investigates Alibaba and Meituan units over suspected unfair competition as Alibaba backs a $2.5 billion AI startup.",
-      "date": "2026-09-19T16:30:17.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/alibaba-meituan-units-in-trouble-china-antitrust-probe-follows-trip-com-s-776-million-penalty-11789834813094.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-znz3qn",
-      "headline": "Air India flight to Nepal returns to Delhi due to suspected tech issue",
-      "summary": "Air India flight to Nepal returns to Delhi over technical issue; passengers transferred to alternative aircraft for safe travel.",
-      "date": "2026-09-19T16:10:54.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-flight-to-nepal-returns-to-delhi-due-to-suspected-tech-issue/article71485664.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "fleet",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-545376",
-      "headline": "F&O Strategy: Buy IndiGo call option",
-      "summary": "Buy IndiGo call options as positive momentum continues; target ₹55-60 with a stop-loss at ₹25.",
-      "date": "2026-09-19T16:02:58.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/fampo-strategy-buy-indigo-call-option/article71483994.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-1-2tfgg",
-      "headline": "Citi / AAdvantage Executive vs. Globe: 2 great options for American Airlines fans",
-      "summary": "If you're a frequent American Airlines flyer, I break down which card is better for you: The Citi / AAdvantage Executive or Citi / AAdvantage Globe.",
-      "date": "2026-09-19T14:00:25.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/credit-cards/citi-aadvantage-executive-vs-citi-aadvantage-globe/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-mjezcg",
-      "headline": "Telangana CM Reddy invites public to suggest new name for Mamnoor airport",
-      "summary": "Telangana CM Reddy invites public suggestions for renaming Mamnoor Airport, enhancing regional connectivity and economic growth.",
-      "date": "2026-09-19T11:54:40.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/telangana-cm-reddy-invites-public-to-suggest-new-name-for-mamnoor-airport/article71484500.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-1hblg3a",
-      "headline": "Delhi Int'l Airport to reopen third runway for operations from Sep 20",
-      "summary": "The comprehensive rehabilitation of Runway 11R/29L (commonly known as the third runway) is complete, and all necessary regulatory approvals are in place, paving the way for its recommissioning from September 20",
-      "date": "2026-09-19T09:52:37.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/delhi-intl-airport-to-reopen-third-runway-for-operations-from-sep-20/article71484150.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation",
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-3-1ey2d8u",
-      "headline": "Inside the 24 hours that laid bare Tata’s brutal power struggle",
-      "summary": "The push for Tata Sons listing and the return of Chairman Natarajan Chandrasekaran is set to fuel uncertainty for a company that's making iPhones in India and flying Air India globally.",
-      "date": "2026-09-19T08:14:40.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/tata-sons-board-meeting-ipo-listing-chairman-natarajan-chandrasekaran-tata-trusts-noel-tata-11789804829713.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-4-184tewi",
-      "headline": "Inside the 24 hours that laid bare Tata's fight for control and its future",
-      "summary": "Directors voted 4-1 to extend N Chandrasekaran's tenure by five years and advance listing plans, rebuffing Tata Trusts chairman Noel Tata's push to keep the group private",
-      "date": "2026-09-19T07:46:16.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/inside-the-24-hours-that-laid-bare-tata-s-fight-over-control-and-its-future-126091900375_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-irasz2",
-      "headline": "Asiad 2026: India's shooting contingent hit by accommodation, travel woes",
-      "summary": "The shooting contingent arrived in Nagoya on September 16 after travelling from India, but the accommodation it found on the ground did not match the booking information provided to the IOA",
-      "date": "2026-09-19T06:40:21.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-s-shooting-contingent-hit-by-accommodation-travel-woes-126091900294_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-7ty7rg",
-      "headline": "Tata Sons-Tata Trusts row: Harish Salve backs listing, says company's legal position 'legally perfect'",
-      "summary": "Harish Salve, advising Tata Sons Chairman N Chandrasekaran, called the company's legal position legally perfect amid its governance differences with Tata Trusts. He backed Tata Sons becoming a public company, citing RBI rules, greater transparency and profess…",
-      "date": "2026-09-19T04:53:18.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/tata-sons-tata-trusts-row-harish-salve-backs-listing-says-companys-legal-position-legally-perfect-11789792619105.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-qk8qvf",
-      "headline": "Asiad 2026: Sports Ministry seeks diaspora support amid room crunch",
-      "summary": "Alarmed by the accommodation crisis at the Asian Games, the Sports Ministry has reached out to the Indian diaspora here to \"help with the lodging\" of athletes in case the shortage of rooms is not resolved during the continental showpiece beginning on Saturday…",
-      "date": "2026-09-19T03:43:28.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-sports-ministry-seeks-diaspora-support-amid-room-crunch-126091801199_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-13y8zex",
-      "headline": "Asiad 2026: Pawan Sehrawat replaces Toor as flag-bearer at opening ceremony",
-      "summary": "Seasoned kabaddi player Pawan Sehrawat replaced Tajinderpal Singh Toor as India's flag-bearer for the Asian Games opening ceremony here on Saturday as the celebrated shot-putter has not yet received his official kit, which will prevent him from attending the …",
-      "date": "2026-09-19T03:40:28.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-pawan-sehrawat-replaces-toor-as-flag-bearer-at-opening-ceremony-126091900084_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-jxy3aj",
-      "headline": "Trump to welcome Xi at airport when China's leader comes for US state visit",
-      "summary": "The first state visit by the leader of China in more than a decade takes place next week when President Xi Jinping arrives in Washington for high-stakes talks - and a little schmoozing - at the White House with President Donald Trump. When Xi's plan lands at …",
-      "date": "2026-09-19T03:24:56.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/trump-to-welcome-xi-at-airport-when-china-s-leader-comes-for-us-state-visit-126091900087_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-4j0c3y",
-      "headline": "Tata Sons listing: Why Noel Tata opposes RBI-triggered public issue",
-      "summary": "Noel Tata's objection to a public listing of Tata Sons goes beyond ownership or valuation. At the heart of it is a question he says is much bigger. What happens to the Tata Group's way of doing business if its holding company has to answer to public sharehold…",
-      "date": "2026-09-19T01:32:58.000Z",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/business/companies/story/tata-sons-listing-why-tata-trusts-and-noel-tata-oppose-after-rbi-rejection-2997383-2026-09-18",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-5-401jmi",
-      "headline": "Air India CEO weighs folding budget unit into group to cut costs",
-      "summary": "Tewolde Gebremariam is considering merging Air India Express with Air India to cut costs and streamline operations as the carrier battles heavy losses",
-      "date": "2026-09-18T18:19:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/air-india-ceo-weighs-folding-budget-unit-into-group-to-cut-costs-126091801508_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-1ob3lxm",
-      "headline": "Maintenance delay? Airlines may soon have fewer reasons to compensate you",
-      "summary": "Usually, airlines will offer meals and hotel vouchers when there's a maintenance delay. But new rules in Washington, D.C., could change all that.",
-      "date": "2026-09-18T16:05:36.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/airline-maintenance-delay-cancellation-compensation-changes/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation"
       ]
     }
   ]
