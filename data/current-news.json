@@ -1,9 +1,173 @@
 {
-  "refreshedAt": "2026-09-24T07:38:25.496Z",
+  "refreshedAt": "2026-09-25T07:54:06.404Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "faa-0-xgte5t",
+      "id": "faa-0-j3lhr6",
+      "headline": "FAA Grants Commercial Operating Certificate to McKinney National Airport",
+      "summary": "FAA Grants Commercial Operating Certificate to McKinney National Airport jennifer_rossi Thu, 09/24/2026 - 14:05 WASHINGTON — The Federal Aviation Administration (FAA) today announced it issued McKinney National Airport a Part 139 Airport Operating Certificate, which allows the airport to accommodate commercial passenger airline service. This marks the…",
+      "date": "2026-09-24T18:05:42.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-grants-commercial-operating-certificate-mckinney-national-airport",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "regulation",
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-a1kzjm",
+      "headline": "Asiad 2026: Shafali says more medals, trophies will boost women's cricket",
+      "summary": "Star opening batter Shafali Verma believes Indian women's cricket is on an upward trend and will only grow with more medals and trophies. Shafali played an instrumental role in the women's team defending its gold medal at the Aichi-Nagoya Asian Games in Japan…",
+      "date": "2026-09-24T07:00:34.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-shafali-says-more-medals-trophies-will-boost-women-s-cricket-126092400310_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1tlpavd",
+      "headline": "NAVIQ launch to give Kerala’s AI ambitions a boost: VK Mathews",
+      "summary": "NAVIQ's launch signifies Kerala's AI aspirations, creating 5,000 jobs and transforming the travel industry with specialized AI solutions.",
+      "date": "2026-09-24T06:33:32.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/naviq-launch-to-give-keralas-ai-ambitions-a-boost-vk-mathews/article71502962.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-1jzkjce",
+      "headline": "Cab fleet operators attract fresh capital as EV, premium rides gain ground",
+      "summary": "Funding for India’s cab fleet operators has nearly doubled in 2026 as ride-hailing platforms and investors back fleet expansion to meet growing demand for electric, premium, and corporate transport.",
+      "date": "2026-09-24T05:33:30.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/cab-fleet-operators-funding-electric-vehicles-ev-premium-rides-11790217142529.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-1nmsbd1",
+      "headline": "GMR Hospitality wins bid for operating F&B outlets at T3 IGIA, New Delhi",
+      "summary": "GMR Hospitality (GHL), an Indian subsidiary of GMR Airports has emerged as the Selected Bidder for designing, financing, developing, setting up, operating, managing and maintain the Food & Beverages Outlets at the Terminal 3 of the Indira Gandhi International…",
+      "date": "2026-09-24T03:34:19.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/gmr-hospitality-wins-bid-for-operating-f-b-outlets-at-t3-igia-new-delhi-126092400164_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-gvkft5",
+      "headline": "The Tata case isn’t alone: why Jamie Dimon’s competition complaint can’t be taken lightly",
+      "summary": "JP Morgan’s chairman has expressed disappointment with the scenario of competition in India even as l’affaire Tata rages and global investors tune into Indian signals of governance. India’s economy can’t afford policy dissonance.",
+      "date": "2026-09-24T02:00:32.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/opinion/online-views/the-tata-case-isn-t-alone-why-jamie-dimon-s-competition-complaint-can-t-be-taken-lightly-11790170491981.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-19htwbl",
+      "headline": "Adani Airports aims to reduce regulatory charges to bare minimum, says CEO Arun Bansal",
+      "summary": "Adani Airports plans to reduce regulatory charges by boosting non-aeronautical revenue, while Navi Mumbai airport is being positioned as an international hub.",
+      "date": "2026-09-24T01:28:16.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/adani-airports-aims-to-reduce-regulatory-charges-to-bare-minimum-says-ceo-arun-bansal/article71502512.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1sxnpwj",
+      "headline": "Trump welcomes Xi Jinping at airport as US-China summit talks begin",
+      "summary": "Xi Jinping arrives in Washington for talks with Donald Trump on trade tariffs, technology, AI, military ties, global conflicts and US-China relations.",
+      "date": "2026-09-24T01:14:31.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/world/trump-welcomes-xi-jinping-at-airport-as-us-china-summit-talks-begin/article71502508.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-9d0t1o",
+      "headline": "Sensex today | Stock Market Live Updates: Stock to buy today: GNFC",
+      "summary": "Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Gujarat Narmada Valley Fertilizers & Chemicals (GNFC). The stock has been moving up very well over the last one week. There is resistance near current levels. But the momentum looks stron…",
+      "date": "2026-09-24T01:07:56.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-24-september-2026/article71499498.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-gogmz6",
+      "headline": "India's vending machine market is booming — and it's not just snacks anymore",
+      "summary": "Kirana stores and small modern-trade outlets are exploring vending machines as an extension of their shops, letting them keep selling after closing hours.",
+      "date": "2026-09-24T00:30:51.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/retail/indias-vending-machine-market-is-booming-and-its-not-just-snacks-anymore-11790145963870.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "faa-1-xgte5t",
       "headline": "Trump’s Transportation Secretary Sean P. Duffy Celebrates Launch of Federal eVTOL Pilot Program in North Carolina to Unlock Future of Flight",
       "summary": "Trump’s Transportation Secretary Sean P. Duffy Celebrates Launch of Federal eVTOL Pilot Program in North Carolina to Unlock Future of Flight beth_krappweis Wed, 09/23/2026 - 13:36 WASHINGTON, D.C. — U.S. Transportation Secretary Sean P. Duffy celebrated North Carolina’s first demonstration flight of its next-generation aircraft under USDOT’s Advanced Air…",
       "date": "2026-09-23T17:36:37.000Z",
@@ -19,7 +183,300 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-10756ne",
+      "id": "newsapi-india-0-9-19rcjun",
+      "headline": "Odisha approves ₹2.47 trillion in projects across 15 districts at once",
+      "summary": "Data centres, AI and power projects dominate Odisha's record investment pipeline; 27 projects across 15 districts involving Rs 2.47 trillion are expected to generate 50,162 jobs",
+      "date": "2026-09-23T17:18:51.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/odisha-approves-2-47-trillion-in-projects-across-15-districts-at-once-126092301548_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-rtgfpe",
+      "headline": "Cyber resilience in banking sector",
+      "summary": "The Reserve Bank of India has its task cut out. Real time information sharing has to be operationalised",
+      "date": "2026-09-23T15:59:42.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/cyber-resilience-in-banking-sector/article71500961.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-lxkhwk",
+      "headline": "We want to reduce passenger user fees to bare minimum: Adani Airports CEO Arun Bansal",
+      "summary": "By 2030 the revenue profile of airports will change and 70 per cent of revenue will come from non-aeronautical sources, Bansal said at the SBI Banking & Economics Conclave 2026.",
+      "date": "2026-09-23T14:54:56.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/we-want-to-reduce-passenger-user-fees-to-bare-minimum-adani-airports-ceo-arun-bansal/article71500499.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-wzl7hc",
+      "headline": "Delta cuts another route at JFK, axes brand-new service from Seattle",
+      "summary": "Delta Air Lines trimmed two routes from its schedule, including a brand-new nonstop flight from Seattle.",
+      "date": "2026-09-23T14:50:28.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/delta-air-lines-route-cuts-seattle-jfk/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-1fmzn70",
+      "headline": "Oil marketing companies under pressure as West Asia conflict prolongs",
+      "summary": "Indian oil marketing companies face significant losses due to negative margins and rising LPG under-recoveries amid ongoing West Asia conflicts.",
+      "date": "2026-09-23T14:38:07.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/oil-marketing-companies-under-pressure-as-west-asia-conflict-prolongs/article71500523.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-32yqp1",
+      "headline": "Enter now to win 1 million Chase Ultimate Rewards points and make kids' wishes come true",
+      "summary": "Support Make-A-Wish for a chance to win the trip of a lifetime and other exclusive prizes.",
+      "date": "2026-09-23T14:15:24.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/make-a-wish-chase-sweepstakes/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-1t407sl",
+      "headline": "How to turn your business's expenses into next year's hotel stays",
+      "summary": "Your business requires spending, so let that spending work overtime for you by earning hotel stays with the World of Hyatt Business Credit Card.",
+      "date": "2026-09-23T14:00:20.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/how-to-turn-your-businesss-expenses-into-next-years-hotel-stays/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-cafh5r",
+      "headline": "IndiGo’s market share slips in August as Air India Group gains",
+      "summary": "IndiGo's market share falls to 65% down from 67.4% in July; Air India Group increases its combined market share to 26.7% from 24%",
+      "date": "2026-09-23T13:47:05.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigos-market-share-slips-in-august-as-air-india-group-gains/article71500131.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-17yweoh",
+      "headline": "Duty-free shops can’t claim blanket exemption from Indian laws: Bombay HC",
+      "summary": "Adani Group-backed Mumbai Travel Retail and Flemingo Dutyfree Shop argued that Indian drug authorities could not take action against them because the shops are located in the international departure area.",
+      "date": "2026-09-23T13:39:36.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/bombay-hc-ruling-duty-free-shops-adani-subject-to-india-regulatory-laws-customs-barrier-11790168199016.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-h5atcp",
+      "headline": "CIAL strengthen Far East connectivity with four weekly Bangkok services",
+      "summary": "The winter schedule commencing from October 26 to March 28, 2027 features a total of 1,766 scheduled weekly flight movements, comprising 885 arrivals and 881 departures",
+      "date": "2026-09-23T10:56:19.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/cial-strengthen-far-east-connectivity-with-four-weekly-bangkok-services/article71499398.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-1ipla4j",
+      "headline": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
+      "summary": "Sensex, Nifty, Stock Price Highlights: Indian equity markets closed higher on Wednesday, with the Nifty 50 gaining 117.80 points, or 0.50%, to close at 23,446.80, while the BSE Sensex rose 299.17 points, or 0.40%, to close at 74,828.25, as signs of stronger d…",
+      "date": "2026-09-23T10:49:05.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-1efg1qi",
+      "headline": "Air India gains share as Express expands flying in a slowing market",
+      "summary": "Air India is gaining domestic market share as capacity returns and Air India Express adds flights. But demand is weakening and planes are flying with fewer seats filled, presenting incoming chief Gebremariam with an early challenge.",
+      "date": "2026-09-23T10:37:37.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/air-india-express-aviation-market-dgca-indigo-11790152491962.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-3zac5e",
+      "headline": "OMCs face ₹530 crore daily fuel losses as crude prices surge: Icra",
+      "summary": "State-run oil marketing companies are facing mounting losses on petrol and diesel sales as a surge in crude prices outpaces unchanged domestic fuel prices, rating agency ICRA said. Indian Oil Corporation (IOC), Bharat Petroleum Corporation Ltd (BPCL) and Hind…",
+      "date": "2026-09-23T09:46:35.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/omcs-face-530-crore-daily-fuel-losses-as-crude-prices-surge-icra-126092300717_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-124fnki",
+      "headline": "Awfis launches 1,00,000 sq. ft premium workspace at Aerocity, New Delhi",
+      "summary": "Awfis Space Solutions has launched a new centre under its premium workspace portfolio, Elite by Awfis, at Prestige Trade Centre, Aerocity, New Delhi. Spanning ~1,00,000 sq. ft. of chargeable area, the centre offers a combination of built-to-suit and ready-to-…",
+      "date": "2026-09-23T09:46:11.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/awfis-launches-1-00-000-sq-ft-premium-workspace-at-aerocity-new-delhi-126092300736_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-1eq5jk5",
+      "headline": "India domestic air traffic declines 6.34%; IndiGo share falls, Air India gains",
+      "summary": "India's domestic air passenger traffic fell 6.34% year-on-year to 121.26 lakh in August, DGCA data showed. IndiGo's market share dropped to 65%, while Air India Group’s rose to 26.7%. Akasa Air held 5.5% and IndiGo led on-time performance.",
+      "date": "2026-09-23T09:38:01.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/india-domestic-air-traffic-declines-6-34-indigo-share-falls-air-india-gains-11790155673060.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-1emp3j1",
+      "headline": "Crude flexibility helped CPCL navigate West Asia crisis: MD Shankar",
+      "summary": "Speaking at a discussion on the company’s future, Shankar said the West Asia crisis was the latest in a series of disruptions that CPCL had faced since the Covid-19 pandemic, including the Russia-Ukraine war.",
+      "date": "2026-09-23T07:58:27.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/crude-flexibility-helped-cpcl-navigate-west-asia-crisis-md-shankar/article71498860.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-1exoq7p",
+      "headline": "DGCA carrying out SpiceJet scrutiny amid flight delays, salary woes — ‘Don't want lapse in safety’",
+      "summary": "As SpiceJet battles multiple headwinds, resulting in frequent flight delays and operational issues, the aviation minister clarified that the civil aviation ministry faces inherent limitations in intervening in the affairs of a privately run carrier.",
+      "date": "2026-09-23T07:52:11.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/dgca-carrying-out-spicejet-scrutiny-amid-flight-delays-salary-woes-dont-want-lapse-in-safety-11790147779396.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-23-1xs74vb",
+      "headline": "Adityanath launches Bharat Taxi, farmer loan scheme in UP",
+      "summary": "Adityanath launches Bharat Taxi, India's first cooperative ride-hailing service, and a farmer loan scheme for financial empowerment in UP.",
+      "date": "2026-09-23T07:47:03.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/adityanath-launches-bharat-taxi-farmer-loan-scheme-in-up/article71498758.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-24-10756ne",
       "headline": "Domestic air passenger traffic slides 6.34% YoY in August; IndiGo retains market lead",
       "summary": "Shares of InterGlobe Aviation, the parent of IndiGo, rose 0.46% to Rs 5,042.85, while SpiceJet surged 6.74% to Rs 9.82 on Wednesday.",
       "date": "2026-09-23T07:20:42.000Z",
@@ -35,7 +492,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1th983e",
+      "id": "newsapi-india-0-25-1th983e",
       "headline": "Domestic air passenger traffic falls 6.34% to 121.26 lakh in August: DGCA",
       "summary": "India's domestic air passenger traffic fell 6.34% in August 2026, with IndiGo's market share declining and Air India gaining.",
       "date": "2026-09-23T06:46:26.000Z",
@@ -52,7 +509,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-1hx61oi",
+      "id": "newsapi-india-0-26-1hx61oi",
       "headline": "Domestic air passenger traffic falls 6.34% to 12.12 million in August: DGCA",
       "summary": "India's domestic air passenger traffic declined 6.34 per cent year-on-year to 121.26 lakh in August, according to DGCA data released on Wednesday. All Indian airlines together carried a total of 129.47 lakh passengers in August 2025. \"Passengers carried by do…",
       "date": "2026-09-23T06:42:20.000Z",
@@ -68,7 +525,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-yyq3mi",
+      "id": "newsapi-india-0-27-yyq3mi",
       "headline": "Mumbai High Court rejects Adani plea that duty-free shops are beyond India’s domestic laws",
       "summary": "Indian court rules duty-free shops must comply with domestic laws, rejecting Adani's claims of immunity over nicotine pouch sales.",
       "date": "2026-09-23T06:02:12.000Z",
@@ -84,7 +541,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-7xn92v",
+      "id": "newsapi-india-0-28-7xn92v",
       "headline": "Axiscade Tech incorporates Akkodis Axiscades Aerospace Engineering",
       "summary": "Axiscades Technologies announced that it has incorporated a wholly owned subsidiary, Akkodis Axiscades Aerospace Engineering (AAAE), to provide specialised services to the aerospace, aviation and allied industries.",
       "date": "2026-09-23T03:01:01.000Z",
@@ -101,7 +558,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-1urdh8d",
+      "id": "newsapi-world-0-3-1urdh8d",
       "headline": "Greenland security deal: Trump says US will build two major military bases",
       "summary": "The agreement follows months of negotiations after tensions escalated over Washington’s repeated threats to annex or seize the Danish territory",
       "date": "2026-09-23T01:54:26.000Z",
@@ -116,7 +573,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-1-1p45bhe",
+      "id": "newsapi-world-0-4-1p45bhe",
       "headline": "Who's eligible for the Citi / AAdvantage Executive 125,000-mile bonus?",
       "summary": "The Citi AA Executive Mastercard is a popular American Airlines credit card. It has a lucrative welcome offer, but make sure you are eligible before applying.",
       "date": "2026-09-22T19:00:15.000Z",
@@ -128,465 +585,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-5-103rl73",
-      "headline": "DGCA doing operational, financial checks on SpiceJet: Aviation Min Naidu",
-      "summary": "Aviation watchdog DGCA is carrying out the operational and financial scrutiny of budget carrier SpiceJet to ensure that passengers do not face any inconvenience, Civil Aviation Minister K Rammohan Naidu said on Tuesday. As SpiceJet grapples with multiple head…",
-      "date": "2026-09-22T17:49:29.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/dgca-doing-operational-financial-checks-on-spicejet-aviation-min-naidu-126092201056_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "faa-1-1jqptcn",
-      "headline": "FAA Proposes $260,868 Fine Against ExcelAire, LLC for Alleged Illegal Operations",
-      "summary": "FAA Proposes $260,868 Fine Against ExcelAire, LLC for Alleged Illegal Operations beth_krappweis Tue, 09/22/2026 - 13:39 WASHINGTON — The Federal Aviation Administration (FAA) proposes a $260,868 civil penalty against ExcelAire, LLC of New York and Georgia for allegedly conducting unauthorized charter operations. The FAA alleges that in August 2025,…",
-      "date": "2026-09-22T17:39:44.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/faa-proposes-260868-fine-against-excelaire-llc-alleged-illegal-operations",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-6-1ogsr60",
-      "headline": "Aviation Min signs 21 agreements under UDAN to boost regional connectivity",
-      "summary": "The Civil Aviation Ministry on Tuesday said it has signed 21 agreements with states and union territories under the next phase of the UDAN scheme to strengthen regional air connectivity. The memorandums of understanding (MoUs) mark a significant milestone in …",
-      "date": "2026-09-22T17:01:29.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/aviation-min-signs-21-agreements-under-udan-to-boost-regional-connectivity-126092201307_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-7-tq2zk2",
-      "headline": "Will Pakistan fight for Saudi Arabia?",
-      "summary": "Houthi missiles are hitting deep inside Saudi Arabia, forcing Islamabad to confront its new collective-security pledge",
-      "date": "2026-09-22T15:39:34.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/opinion/will-pakistan-fight-for-saudi-arabia/article71496550.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-8-3so93b",
-      "headline": "Centre extends validity period of green nod to ports, harbours to 20 years",
-      "summary": "The environment ministry has extended the validity period of environmental clearances (ECs) granted for ports, harbours, breakwaters, and dredging projects from the existing 10 years to 20 years, with provisions for two further extensions of up to five years …",
-      "date": "2026-09-22T14:18:14.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/centre-extends-validity-period-of-green-nod-to-ports-harbours-to-20-years-126092200954_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-9-1x554tz",
-      "headline": "Govt to assess pros and cons of airport operators holding airline stakes",
-      "summary": "The government will assess the \"pros and cons\" of the proposal for airport operators owning stakes in airlines and decide on a balanced approach, Civil Aviation Minister K Rammohan Naidu said on Tuesday. Talking to reporters on the sidelines of signing pacts …",
-      "date": "2026-09-22T14:17:38.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/govt-to-assess-pros-and-cons-of-airport-operators-holding-airline-stakes-126092200940_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-10-z2fn4y",
-      "headline": "No decision yet on airport operators owning airlines: Aviation Minister",
-      "summary": "Aviation Minister Rammohan Naidu says the government is weighing the pros and cons of relaxing cross-ownership restrictions as it seeks to increase airline choices",
-      "date": "2026-09-22T13:58:00.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/no-decision-yet-on-airport-operators-owning-airlines-aviation-minister-126092201196_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-1lyojwl",
-      "headline": "Centre signs MoUs with 21 States for next phase of UDAN",
-      "summary": "The Centre signs MoUs with 21 States to expedite airport construction and expand helicopter connectivity under the UDAN scheme.",
-      "date": "2026-09-22T13:56:45.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/centre-signs-mous-with-21-states-for-next-phase-of-udan/article71495928.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-1xv2ura",
-      "headline": "The ultimate guide to Ponant cruise ships and itineraries",
-      "summary": "A comprehensive guide to Ponant cruise ships, itineraries, cabins, onboard restaurants, entertainment, policies and more.",
-      "date": "2026-09-22T13:30:12.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/cruise/ponant-cruise-guide/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-7npvex",
-      "headline": "Centre to take a call on airport-airline cross ownership",
-      "summary": "The government is evaluating airport-airline cross ownership to ensure a balanced approach amidst growing interest from operators like Adani Group.",
-      "date": "2026-09-22T13:23:29.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/centre-to-take-a-call-on-airport-operators-owning-airlines/article71495645.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-1t4vlh1",
-      "headline": "SpiceJet under operational, financial scrutiny through DGCA: Minister",
-      "summary": "SpiceJet faces DGCA scrutiny amid financial challenges; government limits intervention while ensuring passenger safety and operational integrity.",
-      "date": "2026-09-22T12:18:11.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/spicejet-under-operational-financial-scrutiny-through-dgca-minister/article71495340.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-63k3tp",
-      "headline": "Sai University Confers Honorary Doctor of Science on Tata Sons Chairman Natarajan Chandrasekaran",
-      "summary": "The honorary degree was conferred at Sai University's Third Convocation in recognition of his contributions to industry, business, technology and innovation, education and society",
-      "date": "2026-09-22T11:36:48.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/content/specials/sai-university-confers-honorary-doctor-of-science-on-tata-sons-chairman-natarajan-chandrasekaran-126092200688_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-1nmk40l",
-      "headline": "Govt not to cap airfares for festive season, will advise airlines to keep rates reasonable: Naidu",
-      "summary": "Govt in touch with airlines, emphasis on ensuring that people who wish to travel should be able to do so, the minister said",
-      "date": "2026-09-22T11:31:23.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/govt-not-to-cap-airfares-for-festive-season-will-advise-airlines-to-keep-rates-reasonable-naidu/article71495175.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-15bi6vz",
-      "headline": "Aviation ministry puts SpiceJet under operational and financial watch",
-      "summary": "Minister Ram Mohan Naidu says safety will not be compromised; carrier has received ₹150 crore under ECLGS as West Asia conflict adds to cash strain",
-      "date": "2026-09-22T11:09:45.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/aviation-ministry-puts-spicejet-under-operational-and-financial-watch/article71495165.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-ynmil8",
-      "headline": "Sajjan Jindal’s JSW eyes top-tier commercial vehicle spot with ₹2,000-crore bet",
-      "summary": "Chairman Sajjan Jindal sees acquisitions and an electric-only strategy as key to building a top-three commercial vehicle business and scaling electric truck production towards 100,000 units by 2030",
-      "date": "2026-09-22T11:00:54.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/sajjan-jindals-jsw-eyes-top-tier-commercial-vehicle-spot-with-2000-crore-bet/article71493009.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-147w6lv",
-      "headline": "Asiad 2026: SAI steps up athlete support with transport, extra rooms",
-      "summary": "The Sports Authority of India (SAI) on Tuesday said it has strengthened the on-ground support for Indian athletes competing at the Asian Games in Japan by arranging transport facilities for shooters and rooms for coaches and support staff who could not be acc…",
-      "date": "2026-09-22T10:45:25.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-sai-steps-up-athlete-support-with-transport-extra-rooms-126092200433_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-oj8bm",
-      "headline": "Sensex today | Stock Market Highlights: Sensex falls 330 pts, Nifty closes at 23,329; oil fell to $98.9 ahead of potential US-Iran talks",
-      "summary": "Sensex, Nifty, Stock Price Highlights: Indian shares reversed early gains on Tuesday, ​dragged by IT stocks on concerns around demand and earnings, offsetting ‌positive sentiment from a fall in oil prices ​for a fifth session ahead of potential ⁠US-Iran talks…",
-      "date": "2026-09-22T10:44:36.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-september-2026/article71492546.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1106psg",
-      "headline": "Centre weighs allowing airport operators such as Adani to own airlines",
-      "summary": "Civil aviation minister K. Ram Mohan Naidu says the central government is examining benefits and potential conflicts of interest; no decision yet.",
-      "date": "2026-09-22T10:39:16.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/centre-weighs-allowing-airport-operators-such-as-adani-to-own-airlines-11790068511833.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-h8xis0",
-      "headline": "Govt to complete all signings of UDAN MoUs within three weeks: Union Aviation Minister Ram Mohan Naidu",
-      "summary": "Highlighting the financial blueprint and fleet expansion, Naidu explained that the government plans to deploy nearly ₹30,000 crore for the next 10 years, which could double with contributions from states and other stakeholders",
-      "date": "2026-09-22T10:08:33.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/govt-to-complete-all-signings-of-udan-mous-within-three-weeks-union-aviation-minister-ram-mohan-naidu/article71494740.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-xbynmm",
-      "headline": "Puravankara enters national capital region with ₹5,200-cr Greater Noida project",
-      "summary": "Puravankara's entry into NCR comes after Mumbai-based luxury home developer Oberoi Realty Ltd recently made a strong debut in Gurugram, with ₹8,109 crore of sales bookings from the launch of Three Sixty North, its maiden project in the NCR.",
-      "date": "2026-09-22T08:13:38.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/puravankara-enters-national-capital-region-with-rs-5200-cr-greater-noida-project-11790056326524.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-ofo6fr",
-      "headline": "19 states sign MoUs for next phase of UDAN scheme to develop 100 airstrips from existing unused airstrips",
-      "summary": "Nineteen states sign MoUs to transform unused airstrips into operational airports under the UDAN scheme, enhancing regional connectivity.",
-      "date": "2026-09-22T07:35:09.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/19-states-sign-mous-for-next-phase-of-udan-scheme-to-develop-100-airstrips-from-existing-unused-airstrips/article71494525.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-vsz09",
-      "headline": "Air India to roll out new IFE platform in 2027 second-half; eyes higher ancillary revenues",
-      "summary": "As it prepares to enhance the digital experience for the passengers, the new In-Flight Entertainment (IFE) platform will also help in boosting the airline's ancillary revenues.",
-      "date": "2026-09-22T07:23:29.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-to-roll-out-new-ife-platform-in-2027-second-half-eyes-higher-ancillary-revenues/article71494517.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-1k1y1vm",
-      "headline": "Air India to launch IFE platform in 2027, eyes higher ancillary revenues",
-      "summary": "As it prepares to enhance the digital experience for the passengers, the new In-Flight Entertainment (IFE) platform will also help in boosting the airline's ancillary revenues",
-      "date": "2026-09-22T07:16:11.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-to-launch-ife-platform-in-2027-eyes-higher-ancillary-revenues-126092200459_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-yy4jzj",
-      "headline": "Puravankara eyes ₹5,200 cr in GDV from its maiden Delhi-NCR project",
-      "summary": "The 13.44-acre parcel has 4.57 million sq ft of saleable potential and an estimated GDV of Rs 5,200 crore, marking the developer's first foray into Delhi-NCR",
-      "date": "2026-09-22T06:56:35.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/puravankara-delhi-ncr-entry-greater-noida-land-deal-rs-340-crore-126092200359_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-kip67z",
-      "headline": "US threatens to shut Iranian airlines out of global operations this week",
-      "summary": "US sanctions on Iranian airlines: The sanctions threat goes beyond the airlines, targeting airports, ticketing companies, fuel suppliers, and other support businesses that help air carriers operate abroad",
-      "date": "2026-09-22T05:04:23.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/us-threatens-to-shut-iranian-airlines-out-of-global-operations-126092200267_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-28-rkjis5",
-      "headline": "Geely and Xinwei-Backed Cross-Era Leap Talent Development Program Welcomes Inaugural Class of \"AI Natives\"",
-      "summary": "Geely and Xinwei-Backed Cross-Era Leap Talent Development Program Welcomes Inaugural Class of \"AI Natives\"",
-      "date": "2026-09-22T03:00:38.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/brandhub/pr-release/geely-and-xinwei-backed-cross-era-leap-talent-development-program-welcomes-inaugural-class-of-ai-natives/article71494024.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-29-1p2xqcs",
-      "headline": "Flights disrupted across US Northeast after air traffic centre outage",
-      "summary": "Damaged communications lines at a key air traffic control facility in Philadelphia had been repaired, allowing airports across the US Northeast to resume operations after hours of disruptions, the nation's transportation secretary said. Hundreds of flights we…",
-      "date": "2026-09-22T02:13:45.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/flights-disrupted-across-us-northeast-after-air-traffic-centre-outage-126092200062_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-30-xbhzd7",
-      "headline": "US threatens secondary sanctions over services to Iranian airlines",
-      "summary": "The warning targets airports, fuel suppliers and ticketing companies as Washington intensifies pressure on Tehran’s international financial and commercial networks",
-      "date": "2026-09-22T01:19:17.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/us-threatens-secondary-sanctions-over-services-to-iranian-airlines/article71493938.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
       ]
     }
   ]
