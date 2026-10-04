@@ -1,9 +1,420 @@
 {
-  "refreshedAt": "2026-10-03T08:12:05.371Z",
+  "refreshedAt": "2026-10-04T08:31:06.206Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-1ynpsrv",
+      "id": "newsapi-india-0-0-1r1meg",
+      "headline": "World's top 5 airlines: Where does Smit Machhar's Flydubai rank | All about Emirati government-owned company",
+      "summary": "Flydubai's recent Dubai-Tel Aviv flight faced a mid-air emergency when co-pilot attacked Captain Smit Machchhar, causing a rapid descent. Authorities labeled it a planned terrorist act.&nbsp;",
+      "date": "2026-10-03T07:48:27.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/worlds-top-5-airlines-where-does-smit-machhars-flydubai-rank-all-about-emirati-government-owned-company-11791012241346.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1b7vzkw",
+      "headline": "Co-pilot in FlyDubai incident is identified as Omani national Hamam al-Hammami",
+      "summary": "Co-pilot in FlyDubai incident is identified as Omani national Hamam al-Hammami",
+      "date": "2026-10-03T05:48:28.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/copilot-in-flydubai-incident-is-identified-as-omani-national-hamam-alhammami-11791006508683.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-p571lo",
+      "headline": "Flydubai cockpit attack: Co-pilot identified as Omani citizen",
+      "summary": "Al-Hammami was reportedly barred from flying previously by Omani authorities for his radical ideological views, the Wall Street Journal reported",
+      "date": "2026-10-03T05:05:51.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/flydubai-cockpit-attack-co-pilot-identified-as-omani-citizen/article71539715.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-13gwzmz",
+      "headline": "US visa bonds apply to 50 countries, India excluded",
+      "summary": "Under this programme, individuals travelling on passports from the specified countries are required to deposit bonds valued at $10,000, $15,000 or $20,000, with the exact figure fixed by a consular official during the visa interview",
+      "date": "2026-10-03T04:54:39.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/world/us-visa-bonds-apply-to-50-countries-india-excluded/article71539686.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-s0b1q8",
+      "headline": "Mumbai airport changes from Oct 25: Over 200 weekly international flights to be cut, says report — what flyers must know",
+      "summary": "Mumbai airport changes from Oct 25: With the planned partial discontinuation of international services from October 25, IndiGo and Air India will have to cut 74 and 33 weekly overseas flights, respectively, from the Mumbai airport, said sources.",
+      "date": "2026-10-03T04:31:02.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/infrastructure/mumbai-airport-changes-from-oct-25-over-200-weekly-international-flights-to-be-cut-says-report-what-flyers-must-know-11790998781947.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-1noa2c2",
+      "headline": "FAA panel finds Boeing 737 Max software glitch poses no safety risk",
+      "summary": "The FAA review found pilots retain full control and receive clear indications during a go-around, a decision that could aid Boeing's approval bid for the largest 737 Max variant",
+      "date": "2026-10-03T03:38:09.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/faa-panel-finds-boeing-737-max-software-glitch-poses-no-safety-risk-126100300111_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-oa72l1",
+      "headline": "FlyDubai co-pilot who attacked Capt Machchhar, identified as Hamam Alhamami",
+      "summary": "Al Arabiya English and CNN reported that the Omani co-pilot had faced concerns over alleged radical views before joining Flydubai and is now facing a terrorism investigation in the UAE",
+      "date": "2026-10-03T02:45:15.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/flydubai-co-pilot-who-attacked-capt-machchhar-identified-as-hamam-alhamami-126100300064_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-1au6ln0",
+      "headline": "FlyDubai incident: Co-pilot was barred by Oman over alleged extremist views",
+      "summary": "The FlyDubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said Saturday. The co-pilot was su…",
+      "date": "2026-10-03T02:32:27.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/flydubai-incident-co-pilot-was-barred-by-oman-over-alleged-extremist-views-126100300069_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1jmq9iv",
+      "headline": "Plug the leak: How to avoid savings account charges, hidden banking fees",
+      "summary": "Savings Account Fees and Charges: Your account should provide liquidity and convenience without charging you for the privilege",
+      "date": "2026-10-03T01:30:08.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/finance/personal-finance/plug-the-leak-how-to-avoid-savings-account-charges-hidden-banking-fees-126100100116_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-8unvuy",
+      "headline": "Boeing 737 Max 10 certification gets boost as FAA says 'software glitch not a safety issue' | 4 key things to know",
+      "summary": "Boeing’s 737 Max 10 certification is bolstered by the FAA's finding that a software glitch affecting certain flight computers doesn’t pose a safety risk.&nbsp;",
+      "date": "2026-10-03T01:20:02.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/boeing-737-max-10-certification-gets-boost-as-faa-says-software-glitch-not-a-safety-issue-4-key-things-to-know-11790988879982.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-1bnxygd",
+      "headline": "Southwest unveils 11-route expansion across 15 cities for summer 2027",
+      "summary": "Southwest Airlines is nearly a dozen routes across 15 cities, doubling down on its San Diego, Nashville and Austin bases.",
+      "date": "2026-10-02T20:51:31.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/southwest-airlines-summer-2027-expansion-austin-nashville-san-diego/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-3eh37y",
+      "headline": "Boeing 737 Max Glitch Found Not to Be Safety Issue by FAA",
+      "summary": "A software glitch affecting Boeing Co. 737 Max aircraft was determined not to pose a safety risk by a Federal Aviation Administration panel, a positive outcome for the US planemaker seeking regulatory approval for the largest variant of the popular narrowbody…",
+      "date": "2026-10-02T19:12:11.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/boeing-737-max-glitch-found-not-to-be-safety-issue-by-faa-11790968332246.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "fleet",
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-1ra8k1q",
+      "headline": "Air France KLM Visa review: Useful for Air France, KLM and SkyTeam loyalists",
+      "summary": "If you're a frequent flyer with Air France or KLM, you may have your eyes on the airlines' cobranded credit card. Here's everything you need to know.",
+      "date": "2026-10-02T16:14:13.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/reviews/air-france-klm-visa-review/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-uec6od",
+      "headline": "Delhi ITAT ruling: How relative’s airline job cleared businessman of tax penalty on foreign currency found in raid",
+      "summary": "The case highlights the importance of establishing ownership and the source of cash or foreign currency found during an income tax search through credible, corroborated evidence.",
+      "date": "2026-10-02T16:01:10.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/money/personal-finance/delhi-itat-ruling-how-relative-s-airline-job-cleared-businessman-of-tax-penalty-on-foreign-currency-found-in-raid-11790952889421.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-quekx8",
+      "headline": "Move 265 int'l weekly flights to Navi Mumbai airport by Oct 26: MIAL",
+      "summary": "The operator said that \"several airlines\" did not respond to its request to submit their \"transition plans\" by September 25",
+      "date": "2026-10-02T14:54:05.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/move-265-int-l-weekly-flights-to-navi-mumbai-airport-by-oct-26-mial-126100200788_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-1kqnkfv",
+      "headline": "Mumbai airport plans to discontinue 265 international flights from October 26, airlines opposed move",
+      "summary": "Mumbai airport plans to halt 265 weekly international flights from October 26 amid Terminal 1 redevelopments, prompting carrier pushback and stakeholder talks.",
+      "date": "2026-10-02T14:20:56.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/mumbai-airport-plans-to-discontinue-265-international-flights-from-october-26-airlines-opposed-move/article71537608.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-16b7n4g",
+      "headline": "Akasa CEO dismisses Boeing 737 Max concerns, says fleet 'absolutely safe'",
+      "summary": "Vinay Dube says software issue affects a specific manoeuvre and does not disrupt operations or aircraft deliveries",
+      "date": "2026-10-02T13:38:54.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/akasa-ceo-dismisses-boeing-737-max-concerns-says-fleet-absolutely-safe-126100200823_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-1tjlj9",
+      "headline": "SBI leads demand, snaps up 40% of Reliance Industries’ ₹13,000 crore bond issue",
+      "summary": "The state-run bank is estimated to have bought bonds worth nearly 50 billion rupees, or about 40% of the offering, they said. The bonds were rated ‘AAA’ by rating agencies Crisil and CareEdge, and carried an annual coupon of 7.90%.",
+      "date": "2026-10-02T12:57:23.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/sbi-leads-demand-snaps-up-40-of-reliance-industries-13-000-crore-bond-issue-11790945274699.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-2tmxzi",
+      "headline": "Challenge Group suspends Mumbai cargo flights over Navi airport setup",
+      "summary": "Malta-based Challenge Group says Navi Mumbai airport's current operational setup does not provide the reliability and certainty required for its cargo services",
+      "date": "2026-10-02T12:10:49.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/challenge-group-suspends-mumbai-cargo-flights-over-navi-airport-setup-126100200692_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-hq6o57",
+      "headline": "Blade relaunches semi-private flights between New York and Florida, taking on JSX",
+      "summary": "Blade will launch semi-private scheduled jet service between New York and Palm Beach and Miami in Florida, taking on JSX.",
+      "date": "2026-10-02T12:01:02.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/blade-one-new-york-florida-private-jet/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-1x4pt53",
+      "headline": "Development works worth ₹52,000 cr in progress in Hyderabad: Deputy CM Bhatti",
+      "summary": "Telangana: ₹52,000 cr development in Hyderabad underway, including Metro Phase II, electric buses, and integrated TSRTC–Metro Common Pass.",
+      "date": "2026-10-02T11:37:18.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/development-works-worth-52000-cr-in-progress-in-hyderabad-deputy-cm-bhatti/article71536739.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-3cneui",
+      "headline": "Chatbots to always-on AI: Why OpenAI, Meta, Google want persistent agents",
+      "summary": "Persistent Agents: OpenAI, Meta and Google are moving AI beyond task-specific agents towards persistent systems that can handle multiple jobs, retain context, access apps and continue working in the background",
+      "date": "2026-10-02T10:35:21.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/technology/artificial-intelligence/rise-of-persistent-ai-agents-openai-meta-google-126100200565_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-1q0ly24",
+      "headline": "Thai Airways board fires CEO Chai Eamsiri after Bangkok flood disruption",
+      "summary": "Chai said he wasn't given a reason for the decision but believed the board wanted to review shortcomings in his handling of the flood-related disruption",
+      "date": "2026-10-02T10:07:57.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/thai-airways-board-fires-ceo-chai-eamsiri-after-bangkok-flood-disruption-126100200528_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-1upxvey",
+      "headline": "In phone call, PM Modi lauds courage of flydubai pilot, hears his account of mid-air incident",
+      "summary": "Modi commends Flydubai pilot Captain Smit Machchaar for thwarting a co-pilot's sabotage, praising bravery and national pride.",
+      "date": "2026-10-02T09:58:00.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/in-phone-call-pm-modi-lauds-courage-of-flydubai-pilot-hears-his-account-of-mid-air-incident/article71536540.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-xe4bo2",
+      "headline": "Adani projects worth ₹2.6 trillion completed or underway in Maharashtra",
+      "summary": "The Adani Group has completed or is executing projects worth Rs 2.6 lakh crore in Maharashtra out of an investment commitment exceeding Rs 6 lakh crore across sectors, including energy, aviation, urban regeneration, data centres and coal gasification, a top o…",
+      "date": "2026-10-02T09:17:01.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/adani-group-maharashtra-investment-rs-6-lakh-crore-pranav-adani-126100200447_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-1ynpsrv",
       "headline": "PM Modi speaks to flydubai pilot Smit Machchhar, hails his bravery",
       "summary": "Prime Minister Narendra Modi on Friday spoke to Captain Smit Machchaar, who foiled an attempt by his co-pilot to allegedly crash an Israel-bound flydubai flight, and applauded his bravery. During the telephonic conversation, Machchaar gave details of his expe…",
       "date": "2026-10-02T06:34:37.000Z",
@@ -19,7 +430,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1hef0j",
+      "id": "newsapi-india-0-23-1hef0j",
       "headline": "Maharashtra is India’s launchpad; 43% of Adani Group’s ₹6 lakh crore blueprint completed or underway, says Pranav Adani",
       "summary": "Describing Maharashtra as India’s “launchpad” for economic growth, Pranav Adani, Director of Adani Enterprises, said projects worth ₹2.6 lakh crore — more than 43% of the Adani Group’s over ₹6 lakh crore investment blueprint for the state — are already comple…",
       "date": "2026-10-02T06:26:28.000Z",
@@ -35,7 +446,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-1a6e29u",
+      "id": "newsapi-india-0-24-1a6e29u",
       "headline": "FlyDubai cockpit attack puts aviation security under fresh scrutiny",
       "summary": "Israel has some of the world's most stringent air travel security measures. The United Arab Emirates proudly adheres to international aviation safety standards. Yet those safeguards failed to prevent a flight between the countries from taking a dangerous plun…",
       "date": "2026-10-02T05:15:15.000Z",
@@ -52,7 +463,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-ksy6x3",
+      "id": "newsapi-india-0-25-ksy6x3",
       "headline": "Trump says Iran will be hit 'very hard' if it is behind copilot who tried to crash flight to Israel",
       "summary": "Trump issued the warning as investigators worked to determine why the copilot stabbed the flight's captain, causing the FlyDubai plane to plummet before others on board stopped the attack and landed the airliner in Saudi Arabia",
       "date": "2026-10-02T04:54:45.000Z",
@@ -69,7 +480,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-a44508",
+      "id": "newsapi-india-0-26-a44508",
       "headline": "Elon Musk warns Delta Air Lines CEO 'will lose his job' over Starlink snub",
       "summary": "Bastian earlier defended Delta's decision to go with Amazon Leo, saying in a May interview with Bloomberg News that the service offered improved bandwidth at a much lower price point than Starlink",
       "date": "2026-10-02T04:47:35.000Z",
@@ -85,7 +496,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-169i3qn",
+      "id": "newsapi-india-0-27-169i3qn",
       "headline": "Deeply concerned: UN chief Guterres strongly condemns flydubai attack",
       "summary": "UN Secretary-General Antonio Guterres has expressed deep concern over an incident aboard a flydubai flight in which an Indian pilot sustained serious injuries while foiling an alleged attempt by his co-pilot to crash the aircraft. The Dubai to Tel Aviv flight…",
       "date": "2026-10-02T04:34:53.000Z",
@@ -103,7 +514,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-b5ux1e",
+      "id": "newsapi-india-0-28-b5ux1e",
       "headline": "FlyDubai pilot Smit Machchhar's path from nervous pilot to cockpit 'hero'",
       "summary": "Smit Machchhar, who was stabbed by his copilot, opened the cockpit door after fighting back, allowing passengers to subdue the attacker and avert a crash",
       "date": "2026-10-02T03:57:16.000Z",
@@ -119,7 +530,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1mqx5jg",
+      "id": "newsapi-india-0-29-1mqx5jg",
       "headline": "Delta CEO chooses Amazon’s Project Leo over Starlink, Elon Musk warns Ed Bastian ‘will lose his job’",
       "summary": "Delta Chief Executive Officer Ed Bastian is in SpaceX CEO Elon Musk’s sights for choosing Amazon.com Inc.’s Leo, the new service intended to be a Starlink alternative.",
       "date": "2026-10-02T03:37:23.000Z",
@@ -135,7 +546,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1hlt0sr",
+      "id": "newsapi-india-0-30-1hlt0sr",
       "headline": "Boeing averts strike as engineers ratify deal: 32% pay hike over 4 years, 10% immediate raise | What the contract offers",
       "summary": "Boeing's white-collar workers ratified a new contract, avoiding a labor disruption and aiding the certification of delayed aircraft. The Society of Professional Engineering Employees in Aerospace reported a 67.6% approval from engineers and 53.5% from technic…",
       "date": "2026-10-02T02:13:32.000Z",
@@ -151,7 +562,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-gp5ct7",
+      "id": "newsapi-india-0-31-gp5ct7",
       "headline": "Federal report says pilots werent warned about wind before Amazon cargo plane crashed in Miami",
       "summary": "Federal report says pilots weren't warned about wind before Amazon cargo plane crashed in Miami",
       "date": "2026-10-01T20:34:32.000Z",
@@ -167,7 +578,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-1hdordy",
+      "id": "newsapi-world-0-3-1hdordy",
       "headline": "Earn 70,000 Flying Blue miles and Silver status with the Air France KLM Visa",
       "summary": "See if now is the right time to apply for the Air France KLM Visa. Here's our breakdown of the current offer.",
       "date": "2026-10-01T19:30:38.000Z",
@@ -176,407 +587,6 @@
       "scopeHint": "world",
       "scopes": [
         "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-1-uf741q",
-      "headline": "Waldorf Astoria and Conrad Tulum Riviera Maya are going all-inclusive in 2027",
-      "summary": "Two of Hilton's flagship luxury resorts in Mexico are transforming into all-inclusives and the Waldorf Astoria Riviera Maya will become adults-only in January 2027.",
-      "date": "2026-10-01T19:00:45.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/hotel/waldorf-astoria-conrad-riviera-maya-going-all-inclusive/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-ovq5p4",
-      "headline": "Visiting Tanzania? You now need travel insurance",
-      "summary": "Make sure you get the right coverage before traveling to this popular safari and beach destination.",
-      "date": "2026-10-01T18:30:28.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/tanzania-travel-insurance-requirements/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-10-1kersc0",
-      "headline": "The flydubai incident could trigger sweeping security checks",
-      "summary": "From post-hiring psychological screening of flight crew to earlier airport arrival for enhanced checks, the flydubai incident could trigger an aviation security overhaul.",
-      "date": "2026-10-01T15:47:40.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/opinion/online-views/the-flydubai-incident-could-trigger-sweeping-security-checks-11790861294986.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-11yzzmb",
-      "headline": "Petroleum ministry to intervene as private refiners cap diesel sales",
-      "summary": "The Centre will ask private fuel retailers Jio-bp and Nayara Energy to roll back recent diesel sales caps, reiterating that supply limits are not permitted, said petroleum secretary Neeraj Mittal.",
-      "date": "2026-10-01T14:45:18.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/energy/petroleum-ministry-to-intervene-as-private-refiners-cap-diesel-sales-11790861694277.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "faa-0-1dag5pa",
-      "headline": "FAA Breaks All-Time Record for Air Traffic Controller Trainee Hiring",
-      "summary": "FAA Breaks All-Time Record for Air Traffic Controller Trainee Hiring beth_krappweis Thu, 10/01/2026 - 10:28 WASHINGTON, D.C. — The Federal Aviation Administration (FAA) exceeded its Fiscal Year 2026 goal, hiring 2,235 air traffic controller trainees, the most in FAA history. This record follows the highly successful gamer campaign that recruited more…",
-      "date": "2026-10-01T14:28:55.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/faa-breaks-all-time-record-air-traffic-controller-trainee-hiring",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation",
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-18m6q8z",
-      "headline": "First time ever: Earn 2 round-trip Delta Comfort flights and 50,000 miles",
-      "summary": "The Delta SkyMiles® Reserve American Express Card is offering something we've never seen before. Here's what you need to know about this offer.",
-      "date": "2026-10-01T14:00:45.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/credit-cards/first-time-ever-earn-2-delta-flight-certificates-and-50000-miles/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-4-e6ec3y",
-      "headline": "IHG revamps its credit card lineup with new benefits, higher annual fees",
-      "summary": "IHG and Chase are refreshing their credit card lineup with new benefits, updated earning rates, more elite perks and higher annual fees on select cards.",
-      "date": "2026-10-01T12:02:36.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/ihg-credit-card-refresh-2026/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-5-ws5rd4",
-      "headline": "Chase launches new premium IHG card with 200,000-point welcome offer",
-      "summary": "Chase and IHG have launched the new $350 IHG Premier Select card. It offers a limited-time 200,000-point bonus plus premium IHG perks.",
-      "date": "2026-10-01T12:00:44.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/ihg-premier-select-card-launch/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-pt3n5s",
-      "headline": "Tewolde Gebremariam assumes charge as Air India CEO",
-      "summary": "Tewolde Gebremariam becomes Air India's foreign CEO, outlining cost discipline, profitability, safety, and efficiency drives amid expansion plans.",
-      "date": "2026-10-01T10:15:42.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/tewolde-gebremariam-assumes-charge-as-air-india-ceo/article71532333.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "safety",
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-zgmq4g",
-      "headline": "Bhogapuram Airport warns job-seekers against fake recruitment offers",
-      "summary": "The advisory follows a recent instance of fraudulent recruitment communications being circulated in the name of the airport and its operator.",
-      "date": "2026-10-01T10:03:57.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/bhogapuram-airport-warns-job-seekers-against-fake-recruitment-offers/article71532284.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-w21x7q",
-      "headline": "Ethanol blending does not damage vehicles, diversifies agri sector: Gadkari",
-      "summary": "Union minister Nitin Gadkari on Thursday debunked claims that blending ethanol with petrol was damaging motor vehicles, asserting that it facilitated diversification of the agriculture sector. Addressing the inaugural session of the 'Bihar Investor Summit 202…",
-      "date": "2026-10-01T10:01:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/ethanol-blending-does-not-damage-vehicles-diversifies-agri-sector-gadkari-126100100706_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-6-1olkdex",
-      "headline": "Rove launches 3 huge October transfer bonuses, including a 50% bonus to Japan Airlines",
-      "summary": "Rove is offering a 50% transfer bonus to Japan Airlines, a 40% bonus to Flying Blue and an up to 35% bonus to Qatar Airways through Oct. 31. Here's how to use each one.",
-      "date": "2026-10-01T10:00:41.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/rove-transfer-bonuses-jal-flying-blue-qatar/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-83kydo",
-      "headline": "Neighbours in Mumbai fondly recall hero pilot Smit Machchhar, pray for his speedy recovery",
-      "summary": "Friends of the family came together to help Machchhar’s parents fly to Saudi Arabia to be with their son, who is receiving treatment for injuries suffered during the fight with his co-pilot",
-      "date": "2026-10-01T09:54:11.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/variety/neighbours-in-mumbai-fondly-recall-hero-pilot-smit-machchhar-pray-for-his-speedy-recovery/article71531794.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-17qtzse",
-      "headline": "Prevented another 9/11-like attack: PM Modi hails Capt Smit Machchhar",
-      "summary": "PM Modi on Captain Smit Machchhar: Indian pilot Smit Machchhar was stabbed by his co-pilot during a Flydubai flight from Dubai to Tel Aviv; passengers and crew later helped overpower the attacker and land the aircraft safely",
-      "date": "2026-10-01T09:36:40.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/pm-modi-hails-smit-machchhar-flydubai-cockpit-attack-9-11-tragedy-israel-126100100683_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-1obqont",
-      "headline": "Must bring youth into public services: PM at UPSC centenary celebrations",
-      "summary": "Prime Minister Narendra Modi on Thursday said the country must bring youth into public services who are not attracted by public office. He said it is essential that the recruitment examination does not just test what a candidate knows but also sees why that y…",
-      "date": "2026-10-01T09:09:35.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/must-bring-youth-into-public-services-pm-at-upsc-centenary-celebrations-126100100546_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-1w3p6ud",
-      "headline": "Flydubai: 5 key facts about the UAE-based airline after Indian pilot Smit Machchhar foils alleged mid-air hijack attempt",
-      "summary": "Flydubai's Dubai-Tel Aviv flight faced a mid-air incident when Indian Captain Smit Machchhar was stabbed by the co-pilot. The flight descended rapidly to land safely in Tabuk.&nbsp;",
-      "date": "2026-10-01T06:59:04.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/flydubai-5-key-facts-about-the-uae-based-airline-after-indian-pilot-smit-machchhar-foils-alleged-mid-air-hijack-attempt-11790835171699.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-eo8qzk",
-      "headline": "‘A true hero’: Modi, Trump, and Netanyahu hail Indian pilot Machchhar after in-flight Attack",
-      "summary": "Prime Minister Narendra Modi and US president Donald Trump both hailed Captain Smit Machchhar as a “hero” while Israel Prime Minister Benjamin Netanyahu was no less effusive in his words to praise his “extra ordinary” resistance.",
-      "date": "2026-10-01T06:16:55.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/a-true-hero-modi-trump-and-netanyahu-hail-indian-pilot-machchhar-after-in-flight-attack/article71531641.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1yjrc52",
-      "headline": "Who is Smit Machchhar, Indian pilot hailed as hero after flydubai attack?",
-      "summary": "flydubai: Smit Machchhar was the captain of flydubai Flight FZ1073, travelling from Dubai to Tel Aviv on Wednesday when a violent confrontation broke out inside the cockpit",
-      "date": "2026-10-01T05:47:40.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/who-is-smit-machchhar-indian-pilot-hailed-as-hero-after-flydubai-attack-126100100334_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-c4g1t4",
-      "headline": "Pilgrimage, wildlife: India's tourism wave is creating new real estate bets",
-      "summary": "Beyond Goa and Jaipur: The new tourism hotspots that could drive property demand",
-      "date": "2026-10-01T04:56:22.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/finance/personal-finance/pilgrimage-wildlife-india-s-tourism-wave-is-creating-new-real-estate-bets-126100100242_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-17u0n6b",
-      "headline": "Flydubai cockpit attack: Here's what happened aboard Dubai-Tel Aviv flight",
-      "summary": "Flydubai flight FZ1073 was diverted to Saudi Arabia after a co-pilot stabbed the captain and tried to take control; passengers and crew helped restrain him and land the plane safely",
-      "date": "2026-10-01T04:29:08.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/flydubai-cockpit-attack-dubai-tel-aviv-flight-smit-machchhar-saudi-arabia-126100100181_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-1chcx9r",
-      "headline": "ATF prices increased by around ₹16 per litre; commercial LPG rises ₹62.50",
-      "summary": "Aviation turbine fuel (ATF) prices were raised by a steep Rs 16 per litre from Thursday, while the price of commercial LPG was increased by Rs 62.50 per 19-kg cylinder in step with firming international benchmarks, according to state-owned oil companies. ATF …",
-      "date": "2026-10-01T03:41:04.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/news/atf-prices-increased-by-around-16-per-litre-commercial-lpg-rises-62-50-126100100131_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-1l6teip",
-      "headline": "Alliance Insurance Brokers looks to raise up to ₹900 crore in minority stake sale",
-      "summary": "Alliance Insurance Brokers is looking to raise ₹800-900 crore through a mix of primary and secondary share sales as it expands across smaller Indian cities and overseas reinsurance markets.",
-      "date": "2026-10-01T03:30:40.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/alliance-insurance-brokers-stake-sale-access-asset-managers-o3-capital-insurance-brokers-insurance-sector-11790820276188.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-5ophcc",
-      "headline": "Flydubai incident renews debate over mandatory cockpit video recorders",
-      "summary": "Cockpit video could provide investigators with a visual record of the Flydubai attack, but privacy concerns and opposition from pilots' unions have complicated calls for a mandate",
-      "date": "2026-10-01T02:47:33.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/flydubai-incident-renews-debate-over-mandatory-cockpit-video-recorders-126100100108_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-jbk3s3",
-      "headline": "'Terrorist or whack job': Trump on Flydubai co-pilot, hails Indian pilot",
-      "summary": "Trump said he spoke with Israeli PM Benjamin Netanyahu about the incident and praised Captain Smit Machchhar and a passenger who helped subdue the co-pilot",
-      "date": "2026-10-01T02:36:09.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/terrorist-or-whack-job-trump-on-flydubai-co-pilot-hails-indian-pilot-126100100071_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-pc36i3",
-      "headline": "Government cuts windfall tax on diesel, ATF",
-      "summary": "Government lowers windfall export levies on diesel to ₹16/L and ATF to ₹10.5/L; petrol unchanged at ₹0.50/L.",
-      "date": "2026-10-01T02:03:56.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/government-cuts-windfall-tax-on-diesel-atf/article71531203.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
       ],
       "topics": [
         "industry"
