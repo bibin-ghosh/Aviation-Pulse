@@ -1,9 +1,430 @@
 {
-  "refreshedAt": "2026-10-08T09:03:52.567Z",
+  "refreshedAt": "2026-10-09T09:10:41.654Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-w8u9mc",
+      "id": "newsapi-india-0-0-1aje77s",
+      "headline": "Eutelsat OneWeb awaits final approvals, says India infrastructure is ready",
+      "summary": "The company said its regulatory work is progressing and satellite services will complement terrestrial networks, with use cases in remote areas, aviation, maritime and disaster resilience",
+      "date": "2026-10-08T09:05:51.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/eutelsat-oneweb-awaits-final-approvals-says-india-infrastructure-is-ready-126100800694_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-w2naaq",
+      "headline": "India's dealmaking broadens: 255 M&As worth $13.2 bn in Q3 of 2026",
+      "summary": "Mergers and Acquisition Deals: Deal volumes rose 7% from the previous quarter, while deal values fell 53% from $27.9 billion in Q2",
+      "date": "2026-10-08T08:42:00.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/india-s-dealmaking-broadens-255-m-as-worth-13-2-bn-in-q3-of-2026-126100800628_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-h1rt8i",
+      "headline": "Sunil Mittal responds to Musk, says Eutelsat OneWeb also awaiting approvals",
+      "summary": "The Bharti Enterprises chairman said satellite services could begin 'hopefully soon' and also backed a common global framework to deepen telecom manufacturing",
+      "date": "2026-10-08T08:40:05.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/sunil-mittal-responds-to-musk-says-eutelsat-oneweb-also-awaiting-approvals-126100800646_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-jsh7vf",
+      "headline": "Oil on a boil: OMCs, IndiGo & other crude-sensitive stocks sink up to 5%",
+      "summary": "Oil prices climbed sharply on Thursday due to rising attacks on vessels in the West Asia and hurricane-related production shutdowns in the US, reviving fears of severe supply disruptions.",
+      "date": "2026-10-08T08:07:04.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/oil-on-a-boil-omcs-indigo-other-crude-sensitive-stocks-sink-up-to-5-126100800590_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-cnh1bu",
+      "headline": "Air India to offer travel SIM cards to passengers for overseas trips",
+      "summary": "EasyRoam, an Air India-branded travel SIM card that offers international roaming services, has been developed in partnership with Tata Communications",
+      "date": "2026-10-08T07:56:36.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-to-offer-travel-sim-cards-to-passengers-for-overseas-trips/article71558766.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-jz6cm5",
+      "headline": "Adani targets $100 billion annual investment capacity by 2033",
+      "summary": "Adani Group, targeting ₹2 lakh crore of investments this year against ₹1.53 lakh crore in FY26, plans to scale its annual investment capacity nearly five-fold to $100 billion by 2033",
+      "date": "2026-10-08T07:48:40.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/adani-targets-100-billion-annual-investment-capacity-by-2033/article71558581.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1y8uc8a",
+      "headline": "Air India to offer physical SIM, eSIM for passengers travelling abroad",
+      "summary": "Air India will offer travel SIM cards to passengers for their overseas trips. EasyRoam, an Air India-branded travel SIM card that offers international roaming services, has been developed in partnership with Tata Communications. The ancillary product will be …",
+      "date": "2026-10-08T07:24:56.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/air-india-to-offer-physical-sim-esim-for-passengers-travelling-abroad-126100800482_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-12xro0l",
+      "headline": "Adani group stocks under pressure; Enterprises, Green Energy tank up to 7%",
+      "summary": "Adani Enterprises' stock price on Thursday quoted at its lowest level since May 14, 2026, having declined 13% in the last six trading sessions.",
+      "date": "2026-10-08T07:06:20.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/adani-group-stocks-under-pressure-enterprises-green-energy-down-up-to-7-126100800485_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-lutjww",
+      "headline": "IndiGo flight to Lucknow suffers nose damage due to lightning, lands safely",
+      "summary": "An IndiGo flight from Patna to Lucknow made an emergency landing after lightning struck it at an altitude of 17,000 feet. All 104 passengers, including the crew, are reported to be safe",
+      "date": "2026-10-08T04:23:54.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/indigo-flight-lucknow-nose-damage-lightning-strike-6e925-126100800226_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-rx06pu",
+      "headline": "3 killed as Houthi attacks hit Saudi airports in Abha, Riyadh: Officials",
+      "summary": "Two attacks on airports in Saudi Arabia claimed by Iran-backed Houthi rebels in neighbouring Yemen killed three people Wednesday, Saudi officials said, as the kingdom was pulled deeper into the latest front in the Iran war. The Saudi General Authority for Civ…",
+      "date": "2026-10-08T02:56:57.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/3-killed-as-houthi-attacks-hit-saudi-airports-in-abha-riyadh-officials-126100800050_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1uiffue",
+      "headline": "Best of Opinion: More rate hikes imminent as RBI revises policy cycle",
+      "summary": "From the RBI's shift to calibrated tightening and health-insurance copayments to India's tax reform journey, aviation security, today's opinions examine policy trade-offs and institutional change",
+      "date": "2026-10-08T00:45:46.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/opinion/specials/best-of-opinion-more-rate-hikes-imminent-as-rbi-revises-policy-cycle-126100701017_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-p8zx2e",
+      "headline": "Icelandair adding St. Louis, a stronghold for partner Southwest Airlines",
+      "summary": "Icelandair names St. Louis as its 16th U.S. destinations with flights from May 2027.",
+      "date": "2026-10-07T21:21:10.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/icelandair-lands-in-st-louis-with-southwest-airlines/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-1nvdtu6",
+      "headline": "8 ways to use points and miles for an incredible trip to Sydney",
+      "summary": "Visit Australia's most exciting city using these points and miles tricks for airline tickets, hotels and more.",
+      "date": "2026-10-07T19:30:18.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/travel/use-points-and-miles-travel-to-sydney/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-1k72dzp",
+      "headline": "Iran-backed Houthis claim new attacks on Saudi Arabia, Yemen's Aden airport",
+      "summary": "Iran-backed Houthi rebels in Yemen on Wednesday claimed attacks on military facilities and airports in neighbouring Saudi Arabia as the escalation deepened the latest front in the Iran war and threatened a crucial shipping alternative to the Strait of Hormuz.…",
+      "date": "2026-10-07T17:28:42.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/iran-backed-houthis-claim-new-attacks-on-saudi-arabia-yemen-s-aden-airport-126100700567_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-1ounpuh",
+      "headline": "Airline safety grounded in terra firma",
+      "summary": "Air passengers pay for their safety in the skies one way or another - even though the real solution lies in the hands of politicians",
+      "date": "2026-10-07T17:04:28.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/opinion/columns/airline-safety-grounded-in-terra-firma-126100701460_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-a28vpy",
+      "headline": "Green signal: AAI set to develop greenfield international airport in Puri",
+      "summary": "AAI will develop the ₹5,631-crore Puri airport after environmental and CRZ clearances, with the first phase designed to handle 4.6 million passengers annually.",
+      "date": "2026-10-07T16:55:00.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/green-signal-aai-set-to-develop-greenfield-international-airport-in-puri-126100701279_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-11o187a",
+      "headline": "IATA urges transparency in Mumbai airport flight cut plan",
+      "summary": "IATA issued the statement after the Civil Aviation Ministry put on hold Mumbai airport’s proposal to reduce one-third of all international flights from October 26",
+      "date": "2026-10-07T16:41:49.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/iata-urges-transparency-in-mumbai-airport-flight-cut-plan/article71556591.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-1h37usj",
+      "headline": "Cheers to that: KLM's Delft house is a winery",
+      "summary": "KLM has just revealed its latest Delft house collectible, and this one is a winery from a tiny village in the Netherlands.",
+      "date": "2026-10-07T16:30:14.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/airline/klm-delft-house-reveal-2026/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-vwfe0a",
+      "headline": "SC to examine plea that systemic blindspots in aviation boom left disabled travellers stranded",
+      "summary": "The petition referred to recent media reports of a wheelchair-dependent passenger who was allegedly offloaded in Delhi while connecting from a Frankfurt flight",
+      "date": "2026-10-07T14:57:11.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/sc-to-examine-plea-that-systemic-blindspots-in-aviation-boom-left-disabled-travellers-stranded/article71556432.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-1jgxqeu",
+      "headline": "Minus data centres, India's new investment plans shrank in H1FY27: Report",
+      "summary": "Investment announcements rose 34.7 per cent to ₹30.38 trillion in H1FY27, driven by data centres, while plans outside IT fell about 4 per cent to ₹20.92 trillion",
+      "date": "2026-10-07T14:39:24.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/minus-data-centres-india-s-new-investment-plans-shrank-in-h1fy27-report-126100701246_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-nxl2u5",
+      "headline": "IATA asks airlines to negotiate Mumbai slot cuts, seek longer transition period",
+      "summary": "Adani Airport, which operates the Chhatrapati Shivaji Maharaj International Airport (CSMIA) in Mumbai, had proposed temporarily discontinuing 265 of 770 weekly international departure slots from T2 of the airport from 25 October as part of the transition of i…",
+      "date": "2026-10-07T14:02:23.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/iata-airlines-negotiate-mumbai-slot-cuts-seek-longer-transition-period-csmia-navi-mumbai-international-operations-adani-11791375283449.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-3-194o62z",
+      "headline": "American Airlines cuts 6 routes, adds 2 in New York airport swap",
+      "summary": "American Airlines is tweaking its schedule in 2027 in an effort to return to sustained profitability.",
+      "date": "2026-10-07T12:30:17.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/american-airlines-route-changes-new-york-laguardia-jfk-bozeman-seattle/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports",
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-4-n5fd3z",
+      "headline": "Alaska Airlines plots new Asia route, won't follow rivals with 'basic business'",
+      "summary": "Alaska Airlines is planning a new Asia route, and sharing where its luxe new domestic plane will fly. Plus, Starlink installations ramp up.",
+      "date": "2026-10-07T12:00:00.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/alaska-airlines-new-asia-route-starlink-installations/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-1oew81f",
+      "headline": "Jet fuel shock: Govt explores price stabilisation fund relief for airlines as ATF prices climb",
+      "summary": "India is contemplating reviving jet fuel price stabilisation fund amid rising prices, influenced by geopolitical turmoil. Discussions are ongoing with airlines and oil-marketing companies, as ATF constitutes 40% of airline expenses. IndiGo has raised its fuel…",
+      "date": "2026-10-07T11:38:31.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/energy/jet-fuel-shock-govt-explores-price-stabilisation-fund-relief-for-airlines-as-atf-prices-climb-11791372277654.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-1vshanf",
+      "headline": "Mumbai airport flight shift needs transparent capacity assessment: IATA",
+      "summary": "IATA welcomes the ministry's intervention to defer the proposed flight shift to Navi Mumbai, calling for consultation with airlines and a transparent capacity assessment",
+      "date": "2026-10-07T10:51:13.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/mumbai-airport-flight-shift-needs-transparent-capacity-assessment-iata-126100700810_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-1fc0nn4",
+      "headline": "Yemen is spiralling into another civil war that could swiftly engulf in the entire region",
+      "summary": "Saudi Arabia turns to Pakistan and Turkiye after the US declines airstrikes, while oil flows face fresh disruption",
+      "date": "2026-10-07T10:10:56.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/world/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region/article71554979.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-w8u9mc",
       "headline": "Air India, Singapore Airlines expand commercial cooperation",
       "summary": "The expansion is part of the initiatives under the Commercial Cooperation Framework Agreement inked in January this year.",
       "date": "2026-10-07T07:52:43.000Z",
@@ -20,7 +441,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1aqfh17",
+      "id": "newsapi-india-0-22-1aqfh17",
       "headline": "Air India, Singapore Airlines announce expansion of commercial cooperation",
       "summary": "Air India and Singapore Airlines on Wednesday announced an expansion of their commercial cooperation to provide more flight options for travellers between India and Singapore. The expansion is part of the initiatives under the Commercial Cooperation Framework…",
       "date": "2026-10-07T07:09:54.000Z",
@@ -37,7 +458,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-10s51jz",
+      "id": "newsapi-india-0-23-10s51jz",
       "headline": "Asian Games gold medallist Lovlina gets rousing welcome on return to Assam",
       "summary": "Boxer Lovlina Borgohain received a rousing welcome in Guwahati on Tuesday as she returned to Assam after winning gold at the Asian Games in Japan. Borgohain clinched gold in the women's 75-kg category on her birthday on October 2, defeating China's Bao Ziyi 5…",
       "date": "2026-10-07T05:50:50.000Z",
@@ -53,7 +474,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-109wg8s",
+      "id": "newsapi-india-0-24-109wg8s",
       "headline": "Brent crude rises above $101 on US hurricane threat, Houthi attacks",
       "summary": "Brent crude oil price traded above $101 a barrel on Wednesday morning following the attacks by the Houthis on Saudi sites and amid concerns about the possible impact of a hurricane on the oil producing regions in the US.",
       "date": "2026-10-07T04:19:19.000Z",
@@ -69,7 +490,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-10so6k9",
+      "id": "newsapi-india-0-25-10so6k9",
       "headline": "FlyDubai co-pilot accused of murder-suicide mission trained to fly in UK",
       "summary": "Hamam al-Hammami, 29, trained with L3 Airline Academy, a company that's now part of Acron Aviation, between 2018 and 2019 and received lessons at one or more centers in England",
       "date": "2026-10-07T03:35:59.000Z",
@@ -85,7 +506,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-g07gnj",
+      "id": "newsapi-india-0-26-g07gnj",
       "headline": "Oil prices rise as Gulf of Mexico storm, Saudi attacks raise supply risks",
       "summary": "Brent futures rose 93 cents, or ​0.92%, to $101.51 a barrel by 0022 GMT while US West Texas Intermediate (WTI) crude rose 82 cents, or 0.92%, ‌to $90.25",
       "date": "2026-10-07T02:22:15.000Z",
@@ -101,7 +522,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-t4afwy",
+      "id": "newsapi-india-0-27-t4afwy",
       "headline": "British Airways A380 makeover: World’s biggest business class, 30% fewer economy seats and 5 other key changes",
       "summary": "The carrier will refurbish all 12 of its A380 aircraft, introducing a new business-class cabin that spans the entire upper deck. British Airways has described it as the world’s biggest business-class cabin.",
       "date": "2026-10-06T19:55:50.000Z",
@@ -117,7 +538,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-tlbrl0",
+      "id": "newsapi-world-0-5-tlbrl0",
       "headline": "American Airlines plans massive (and badly-needed) lounge at Charlotte hub",
       "summary": "American Airlines will build a huge new Admirals Club lounge at Charlotte Douglas International Airport (CLT), a badly-needed facility.",
       "date": "2026-10-06T18:26:48.000Z",
@@ -132,7 +553,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-ss0pre",
+      "id": "newsapi-india-0-28-ss0pre",
       "headline": "Govt mulls ATF price stabilisation fund for airlines amid rising fuel costs",
       "summary": "Amid rising jet fuel prices, the government is considering whether to revive the price stabilisation fund and is also in discussions with airlines as well as oil marketing companies on the high ATF costs. Aviation Turbine Fuel (ATF) accounts for around 40 per…",
       "date": "2026-10-06T17:18:27.000Z",
@@ -148,7 +569,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1pdqap8",
+      "id": "newsapi-india-0-29-1pdqap8",
       "headline": "DRDO tests indigenously developed stratospheric surveillance platform HAPS",
       "summary": "DRDO carried out a successful flight trial of indigenously developed High-Altitude Platform (HAPS) a lighter than air system which works as a long endurance stratospheric aerial surveillance platform",
       "date": "2026-10-06T16:02:23.000Z",
@@ -161,425 +582,6 @@
       ],
       "topics": [
         "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-9-vzpmrb",
-      "headline": "Top Business & Market Headlines Today — BL Morning Report, October 7, 2026",
-      "summary": "BL Morning Report October 7: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "date": "2026-10-06T15:48:18.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-october-7-2026/article71551495.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-10-txbc5",
-      "headline": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
-      "summary": "Following airline resistance over peak-season disruptions, the operator must now build a mutually agreed flight relocation framework for Navi Mumbai.",
-      "date": "2026-10-06T15:16:39.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-1-1h1p99m",
-      "headline": "United joins Delta with new flights to Arizona city near Grand Canyon, Sedona",
-      "summary": "Next summer, United Airlines will land in Flagstaff, Arizona — the most convenient airport to both the Grand Canyon and Sedona.",
-      "date": "2026-10-06T15:00:41.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/united-new-flights-arizona-grand-canyon-sedona/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-162s0t0",
-      "headline": "Deadline extension, airline incentives to resolve Mumbai airport standoff",
-      "summary": "An extension of the October 26 deadline for shifting flights from Mumbai Airport to Navi Mumbai Airport, along with additional incentives for airlines, are among the proposals being considered to resolve the standoff between airlines and Adani Airports, offic…",
-      "date": "2026-10-06T14:53:47.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/deadline-extension-airline-incentives-to-resolve-mumbai-airport-standoff/article71552197.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-1o20v6e",
-      "headline": "Centre weighs revival of ATF price stabilisation scheme amid fare pressure",
-      "summary": "Centre mulls reviving ATF Price Stabilisation Fund to curb escalating fuel costs and airfares, seeking airline-OMC input to rework the framework.",
-      "date": "2026-10-06T14:18:26.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/centre-weighs-revival-of-atf-price-stabilisation-scheme-amid-fare-pressure/article71551858.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-1swyg9",
-      "headline": "Delhi airport plans ₹7,000 crore expansion, 7.3-km APM link by 2030",
-      "summary": "Delhi airport plans to raise annual passenger capacity to around 125 million from 106 million, expand terminals and aircraft stands, and build a 7.3-km APM",
-      "date": "2026-10-06T14:16:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/delhi-airport-plans-7-000-crore-expansion-7-3-km-apm-link-by-2030-126100601232_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "airports",
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-u68xi6",
-      "headline": "MoCA asks MIAL to defer Mumbai flight shift plan, consult airlines",
-      "summary": "Civil Aviation Ministry asks MIAL to defer its plan to shift 265 weekly international flights to Navi Mumbai and work with airlines on a jointly agreed transition plan",
-      "date": "2026-10-06T14:11:17.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/moca-asks-mial-to-defer-mumbai-flight-shift-plan-consult-airlines-126100601220_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-16olij1",
-      "headline": "British Airways reveals huge upgrades for Airbus A380, London Heathrow",
-      "summary": "British Airways unveiled details of an Airbus A380 retrofit, with new seats across first class, business, premium and economy. A new lounge is coming, too.",
-      "date": "2026-10-06T14:04:08.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/british-airways-a380-retrofit-heathrow-lounge/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-r7zpwd",
-      "headline": "Cabinet approves Integrated Transport & Logistics Authority for greater efficiency",
-      "summary": "The Union Cabinet on Tuesday approved the setting up of a special purpose vehicle (SPV) — Integrated Transport & Logistics Authority (ITLA) - to strengthen research, planning, appraisal, monitoring and impact assessment of transportation and logistics.",
-      "date": "2026-10-06T13:23:05.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/cabinet-approves-integrated-transport-logistics-authority-for-greater-efficiency/article71551771.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-17b16h0",
-      "headline": "Delhi airport master plan targets 125 mn passengers; APM to link terminals, aerocity",
-      "summary": "Master plan envisions Delhi IGI expanding to ~125 million passengers by 2036, adding Pier E, APM linkups, more stands, and road upgrades.",
-      "date": "2026-10-06T13:16:54.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/delhi-airport-master-plan-targets-125-mn-passengers-apm-to-link-terminals-aerocity/article71551631.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-1kqjzwo",
-      "headline": "Airlines warn govt of route cuts as soaring ATF costs squeeze finances",
-      "summary": "Airlines seek changes in ATF pricing and taxes, lower state VAT and extended relief on airport charges as the West Asia conflict drives up operating costs",
-      "date": "2026-10-06T12:38:23.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/airlines-warn-govt-of-route-cuts-as-soaring-atf-costs-squeeze-finances-126100601039_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-1phnb3l",
-      "headline": "Saudi Arabia says 2 airports hit in renewed fighting with Yemen's Houthis",
-      "summary": "Saudi Arabia said three people were injured in the latest attacks on its airports since fighting with Yemen's Houthi rebels reignited. Meanwhile, Palestinian health officials said an Israeli airstrike in Gaza City killed one person. Nearly three years after H…",
-      "date": "2026-10-06T10:15:47.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/saudi-arabia-says-2-airports-hit-in-renewed-fighting-with-yemen-s-houthis-126100600730_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-5kmqq9",
-      "headline": "Federation of Indian Airlines seeks review of existing ATF pricing formula",
-      "summary": "The Federation of Indian Airlines (FIA) is seeking a review of the existing jet fuel pricing formula, and said domestic ATF should be priced on the actual cost of fuel plus a reasonable margin rather than international benchmark pricing. The unprecedented inc…",
-      "date": "2026-10-06T09:53:36.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/federation-of-indian-airlines-seeks-review-of-existing-atf-pricing-formula-126100600635_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-197ri4v",
-      "headline": "Airfare strength to offset fuel cost in Q2; IndiGo PAT may rise 176%: Elara",
-      "summary": "IndiGo Q2 Preview: Elara has retained its positive stance on IndiGo in the medium to long term, saying India's aviation demand cycle remains intact and competitive supply remains constrained.",
-      "date": "2026-10-06T09:08:15.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/news/airfare-strength-to-offset-fuel-cost-in-q2-indigo-pat-may-rise-176-elara-126100600598_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-gmrti5",
-      "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
-      "summary": "The government is in talks with airlines and oil marketing companies on streamlining the ATF price stabilisation mechanism, says civil aviation minister K. Ram Mohan Naidu.",
-      "date": "2026-10-06T08:25:20.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-pxfqsc",
-      "headline": "Navi Mumbai airport to augment staff, resolve system glitches to reduce cargo delays",
-      "summary": "On October 1, custom brokers complained that Navi Mumbai airport lacks experienced manpower and equipment to handle cargo volume",
-      "date": "2026-10-06T07:10:37.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/navi-mumbai-airport-to-augment-staff-resolve-system-glitches-to-reduce-cargo-delays/article71550319.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-15nx2az",
-      "headline": "Discussions on with airlines, OMCs over high jet fuel prices: Rammohan Naidu",
-      "summary": "Airlines are facing headwinds due to the rising prices of Aviation Turbine Fuel (ATF), which accounts for around 40% of a carrier's operational costs",
-      "date": "2026-10-06T07:06:14.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/discussions-on-with-airlines-omcs-over-high-jet-fuel-prices-rammohan-naidu/article71550184.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-1tyd0va",
-      "headline": "Hope to have Made-in-India civilian aircraft in 2 years: Naidu",
-      "summary": "Highlighting the growth potential of the country's civil aviation sector, the minister says airlines have more than 1,600 aircraft on order that are estimated to be worth about $100 billion",
-      "date": "2026-10-06T06:48:45.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/hope-to-have-made-in-india-civilian-aircraft-in-2-years-naidu/article71550177.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-ilddxz",
-      "headline": "Govt in talks with airlines, OMCs over high ATF prices: Aviation minister",
-      "summary": "Civil Aviation Minister K Rammohan Naidu on Tuesday said the ministry is in discussions with airlines and oil marketing companies on high jet fuel prices due to the West Asia crisis. Airlines are facing headwinds due to the rising prices of Aviation Turbine F…",
-      "date": "2026-10-06T06:01:47.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/govt-in-talks-with-airlines-omcs-over-high-atf-prices-aviation-minister-126100600292_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-1m2tpla",
-      "headline": "FLY91 begins operations from Navi Mumbai airport with four routes",
-      "summary": "The airline's first flight from Hyderabad received a water cannon salute at the airport, marking the commencement of its operations from the new airport",
-      "date": "2026-10-06T04:56:57.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/fly91-begins-operations-from-navi-mumbai-airport-with-four-routes-126100600104_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-28-1pl0kup",
-      "headline": "Crude oil price gains on reports of Houthi attacks on Saudi sites",
-      "summary": "At 9.35 am on Tuesday, December Brent oil futures were at $100.58 up by 0.26%, and November crude oil futures on WTI (West Texas Intermediate) were at $89.61, up by 0.20%",
-      "date": "2026-10-06T04:15:22.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-gains-on-reports-of-houthi-attacks-on-saudi-sites/article71549941.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "easa-0-1by72d0",
-      "headline": "EASA publishes the updated Easy Access Rules for CS-MMEL (Issue 4)",
-      "summary": "The European Union Aviation Safety Agency (EASA) has published the&nbsp;Easy Access Rules for Master Minimum Equipment List (EAR for CS-MMEL) Issue 4.",
-      "date": "2026-10-05T21:00:00.000Z",
-      "source": "EASA",
-      "sourceUrl": "https://www.easa.europa.eu/newsroom-and-events/news/easa-publishes-updated-easy-access-rules-cs-mmel-issue-4",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "safety",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-1jw7fd8",
-      "headline": "Delta is the latest airline to let you check wine for free",
-      "summary": "Delta SkyMiles members can skip the $45 checked bag fee when checking one case of wine from select California airports.",
-      "date": "2026-10-05T17:00:38.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/delta-wine-flies-free/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-4-15cxupo",
-      "headline": "Amazon, Target and Walmart all have big October sales, but which one is the best?",
-      "summary": "Amazon, Target and Walmart all have major sales this October. Here's how they compare and how to find the best deals.",
-      "date": "2026-10-05T16:55:47.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/deals/october-sales-amazon-target-walmart/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-29-1u8v4l7",
-      "headline": "Airlines seek faster release of govt-backed credit amid liquidity strain",
-      "summary": "The Federation of Indian Airlines has urged the ministry to provide “appropriate guidance and reassurance” to participating banks so that the remaining sanctioned amounts can be released, beginning with the first tranche under ECLGS 5.0.",
-      "date": "2026-10-05T16:49:17.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/airlines-seek-faster-release-of-govt-backed-credit-amid-liquidity-strain-11791209419083.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-30-1fjrfmo",
-      "headline": "Airlines urge govt to unlock delayed ECLGS funds",
-      "summary": "Airlines urge faster ECLGS 5.0 disbursement as lenders delay funds amid liquidity strains and geopolitical pressures.",
-      "date": "2026-10-05T16:21:38.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/airlines-urge-govt-to-unlock-delayed-eclgs-funds/article71547925.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
       ]
     }
   ]
