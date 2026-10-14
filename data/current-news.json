@@ -1,9 +1,414 @@
 {
-  "refreshedAt": "2026-10-13T09:29:07.807Z",
+  "refreshedAt": "2026-10-14T07:42:12.268Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-sbqyww",
+      "id": "newsapi-india-0-0-18zcr6q",
+      "headline": "Adani Airports seeks IFSCA nod for Gift City Treasury Centre; 2nd Adani entity to tap IFSC",
+      "summary": "Adani Airports seeks IFSCA nod to establish a Global Treasury Centre in GIFT City, joining Sun Pharma and others in centralized group treasury operations.",
+      "date": "2026-10-13T07:20:48.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/adani-airports-seeks-ifsca-nod-for-gift-city-treasury-centre-2nd-adani-entity-to-tap-ifsc/article71574953.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-0-1mi5wyy",
+      "headline": "Tata Sons chair defends nation-building bets over short-term returns",
+      "summary": "The Tata Group will keep building what India and the world need, including semiconductor chips, even if these projects are slow to deliver, Chairman N. Chandrasekaran says.",
+      "date": "2026-10-13T07:12:44.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/tata-sons-chair-defends-nation-building-bets-over-short-term-returns-11791874861515.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-a4bo7u",
+      "headline": "Gold, silver prices today, 13 October: Rates flat as investors await US inflation data for Fed rate clues",
+      "summary": "Gold and silver prices today, 13 October: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+      "date": "2026-10-13T06:35:54.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-13-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11791854359608.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-tueq9d",
+      "headline": "HC rejects SpiceJet’s plea for more time to deposit ₹144.5 cr in Maran dispute",
+      "summary": "The Delhi high court also rejected SpiceJet’s proposal to furnish documents of a Gurugram property as security.",
+      "date": "2026-10-13T06:10:31.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/spicejet-plea-in-high-court-aviation-industry-india-kalanithi-maran-kal-airways-11791869361384.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-6etf05",
+      "headline": "Nifty gaps up 170 points on IT rally; KOSPI crashes 6.5%, inflation bites",
+      "summary": "Sensex opened at 71,951.73 and rose to 72,482.30 up 557.62 pts; Nifty 50 opened at 22,364.15 and climbed to 22,533.80 up 170.45 pts as of 9:43 am",
+      "date": "2026-10-13T04:28:52.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/nifty-gaps-up-170-points-on-it-rally-kospi-crashes-65-inflation-bites/article71577922.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-1nsuncn",
+      "headline": "TN CM to meet Andhra Pradesh counterpart to seek Krishna water",
+      "summary": "The bilateral discussions will focus on inter-state water management, specifically expediting the release of Krishna River water to Chennai under the Telugu Ganga Project and discussing the controversial Godavari–Krishna–Cauvery river-linking initiative",
+      "date": "2026-10-13T04:21:28.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/tn-cm-to-meet-andhra-pradesh-counterpart-to-seek-krishna-water/article71577858.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-11f2cja",
+      "headline": "Delhi traffic alert: 22 junctions may see diversions amid anti-CEC protests",
+      "summary": "Delhi traffic advisory today: In its advisory, the Delhi Traffic Police said that traffic movement could be affected during the day due to the prevailing law-and-order situation.",
+      "date": "2026-10-13T03:23:16.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/delhi-traffic-alert-22-junctions-may-see-diversions-amid-anti-cec-protests-126101300117_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-wrpvw7",
+      "headline": "Gold eases on firm dollar; spotlight on US inflation data",
+      "summary": "Gold dips as dollar holds firm ahead of US inflation data, with CPI due and rate-path expectations shaping prices.",
+      "date": "2026-10-13T02:45:46.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/gold/gold-eases-on-firm-dollar-spotlight-on-us-inflation-data/article71577810.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-154yh5f",
+      "headline": "Oil dips as Russia diesel supply prospects counter Gulf supply risks",
+      "summary": "Brent crude futures fell 61 cents, or 0.57%, to $106.04 a barrel by 0000 ‌GMT while US West Texas Intermediate crude futures were down 47 cents, or 0.5%, at $93.27 a barrel",
+      "date": "2026-10-13T02:31:44.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/commodities/oil-dips-as-russia-diesel-supply-prospects-counter-gulf-supply-risks-126101300065_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-16upwc6",
+      "headline": "Marriott Bonvoy will now let you see where you stand in line for a hotel upgrade",
+      "summary": "Marriott has developed a new feature for its app that will allow eligible members to see their position in the upgrade queue before arriving to a hotel. Here's what we know.",
+      "date": "2026-10-12T20:20:50.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/hotel/marriott-bonvoy-complimentary-upgrade-list-new-lounge-experience/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-zbdnvs",
+      "headline": "Delta delays launch of Saudi Arabia flights until early 2027",
+      "summary": "Delta Air Lines has pushed back its nonstop service to Saudi Arabia until March 2027 following attacks at the airport in Riyadh.",
+      "date": "2026-10-12T18:05:06.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/delta-delays-launch-riyadh-saudi-arabia-flights/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-p831cc",
+      "headline": "Akasa Air overtakes SpiceJet, but can it survive India's aviation duopoly?",
+      "summary": "Akasa Air has pushed out SpiceJet to tack on to India's aviation duopoly as a distant third",
+      "date": "2026-10-12T17:02:27.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/akasa-air-overtakes-spicejet-but-can-it-survive-india-s-aviation-duopoly-126101201375_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-12fpu7z",
+      "headline": "San Francisco airport flyers can soon clear security in wine country",
+      "summary": "Airport transportation provider Landline will make its California debut between San Francisco and wine country in November.",
+      "date": "2026-10-12T16:30:00.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/news/san-francisco-airport-sfo-landline-connections-santa-rosa-sonoma/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-3-wpx85x",
+      "headline": "Complete guide to earning and redeeming Avianca Lifemiles",
+      "summary": "Check out our complete guide to Avianca Lifemiles to find out how you can earn and redeem your miles for award travel.",
+      "date": "2026-10-12T16:00:30.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/loyalty-programs/everything-you-need-to-know-avianca-lifemiles/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-u1cmaw",
+      "headline": "GE Aerospace to nearly double India sourcing spend by 2030",
+      "summary": "GE Aerospace aims to nearly double India-sourced spend by 2030, fueling local manufacturing, ecosystem growth, and rising engine demand.",
+      "date": "2026-10-12T14:52:06.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/ge-aerospace-to-nearly-double-india-sourcing-spend-by-2030/article71575417.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-cssvqx",
+      "headline": "Two-thirds of India's airports have 'very low' utilisation: Air India CCTO",
+      "summary": "Air India CCTO Nipun Aggarwal says 120 of India's 160 airports remain underutilised, calling for stronger regional connectivity, smaller aircraft and more affordable air travel",
+      "date": "2026-10-12T13:57:24.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/two-thirds-of-india-s-airports-have-very-low-utilisation-air-india-ccto-126101201072_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "fleet",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-1kiy31h",
+      "headline": "Air India Express sees scope for smaller aircraft to connect tier-3 cities",
+      "summary": "Air India Express plans smaller aircraft and tier-3 city expansion to boost regional connectivity amid underutilized airports and growing domestic demand.",
+      "date": "2026-10-12T13:54:28.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/air-india-express-sees-scope-for-smaller-aircraft-to-connect-tier-3-cities/article71575370.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "fleet",
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-1pj01nu",
+      "headline": "India-UK JETCO meet focuses on FTA gains as British firms announce £1 billion new deals",
+      "summary": "Union Minister Piyush Goyal and UK Secretary of State for Business & Trade Jonathan Reynolds co-chaired the Joint Economic and Trade Committee meeting (JETCO) on Monday, the first after the implementation of the India-UK Free Trade Agreement, amid announcemen…",
+      "date": "2026-10-12T13:24:53.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/india-uk-jetco-meet-focuses-on-fta-gains-as-british-firms-announce-1-billion-new-deals/article71575239.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-4-1f04f16",
+      "headline": "Capital One Spark Cash Plus vs. Chase Ink Business Cash: Which fits your business?",
+      "summary": "The Spark Cash Plus rewards high business spending, while the Ink Business Cash offers up to 5% back with no annual fee. See which fits you.",
+      "date": "2026-10-12T13:00:57.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/credit-cards/capital-one-spark-cash-plus-vs-chase-ink-business-cash/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-2-51uy2w",
+      "headline": "Airspace curbs impact on Air India worse than last year: Report",
+      "summary": "Air India faces longer flight routes, higher fuel costs and additional expenses as airspace restrictions linked to the Middle East conflict worsen the impact of Pakistan's airspace closure.",
+      "date": "2026-10-12T12:42:51.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/airspace-curbs-impact-on-air-india-worse-than-last-year-report-126101200911_1.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-12l535q",
+      "headline": "Sensex today | Stock Market Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points",
+      "summary": "Sensex, Nifty, Share Prices Highlights: Benchmark stock index Sensex dropped by nearly 548 points on Monday as a fresh spike in crude oil prices, unabated foreign fund outflows and rising bond yields dented investors' sentiment.",
+      "date": "2026-10-12T10:45:20.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12-october-2026/article71571162.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-gxxcqq",
+      "headline": "GE Aerospace to boost India supply chain spending to $400 million by 2030",
+      "summary": "GE Aerospace to nearly double India supply chain spend to $400 million by 2030, boosting local sourcing, manufacturing, and tech capabilities.",
+      "date": "2026-10-12T10:44:05.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/ge-aerospace-to-boost-india-supply-chain-spending-to-400-million-by-2030/article71574446.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-5uqrdl",
+      "headline": "Traffic diversions likely at major junctions across Delhi amid protests",
+      "summary": "Traffic movement is likely to be affected at several locations across Delhi on Monday amid ongoing protests in the national capital, with the Delhi Traffic Police warning of possible restrictions and diversions at major junctions and roads. Opposition parties…",
+      "date": "2026-10-12T10:06:13.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/traffic-diversions-likely-at-major-junctions-across-delhi-amid-protests-126101200448_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-i92v6x",
+      "headline": "GMR Hyderabad Airport launches real-time lost & found tracking platform",
+      "summary": "The digital platform simplifies the process of reporting, tracking and recovering lost belongings. It brings lost-item reporting, request tracking and passenger communication onto a single platform.",
+      "date": "2026-10-12T09:45:13.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/gmr-hyderabad-airport-launches-real-time-lost-found-tracking-platform/article71574347.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-12pt82y",
+      "headline": "Lucknow to get airport-like bus terminal with ₹265 crore investment",
+      "summary": "The Uttar Pradesh government has decided to develop an integrated city bus terminal and commercial facilities at the P-4 parking area in Lucknow's Vrindavan Yojana under the PPP model",
+      "date": "2026-10-12T09:33:04.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/lucknow-to-get-airport-like-bus-terminal-with-265-crore-investment-126101200535_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-sbqyww",
       "headline": "Reliance Industries hits 18-month low; stock down 28% from January low",
       "summary": "The stock price of RIL is quoting lower for the fourth straight trading day today. The counter has declined 5 per cent during the period.",
       "date": "2026-10-12T08:05:40.000Z",
@@ -19,7 +424,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-12ts4c4",
+      "id": "newsapi-india-0-20-12ts4c4",
       "headline": "Why Value Matters More Than Price in Today's Jewellery Purchases",
       "summary": "Buying jewellery is a little like booking a flight. . Faced with two tickets, most of us don't simply pick the cheaper one. We look at the departure time, baggage allowance, airline, service and conve",
       "date": "2026-10-12T06:50:30.000Z",
@@ -35,7 +440,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-1phuusj",
+      "id": "newsapi-india-0-21-1phuusj",
       "headline": "Modi govt waging war against citizens to protect CEC: Abhijeet Dipke",
       "summary": "Cockroach Janta Party convenor Abhijeet Dipke on Monday accused the Narendra Modi government of waging a war against citizens to protect Chief Election Commissioner Gyanesh Kumar amid growing demands for his resignation. The activist reached his native villag…",
       "date": "2026-10-12T05:47:05.000Z",
@@ -51,7 +456,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-kaq0bf",
+      "id": "newsapi-india-0-22-kaq0bf",
       "headline": "Crude oil futures fall as Trump proposes Russia-Ukraine ‘energy ceasefire’",
       "summary": "At 9.35 am on Monday, December Brent oil futures were at $103.32, down by 1.34%, and November crude oil futures on WTI (West Texas Intermediate) were at $90.30, down by 1.69%",
       "date": "2026-10-12T04:20:50.000Z",
@@ -67,7 +472,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-1eq2t0m",
+      "id": "newsapi-india-0-23-1eq2t0m",
       "headline": "Heavy rain, thunderstorms lash Delhi; IMD issues 'red' alert",
       "summary": "Delhi reels under heavy rain and thunderstorms as IMD issues a red alert for gusty winds, lightning, and torrential rain through 9 am.",
       "date": "2026-10-12T04:15:14.000Z",
@@ -83,7 +488,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-1739rxx",
+      "id": "newsapi-india-0-24-1739rxx",
       "headline": "Gold, silver prices today, 12 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
       "summary": "Gold and silver prices today, 12 October: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
       "date": "2026-10-12T04:01:43.000Z",
@@ -99,7 +504,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-1plr5mt",
+      "id": "newsapi-india-0-25-1plr5mt",
       "headline": "North Korea fires multiple ballistic missiles after Seoul's hypersonic test",
       "summary": "North Korea on Monday fired multiple ballistic missiles toward its eastern waters, South Korea's military said, adding to a recent streak of weapons demonstrations that has heightened tensions during a prolonged freeze in diplomacy. South Korea's Joint Chiefs…",
       "date": "2026-10-12T04:01:02.000Z",
@@ -115,7 +520,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1hkbaw4",
+      "id": "newsapi-india-0-26-1hkbaw4",
       "headline": "World leaders, governments condemn attack on Riyadh airport that killed at least 13",
       "summary": "Global leaders condemn Riyadh airport attack; US weighing involvement as Yemen conflict escalates and international calls for restraint grow.",
       "date": "2026-10-12T03:24:58.000Z",
@@ -131,7 +536,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1td2e5u",
+      "id": "newsapi-india-0-27-1td2e5u",
       "headline": "Saudi Arabia has few options as Houthis aim at heart of its ambitions",
       "summary": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom",
       "date": "2026-10-12T03:13:40.000Z",
@@ -147,7 +552,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-1kcprv",
+      "id": "newsapi-india-0-28-1kcprv",
       "headline": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
       "summary": "Brent crude futures fell $1.54, or 1.47%, to $103.18 a barrel by 0154 GMT ​while US West Texas Intermediate crude was at $90.31 a barrel, down $1.54, or 1.68%",
       "date": "2026-10-12T03:01:58.000Z",
@@ -163,7 +568,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-1panw7v",
+      "id": "newsapi-india-0-29-1panw7v",
       "headline": "Air India offers students 10% off domestic fares until Oct 20: How to save",
       "summary": "Students can save on domestic base fares, with additional baggage allowance and a complimentary date change available through Air India's year-round student programme",
       "date": "2026-10-12T02:42:07.000Z",
@@ -177,409 +582,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-ya730r",
-      "headline": "Saudi's Dammam airport targeted in Houthi attack after strike on Riyadh",
-      "summary": "Saudi authorities said Sunday that King Fahd International Airport in Dammam has been attacked, with few details. The city is on the Persian Gulf near Bahrain and Qatar. The statement came hours after authorities said the international airport in the capital,…",
-      "date": "2026-10-12T02:30:10.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/saudi-s-dammam-airport-targeted-in-houthi-attack-after-strike-on-riyadh-126101200008_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-8u6wla",
-      "headline": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-      "summary": "Saudi authorities report injuries in the latest attack on King Khalid International Airport, affecting terminals 3 and 4 for domestic flights",
-      "date": "2026-10-12T02:25:29.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/world/passenger-terminal-at-riyadh-airport-is-struck-again-a-day-after-12-were-killed/article71573608.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-iyuhc5",
-      "headline": "Riyadh airport passenger terminal hit again a day after strike killed 12",
-      "summary": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, the Saudi-led coalition fighting Iran-backed Houthi rebels in Yemen said. The Houthis claimed responsi…",
-      "date": "2026-10-12T02:25:23.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/riyadh-airport-passenger-terminal-hit-again-a-day-after-strike-killed-12-126101200010_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-19slod0",
-      "headline": "October 12: Two dozen stocks, including Lenskart, Everyday Ind, SJS, Authum, Chemplast, Bajel Projects will remain in focus",
-      "summary": "Market buzz highlights varied sector bets, stake sales, new ventures, and major contracts across consumer tech, energy, infrastructure, and manufacturing.",
-      "date": "2026-10-12T01:45:25.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/october-12-two-dozen-stocks-including-lenskart-everyday-ind-sjs-authum-chemplast-bajel-projects-will-remain-in-focus/article71573595.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-ap2m62",
-      "headline": "Encalm looks beyond airport lounges to build ₹5,000 crore hospitality business",
-      "summary": "Airport hospitality currently generates about 90% of Encalm’s revenue, but the company is pursuing hotels in Delhi and Chennai, highway motels and growth in catering and restaurants. The expansion also marks an attempt to reduce its dependence on airports ope…",
-      "date": "2026-10-12T00:30:14.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/encalm-looks-beyond-airport-lounges-to-build-5-000-crore-hospitality-business-11791693514617.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "business"
-      ]
-    },
-    {
-      "id": "easa-0-ftxd6u",
-      "headline": "Updated Guidance for Organisations Using the EASA Organisation Approval Tool",
-      "summary": "Accessing guidance for the EASA Organisation Approval Tool is now easier for organisations. The training videos previously hosted on YouTube have been replaced by PDF user manuals for organisations, which are available directly on the EASA Organisation Approval Tool page on the EASA website. This update provides organisations worldwide with a central…",
-      "date": "2026-10-11T21:00:00.000Z",
-      "source": "EASA",
-      "sourceUrl": "https://www.easa.europa.eu/newsroom-and-events/news/updated-guidance-organisations-using-easa-organisation-approval-tool",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-n2xt",
-      "headline": "Delhi Traffic Police issues advisory, warns of disruptions on October 12",
-      "summary": "According to the advisory, traffic diversions will be enforced from 6 am, depending on the situation on the ground",
-      "date": "2026-10-11T18:14:31.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/delhi-traffic-police-issues-advisory-warns-of-disruptions-on-october-12-126101100863_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-1ffvnxm",
-      "headline": "CJP hardens stand on SIR issue; INDIA bloc to meet CJI, hold protest march",
-      "summary": "Opposition parties plan a march and memorandum to the CJI amid police crackdowns and 20 FIRs over SIR and CEC Gyanesh Kumar protests.",
-      "date": "2026-10-11T15:18:08.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/cjp-hardens-stand-on-sir-issue-india-bloc-to-meet-cji-hold-protest-march/article71572131.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-4mml94",
-      "headline": "Centre considers funding, tax support for early SAF deployment",
-      "summary": "Centre explores funding, tax relief, and policy incentives to fast-track early SAF deployment, including VGF, concessional finance, and feedstock support.",
-      "date": "2026-10-11T13:50:01.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/centre-considers-funding-tax-support-for-early-saf-deployment/article71571707.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation",
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1b95s16",
-      "headline": "Malaysian Airlines open to partnership with India, seeks to expand network, says CEO",
-      "summary": "The South-east Asian carrier, which flies to and from 10 destinations in India, also said that it aspires to expand its network here but bilateral traffic rights restrict it from doing so.",
-      "date": "2026-10-11T12:17:56.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/malaysian-airlines-open-to-partnership-with-india-seeks-to-expand-network-says-ceo/article71571363.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-13lgxs6",
-      "headline": "Etihad Airways commercial chief Arik De exits after five-year stint, leaves key post vacant",
-      "summary": "Reflecting on his time at the airline, Arik De highlighted the scale of Etihad’s financial transformation and the growth in its revenue during his tenure.",
-      "date": "2026-10-11T11:07:30.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/etihad-airways-commercial-chief-arik-de-exits-after-five-year-stint-leaves-key-post-vacant-11791715340843.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-e2m1ca",
-      "headline": "Crude oil futures brace for volatility amid geopolitical uncertainties",
-      "summary": "Crude oil futures are likely to remain volatile next week as uncertainty over US-Iran negotiations and escalating tensions in West Asia keep supply risks elevated, even as hopes of a deal to reopen the Strait of Hormuz offer scope for a correction, analysts s…",
-      "date": "2026-10-11T09:48:54.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-126101100308_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-nffpwn",
-      "headline": "Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts",
-      "summary": "Crude oil markets face volatility amid US-Iran tensions and Gulf disruption, with potential relief from Hormuz talks and mixed supply signals.",
-      "date": "2026-10-11T09:34:40.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-analysts/article71571069.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-9q24xf",
-      "headline": "PM Modi holds roadshow in Chennai, to launch projects worth ₹13,000 crore",
-      "summary": "Prime Minister Narendra Modi arrived here on Sunday to lay the foundation stone for projects and also dedicate projects worth over Rs 13,000 crore. Upon his arrival at the airport by 11 am, Chief Minister C Joseph Vijay accorded him a warm welcome. PM Modi br…",
-      "date": "2026-10-11T06:56:06.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/pm-modi-holds-roadshow-in-chennai-to-launch-projects-worth-13-000-crore-126101100173_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-24xke0",
-      "headline": "CJP leaders released by magistrate, told to maintain peace for one year",
-      "summary": "Cockroach Janta Party (CJP) leaders Abhijeet Dipke, Ashutosh Ranka and Saurav Das were under preventive arrest following their detention at the Delhi airport ahead of the Jantar Mantar protest, but were later released after being produced before the executive…",
-      "date": "2026-10-11T05:40:45.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/cjp-leaders-released-by-magistrate-told-to-maintain-peace-for-one-year-126101100154_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-14z0g6w",
-      "headline": "India condemns attack on Saudi airport that killed 12, injured over 300",
-      "summary": "India on Sunday strongly condemned a major attack on Saudi Arabia's international airport in Riyadh that killed 12 people and injured over 300. New Delhi said the repeated attacks on civilians and civilian infrastructure in the Gulf nation are \"completely una…",
-      "date": "2026-10-11T05:12:17.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/india-condemns-attack-on-saudi-airport-that-killed-12-injured-over-300-126101100134_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-17u8t54",
-      "headline": "YouTuber Dhruv Rathee released from police custody after detention",
-      "summary": "YouTuber Dhruv Rathee, who was detained by Delhi Police ahead of the Cockroach Janta Party's (CJP) protest at Jantar Mantar, was released late on Saturday night, an official said on Sunday. \"He can be detained again, or further legal action might be taken if …",
-      "date": "2026-10-11T04:17:04.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/youtuber-dhruv-rathee-released-from-police-custody-after-detention-126101100100_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-28-jzhmc1",
-      "headline": "Stringent traffic curbs in Delhi as CJP protest enters second day",
-      "summary": "The restrictions come amid a security clampdown following a call for protest by CJP and prominent student organisations demanding the removal of CEC Gyanesh Kumar",
-      "date": "2026-10-11T04:06:37.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/stringent-traffic-curbs-in-delhi-as-cjp-protest-enters-second-day/article71570616.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-29-1ozhchr",
-      "headline": "Stringent traffic restrictions in Delhi as CJP protest enters second day",
-      "summary": "According to a Delhi Traffic Police advisory, diversions were enforced from 6 am, with traffic movement to be affected around Jantar Mantar, Connaught Place, Mandi House, Patel Chowk and several other",
-      "date": "2026-10-11T03:54:39.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/stringent-traffic-restrictions-in-delhi-as-cjp-protest-enters-second-day-126101100079_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-30-e7zlwz",
-      "headline": "Hurricane Isaias kills 4 in US, about 670,000 without power after landfall",
-      "summary": "About 420,000 customers in Florida, 190,000 in Alabama, 43,000 in Georgia and 17,000 in Mississippi had no power as of midday Saturday",
-      "date": "2026-10-11T02:59:21.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/hurricane-isaias-kills-4-in-us-about-670-000-without-power-after-landfall-126101100060_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-31-3ynqqg",
-      "headline": "12 killed, over 300 injured in latest attack on Saudi's Riyadh airport",
-      "summary": "The latest attack on the international airport in Saudi Arabia's capital of Riyadh killed 12 people and injured over 300 others, civil aviation authorities said early Sunday, with some in critical condition. A Saudi-led coalition blamed Iran-backed Houthi reb…",
-      "date": "2026-10-11T01:40:11.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/12-killed-over-300-injured-in-latest-attack-on-saudi-s-riyadh-airport-126101100047_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-32-t90cpl",
-      "headline": "Delhi traffic curbs to continue Sunday, diversions likely at 30 key points",
-      "summary": "The restrictions come after CJP and prominent student organisations, including the Students' Federation of India (SFI), announced that protests would continue until their demands were met",
-      "date": "2026-10-10T18:24:03.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/delhi-traffic-curbs-to-continue-sunday-diversions-likely-at-30-key-points-126101000989_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-33-bhfct",
-      "headline": "Riyadh airport attacked again as missile strike wounds passengers, flights diverted",
-      "summary": "Riyadh airport was evacuated after a missile strike wounded people, prompting flight diversions and cancellations as Saudi Arabia faces escalating attacks.",
-      "date": "2026-10-10T17:41:22.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/world/riyadh-airport-attacked-again-as-missile-strike-wounds-passengers-flights-diverted/article71569419.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-34-19izkwl",
-      "headline": "CJP vows to continue protests, calls fresh Jantar Mantar march on Sunday",
-      "summary": "The Cockroach Janta Party (CJP) on Saturday vowed to continue protests against alleged electoral roll irregularities until Chief Election Commissioner Gyanesh Kumar resigns, announcing another demonstration at Jantar Mantar at 10 am on Sunday, even as the Del…",
-      "date": "2026-10-10T17:40:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/cjp-vows-to-continue-protests-calls-fresh-jantar-mantar-march-on-sunday-126101000979_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-35-1r4jule",
-      "headline": "US 'may' join Saudi strikes on Houthis after Riyadh airport attack: Trump",
-      "summary": "President Donald Trump on Saturday said he is evaluating whether the US should join Saudi strikes on the Houthis. \"We may. We're going to look at it,\" he told reporters here. \"We just found out about the recent attack. So we'll make a decision. We move very q…",
-      "date": "2026-10-10T17:35:16.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/us-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attack-trump-126101000984_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
       ]
     }
   ]
