@@ -1,9 +1,186 @@
 {
-  "refreshedAt": "2026-10-22T07:39:19.925Z",
+  "refreshedAt": "2026-10-23T07:36:32.443Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "faa-0-1t7d9jc",
+      "id": "faa-0-ssr3fw",
+      "headline": "FAA Releases Draft Design Standards for Vertical Flight Facilities",
+      "summary": "FAA Releases Draft Design Standards for Vertical Flight Facilities jennifer_rossi Thu, 10/22/2026 - 07:04 WASHINGTON — As part of its ongoing work to safely and efficiently integrate Advanced Air Mobility (AAM) aircraft, the Federal Aviation Administration (FAA) today released updated draft design standards for vertical lift infrastructure supporting…",
+      "date": "2026-10-22T11:04:27.000Z",
+      "source": "FAA",
+      "sourceUrl": "https://www.faa.gov/newsroom/faa-releases-draft-design-standards-vertical-flight-facilities",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "fleet",
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-1rwwmgq",
+      "headline": "Indian injured in drone attack targeting Shaybah oilfield in Saudi Arabia",
+      "summary": "An Indian national was injured in a drone attack at Shaybah oilfield in Saudi Arabia, officials said, amid an escalation in strikes by Yemen's Iran-backed Houthi rebels on key infrastructure in the kingdom.",
+      "date": "2026-10-22T07:16:34.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/indian-injured-in-drone-attack-targeting-shaybah-oilfield-in-saudi-arabia/article71610540.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-1m8rdcn",
+      "headline": "India’s luxury watch boom is ticking. Franck Muller wants a bigger share",
+      "summary": "India is emerging as a bright spot for Swiss watchmakers amid uneven global demand. Franck Muller sees the market closing the gap with Singapore and the UAE, and is exploring airport retail, celebrity partnerships and branded residences, though demand for wat…",
+      "date": "2026-10-22T05:04:54.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/franck-muller-india-luxury-watch-market-growth-11792604599452.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-11g9w6s",
+      "headline": "Crude oil futures rise as Houthis intensify attacks on Saudi Arabia",
+      "summary": "December Brent oil futures were at $110.69, up by 1.72%, and December crude oil futures on WTI (West Texas Intermediate) were at $98.52, up by 1.41%",
+      "date": "2026-10-22T04:07:30.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-houthis-intensify-attacks-on-saudi-arabia/article71610032.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-n1cs2c",
+      "headline": "Poland PM begins three-day India visit, to hold talks with Modi today",
+      "summary": "Poland's PM Donald Tusk begins a three-day India visit to strengthen the India-Poland Strategic Partnership, meeting Modi and officials.",
+      "date": "2026-10-22T03:54:33.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/poland-pm-begins-three-day-india-visit-to-hold-talks-with-modi-today/article71609930.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-6qr1vw",
+      "headline": "Credit card for family travellers: 12 free lounge visits, up to 5% rewards",
+      "summary": "AU Small Finance Bank and Paytm partner to launch India's first Family Lounge Access RuPay Credit Card",
+      "date": "2026-10-22T03:21:46.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/finance/personal-finance/credit-card-for-family-travellers-12-free-lounge-visits-up-to-5-rewards-126102200131_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-qh5c6k",
+      "headline": "One killed, 8 injured in attack on Saudi Arabia's King Fahd airport",
+      "summary": "One Saudi resident was killed in an attack on King Fahd International airport in Dammam in eastern Saudi Arabia on the Persian Gulf near Bahrain and Qatar, the Saudi Civil Aviation Authority announced early on Thursday. The Civil Aviation authority also said …",
+      "date": "2026-10-22T02:39:02.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/one-killed-8-injured-in-attack-on-saudi-arabia-s-king-fahd-airport-126102200050_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-sw5irj",
+      "headline": "Oil prices rise as Houthi attacks in Saudi Arabia fuel supply concerns",
+      "summary": "Brent crude rose 1.2% to $110.11 a barrel and US WTI gained 1% to $98.12 after Houthi attacks in Saudi Arabia killed three people and prompted Washington to order some diplomats' families to leave",
+      "date": "2026-10-22T02:24:43.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-houthi-attacks-in-saudi-arabia-fuel-supply-concerns-126102200066_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-0-1ui11po",
+      "headline": "Palatial but personalized in Perth: A review of Como The Treasury",
+      "summary": "Como The Treasury in Perth is one of Australia's most outstanding luxury hotels housed in a complex of heritage buildings with fabulous restaurants and an unmissable spa..",
+      "date": "2026-10-21T18:30:06.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/hotel/reviews/como-the-treasury-perth/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-1-52n2ok",
+      "headline": "Why transferable rewards are worth more than airline miles and hotel points",
+      "summary": "Why are transferable rewards worth more than airline miles and hotel points? Learn how flexibility, transfer partners and bonuses boost their value.",
+      "date": "2026-10-21T16:00:29.000Z",
+      "source": "The Points Guy",
+      "sourceUrl": "https://thepointsguy.com/loyalty-programs/why-transferable-points-worth-more/",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-ddzyf1",
+      "headline": "Rajnath Singh to unveil Land Warfare Doctrine at Army Commanders meet",
+      "summary": "The three-day Army Commanders' Conference began here on Wednesday, during which Defence Minister Rajnath Singh will release the 'Land Warfare Doctrine' -- a vision document providing an overarching framework to prepare the force for challenges posed by the ev…",
+      "date": "2026-10-21T15:31:34.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/rajnath-singh-to-unveil-land-warfare-doctrine-at-army-commanders-meet-126102100785_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "faa-1-1t7d9jc",
       "headline": "Trump’s Transportation Secretary Sean P. Duffy Announces First-Ever Special Airworthiness Market Survey Certificate for eVTOL Aircraft",
       "summary": "Trump’s Transportation Secretary Sean P. Duffy Announces First-Ever Special Airworthiness Market Survey Certificate for eVTOL Aircraft beth_krappweis Wed, 10/21/2026 - 09:49 LAS VEGAS, NV – U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) has issued a first-of-its-kind Special Airworthiness Market…",
       "date": "2026-10-21T13:49:13.000Z",
@@ -20,7 +197,70 @@
       ]
     },
     {
-      "id": "newsapi-india-0-0-17a17jb",
+      "id": "newsapi-india-0-8-1g5bxai",
+      "headline": "FIA seeks extension of 7% VAT on aviation fuel in Delhi",
+      "summary": "Airlines plead to extend 7% VAT on Delhi ATF beyond November amid mounting costs, currency pressures, and West Asia crisis impacts.",
+      "date": "2026-10-21T12:23:47.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/fia-seeks-extension-of-7-vat-on-aviation-fuel-in-delhi/article71607374.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-world-0-2-1r4ebdi",
+      "headline": "SpaceX, Tesla boards study possible $3.5 trillion merger",
+      "summary": "SpaceX and Tesla boards form independent committees to explore a potential $3.5 trillion merger, a blockbuster spanning AI, rockets, and EVs.",
+      "date": "2026-10-21T11:29:49.000Z",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-20/spacex-profit-beats-estimates-on-big-jump-in-ai-business-revenue",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-ptbrsh",
+      "headline": "Marco Rubio meets Adani, Tata chiefs before visiting Reliance’s Jamnagar refinery",
+      "summary": "The visit highlights potential India-US cooperation in energy security, manufacturing and technology, including discussions on Reliance’s refining of Venezuelan crude",
+      "date": "2026-10-21T09:15:51.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/marco-rubio-meets-adani-tata-chiefs-before-visiting-reliances-jamnagar-refinery/article71606910.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1fpzsb9",
+      "headline": "Rubio meets Adani, Tata Sons chiefs ahead of Reliance Jamnagar visit",
+      "summary": "US Secretary of State Marco Rubio met Adani Group chairman Gautam Adani and Tata Sons chairman N Chandrasekaran in Mumbai on Wednesday morning before heading to Jamnagar in Gujarat to visit Reliance Industries' giant oil-refining complex, the world's largest …",
+      "date": "2026-10-21T09:14:50.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/rubio-meets-adani-tata-sons-chiefs-ahead-of-reliance-jamnagar-visit-126102100606_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-17a17jb",
       "headline": "Top Business & Market Headlines Today — BL Morning Report, October 21, 2026",
       "summary": "BL Morning Report, October 21, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.",
       "date": "2026-10-21T04:11:02.000Z",
@@ -36,7 +276,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1mjxcur",
+      "id": "newsapi-india-0-12-1mjxcur",
       "headline": "Boeing 737 Max 10 wins FAA approval after years of delays, challenging Airbus A321neo",
       "summary": "Boeing Co. won US regulator approval for its 737 Max 10 jet, capping off a lengthy certification saga for the planemaker’s family of narrowbody aircraft that was disrupted by two fatal crashes and a series of quality lapses.",
       "date": "2026-10-21T03:16:44.000Z",
@@ -53,7 +293,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-1srchy3",
+      "id": "newsapi-india-0-13-1srchy3",
       "headline": "UK expands military support for Saudi Arabia with defensive air patrols",
       "summary": "Britain will deploy RAF Typhoon jets for defensive patrols over Saudi Arabia to counter Houthi missile and drone attacks, while ruling out strikes on rebel targets in Yemen",
       "date": "2026-10-20T16:51:25.000Z",
@@ -69,7 +309,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-1kqya0a",
+      "id": "newsapi-india-0-14-1kqya0a",
       "headline": "Airport baggage weight issue under govt scanner amid concerns over charges",
       "summary": "The Civil Aviation Ministry is examining complaints about airport baggage weighing discrepancies and disputed excess-baggage charges following an MP's call for a nationwide audit",
       "date": "2026-10-20T16:41:20.000Z",
@@ -85,7 +325,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-1nk9sub",
+      "id": "newsapi-india-0-15-1nk9sub",
       "headline": "Rising airfares put road trips in the fast lane",
       "summary": "Rising airfares push more travelers toward road trips, boosting bus travel and nearby destinations for domestic leisure and hospitality growth.",
       "date": "2026-10-20T16:21:23.000Z",
@@ -101,7 +341,7 @@
       ]
     },
     {
-      "id": "faa-1-1br2jip",
+      "id": "faa-2-1br2jip",
       "headline": "Federal Aviation Administration Issues Certification for Boeing 737 MAX-10",
       "summary": "Federal Aviation Administration Issues Certification for Boeing 737 MAX-10 brianne_dorsey Tue, 10/20/2026 - 11:37 The agency required MAX-10 to incorporate key improvements from the Aircraft Certification, Safety, and Accountability Act along with NTSB recommendations EVERETT, WA — The Federal Aviation Administration (FAA) today announced that following…",
       "date": "2026-10-20T15:37:40.000Z",
@@ -118,7 +358,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-1kk3x4r",
+      "id": "newsapi-india-0-16-1kk3x4r",
       "headline": "From runway to highway: Stranded Riyadh passengers take the long road home",
       "summary": "A routine four-hour journey between Riyadh and Kerala has turned into a travel ordeal lasting over 10 hours for some passengers, as they are forced to travel by road to Dammam or Bahrain to catch flights home.",
       "date": "2026-10-20T15:34:09.000Z",
@@ -135,7 +375,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-h8pymc",
+      "id": "newsapi-india-0-17-h8pymc",
       "headline": "A world of multiple crises",
       "summary": "Conflict in the Middle East is stoking protests over living costs from Paris to Portugal",
       "date": "2026-10-20T14:55:54.000Z",
@@ -151,7 +391,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1ik2s0j",
+      "id": "newsapi-india-0-18-1ik2s0j",
       "headline": "We want to be a global technology provider, moving beyond equipment vendor role: Akash Ambani",
       "summary": "Jio Platforms, Managing Director, Akash Ambani outlines Jio’s growth strategy post-IPO, following India’s largest-ever public offering, and its plans across the telecom and satcom space.",
       "date": "2026-10-20T14:55:43.000Z",
@@ -167,7 +407,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-15or4pg",
+      "id": "newsapi-india-0-19-15or4pg",
       "headline": "New rules: Govt may cap unjustified airfares on individual routes",
       "summary": "The Centre may impose caps on unjustified airfares on individual routes in exceptional circumstances under the new airfare rules, sources told businessline.",
       "date": "2026-10-20T14:33:45.000Z",
@@ -184,7 +424,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-oef9pt",
+      "id": "newsapi-india-0-20-oef9pt",
       "headline": "More air connections between Chennai and Bangkok",
       "summary": "Thai Airways adds 4 weekly flights Chennai–Bangkok from Oct 25, 2026, boosting trips to 11 and easier access to Bangkok’s attractions.",
       "date": "2026-10-20T13:58:09.000Z",
@@ -200,7 +440,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-2afs13",
+      "id": "newsapi-india-0-21-2afs13",
       "headline": "India’s ambition to grow passenger traffic places emphasis on those managing the skies: Civil Aviation Minister",
       "summary": "As India prepares for a five-fold increase in air passenger traffic by 2047, the spotlight is on the thousands of air traffic controllers who keep the skies safe, making split-second decisions and coordinating thousands of aircraft movements every day",
       "date": "2026-10-20T12:31:22.000Z",
@@ -217,7 +457,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-11-sxijju",
+      "id": "newsapi-india-0-22-sxijju",
       "headline": "Delhi airport's passenger traffic rises to 38.5 mn in first half of FY27",
       "summary": "Delhi airport handles record 38.5 million passengers in H1 FY27 as domestic and international traffic grows",
       "date": "2026-10-20T11:39:36.000Z",
@@ -233,7 +473,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-1qrtpj5",
+      "id": "newsapi-india-0-23-1qrtpj5",
       "headline": "Delhi airport's passenger traffic rises to 38.5 million in first half of FY27",
       "summary": "At Delhi airport, average monthly traffic was about 6.5 million, with the highest-ever H1 passenger total in the first six months of this fiscal year",
       "date": "2026-10-20T11:17:38.000Z",
@@ -249,7 +489,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-0-kj556v",
+      "id": "newsapi-world-0-3-kj556v",
       "headline": "Delta’s free Wi-Fi rollout reaches 95% of planes as rivals bet big on Starlink",
       "summary": "Delta Air Lines has nearly completed its free Wi-Fi rollout as rivals pounce on its decision not to outfit its planes with Starlink.",
       "date": "2026-10-20T11:00:22.000Z",
@@ -264,7 +504,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-185wpe",
+      "id": "newsapi-india-0-24-185wpe",
       "headline": "Winter schedule: Lucknow airport expands operations to 134 flights, restarts Bangkok service",
       "summary": "Lucknow airport expands to 134 daily flights in winter, resumes Bangkok service, boosting connectivity to 20 domestic and 10 international destinations.",
       "date": "2026-10-20T09:22:50.000Z",
@@ -281,7 +521,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-14-d496jz",
+      "id": "newsapi-india-0-25-d496jz",
       "headline": "Axis Bank, Visa offer up to 20% off on festive purchases across 100+ brands",
       "summary": "Eligible Axis Bank Visa credit cardholders can access 100+ festive offers across electronics, travel, mobiles and lifestyle, with discounts and EMI benefits",
       "date": "2026-10-20T09:07:10.000Z",
@@ -297,7 +537,7 @@
       ]
     },
     {
-      "id": "newsapi-world-0-1-79uegb",
+      "id": "newsapi-world-0-4-79uegb",
       "headline": "Ryanair predicts biggest jump in air fares in history next year",
       "summary": "Ryanair predicts Europe’s airfares could rise up to 20% next year due to higher oil costs and limited hedging.",
       "date": "2026-10-20T08:40:51.000Z",
@@ -312,7 +552,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-15-1pc4xwy",
+      "id": "newsapi-india-0-26-1pc4xwy",
       "headline": "Snowy Alps, lakeside Airbnbs and road trips: an 8-day Swiss holiday for ₹1.5 lakh per person",
       "summary": "A family of five from Noida spent ₹7.84 lakh on a winter holiday in Switzerland. Affordable flights, countryside Airbnbs, a rental car and home-cooked meals helped keep costs in check.",
       "date": "2026-10-20T08:22:49.000Z",
@@ -328,7 +568,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-862h0q",
+      "id": "newsapi-india-0-27-862h0q",
       "headline": "Namo Bharat Corridor Expansion: Delhi-Panipat-Karnal and Delhi-Gurugram-Behror corridors likely to get approval soon",
       "summary": "According to the National Capital Region Transport Corporation (NCRTC), two more priority Namo Bharat corridors — Delhi-Panipat-Karnal and Delhi-Gurugram-Behror — are likely to receive the approval soon.",
       "date": "2026-10-20T06:20:11.000Z",
@@ -341,248 +581,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-ri17ru",
-      "headline": "SAFA pushes for government backed price stabilisation fund; seeks floor price for certified UCO",
-      "summary": "The Sustainable Aviation Fuel (SAF) Association has reached out to the key ministries like Environment, Petroleum & Natural Gas, and Civil Aviation to create a well-designed extended producer responsibility (EPR) framework for used cooking oil (UCO).",
-      "date": "2026-10-20T06:08:53.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/safa-pushes-for-government-backed-price-stabilisation-fund-seeks-floor-price-for-certified-uco/article71603411.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-1rceryq",
-      "headline": "Govt has no plans to regulate airfares, may cap prices during emergencies",
-      "summary": "The government has ruled out routine airfare regulation but plans stricter monitoring of airline pricing, with provisions to cap fares during exceptional circumstances",
-      "date": "2026-10-20T05:35:52.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/govt-has-no-plans-to-regulate-airfares-may-cap-prices-during-emergencies-126102000197_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-17om41k",
-      "headline": "Rubio begins India visit, to hold crucial talks with Jaishankar in Mumbai",
-      "summary": "Rubio's second India visit this year comes amid persistent friction in bilateral ties",
-      "date": "2026-10-20T04:53:36.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/rubio-begins-india-visit-to-hold-crucial-talks-with-jaishankar-in-mumbai-126102000134_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1xa7py5",
-      "headline": "EAM Jaishankar, US Secretary of State Rubio to hold crucial talks in Mumbai",
-      "summary": "US Secretary of State Rubio visits Mumbai for key India talks to boost energy, trade, defense, tech ties amid bilateral frictions.",
-      "date": "2026-10-20T04:27:47.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/eam-jaishankar-us-secretary-of-state-rubio-to-hold-crucial-talks-in-mumbai/article71603240.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-3vs8vb",
-      "headline": "Brent crude holds near five-month high on Middle East tension",
-      "summary": "Brent crude futures climbed 55 cents, or 0.50%, to $110.10 a barrel by 0319 GMT, after rising as high as $110.70 a barrel in the ‌previous session",
-      "date": "2026-10-20T04:18:32.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-holds-near-five-month-high-on-middle-east-tension/article71603236.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-1owk8gn",
-      "headline": "India, Saudi Arabia review progress on electrical interconnection project",
-      "summary": "India–Saudi electrical interconnection progress reviewed; embassy aiding Indians, travel advisories issued amid ongoing flight disruptions and safety guidance.",
-      "date": "2026-10-20T02:56:42.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/india-saudi-arabia-review-progress-on-electrical-interconnection-project/article71603105.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-1tj7id7",
-      "headline": "Saudi Arabia postpones flagship FII investment conference to 2027 amid regional conflict",
-      "summary": "Saudi Arabia postpones its flagship Future Investment Initiative conference until 2027 as regional conflict, attacks and security concerns disrupt business.",
-      "date": "2026-10-20T02:43:49.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/world/saudi-arabia-postpones-flagship-fii-investment-conference-to-2027-amid-regional-conflict/article71603112.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-1dbhvcc",
-      "headline": "Oil prices ease as Russia sanctions relief offsets Gulf supply risks",
-      "summary": "Brent crude futures fell ‌49 cents, or 0.45%, to $109.06 a barrel by 0010 GMT",
-      "date": "2026-10-20T02:19:23.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-15x1q9p",
-      "headline": "At least 53 killed after Houthi rebels strike Yemen's government forces",
-      "summary": "Iran-backed Houthi rebels struck Yemeni government forces with ballistic missiles on Monday, killing at least 53 soldiers at a military camp in one of the deadliest attacks since a resurgence in fighting this summer, Yemeni military officials said. The attack…",
-      "date": "2026-10-20T02:07:45.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/at-least-53-killed-after-houthi-rebels-strike-yemen-s-government-forces-126102000012_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-2-el6idw",
-      "headline": "What to pack in your travel first-aid kit",
-      "summary": "Prepare yourself with these packing tips.",
-      "date": "2026-10-19T20:00:48.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/travel/travel-first-aid-kit/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-1kdnsmv",
-      "headline": "Air India, IndiGo, AAIB to appear before parliamentary panel on Nov 2",
-      "summary": "Representatives of Air India, Indigo and the Aircraft Accident Investigation Bureau (AAIB) are among those who will appear before a Parliamentary panel on November 2 in connection with the review of the performance of civil aviation sector central public sect…",
-      "date": "2026-10-19T19:21:24.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-indigo-aaib-to-appear-before-parliamentary-panel-on-nov-2-126101901091_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "safety",
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-1uv1bqt",
-      "headline": "MIAL reiterates summer 2027 flight shift plan despite airlines' objections",
-      "summary": "MIAL says airlines can decide whether to move flights to Navi Mumbai or explore alternatives as Mumbai airport prepares to cut capacity by 5 million passengers from summer 2027.",
-      "date": "2026-10-19T18:17:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/mial-reiterates-summer-2027-flight-shift-plan-despite-airlines-objections-126101901143_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-world-0-3-1xkx05m",
-      "headline": "Lufthansa gives Columbus, Ohio, its first-ever nonstop route to Europe",
-      "summary": "Lufthansa will add Columbus, Ohio, to its map in 2027 with the city's first-ever transatlantic flight.",
-      "date": "2026-10-19T18:15:36.000Z",
-      "source": "The Points Guy",
-      "sourceUrl": "https://thepointsguy.com/news/columbus-ohio-first-ever-flight-europe-lufthansa/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-28-15m0hd8",
-      "headline": "Remembering guitarist Mahesh Tinaikar: 'Brothers right until we die…'",
-      "summary": "Mahesh was the greatest guitar player in our country, a self-taught musician who played his music through his soul. If god was a guitarist, he would play like Mahesh",
-      "date": "2026-10-19T17:52:42.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/remembering-guitarist-mahesh-tinaikar-brothers-right-until-we-die-126101901302_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "faa-2-izam0d",
-      "headline": "Trump’s Transportation Secretary Sean P. Duffy Announces New Mexico’s First Advanced Air Mobility Demonstration Flight Under eVTOL Integration Program",
-      "summary": "Trump’s Transportation Secretary Sean P. Duffy Announces New Mexico’s First Advanced Air Mobility Demonstration Flight Under eVTOL Integration Program brianne_dorsey Mon, 10/19/2026 - 12:44 WASHINGTON — U.S. Transportation Secretary Sean P. Duffy announced New Mexico’s first demonstration flight under the USDOT’s Electric Vertical Takeoff and Landing…",
-      "date": "2026-10-19T16:44:37.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-announces-new-mexicos-first-advanced-air",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
       ]
     }
   ]
