@@ -1,9 +1,137 @@
 {
-  "refreshedAt": "2026-11-01T09:20:03.087Z",
+  "refreshedAt": "2026-11-02T09:35:02.505Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-1gmo0s5",
+      "id": "newsapi-india-0-0-5tb8q3",
+      "headline": "ATF prices up by ₹1.37/litre; commercial LPG rates rise ₹10",
+      "summary": "ATF up ₹1.37/litre and commercial LPG by ₹10 per 19-kg cylinder amid steady price hikes linked to global benchmarks.",
+      "date": "2026-11-01T07:42:48.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/atf-prices-up-by-137litre-commercial-lpg-rates-rise-10/article71652143.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-ljxhw3",
+      "headline": "Centre notifies airfare rules; to take effect from January 1",
+      "summary": "Centre notifies Bharatiya Vayuyan Niyam 2026 rules on airline tariffs, enabling government directions during extraordinary situations from Jan 1, 2027, with transparency, monitoring, and disclosures.",
+      "date": "2026-11-01T07:36:01.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/centre-notifies-airfare-rules-to-take-effect-from-january-1/article71652309.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-smwgl8",
+      "headline": "Commercial LPG rates increase by ₹10, ATF prices up by ₹1.37 per litre",
+      "summary": "Aviation turbine fuel (ATF) prices rose by Rs 1.37 per litre from Sunday, and commercial LPG rates increased by Rs 10 per 19-kg cylinder in step with firming international benchmarks, according to state-owned oil firms. ATF prices were increased to Rs 138.50 …",
+      "date": "2026-11-01T04:57:55.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/commercial-lpg-rates-increase-by-10-atf-prices-up-by-1-37-per-litre-126110100124_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-ryi2z3",
+      "headline": "Govt raises export duty on diesel, aviation fuel; scraps petrol levy",
+      "summary": "Diesel export duty rises by ₹3 to ₹11.50 per litre, while the ATF levy increases to ₹11 per litre; the ₹2.50 duty on petrol exports has been withdrawn",
+      "date": "2026-11-01T01:57:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/economy-news-govt-hikes-export-duty-diesel-atf-exempts-petrol-exports-126110100049_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-1v5ftcu",
+      "headline": "Vande Bharat Sleeper to cut Varanasi-Delhi travel time to 8-9 hours: Yogi Adityanath",
+      "summary": "New railway services and infrastructure upgrades are expected to improve passenger convenience, regional connectivity and freight movement across Uttar Pradesh.",
+      "date": "2026-11-01T00:05:51.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/vande-bharat-sleeper-to-cut-varanasi-delhi-travel-time-to-8-9-hours-yogi-adityanath/article71651925.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-52sls6",
+      "headline": "Bengal BJP chief seeks fresh SIR, says earlier exercise incomplete",
+      "summary": "BJP MP and West Bengal unit president Samik Bhattacharya on Saturday sought a fresh SIR of electoral rolls in the state, claiming that the exercise conducted ahead of the Assembly elections was incomplete. He alleged that more names could have been deleted fr…",
+      "date": "2026-10-31T14:39:00.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/bengal-bjp-chief-seeks-fresh-sir-says-earlier-exercise-incomplete-126103100892_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-g6ibfc",
+      "headline": "Petrol export duty cut to nil; diesel levy raised to ₹11.5 per litre",
+      "summary": "The latest fortnightly revision of export levies comes amid changing international energy prices and concerns over domestic petroleum product availability.",
+      "date": "2026-10-31T09:51:55.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/petrol-export-duty-cut-to-nil-diesel-levy-raised-to-115-per-litre/article71648896.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-fx7oqb",
+      "headline": "Govt allows agarwood oil and chips exports from Guwahati airport",
+      "summary": "Govt approves Guwahati airport as export point for agarwood oil and chips, boosting Assam’s and Northeast’s trade prospects.",
+      "date": "2026-10-31T09:48:24.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/govt-allows-agarwood-oil-and-chips-exports-from-guwahati-airport/article71648880.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-1gmo0s5",
       "headline": "AI Express flight crew's lapse probably led to runway incursion at Goa airport in Apr this yr: AAIB",
       "summary": "The incident happened in the morning of April 3 involving Air India Express' Boeing 737-8 aircraft which was to operate the flight AXB 1109 from Dabolim to Delhi, and Navy's single pilot fighter jet",
       "date": "2026-10-31T09:19:19.000Z",
@@ -22,7 +150,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-1cs6ddm",
+      "id": "newsapi-india-0-10-1cs6ddm",
       "headline": "After Welcomhotel Manesar, ITC Hotels expands Delhi-NCR presence with 105-key Fortune Select Greater Noida",
       "summary": "ITC Hotels has signed a management agreement for the 105-key Fortune Select Greater Noida, expanding the brand’s presence in Uttar Pradesh and the NCR. Located at India Expo Plaza, the hotel will cater to corporate, MICE and leisure guests and is expected to …",
       "date": "2026-10-31T07:35:18.000Z",
@@ -38,7 +166,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-o2begf",
+      "id": "newsapi-india-0-11-o2begf",
       "headline": "2 foreign nationals die of suspected electrocution in Bengaluru hotel pool",
       "summary": "A German airline crew member and an IBM project manager were among those killed; two others injured while attempting to rescue them are out of danger",
       "date": "2026-10-31T07:31:58.000Z",
@@ -54,7 +182,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-no8avk",
+      "id": "newsapi-india-0-12-no8avk",
       "headline": "Alaska Air to cut about 200 jobs as fuel shock squeezes earnings",
       "summary": "The reductions affect under 1% of Alaska’s about 32,500 employees; They involve 125 positions in Washington and 48 in Hawaii",
       "date": "2026-10-31T06:33:16.000Z",
@@ -70,7 +198,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-t1g6bj",
+      "id": "newsapi-india-0-13-t1g6bj",
       "headline": "Houthis deny drone attack on Saudi's Medina region, call claim fabricated",
       "summary": "Houthi military spokesperson denied targeting Saudi territory after the Saudi-led coalition said it had intercepted and destroyed a drone over the Medina region amid escalating regional hostilities",
       "date": "2026-10-31T02:20:21.000Z",
@@ -86,7 +214,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-oi8ifr",
+      "id": "newsapi-india-0-14-oi8ifr",
       "headline": "US-Iran war: Alaska Air Group to cut around 200 jobs; CEO expects annual loss of $700 million amid rising fuel costs",
       "summary": "Alaska Air Group plans to cut roughly 200 jobs as soaring fuel costs strain its finances, with its CEO warning of a possible $700 million annual loss. The move highlights growing pressure on US airlines as higher fares and steady travel demand fail to fully o…",
       "date": "2026-10-31T01:32:59.000Z",
@@ -102,7 +230,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-154bw09",
+      "id": "newsapi-india-0-15-154bw09",
       "headline": "Uttarakhand helicopter crash: What is Trans Bharat Aviation? Company named in incident with ₹58 crore revenue in FY25",
       "summary": "A Trans Bharat Aviation helicopter crashed near Chai village in Joshimath while flying from Badrinath to Dehradun on Friday, killing the pilot and five passengers. The AAIB will investigate, while the DGCA has dispatched a team for a preliminary and regulator…",
       "date": "2026-10-30T17:52:36.000Z",
@@ -135,7 +263,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1guh5ce",
+      "id": "newsapi-india-0-16-1guh5ce",
       "headline": "Pilot, all five pilgrims killed in Badrinath-Dehradun helicopter crash",
       "summary": "Six people, including the pilot, die after a helicopter operated by Trans Bharat Aviation crashes near Joshimath; AAIB to investigate as the operator's fleet is grounded",
       "date": "2026-10-30T15:46:49.000Z",
@@ -152,7 +280,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1gnxet9",
+      "id": "newsapi-india-0-17-1gnxet9",
       "headline": "Reliance's refining business powers quarterly earnings beat as profit rises 40%",
       "summary": "India’s most valuable company reported a profit of ₹25,548 crore, up 40% from the year-earlier period and nearly a fifth above market expectations.",
       "date": "2026-10-30T15:37:55.000Z",
@@ -200,7 +328,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-1injjlh",
+      "id": "newsapi-india-0-18-1injjlh",
       "headline": "Broker’s call: Interglobe Aviation (Long)",
       "summary": "Interglobe Aviation (IndiGo) posts strong 2QFY27, lowering losses and boosting revenue; Equirus maintains Long with ₹5,560 target amid fuel/currency risks.",
       "date": "2026-10-30T13:28:48.000Z",
@@ -249,7 +377,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-rxvu10",
+      "id": "newsapi-india-0-19-rxvu10",
       "headline": "Diljit Delhi concert today: Check traffic curbs, Metro and parking details",
       "summary": "About 70,000 fans are expected at Diljit Dosanjh's JLN Stadium concert today, Oct 30. Check Delhi traffic diversions, Metro extensions, cab points and parking restrictions and more",
       "date": "2026-10-30T11:39:56.000Z",
@@ -265,7 +393,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-11-1c9sab7",
+      "id": "newsapi-india-0-20-1c9sab7",
       "headline": "Uttarakhand helicopter crash: Six on board as chopper goes down near Joshimath",
       "summary": "A Trans Bharat Aviation helicopter carrying six people crashed near Joshimath after taking off from Badrinath, prompting rescue operations and fleet grounding.",
       "date": "2026-10-30T11:20:35.000Z",
@@ -282,7 +410,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-kekdcm",
+      "id": "newsapi-india-0-21-kekdcm",
       "headline": "Flight ticket price to rise soon? IndiGo CEO Willie Walsh says no choice; why he said so & what air passengers must know",
       "summary": "IndiGo CEO Willie Walsh warns that higher airfares are inevitable as fuel costs soar. Find out why flight ticket prices could rise and what passengers should expect.",
       "date": "2026-10-30T08:47:49.000Z",
@@ -298,7 +426,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-1duwi1e",
+      "id": "newsapi-india-0-22-1duwi1e",
       "headline": "US-Iran war may keep oil in broad $105-120/bbl range: Mirae Asset Sharekhan",
       "summary": "Overall standoff would see broader range of Brent range of $105-120, a deal could unwind risk and Brent could moderate to, a $95-110 \"crunch\" remains the base case.",
       "date": "2026-10-30T08:01:09.000Z",
@@ -314,7 +442,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-14-1ydditx",
+      "id": "newsapi-india-0-23-1ydditx",
       "headline": "India’s milk yield has risen to 8 litres per animal from under 5 litres in FY14 : PM Modi",
       "summary": "The government is also looking to expand the economic value of dairying beyond milk production by promoting the utilisation of cattle dung and agricultural residue",
       "date": "2026-10-30T07:33:09.000Z",
@@ -330,7 +458,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-15-1tyl1ci",
+      "id": "newsapi-india-0-24-1tyl1ci",
       "headline": "IndiGo jumps 4% as Q2 loss narrows; analysts say earnings outlook weak",
       "summary": "IndiGo could see near-term earnings pressure amid higher fuel prices and the weak Indian rupee.",
       "date": "2026-10-30T06:02:24.000Z",
@@ -346,7 +474,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-v5dlbk",
+      "id": "newsapi-india-0-25-v5dlbk",
       "headline": "IndiGo shares jump 3.8% after Q2 results; analysts divided on recovery timeline",
       "summary": "IndiGo leaps 3.8% on Q2 results amid mixed recovery views, supported by revenue growth but offset by fuel costs and cautious broker outlook.",
       "date": "2026-10-30T05:05:12.000Z",
@@ -362,7 +490,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-17-141x2x6",
+      "id": "newsapi-india-0-26-141x2x6",
       "headline": "IndiGo’s Q2FY27 loss narrows to ₹1,879 cr; high fuel costs weigh",
       "summary": "IndiGo’s Q2FY27 loss narrows to ₹1,879 cr amid high fuel costs; the airline aims to recover 60% of fuel rise while preserving FY28 capacity guidance.",
       "date": "2026-10-30T04:03:38.000Z",
@@ -378,7 +506,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-18-16927gw",
+      "id": "newsapi-india-0-27-16927gw",
       "headline": "Stocks to watch: RIL, Jio Platforms, BoB, Equitas SFB, Trent, Coal India",
       "summary": "Stocks to watch today: State-owned miner Coal India reported a 57 per cent jump in profit after tax (PAT) to ₹6,547 crore for Q2 FY27.",
       "date": "2026-10-30T02:34:37.000Z",
@@ -410,7 +538,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-19-kkc9uo",
+      "id": "newsapi-india-0-28-kkc9uo",
       "headline": "IndiGo CEO Willie Walsh says fare hikes unavoidable amid fuel cost surge as airline posts ₹1,879.1 crore Q2 loss",
       "summary": "IndiGo CEO Willie Walsh said rising fuel costs will make higher airfares unavoidable and forecast low single-digit capacity growth in the December quarter. It plans to adjust aircraft deployment based on demand & costs, with reductions focused more on int…",
       "date": "2026-10-29T18:36:06.000Z",
@@ -442,7 +570,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-20-hl54u8",
+      "id": "newsapi-india-0-29-hl54u8",
       "headline": "PNB settles ₹43 lakh in claims amid alleged fraud at Greater Noida branch",
       "summary": "Bank says three claims have been settled as complaints mount over alleged unauthorised transfers from savings accounts and fixed deposits; 25 customers had complained by Wednesday.",
       "date": "2026-10-29T17:41:44.000Z",
@@ -455,134 +583,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-ww9t49",
-      "headline": "IndiGo raises fares, but fuel surge keeps losses high",
-      "summary": "IndiGo’s revenue rose 26% year-on-year to ₹23,364 crore due to a hike in average yields, helping narrow its second-quarter net loss to ₹1,879 crore. However, a spike in fuel costs and softening passenger demand continue to squeeze the airline’s core operati…",
-      "date": "2026-10-29T15:53:00.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/indigo-raises-fares-but-fuel-surge-keeps-losses-high-11793281481634.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-t4dz95",
-      "headline": "Top Business & Market Headlines Today — BL Morning Report, October 30, 2026",
-      "summary": "BL Morning Report, October 30, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "date": "2026-10-29T15:24:51.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/multimedia/audio/top-business-market-headlines-today-bl-morning-report-october-30-2026/article71641343.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-10kvfe",
-      "headline": "Afcons wins ₹3,469 crore contracts for Jewar Expressway, Lucknow Metro",
-      "summary": "Afcons Infrastructure secures two EPC contracts for the 24.5-km Jewar Link Expressway and a 6.52-km underground Lucknow Metro stretch, taking its FY27 order wins to ₹19,438 crore",
-      "date": "2026-10-29T15:22:02.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/afcons-wins-3-469-crore-contracts-for-jewar-expressway-lucknow-metro-126102901714_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-11mzupt",
-      "headline": "India Inc's ECB, FCCB fundraising proposals rise to $8.13 bn in August",
-      "summary": "Indian companies filed proposals to raise $8.13 billion through ECBs and FCCBs in August, up from $7.70 billion in July, with Flipkart, PFC and other major firms among applicants",
-      "date": "2026-10-29T14:16:18.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/finance/news/india-inc-s-ecb-fccb-fundraising-proposals-rise-to-8-13-bn-in-august-126102901589_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-world-2-0-adleqt",
-      "headline": "Medical Information Form (MEDIF) | Travel health | Before You Fly | Emirates",
-      "summary": "Medical Information Form (MEDIF) | Travel health | Before You Fly | Emiratesemirates.com",
-      "date": "2026-10-29T13:37:27.000Z",
-      "source": "Emirates.com",
-      "sourceUrl": "https://www.emirates.com/ae/english/before-you-fly/health/medical-information-forms/",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-1pfjwr8",
-      "headline": "Q2 Results Highlights: Milky Mist, Coal India, IEX, Laurus Labs post profit growth; IndiGo loss narrows, Thyrocare profit falls",
-      "summary": "Q2 Results Highlights, 29th October 2026: Find all the latest Q2 results 2026 updates of Twentyfirst Century Management Services, 3i Infotech, Archean Chemical Industries, Anlon Healthcare, Alchemist Corporation, Alivus Life Sciences, Alldigi Tech, Ambuja Cem…",
-      "date": "2026-10-29T13:33:55.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-coal-india-asian-paints-indigo-trent-laurus-labs-ambuja-cements-godrej-welspun-corp-motilal-oswal-blue-star-strides-pharma-milky-mist-company-results-29-october-2026/article71635445.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-1oe2sbs",
-      "headline": "Adani group, IHCL to develop eight airport hotels",
-      "summary": "Adani and IHCL to develop 8 airport hotels across four cities, adding 2,000 rooms in 3–4 years.",
-      "date": "2026-10-29T13:27:53.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/adani-group-ihcl-to-develop-eight-airport-hotels-add-2000-rooms/article71640772.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-wi15ie",
-      "headline": "Inside Adani Group-Tata Group mega deal: 8 hotels, 2,000 rooms | HCL Taj, Vivanta, Gateway and Ginger brands details",
-      "summary": "Under the agreement, the hotels will operate under IHCL’s Taj, Vivanta, Gateway and Ginger brands, catering to business, leisure and transit travellers. The partnership envisages Adani Airport Holdings developing the hotels, which will be operated by IHCL.",
-      "date": "2026-10-29T11:36:10.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/inside-adani-group-tata-group-mega-deal-8-hotels-2-000-rooms-hcl-taj-vivanta-gateway-and-ginger-brands-details-11793272198411.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
       ]
     }
   ]
