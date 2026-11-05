@@ -1,9 +1,402 @@
 {
-  "refreshedAt": "2026-11-04T09:22:55.900Z",
+  "refreshedAt": "2026-11-05T09:33:34.731Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-7mdhox",
+      "id": "newsapi-india-0-0-wia5yp",
+      "headline": "IndiGo in talks with Brazilian planemaker Embraer to buy 100 jets",
+      "summary": "The discussions are ‌at an early stage and a deal is not guaranteed. The aircraft model has also not been finalised and the amount ordered could change",
+      "date": "2026-11-04T09:19:26.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/indigo-in-talks-with-brazilian-planemaker-embraer-to-buy-100-jets-126110400960_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-ehsgb3",
+      "headline": "Airlines seek to boost domestic MRO capabilities as aircraft fleets expand",
+      "summary": "Indian airlines are looking at ways to boost capabilities and be \"self-reliant\" to carry out maintenance, repair and overhaul activities within the country as they expand their aircraft fleet. The market for airframes, engines and components is set to triple …",
+      "date": "2026-11-04T09:01:54.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/airlines-seek-to-boost-domestic-mro-capabilities-as-aircraft-fleets-expand-126110400920_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-1bjois3",
+      "headline": "IndiGo in talks with Embraer for 100 jets",
+      "summary": "Early-stage discussions include options for another 50 aircraft, with deliveries potentially starting in 2030 or later",
+      "date": "2026-11-04T08:47:18.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-in-talks-with-embraer-for-100-jets/article71664670.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-1q9qaus",
+      "headline": "S&P affirms RIL's 'A-' credit rating, cites Jio listing, stronger earnings",
+      "summary": "S&P Global Ratings has affirmed its 'A-' long-term issuer credit rating on Reliance Industries Ltd (RIL), citing resilient earnings, strong cash generation and improved funding flexibility following the listing of digital services subsidiary Jio Platforms Ltd…",
+      "date": "2026-11-04T08:38:40.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-dw6bmp",
+      "headline": "Why new airports and airlines don't necessarily mean stronger competition",
+      "summary": "Although India needs investment in both aviation infrastructure and effective competition among airlines, neither should be assumed to guarantee the other. That's especially true of airport operators introducing new airlines. Such decisions must be measured a…",
+      "date": "2026-11-04T07:00:25.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/opinion/online-views/why-new-airports-and-airlines-dont-necessarily-mean-stronger-competition-11793702913265.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-2ea1fv",
+      "headline": "Sri Lanka steps up tourism outreach in Keralam as Indian arrivals surge",
+      "summary": "India remains largest source market with over 4.8 lakh visitors by October; SLTPB holds B2B meetings in three cities",
+      "date": "2026-11-04T06:22:03.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/national/sri-lanka-steps-up-tourism-outreach-in-keralam-as-indian-arrivals-surge/article71664298.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-y95j78",
+      "headline": "IndiGo, Asian Paints, IOC: Analyst view on crude sensitives as oil dips 13%",
+      "summary": "IndiGo, Asian Paints and IOC Shares: The short-term momentum for IndiGo has shifted back into a constructive territory, with the share price reclaiming the key moving averages on the daily chart, says Mayank Jain of PhonePe Invest.",
+      "date": "2026-11-04T05:09:55.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-161dl7w",
+      "headline": "More widebody aircraft, regain market share, cost cutting: Inside Air India CEO’s turnaround plan for the carrier",
+      "summary": "Air India plans to order more widebody aircraft as CEO Tewolde Gebremariam seeks to regain market share and pursue long-term growth. Backed by its shareholders, the airline is also working to cut costs and improve revenue as losses, airspace restrictions and …",
+      "date": "2026-11-04T04:07:22.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/more-widebody-aircraft-regain-market-share-cost-cutting-inside-air-india-ceo-s-turnaround-plan-for-the-carrier-11793764301639.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "fleet",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1y2ykt4",
+      "headline": "Markets extend gains for fourth day; FPI buying highest in a year",
+      "summary": "Nifty up 1.6% on favourable earnings, festival demand",
+      "date": "2026-11-03T17:20:21.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/markets-extend-gains-for-fourth-day-fpi-buying-highest-in-a-year-126110301699_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-1webg6k",
+      "headline": "Competing with airlines not a sound strategy: Adani Airports CEO",
+      "summary": "Adani Airports CEO says competing with airline customers isn’t smart, targets 300 million annual passengers, and details Mumbai Terminal 1-2 plans.",
+      "date": "2026-11-03T16:13:53.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/competing-with-airlines-not-a-sound-strategy-adani-airports-ceo/article71660926.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1xyd83p",
+      "headline": "Airbus calls for efficient airport transfers, regulatory reforms to support India’s hub ambitions",
+      "summary": "Airbus urges faster airport transfers, regulatory harmonization, and workforce/operational upgrades to support India's hub-era fleet expansion.",
+      "date": "2026-11-03T15:43:45.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/airbus-calls-for-efficient-airport-transfers-regulatory-reforms-to-support-indias-hub-ambitions/article71661416.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "regulation",
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-1f262pd",
+      "headline": "Centre plans to expand import clearance gateways for drugs, medical devices",
+      "summary": "The Health Ministry proposes adding seven inland container depots, an SEZ and Jewar airport to the approved list to ease imports of drugs, medical devices and cosmetics",
+      "date": "2026-11-03T15:04:55.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/centre-plans-to-expand-import-clearance-gateways-for-drugs-medical-devices-126110301818_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-15vqbn8",
+      "headline": "IndiGo to get first Airbus A350 in 2028: CEO Willie Walsh outlines 600-plane fleet goal and expansion plan",
+      "summary": "IndiGo CEO Willie Walsh said IndiGo had established the necessary foundations to succeed in the long-haul market. The planned introduction of Airbus A350 aircraft forms part of the airline's broader international expansion strategy.",
+      "date": "2026-11-03T14:59:51.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/indigo-to-get-first-airbus-a350-in-2028-ceo-willie-walsh-outlines-600-plane-fleet-goal-and-expansion-plan-11793712329159.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-ffbuiq",
+      "headline": "Centre proposes expanding import gateways for drugs, medical devices and cosmetics",
+      "summary": "Union Health Ministry proposes expanding import gateways for drugs, devices and cosmetics, including ICDs, SEZ and Noida airport to streamline clearances and cut logistics costs.",
+      "date": "2026-11-03T14:28:49.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/latest-news/centre-proposes-expanding-import-gateways-for-drugs-medical-devices-and-cosmetics/article71661382.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-1ssvef8",
+      "headline": "Jet Airways liquidator moves NCLAT against Boeing for $92.12 million refund",
+      "summary": "Jet Airways' liquidator has appealed to NCLAT to recover $92.12 million in aircraft advances from Boeing after NCLT dismissed the claim, with a hearing due in December",
+      "date": "2026-11-03T14:17:16.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/jet-airways-liquidator-moves-nclat-against-boeing-for-92-12-million-refund-126110301736_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-9h1b6n",
+      "headline": "Air India weighs Mumbai shift for Europe, US flights as airspace curbs bite",
+      "summary": "The airline plans to expand its Asian network through Delhi and explore Bengaluru as a third hub as mounting losses sharpen its focus on costs.",
+      "date": "2026-11-03T14:10:04.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/air-india-weighs-mumbai-shift-for-europe-us-flights-as-airspace-curbs-bite-11793707670703.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-1m2ukhc",
+      "headline": "Why does IndiGo want lower charges at Mumbai airport? CEO Willie Walsh weighs in on airport investments",
+      "summary": "IndiGo CEO Willie Walsh says Mumbai airport’s per-passenger charges should fall after Terminal 1’s redevelopment increases capacity. He argues airport costs affect fares and airlines’ ability to earn returns, and calls for closer scrutiny of airport investmen…",
+      "date": "2026-11-03T13:55:55.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/why-does-indigo-want-lower-charges-at-mumbai-airport-ceo-willie-walsh-weighs-in-on-airport-investments-11793713640826.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-px8168",
+      "headline": "Air India plans more wide-body orders, flags high costs as major concern",
+      "summary": "Air India CEO Tewolde Gebremariam says the airline is seeking more wide-body aircraft for global expansion while working to reduce high operating costs and return to profitability",
+      "date": "2026-11-03T13:49:35.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-plans-more-wide-body-orders-flags-high-costs-as-major-concern-126110301678_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "fleet",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-eqmd01",
+      "headline": "An environmental ruling of import",
+      "summary": "In the Vanashakti case, the Supreme Court has closed one route to environmental clearance and preserved another",
+      "date": "2026-11-03T13:10:42.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/an-environmental-ruling-of-import/article71661138.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-7w6fzu",
+      "headline": "Airlines need fair returns as airport investments and charges drive up costs: Indigo CEO",
+      "summary": "Willie Walsh calls for scrutiny of airport investments and warns of persistent jet fuel cost pressures",
+      "date": "2026-11-03T12:59:16.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/airlines-need-fair-returns-as-airport-investments-and-charges-drive-up-costs-indigo-ceo/article71660572.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-1ej2c3l",
+      "headline": "IndiGo eyes deeper airline partnerships for long-haul push",
+      "summary": "IndiGo prioritizes deeper airline partnerships and market access for its long-haul expansion, with A350 and potential revenue-sharing models.",
+      "date": "2026-11-03T12:23:58.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-eyes-deeper-airline-partnerships-for-long-haul-push/article71660338.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-1czl28l",
+      "headline": "IndiGo CEO seeks lower Mumbai airport charges after Terminal 1 revamp",
+      "summary": "IndiGo CEO Willie Walsh says higher capacity after Mumbai airport's Terminal 1 redevelopment should reduce per-passenger charges as the airline plans its Navi Mumbai expansion",
+      "date": "2026-11-03T12:03:06.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/indigo-ceo-seeks-lower-mumbai-airport-charges-after-terminal-1-revamp-126110301439_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-1xid86r",
+      "headline": "India needs 3 national carriers to compete globally: Adani Airports CEO",
+      "summary": "Arun Bansal stresses protecting domestic airlines and expanding infrastructure for fourfold passenger growth by 2040-45",
+      "date": "2026-11-03T11:16:10.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/india-needs-3-national-carriers-to-compete-globally-adani-airports-ceo/article71660235.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-23-43ven5",
+      "headline": "Air Suvidha Form mandatory for all arrivals in India: Here's how to fill it",
+      "summary": "All passengers, including Indian citizens and foreign nationals, must submit the online health declaration 24 hours before arrival",
+      "date": "2026-11-03T10:55:53.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/immigration/air-suvidha-form-mandatory-for-all-arrivals-in-india-here-s-how-to-fill-it-126110301189_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-25-7mdhox",
       "headline": "India withdraws bid for top global telecom post, misses return after six decades",
       "summary": "New Delhi pulls Revathi Mannepalli’s candidature for Radiocommunication Bureau director just days before the Doha election, surprising industry experts.",
       "date": "2026-11-03T09:22:10.000Z",
@@ -19,7 +412,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-2pdjw3",
+      "id": "newsapi-india-0-26-2pdjw3",
       "headline": "Air India targets international market share, plans more wide-body orders",
       "summary": "Long-haul business could lead group growth; airline strengthens overseas sales and rebalances hubs",
       "date": "2026-11-03T09:18:23.000Z",
@@ -36,7 +429,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-i95yko",
+      "id": "newsapi-india-0-27-i95yko",
       "headline": "Murikenchery tipped to lead Navi Mumbai airport as Adani braces for Mumbai traffic shift",
       "summary": "If confirmed, Murikenchery would face one of the most difficult operational challenges in Indian aviation as Adani prepares to move 265 of the 770 weekly international departure slots from Terminal 2 of Mumbai airport to Navi Mumbai.",
       "date": "2026-11-03T09:06:30.000Z",
@@ -53,7 +446,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-rmvuco",
+      "id": "newsapi-india-0-28-rmvuco",
       "headline": "Never a good strategy to compete with your customers: AAHL CEO on airline business",
       "summary": "AAHL CEO Arun Bansal warns against competing with customers and clarifies AAHL-Adani Group separation amid potential airline venture talks.",
       "date": "2026-11-03T09:01:38.000Z",
@@ -69,7 +462,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-1hpy4b8",
+      "id": "newsapi-india-0-29-1hpy4b8",
       "headline": "Thiruvananthapuram airport records highest-ever domestic cargo volume in October",
       "summary": "Thiruvananthapuram International Airport here handled a record 444 metric tonnes of domestic cargo in October, registering a 9.4 per cent increase over its previous monthly high.",
       "date": "2026-11-03T09:01:02.000Z",
@@ -85,7 +478,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-1bhkh2d",
+      "id": "newsapi-india-0-30-1bhkh2d",
       "headline": "Competing with customers unwise: Adani Airports CEO rules out airline foray",
       "summary": "Adani Airport Holdings CEO Arun Bansal has ruled out plans to enter the airline business, saying competing with airport customers would not be a sound strategy",
       "date": "2026-11-03T08:29:08.000Z",
@@ -102,7 +495,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-11drwas",
+      "id": "newsapi-india-0-31-11drwas",
       "headline": "Indian killed as two helicopters collide in Nepal",
       "summary": "The two helicopters collided while landing at Pheriche in Ward 4 of Khumbu Pasang Lhamu Rural Municipality of Solukhumbu district on Tuesday, according to a Nepal Police statement.",
       "date": "2026-11-03T08:02:41.000Z",
@@ -118,7 +511,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-j13mi2",
+      "id": "newsapi-india-0-32-j13mi2",
       "headline": "Air India will rebalance network, look for more wide-body planes: CEO",
       "summary": "Air India will rebalance its airport hubs and network, reduce costs as well as look for more wide-body aircraft, its CEO and MD Tewolde Gebremariam said on Tuesday as the airline bets big on growth opportunities. Spelling out the strategy for the loss-making …",
       "date": "2026-11-03T07:55:09.000Z",
@@ -137,7 +530,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-1od4xf5",
+      "id": "newsapi-india-0-33-1od4xf5",
       "headline": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
       "summary": "IndiGo plans 14 A321 XLRs by end-2027, continuing focus on short-haul, cost-efficient operations and selective international growth.",
       "date": "2026-11-03T06:53:36.000Z",
@@ -153,7 +546,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-x3soln",
+      "id": "newsapi-india-0-35-x3soln",
       "headline": "Centre proposes expanding import gateways for drugs, medical devices",
       "summary": "Union Health Ministry proposes expanding authorised drug import gateways to include new ICDs, SEZs, and an airport, boosting clearance speed and supply-chain efficiency.",
       "date": "2026-11-03T05:21:48.000Z",
@@ -169,7 +562,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-t8zyd9",
+      "id": "newsapi-india-0-37-t8zyd9",
       "headline": "Crude-sensitive stocks gain as oil stays below $105; HPCL, IndiGo rise",
       "summary": "Brent crude, the global oil benchmark, was marginally up but remained below $105 per barrel. It was up 0.10 per cent at $104.9, while West Texas Intermediate (WTI) crude rose 0.18 per cent to $96.63.",
       "date": "2026-11-03T05:08:10.000Z",
@@ -185,7 +578,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-1alajer",
+      "id": "newsapi-india-0-38-1alajer",
       "headline": "Emaar launches 194 luxury flats in Lucknow, 3BHKs start at Rs 2.15 crore",
       "summary": "The 194-residence development in Gomti Nagar Extension marks the company's second premium high-rise project in Lucknow, following Elite Oasis",
       "date": "2026-11-03T04:21:10.000Z",
@@ -198,401 +591,6 @@
       ],
       "topics": [
         "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-khaegs",
-      "headline": "Cyclone Murasu hits Andhra coast; schools shut, flights disrupted",
-      "summary": "Cyclone Murasu brings strong winds and heavy rainfall to Andhra Pradesh, triggering red alerts in six districts, disrupting flights and transport, and prompting school closures",
-      "date": "2026-11-03T03:41:29.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/cyclone-murasu-hits-andhra-coast-schools-shut-flights-disrupted-126110300228_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-1sxvoc",
-      "headline": "Flying in Europe to get costlier? Ryanair warns of 20% airfare hike, weighs employee wage freeze",
-      "summary": "Ryanair warns ticket prices could surge by up to 20% as fuel hedges expire, while the airline weighs pay freezes and job cuts to control costs.",
-      "date": "2026-11-02T17:07:51.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/flying-in-europe-to-get-costlier-ryanair-warns-of-20-per-cent-airfare-hike-weighs-employee-wage-freeze-11793638509982.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-q2lz62",
-      "headline": "Gadkari pushes alternative fuels to cut India's ₹22 trillion fuel import bill",
-      "summary": "The government is promoting indigenous, cost-effective and less-polluting energy sources, including ethanol, compressed biogas, hydrogen and biofuels, to reduce import dependence.",
-      "date": "2026-11-02T17:05:30.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/energy/india-eyes-alternative-fuels-to-cut-22-trillion-fossil-fuel-import-bill-gadkari-11793631334430.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-17ci76l",
-      "headline": "Top Business & Market Headlines Today — BL Morning Report, November 3, 2026",
-      "summary": "BL Morning Report, November 3, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "date": "2026-11-02T16:45:06.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/multimedia/audio/top-business-market-headlines-today-bl-morning-report-november-3-2026/article71657718.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-1w9nl8k",
-      "headline": "Mumbai airport standoff: Airlines challenge Adani’s proposed 5 million passenger capacity cut",
-      "summary": "AOC-Mumbai has sought the aviation ministry's intervention over a proposed 5-million-passenger capacity cut and the relocation of international flights to Navi Mumbai, as foreign carriers resist the move.",
-      "date": "2026-11-02T15:43:11.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/mumbai-airport-standoff-airlines-challenge-adani-s-proposed-5-million-passenger-capacity-cut-11793624660834.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "business",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-t0i2zm",
-      "headline": "IndiGo develops premium offering, reviews fuel hedging for international push",
-      "summary": "IndiGo eyes premium cabins and international expansion, reviews fuel hedging while pursuing growth in A350s, XLRs, and new markets.",
-      "date": "2026-11-02T13:23:38.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-develops-premium-offering-reviews-fuel-hedging-for-international-push/article71656797.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1qyqqdk",
-      "headline": "Airlines seek Ministry intervention for protection of Mumbai airport slots",
-      "summary": "AOC appeals to the Civil Aviation Ministry to protect Mumbai airport’s historical slots amid proposed capacity cuts during redevelopment.",
-      "date": "2026-11-02T12:25:59.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/airlines-seek-ministry-intervention-for-protection-of-mumbai-airport-slots/article71656516.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-1ijhomn",
-      "headline": "Sukhjit S Pasricha leaves Jindal Steel: Who is he? Head of Human Resources exits steelmaker – why did he resign?",
-      "summary": "Jindal Steel President and Head of Human Resources Sukhjit S. Pasricha has resigned, citing personal commitments. He joined the company in July 2026 after serving at IndiGo and other major organisations.&nbsp;",
-      "date": "2026-11-02T11:51:02.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/people/sukhjit-s-pasricha-leaves-jindal-steel-who-is-he-president-head-of-human-resources-leaves-steelmaker-why-did-h-11793616364525.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-jesnsx",
-      "headline": "Sensex today | Stock Market Highlights: Sensex surges 1,233 pts, Nifty ends above 23,400; Reliance, Tata Steel top gainers",
-      "summary": "Sensex, Nifty, Share Prices Updates: Benchmarks closed at the day’s high level. Sensex settled 1,233.25 pts or 1.66% higher at 75,692.78, and Nifty 50 gained 387.70 pts or 1.68% to 23,440.80",
-      "date": "2026-11-02T10:53:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-november-2026/article71653748.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-1t98wy7",
-      "headline": "IndiGo CEO William Walsh takes aim at airport monopolies as record fuel costs bite",
-      "summary": "Seeking lower taxes and airport fees to protect aviation growth, Walsh warned that rising monopoly tariffs and record jet fuel prices are squeezing airline margins.",
-      "date": "2026-11-02T10:50:07.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/indigo-ceo-william-walsh-takes-aim-at-airport-monopolies-as-record-fuel-costs-bite-11793611053512.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-eevd91",
-      "headline": "UP eyes investments from Asian economies to achieve $1 trillion goal",
-      "summary": "Uttar Pradesh plans industrial enclaves near the Noida airport to attract investment from Japan, Singapore, South Korea and Taiwan.",
-      "date": "2026-11-02T10:49:43.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/economy/uttar-pradesh/up-eyes-investments-from-asian-economies-to-achieve-1-trillion-goal-126110200887_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-rzkqjk",
-      "headline": "IndiGo reviews longstanding fuel hedging policy amid rising ATF prices",
-      "summary": "IndiGo CEO Willie Walsh says the airline will undertake a comprehensive review of its fuel hedging policy as rising jet fuel prices and long-haul expansion reshape its risk outlook",
-      "date": "2026-11-02T10:11:08.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/indigo-reviews-longstanding-fuel-hedging-policy-amid-rising-atf-prices-126110200791_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-174t4pr",
-      "headline": "Don’t travel by air: Supreme Court refuses urgent listing of plea alleging 700% hike in airfares",
-      "summary": "The remark came after an advocate sought urgent listing of a petition alleging a nearly 700% rise in airfares. The court is separately hearing a plea seeking regulation of airfare fluctuations.",
-      "date": "2026-11-02T09:39:32.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/dont-travel-by-air-supreme-court-refuses-urgent-listing-of-plea-alleging-700-hike-in-airfares/article71656103.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-1btrfy0",
-      "headline": "SC says 'don't travel by air', refuses urgent hearing on airfare hike plea",
-      "summary": "Don't travel by air, the Supreme Court told a petitioner on Monday while refusing urgent listing of a plea alleging nearly 700 per cent increase in airfares. An advocate mentioned the matter for urgent listing before a bench comprising Justices Vikram Nath, S…",
-      "date": "2026-11-02T09:35:26.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/india-news/sc-says-don-t-travel-by-air-refuses-urgent-hearing-on-airfare-hike-plea-126110200729_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-28-1xv601r",
-      "headline": "IndiGo to offer lie-flat beds to lure long-haul business fliers",
-      "summary": "The first A350-900 aircraft are expected to join the fleet in the second quarter of 2028, Chief Executive Officer Willie Walsh told reporters in New Delhi",
-      "date": "2026-11-02T09:26:22.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-to-offer-lie-flat-beds-to-lure-long-haul-business-fliers/article71656009.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-29-1w5qfg4",
-      "headline": "Digi Yatra for international flyers begins at 7 airports: Who is eligible",
-      "summary": "Indian e-passport holders flying on select Air India and IndiGo international flights can use facial recognition at designated airport checkpoints",
-      "date": "2026-11-02T06:17:35.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/immigration/digi-yatra-for-international-flyers-begins-at-7-airports-who-is-eligible-126110200378_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-30-1es4ntv",
-      "headline": "IndiGo sees a lot of opportunities; current industry situation challenging: CEO Willie Walsh",
-      "summary": "Against the backdrop of rising fuel costs roiling profitability of airlines, Walsh said the situation is challenging for the industry and IndiGo will navigate through the challenges",
-      "date": "2026-11-02T06:12:23.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/indigo-sees-a-lot-of-opportunities-current-industry-situation-challenging-ceo-willie-walsh/article71655482.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-31-habn64",
-      "headline": "IndiGo up 5% in 2 sessions on Q2, softer oil, new aviation rules in focus",
-      "summary": "Over the weekend, the government notified a new set of rules governing India's civil aviation sector, called the Bharatiya Vayuyan Niyam, 2026",
-      "date": "2026-11-02T06:10:36.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/news/indigo-up-5-in-2-sessions-on-q2-softer-oil-new-aviation-rules-in-focus-126110200347_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-32-1nx1abx",
-      "headline": "IndiGo sees opportunities despite challenging industry conditions: CEO",
-      "summary": "IndiGo sees a lot of opportunities and will navigate through the challenges in the industry, its CEO Willie Walsh said on Monday as he emphasised the airline's focus on excellent cost base. At his first in-person briefing after taking charge as CEO in August,…",
-      "date": "2026-11-02T06:10:14.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/indigo-sees-opportunities-despite-challenging-industry-conditions-ceo-126110200331_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-33-o51qzf",
-      "headline": "India likely to meet FY27 fiscal deficit target of 4.3% despite energy price risks",
-      "summary": "India is likely to meet its FY27 fiscal deficit target of 4.3% of GDP, supported by strong corporate tax collections despite higher energy price risks.",
-      "date": "2026-11-02T02:27:04.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/india-likely-to-meet-fy27-fiscal-deficit-target-of-43-despite-energy-price-risks/article71655183.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-34-1bg8ve6",
-      "headline": "Private jet carrying 9 crashes near Trump's Mar-a-Lago residence in Florida",
-      "summary": "The aircraft crashed near Cresthaven, Florida, around 12:50 PM, approximately nine miles from US President Donald Trump's Mar-a-Lago residence",
-      "date": "2026-11-02T01:57:27.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/private-jet-carrying-9-crashes-near-trump-s-mar-a-lago-residence-in-florida-126110200029_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-35-a0g4c7",
-      "headline": "Air India weighs Singapore Airlines executive for CFO as losses mount",
-      "summary": "Air India's management has held preliminary discussions on the appointment with Tata Sons chairman N. Chandrasekaran and Air India chief executive officer (CEO) Tewolde Gebremariam, both of whom are understood to be supportive of the move.",
-      "date": "2026-11-02T00:01:02.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/people/air-india-weighs-singapore-airlines-executive-for-cfo-as-losses-mount-11793511128094.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-36-fgidi8",
-      "headline": "New aircraft rules to replace 1937 framework, take effect from January 1",
-      "summary": "The Bharatiya Vayuyan Niyam, 2026, will govern aircraft registration, safety, personnel licensing, airline tariffs and airport operations, replacing the Aircraft Rules, 1937.",
-      "date": "2026-11-01T18:01:44.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/new-aircraft-rules-to-replace-1937-framework-take-effect-from-january-1-126110100896_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "fleet",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-37-1t0xj9v",
-      "headline": "US regulator certifies Boeing 737-10",
-      "summary": "FAA certifies Boeing 737-10; deliveries to begin soon as largest 737 MAX enters service.",
-      "date": "2026-11-01T17:50:38.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/us-regulator-certifies-boeing-737-10/article71654106.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "regulation",
-        "operations"
       ]
     }
   ]
