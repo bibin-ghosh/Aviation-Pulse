@@ -1,9 +1,402 @@
 {
-  "refreshedAt": "2026-11-18T10:15:17.035Z",
+  "refreshedAt": "2026-11-19T10:26:25.867Z",
   "edition": "github-scheduled-seven-day-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-qb6jt0",
+      "id": "newsapi-air-india-0-0-1lmnqp",
+      "headline": "Investigation into deadly Air India crash in final stage, says govt",
+      "summary": "Solicitor General Tushar Mehta told the court that the investigation into last year's crash, which killed 260 people, was nearing completion while opposing a separate probe plea",
+      "date": "2026-11-18T10:25:20.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/investigation-into-deadly-air-india-crash-in-final-stage-says-govt-126111800760_1.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-0-1hpyym",
+      "headline": "SpiceJet board approves ₹5,500 crore fund raising proposal for revival",
+      "summary": "Struggling SpiceJet's board on Wednesday approved a proposal to raise up to Rs 5,500 crore to shore up its financial position. The airline has been facing multiple headwinds, including financial and operational woes. At its meeting on Wednesday, the airline's…",
+      "date": "2026-11-18T09:48:55.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/spicejet-board-approves-5-500-crore-fund-raising-proposal-for-revival-126111800678_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-fxb8ab",
+      "headline": "Navy marks 50 years of long-range maritime ops, 'Albatross' air squadron",
+      "summary": "Currently, the P-8I aircraft maintain surveillance over surrounding maritime regions",
+      "date": "2026-11-18T09:43:02.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/blueprint-defence-magazine/reports/navy-marks-50-years-of-long-range-maritime-ops-albatross-air-squadron-126111800698_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-2lgr7t",
+      "headline": "Air India Express appoints Deepak Rajawat as CEO",
+      "summary": "Rajawat currently serves as CFO will take charge as CEO on December 1",
+      "date": "2026-11-18T09:23:09.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-express-appoints-deepak-rajawat-as-ceo/article71715187.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-cyu0m8",
+      "headline": "Air India Express names CFO Deepak Rajawat as CEO as budget carrier bets on expansion",
+      "summary": "Air India Express has appointed Deepak Rajawat, its current finance chief, as the budget carrier's chief executive officer.",
+      "date": "2026-11-18T09:02:01.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/air-india-express-names-cfo-deepak-rajawat-as-ceo-as-budget-carrier-bets-on-expansion-11794992207078.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-jshqtq",
+      "headline": "Air India Express names CFO Deepak Rajawat CEO, effective December 1",
+      "summary": "Rajawat takes charge amid mounting losses at the low-cost carrier, which has been without a permanent chief executive since Aloke Singh stepped down in March",
+      "date": "2026-11-18T08:56:32.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-express-appoints-deepak-rajawat-ceo-december-1-126111800613_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-s90919",
+      "headline": "Adani Airport launches upgraded rewards membership programme at 8 airports",
+      "summary": "Adani Airport Holdings Limited (AAHL) has launched an upgraded rewards membership programme at eight airports, including Mumbai, Navi Mumbai and Jaipur airports operated by the company, to offer passengers benefits worth up to Rs 65,000 annually. The programm…",
+      "date": "2026-11-18T07:47:06.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/adani-airport-launches-upgraded-rewards-membership-programme-at-8-airports-126111800437_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1am4dnw",
+      "headline": "What is NSANet, the classified US intelligence network hit by an outage?",
+      "summary": "Breakdown raises questions about the reliability of digital infrastructure supporting national security",
+      "date": "2026-11-18T07:46:19.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/blueprint-defence-magazine/news/what-is-nsanet-the-classified-us-intelligence-network-hit-by-an-outage-126111800504_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-j96ovh",
+      "headline": "SpiceJet hits 5% upper band as board to mull fundraise; up 30% in 6 days",
+      "summary": "On a longer time frame of five and 10 years, SpiceJet shares have tanked 87 per cent and 84 per cent, respectively.",
+      "date": "2026-11-18T06:42:34.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/spicejet-hits-5-upper-band-as-board-to-mull-fundraise-up-30-in-6-days-126111800376_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-cdesff",
+      "headline": "Oracle's Java software faces major cyber threat, US agency issues warning",
+      "summary": "Oracle has released a critical security update after AI tools uncovered several flaws in Java, which is used by 90% of Fortune 500 companies",
+      "date": "2026-11-18T06:04:56.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/oracle-java-software-cyber-threat-cisa-warning-security-flaws-us-agency-126111800345_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-136gme7",
+      "headline": "India, Japan to push strategic cooperation at 2+2 talks",
+      "summary": "S Jaishankar, Rajnath Singh in Tokyo for dialogue focusing on Indo-Pacific security, defence ties, resilient supply chains and economic security",
+      "date": "2026-11-18T05:59:18.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/india-japan-to-push-strategic-cooperation-at-22-talks/article71714680.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-1ghngbe",
+      "headline": "For first time in four years, airlines fly less this festive season",
+      "summary": "Indian airlines have cut planned November capacity for the first time in four years as higher fuel costs, rising fares and weaker demand prompt a shift towards profitable routes.",
+      "date": "2026-11-18T04:30:28.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/indian-airlines-cut-flight-capacity-november-fuel-costs-11794925135910.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-krcc15",
+      "headline": "Tech outages no coincidence, AI making cyberattacks easier: Nikesh Arora",
+      "summary": "US banks, airlines and tech firms face outages, with Apple, Microsoft and Google services hit. Palo Alto CEO Nikesh Arora warns AI is making cyberattacks easier",
+      "date": "2026-11-18T04:24:06.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/technology/tech-news/tech-outages-no-coincidence-ai-making-cyberattacks-easier-nikesh-arora-126111800236_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-1i2du30",
+      "headline": "Apple works to fix systems after update causes internal, retail outages",
+      "summary": "The outages are the latest in a string of similar incidents that have occurred recently at US companies and government agencies",
+      "date": "2026-11-18T03:40:51.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/technology/tech-news/apple-works-to-fix-systems-after-update-causes-internal-retail-outages-126111800185_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-1gx1h19",
+      "headline": "FAA halts installation of Juniper routers after air traffic disruption",
+      "summary": "The Federal Aviation Administration has paused the installation of the routers that were linked to last week's national ground stop, and turned off any Juniper routers that were already installed. The decision was made after technicians linked Friday's disrup…",
+      "date": "2026-11-18T02:47:11.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/faa-halts-installation-of-juniper-routers-after-air-traffic-disruption-126111800024_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "airports",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-1p9v6iw",
+      "headline": "Apple outage adds to growing list of technology disruptions affecting major companies",
+      "summary": "Apple's internal update triggered service outages, adding to recent disruptions at Marriott, United Airlines, JPMorgan Chase and Microsoft, highlighting technology risks.",
+      "date": "2026-11-17T23:54:06.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/apple-outage-adds-to-growing-list-of-technology-disruptions-affecting-major-companies/article71714312.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-15icmp7",
+      "headline": "Apple joins a parade of technology hiccups in recent days",
+      "summary": "Apple joins a parade of technology hiccups in recent days",
+      "date": "2026-11-17T19:52:29.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/apple-joins-a-parade-of-technology-hiccups-in-recent-days-11794945149704.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-p9lrco",
+      "headline": "Signature Global enters Mumbai market with 475-acre land buy in Raigad",
+      "summary": "The Delhi-NCR developer acquired 474.66 acres in Raigad for ₹194.19 crore through an online auction, marking its entry into the Mumbai Metropolitan Region beyond its core market",
+      "date": "2026-11-17T19:17:00.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/signature-global-enters-mumbai-market-with-475-acre-land-buy-in-raigad-126111800036_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-1rkgep0",
+      "headline": "Air India, Airbus sign pact to study voluntary corporate SAF programme",
+      "summary": "Air India and Airbus explore a feasible, scalable voluntary corporate SAF programme in India, enabling SAF adoption, certificate trading, and emissions tracking.",
+      "date": "2026-11-17T15:40:55.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-airbus-sign-pact-to-study-voluntary-corporate-saf-programme/article71712828.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-hlzecg",
+      "headline": "Ground effect vehicles: Interesting possibilities in coastal and multimodal freight transport",
+      "summary": "Recent developments show that vehicles that fly just above the sea deserve more research on their commercial and logistical potential",
+      "date": "2026-11-17T13:29:06.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/ground-effect-vehicles-interesting-possibilities-in-coastal-and-multimodal-freight-transport/article71712096.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-61v9b9",
+      "headline": "Collins Aerospace's Bengaluru MRO hub to serve 500 Asia-Pacific aircraft",
+      "summary": "The multi-million-dollar facility, expected to begin operations by 2028-end or early 2029, will service ATR and C295 aircraft propellers, reducing repair turnaround times",
+      "date": "2026-11-17T13:19:04.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/collins-aerospace-s-bengaluru-mro-hub-to-serve-500-asia-pacific-aircraft-126111701125_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-world-2-0-sotq12",
+      "headline": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
+      "summary": "President Donald Trump arrived in the Philippines on Tuesday, where he met with regional partners, sought to formalize a trade deal and get a break from a series of setbacks at home, ranging from a major disruption to the U.S.…",
+      "date": "2026-11-17T13:18:00.000Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/trump-asia-manila-asean-xi-putin-c94386cd092482d94dca38fc8b8d51a7",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-1vckt5a",
+      "headline": "Learn to use AI without surrendering your skills",
+      "summary": "Every time you offload a job to AI, you deskill yourself gradually. Keep practising the parts of your job that require judgement, memory, creativity and human understanding",
+      "date": "2026-11-17T13:15:58.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/opinion/learn-to-use-ai-without-surrendering-your-skills/article71712027.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-wrwz0k",
+      "headline": "Tirupati-model mega project to be implemented at Sabarimala: Chief Minister",
+      "summary": "The vision is to develop an interconnected pilgrimage tourism network, encouraging devotees to visit other temples as well rather than returning immediately after offering prayers at Sabarimala",
+      "date": "2026-11-17T10:53:55.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/news/tirupati-model-mega-project-to-be-implemented-at-sabarimala-chief-minister/article71711360.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-qb6jt0",
       "headline": "Draft SAF policy to go out for public consultation soon: Naidu",
       "summary": "The Centre expects to release its draft Sustainable Aviation Fuel (SAF) policy for public consultation in one or two weeks, said Civil Aviation Minister Ram Mohan Naidu Kinjarapu.",
       "date": "2026-11-17T10:05:22.000Z",
@@ -19,7 +412,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-14pew8v",
+      "id": "newsapi-india-0-23-14pew8v",
       "headline": "IndianOil cites 30,000-tonne annual capacity; seeks assured demand and incentives to bridge initial cost gap",
       "summary": "Aviation Minister Ram Mohan Naidu Kinjarapu also acknowledged the DGCA approval, describing the Panipat development as an important achievement in building domestic SAF production capabilities",
       "date": "2026-11-17T09:28:47.000Z",
@@ -36,7 +429,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-16w44l8",
+      "id": "newsapi-india-0-24-16w44l8",
       "headline": "Hotel companies hold up despite a seasonal lull",
       "summary": "Domestic holidays, weddings and corporate events are keeping hotel rooms occupied, even as expensive airfares and geopolitical tensions weigh on some travel markets.",
       "date": "2026-11-17T08:36:05.000Z",
@@ -52,7 +445,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-o9uuij",
+      "id": "newsapi-india-0-25-o9uuij",
       "headline": "Investor Mukul Agrawal buys office unit in Lodha's Worli project for ₹163cr",
       "summary": "Investor Mukul Agrawal has acquired approximately 20,000 sq. ft. of office space in Lodha Promina, reinforcing the appeal of premium commercial real estate in one of Mumbai's most sought-after busines",
       "date": "2026-11-17T08:36:00.000Z",
@@ -68,7 +461,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-mx1cy9",
+      "id": "newsapi-india-0-26-mx1cy9",
       "headline": "IOC gets govt nod to supply sustainable aviation fuel for blending target",
       "summary": "State-owned Indian Oil Corporation (IOC) has secured government approvals to commercially supply sustainable aviation fuel (SAF) from its Panipat refinery in north India, with the facility capable of producing enough fuel to meet the country's 1 per cent blen…",
       "date": "2026-11-17T08:05:34.000Z",
@@ -84,7 +477,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-1ogzhcu",
+      "id": "newsapi-india-0-27-1ogzhcu",
       "headline": "Govt to seek public comments on SAF policy in one to two weeks: K Rammohan Naidu",
       "summary": "Naidu says SAF can help reduce the country's fuel import bill",
       "date": "2026-11-17T07:28:32.000Z",
@@ -100,7 +493,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-124uc7j",
+      "id": "newsapi-india-0-28-124uc7j",
       "headline": "Oil seen at $78 by 2027 amid supply glut expectation: Mirae Asset Sharekhan",
       "summary": "Dated premiums have been wiped out since the election outcome, as Gulf crude exports reached 15 mb/d in October and observed inventories rose 52 million barrels.",
       "date": "2026-11-17T07:15:21.000Z",
@@ -116,7 +509,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-1kwvkrc",
+      "id": "newsapi-india-0-29-1kwvkrc",
       "headline": "Indian Oil gets government nod for commercial-scale sustainable aviation fuel production",
       "summary": "India's IOC secures government approval to commercially produce sustainable aviation fuel at Panipat, targeting 1% international-flight blending by 2027.",
       "date": "2026-11-17T06:52:33.000Z",
@@ -132,7 +525,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-14r4cve",
+      "id": "newsapi-india-0-30-14r4cve",
       "headline": "India set to order 1,000 more civilian aircraft amid acute fleet crunch",
       "summary": "Civilian Aircraft Shortage in India: Union minister Piyush Goyal says India needs more than 2,000 aircraft as airlines grapple with supply constraints",
       "date": "2026-11-17T06:07:41.000Z",
@@ -148,7 +541,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-1uutjb1",
+      "id": "newsapi-india-0-31-1uutjb1",
       "headline": "M&M, Airtel, TechM, HDFC Bank lead Nifty's 3100 pts rally; more steam left?",
       "summary": "Nifty Rally: Nifty 50 has surged 3,111 points, or 14 per cent, from its October low of 22,179.90.",
       "date": "2026-11-17T05:48:55.000Z",
@@ -164,7 +557,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-10-bm58q9",
+      "id": "newsapi-india-0-32-bm58q9",
       "headline": "Trump rejects blame for US air traffic disruption, faults Biden-era tech",
       "summary": "President Donald Trump bristled Monday at suggestions he's been too focused on White House building projects, and that they might have distracted him during the nationwide grounding of all planes, even insisting, \"You don't see me on a scaffold.\" Speaking pub…",
       "date": "2026-11-17T05:36:32.000Z",
@@ -180,7 +573,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-11-16345yu",
+      "id": "newsapi-india-0-33-16345yu",
       "headline": "Wholesale inflation may average around 11% in FY27: UBI",
       "summary": "The report notes that fuel inflation surged to 32.83 per cent in October from 25.87 per cent in September, becoming a major driver of wholesale price pressures",
       "date": "2026-11-17T03:55:23.000Z",
@@ -196,7 +589,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-12-yxz4vc",
+      "id": "newsapi-india-0-34-yxz4vc",
       "headline": "United Airlines resolves tech issue that delayed flights across US",
       "summary": "United Airlines said Monday that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the Federal Aviation Administration's network prompted a nationwide ground stop. Chicago-based United said in a statement that…",
       "date": "2026-11-17T02:17:55.000Z",
@@ -212,7 +605,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-13-y5rtkh",
+      "id": "newsapi-india-0-35-y5rtkh",
       "headline": "Centre raises export duty on diesel, aviation fuel; petrol unchanged",
       "summary": "Special additional excise duty on diesel exports raised to ₹14 per litre from ₹11.50, while levy on aviation turbine fuel increased to ₹12.50 per litre",
       "date": "2026-11-17T01:59:54.000Z",
@@ -228,7 +621,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-14-jdgvi4",
+      "id": "newsapi-india-0-36-jdgvi4",
       "headline": "United Airlines resolves technology glitch that delayed flights across its network",
       "summary": "United Airlines resolves a technology issue that delayed departures on Monday, with FlightAware reporting 418 delayed flights. The carrier ruled out a cyberattack.",
       "date": "2026-11-17T01:45:32.000Z",
@@ -245,7 +638,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-15-18ir83s",
+      "id": "newsapi-india-0-37-18ir83s",
       "headline": "Airlines seek legal clarity on costs, liability, supply gaps in draft green fuel policy",
       "summary": "With SAF costing up to three times conventional jet fuel, experts say the proposed mandate could sharply raise fuel bills, while unclear penalty rules and supply shortages leave carriers uncertain about who will bear the cost and liability.",
       "date": "2026-11-17T00:30:26.000Z",
@@ -261,7 +654,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-16-txvrnk",
+      "id": "newsapi-india-0-38-txvrnk",
       "headline": "India ready to order 1,000 more aircraft amid acute shortage, says Piyush Goyal",
       "summary": "The proposed expansion could help Indian airlines meet growing passenger demand and increase flight connectivity, including services between India and Egypt",
       "date": "2026-11-16T23:55:56.000Z",
@@ -279,7 +672,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-17-eovrqf",
+      "id": "newsapi-india-0-39-eovrqf",
       "headline": "Trump blames ageing FAA equipment for flight chaos as FBI joins probe",
       "summary": "The disruption exposed vulnerabilities in America’s ageing aviation infrastructure, prompting renewed calls for investment in air traffic control modernisation.",
       "date": "2026-11-16T23:41:50.000Z",
@@ -297,7 +690,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-18-uc11a0",
+      "id": "newsapi-india-0-40-uc11a0",
       "headline": "United Airlines reports systemwide outage, impact remains unclear",
       "summary": "United Airlines confirmed a systemwide outage on Monday, days after an FAA network malfunction triggered a nationwide ground stop, and apologised to customers.",
       "date": "2026-11-16T23:26:26.000Z",
@@ -314,7 +707,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-19-ukh8dz",
+      "id": "newsapi-india-0-41-ukh8dz",
       "headline": "India raises export duty on diesel and aviation turbine fuel",
       "summary": "India raises diesel export duty to ₹14 per litre and aviation turbine fuel levy to ₹12.50, while keeping petrol export duty and domestic fuel taxes unchanged.",
       "date": "2026-11-16T23:16:18.000Z",
@@ -330,7 +723,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-20-ud1cnr",
+      "id": "newsapi-india-0-42-ud1cnr",
       "headline": "PM arrives in Philippines for ASEAN, East Asia summits; Quad meet planned",
       "summary": "Prime Minister Narendra Modi arrived in the Philippines on Monday to attend two key regional summits, aiming to strengthen ties with Southeast Asian and East Asian nations and discuss regional and global challenges. Modi will participate in the 23rd ASEAN-Ind…",
       "date": "2026-11-16T18:43:15.000Z",
@@ -346,7 +739,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-21-i6i9bz",
+      "id": "newsapi-india-0-43-i6i9bz",
       "headline": "L3Harris Finds Itself Back in the Spotlight After ATC Meltdown",
       "summary": "L3Harris Technologies Inc. faces renewed scrutiny after US officials said the company may have been at fault for a nationwide grounding of all flights Friday evening, the latest corporate drama to befall the defense giant in recent months.",
       "date": "2026-11-16T18:31:08.000Z",
@@ -362,7 +755,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-22-1dlvhkd",
+      "id": "newsapi-india-0-44-1dlvhkd",
       "headline": "Editorial. Buoyant Q2",
       "summary": "Growth in revenues driven by both price and volume",
       "date": "2026-11-16T15:56:55.000Z",
@@ -378,7 +771,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-23-euj263",
+      "id": "newsapi-india-0-45-euj263",
       "headline": "FIA seeks 25% cut in landing, parking charges for six months",
       "summary": "FIA seeks a 25% six-month cut in landing/parking charges for domestic and international flights, plus UDF relief to ease airline costs amid ongoing West Asia disruptions.",
       "date": "2026-11-16T13:31:27.000Z",
@@ -394,7 +787,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-24-1cttoi2",
+      "id": "newsapi-india-0-46-1cttoi2",
       "headline": "Over 80% of servers were down at peak of global outage, says Microsoft; cites July bug",
       "summary": "Services such as Teams, OneDrive, SharePoint and Office apps were able to move off the faulty gateway and were restored earlier, with Teams chats and meetings working for most of the outage",
       "date": "2026-11-16T11:54:28.000Z",
@@ -410,7 +803,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-25-1717cbn",
+      "id": "newsapi-india-0-47-1717cbn",
       "headline": "US aviation shutdown explained: What caused the FAA nationwide ground stop",
       "summary": "A telecommunications failure affecting 17 of the FAA's 22 regional air traffic control centres triggered a nationwide ground stop on November 13, disrupting thousands of flights",
       "date": "2026-11-16T09:06:47.000Z",
@@ -428,7 +821,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-26-i14uqp",
+      "id": "newsapi-india-0-48-i14uqp",
       "headline": "What to know before signing up for a bank’s premium banking programme",
       "summary": "Some banks also offer waived or reduced charges on cheque books, lockers and debit cards, waive processing fees on loans, and offer relationship-based pricing on loans, deposits and forex.",
       "date": "2026-11-16T08:46:43.000Z",
@@ -444,7 +837,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-27-14njf8h",
+      "id": "newsapi-india-0-49-14njf8h",
       "headline": "Over 80% of servers were down at peak of global outage, says Microsoft",
       "summary": "More than 80 per cent of servers behind Microsoft's networking gateway were unresponsive at the peak of last week's global outage of Outlook and other Microsoft 365 services, the company has said, blaming a hidden software defect introduced in July. Three fac…",
       "date": "2026-11-16T08:43:57.000Z",
@@ -460,7 +853,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-3-xu7kqf",
+      "id": "newsapi-air-india-0-7-xu7kqf",
       "headline": "How credit card rewards can help you save lakhs on your next holiday",
       "summary": "Credit card reward points accumulated on everyday expenses and big purchases can pay for flights and hotel stays, often taking a substantial load off the holiday budget.",
       "date": "2026-11-16T07:53:11.000Z",
@@ -477,7 +870,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-28-nk9cvy",
+      "id": "newsapi-india-0-50-nk9cvy",
       "headline": "Nifty holds 0.45% gains at noon; Bank Nifty hits all-time high, TMPV slumps 8%",
       "summary": "Markets held on to moderate gains at noon on Monday, November 16, 2026, with both benchmark indices trading higher despite profit-booking near the week’s previous highs.",
       "date": "2026-11-16T07:47:58.000Z",
@@ -493,7 +886,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-29-wi7895",
+      "id": "newsapi-india-0-51-wi7895",
       "headline": "Flying to America? Air India cuts flight time to the US by up to 5 hours: Check key routes here",
       "summary": "The resumption follows the reopening of previously restricted airspace that had forced the airline to mandate technical refuelling stops on select international services.",
       "date": "2026-11-16T07:31:44.000Z",
@@ -510,7 +903,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-30-1823xmf",
+      "id": "newsapi-india-0-52-1823xmf",
       "headline": "Amaron Batteries Organises Three-Day Health and Awareness Drive in Hyderabad",
       "summary": "The US Federal Aviation Administration (FAA) will conduct an audit of India's aviation safety oversight standards, mainly covering the areas of aircraft operations, airworthiness and personnel licensing, from November 16 to 20.",
       "date": "2026-11-16T06:45:22.000Z",
@@ -528,7 +921,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-5-1k19b0s",
+      "id": "newsapi-air-india-0-9-1k19b0s",
       "headline": "Planning a holiday? MakeMyTrip rolls out deals on 33,500 hotels, homestays",
       "summary": "MakeMyTrip's Travel Ka Muhurat Sale goes live on November 14",
       "date": "2026-11-16T05:41:17.000Z",
@@ -545,7 +938,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-31-1jbdc0d",
+      "id": "newsapi-india-0-53-1jbdc0d",
       "headline": "Airbus, Boeing supply-chain shift boosts India’s aerospace stocks",
       "summary": "Ten large suppliers, including Sansera Engineering Ltd. and Aequs Ltd., have soared by an average 123% this year so far, compared with a 3% decline in the benchmark Nifty 50",
       "date": "2026-11-16T04:29:01.000Z",
@@ -561,7 +954,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-32-19ju59u",
+      "id": "newsapi-india-0-54-19ju59u",
       "headline": "Yemen forces retreat near Bab el-Mandeb in setback in war against Houthis",
       "summary": "The announcement signalled the apparent end of a six-week government counteroffensive to reclaim the coast near the mouth of the Red Sea, seized by the Houthis in September",
       "date": "2026-11-16T03:14:35.000Z",
@@ -577,7 +970,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-33-1m8qbdi",
+      "id": "newsapi-india-0-55-1m8qbdi",
       "headline": "Yemen’s Houthis claim missile strikes on Riyadh airport and financial centre",
       "summary": "Yemen's Houthis claim missile strikes on Riyadh airport and a financial centre, and allege 75 Saudi airstrikes and missile attacks in 24 hours.",
       "date": "2026-11-15T21:43:38.000Z",
@@ -593,7 +986,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-34-13ecbdb",
+      "id": "newsapi-india-0-56-13ecbdb",
       "headline": "Air India restores non-stop flights on all four New York routes",
       "summary": "Air India resumes non-stop Delhi/Mumbai–New York flights, cutting travel time up to five hours after airspace restrictions eased.",
       "date": "2026-11-15T15:33:03.000Z",
@@ -626,7 +1019,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-35-1mmkkui",
+      "id": "newsapi-india-0-57-1mmkkui",
       "headline": "Maharashtra extends 7% ATF VAT until April 14; Delhi likely to follow",
       "summary": "Maharashtra extends 7% ATF VAT until April 14, 2027, with Delhi expected to follow, easing airline costs amid high fuel prices.",
       "date": "2026-11-15T13:02:28.000Z",
@@ -642,7 +1035,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-36-wncdlq",
+      "id": "newsapi-india-0-58-wncdlq",
       "headline": "Why are flight tickets expensive? High airfares may become new normal, Asia Pacific airline body chief explains",
       "summary": "High airfares could become the new normal as jet fuel prices surge to around $180 a barrel from $80 a year ago, the Association of Asia Pacific Airlines chief has warned. Fuel accounts for a third of airline costs, while the Iran war has prompted global carri…",
       "date": "2026-11-15T12:21:31.000Z",
@@ -658,7 +1051,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-37-1fcxh7g",
+      "id": "newsapi-india-0-59-1fcxh7g",
       "headline": "Appaswamy Real Estates eyes ₹8,000-crore GDV from 5 million sq ft Chennai pipeline",
       "summary": "Appaswamy Real Estates aims for ₹8,000 crore GDV from a 5 million sq ft Chennai pipeline while expanding luxury hospitality with a Maldives resort and tech-driven construction solutions.",
       "date": "2026-11-15T10:42:33.000Z",
@@ -674,7 +1067,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-38-1lzkyxs",
+      "id": "newsapi-india-0-60-1lzkyxs",
       "headline": "India is huge market with 'blue ocean opportunity': Aircraft maker Embraer",
       "summary": "India is a huge market with a \"blue ocean opportunity\", Embraer has said as the Brazilian aerospace major works with Adani Group to establish a regional aircraft manufacturing facility in India. Bullish on India, one of the world's fastest-growing civil aviat…",
       "date": "2026-11-15T10:07:35.000Z",
@@ -690,7 +1083,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-39-39vqgv",
+      "id": "newsapi-india-0-61-39vqgv",
       "headline": "FAA to audit India's aviation safety oversight standards from Nov 16-20",
       "summary": "The US Federal Aviation Administration (FAA) will conduct an audit of India's aviation safety oversight standards, mainly covering the areas of aircraft operations, airworthiness and personnel licensing, from November 16 to 20. Currently, India, one of the wo…",
       "date": "2026-11-15T10:00:58.000Z",
@@ -708,7 +1101,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-40-1eiz0s",
+      "id": "newsapi-india-0-62-1eiz0s",
       "headline": "Noel Tata questions big investments as $185 billion group feud deepens",
       "summary": "Noel Tata has backed investments in strategic sectors but questioned whether projects are being executed with enough discipline",
       "date": "2026-11-15T08:58:27.000Z",
@@ -724,7 +1117,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-41-1y2jb3z",
+      "id": "newsapi-india-0-63-1y2jb3z",
       "headline": "Private equity funding provides fresh impetus to India’s aerospace suppliers",
       "summary": "The availability of capital comes at a time when global aircraft manufacturers, including Airbus and Boeing, are looking to expand their supplier base in countries such as India to address production and supply-chain constraints",
       "date": "2026-11-15T08:43:09.000Z",
@@ -740,7 +1133,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-42-2varmp",
+      "id": "newsapi-india-0-64-2varmp",
       "headline": "Guwahati-bound IndiGo flight returns to Pune due to technical issue",
       "summary": "An IndiGo flight from Pune to Guwahati with 192 persons on board returned to Pune airport on Sunday after its landing gear failed to retract shortly after take-off, airport officials said. IndiGo flight 6E 0623 (VT-IZE) reported a technical issue soon after t…",
       "date": "2026-11-15T06:36:14.000Z",
@@ -757,7 +1150,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-43-11semkg",
+      "id": "newsapi-india-0-65-11semkg",
       "headline": "Escorts Kubota plans new UP plant with 60,000-tractor capacity: CFO",
       "summary": "Escorts Kubota plans to begin construction of a tractor facility in Uttar Pradesh early next fiscal year, with an initial capacity of 60,000 units that can be scaled up to one lakh units, as it prepares to expand production and tap future growth opportunities…",
       "date": "2026-11-15T06:15:57.000Z",
@@ -773,7 +1166,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-44-1ycossi",
+      "id": "newsapi-india-0-66-1ycossi",
       "headline": "Escorts Kubota to set up new UP plant with 60,000-tractor capacity",
       "summary": "Escorts Kubota to start a 60,000-tractor capacity UP plant in phase one, aiming 2.5-year completion amid growth in construction equipment and farm mechanization.",
       "date": "2026-11-15T05:57:35.000Z",
@@ -789,7 +1182,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-45-1e3mg4c",
+      "id": "newsapi-india-0-67-1e3mg4c",
       "headline": "What travellers need to know about US flights after nationwide ground stop",
       "summary": "Officials assured passengers that the US airspace was safe and operational after a nationwide ground stop that was initiated out of caution caused massive travel disruptions. The longest flight stoppage in 25 years lasted more than four hours and ended around…",
       "date": "2026-11-15T05:44:34.000Z",
@@ -805,7 +1198,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-46-74r108",
+      "id": "newsapi-india-0-68-74r108",
       "headline": "US air travel woes to persist into Sunday as thousands of flights hit",
       "summary": "Airlines on Saturday had canceled more than 6,150 US flights and delayed more than 7,300, according to FlightAware, an aviation website",
       "date": "2026-11-15T02:30:16.000Z",
@@ -821,7 +1214,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-47-rvpmvs",
+      "id": "newsapi-india-0-69-rvpmvs",
       "headline": "Single L3Harris router may have triggered US aviation system shutdown",
       "summary": "The incident has renewed scrutiny of the Federal Aviation Administration’s ageing infrastructure and its efforts to modernise critical air traffic communications",
       "date": "2026-11-15T00:16:21.000Z",
@@ -839,7 +1232,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-48-1mlk00e",
+      "id": "newsapi-india-0-70-1mlk00e",
       "headline": "US air travel should recover from ground stop by end of Sunday, FAA says",
       "summary": "US air travel should be fully recovered from the longest nationwide ground stop in 25 years by the end of Sunday, FAA Administrator Bryan Bedford said Saturday. Bedford said the flights \"will still have delays and cancellations\" on Saturday but promised that …",
       "date": "2026-11-14T16:58:55.000Z",
@@ -856,7 +1249,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-49-tpos76",
+      "id": "newsapi-india-0-71-tpos76",
       "headline": "Air India says US flights operated as scheduled, with no major delays",
       "summary": "Air India on Saturday said all its flights to and from the US operated as scheduled without significant delays, even as thousands of flights were grounded across the country due to communications problems at regional air traffic control centres. The airline a…",
       "date": "2026-11-14T15:25:18.000Z",
@@ -874,7 +1267,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-50-lcob5a",
+      "id": "newsapi-india-0-72-lcob5a",
       "headline": "Asia Pacific airlines seek govt support to mitigate cost pressures",
       "summary": "Asia Pacific airlines urge government support to offset rising costs and bolster long-term resilience amid fuel price hikes and regulatory coordination.",
       "date": "2026-11-14T13:18:14.000Z",
@@ -890,7 +1283,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-51-1eottft",
+      "id": "newsapi-india-0-73-1eottft",
       "headline": "Sun PhuQuoc Airways to launch India operations with direct Ahmedabad flight to Vietnam’s largest island",
       "summary": "Sun PhuQuoc Airways to launch five weekly direct Ahmedabad-Phu Quoc flights, boosting India-Vietnam travel with 90% occupancy target.",
       "date": "2026-11-14T13:01:08.000Z",
@@ -906,7 +1299,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-52-18h3jck",
+      "id": "newsapi-india-0-74-18h3jck",
       "headline": "Xi, Trump and Putin to hold historic trilateral summit at APEC meet",
       "summary": "China is set to host the 33rd APEC Economic Leaders' Meeting next week in its high-tech Shenzhen city, where the presidents of China, the US and Russia will hold a historic trilateral summit. The meeting of the 21-nation Asia-Pacific Economic Cooperation (APE…",
       "date": "2026-11-14T11:37:15.000Z",
@@ -922,7 +1315,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-53-5rwlk",
+      "id": "newsapi-india-0-75-5rwlk",
       "headline": "Think. Over the week",
       "summary": "Editorial roundup: US-India trade, El Niño’s pulse drought, electricity reforms, airline fares, crypto regulation, insurance agents, and business cartoons.",
       "date": "2026-11-14T10:40:33.000Z",
@@ -938,7 +1331,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-54-13rckl4",
+      "id": "newsapi-india-0-76-13rckl4",
       "headline": "Noel Tata flags Tata Group execution challenges at HTLS 2026, outlines plans to sharpen Tata Trusts’ philanthropy",
       "summary": "At HTLS 2026, Noel Tata flagged execution gaps in Tata Group’s big projects, stressing capital allocation and delivery discipline. He also outlined Tata Trusts’ focus on measurable philanthropic impact and plans for 40-50 hospitals.",
       "date": "2026-11-14T10:08:48.000Z",
@@ -954,7 +1347,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-8-ccaewg",
+      "id": "newsapi-air-india-0-12-ccaewg",
       "headline": "Tata Sons listing will change 'Tata way', will engage with regulators: Noel",
       "summary": "Noel said while 'some people' are proposing a listing for group's holding company, he fears that enlarging the number of shareholders after a listing will shift its focus to profits from philanthropy",
       "date": "2026-11-14T09:25:05.000Z",
@@ -972,7 +1365,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-55-1ju6jp7",
+      "id": "newsapi-india-0-77-1ju6jp7",
       "headline": "Trump official seeks $50 billion for air traffic control after outage",
       "summary": "Transportation Secretary Sean ‌Duffy and the White House earlier on Friday asked for $30.1 billion ​to upgrade the United States' aging airports and air traffic ⁠control system",
       "date": "2026-11-14T07:56:21.000Z",
@@ -988,7 +1381,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-56-12382n4",
+      "id": "newsapi-india-0-78-12382n4",
       "headline": "Old air traffic control equipment regularly disrupts US flights",
       "summary": "The FAA grounded all U.S. departures after an ATC communications outage. Airlines canceled over 1,000 flights and delayed nearly 10,000, FlightAware says",
       "date": "2026-11-14T06:01:46.000Z",
@@ -1006,7 +1399,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-57-1yna7hl",
+      "id": "newsapi-india-0-79-1yna7hl",
       "headline": "Trump administration blames ‘overloaded' systems for ground stop after FAA lets flights resume",
       "summary": "It was lifted Friday night after a five-hour stretch when most flights were not allowed to take off from airports in the United States",
       "date": "2026-11-14T05:01:27.000Z",
@@ -1024,7 +1417,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-9-1cqb3d0",
+      "id": "newsapi-air-india-0-13-1cqb3d0",
       "headline": "Why Tata Sons rejected Noel Tata's request for board meeting recording: Inside the Tata boardroom tussle",
       "summary": "Tata Sons has rejected Noel Tata's request for the September 17 board meeting recording, citing its policy of not sharing recordings of in-person meetings. Noel had sought it after opposing N Chandrasekaran's reappointment amid differences over Tata Sons' lis…",
       "date": "2026-11-14T04:58:14.000Z",
@@ -1041,7 +1434,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-58-19xgf2e",
+      "id": "newsapi-india-0-80-19xgf2e",
       "headline": "FAA lifts ground stop after four-hour nationwide disruption",
       "summary": "The ground stop was lifted at 8:15 p.m. Friday. Airlines must restore schedules, with delays and cancellations likely as carriers reposition aircraft and crews",
       "date": "2026-11-14T03:51:54.000Z",
@@ -1059,7 +1452,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-59-aks1tj",
+      "id": "newsapi-india-0-81-aks1tj",
       "headline": "Duffy calls for $50 bn emergency air traffic upgrade funds after outage",
       "summary": "Duffy and Homeland Security Secretary Markwayne Mullin said the outage was caused by older routers being overloaded with data",
       "date": "2026-11-14T03:50:18.000Z",
@@ -1077,7 +1470,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-60-168p5du",
+      "id": "newsapi-india-0-82-168p5du",
       "headline": "US authorities lift nationwide flight ground stop after 4-hour disruption",
       "summary": "The Federal Aviation Administration halted flying on Friday after a data overload crippled air traffic control communications and radar",
       "date": "2026-11-14T03:23:23.000Z",
@@ -1094,7 +1487,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-61-1pq483j",
+      "id": "newsapi-india-0-83-1pq483j",
       "headline": "IG Defence plans JWALA missile, propulsion manufacturing hub in Andhra",
       "summary": "The 200-acre Nellore facility will focus on indigenous micro-missiles, propulsion systems, precision-strike technologies and software-defined defence manufacturing",
       "date": "2026-11-14T02:26:43.000Z",
@@ -1110,7 +1503,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-62-l5uwrc",
+      "id": "newsapi-india-0-84-l5uwrc",
       "headline": "US stocks mostly ease with tech, Nvidia concerns; airline shares fall",
       "summary": "Airline shares dropped in the final minutes of the regular US session after the US Federal Aviation Administration issued a national ground stop of ​all departing flights",
       "date": "2026-11-14T02:22:48.000Z",
@@ -1126,7 +1519,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-63-fkkj50",
+      "id": "newsapi-india-0-85-fkkj50",
       "headline": "Flights halted at airports across US due to ATC communications problems",
       "summary": "The Federal Aviation Administration grounded all flights nationwide Friday afternoon because of communications problems at regional air traffic control centres. The FAA notice said the ground stop was being imposed \"due to extraordinary circumstances and for …",
       "date": "2026-11-14T02:14:20.000Z",
@@ -1144,7 +1537,7 @@
       ]
     },
     {
-      "id": "newsapi-air-india-0-10-1qb3x07",
+      "id": "newsapi-air-india-0-14-1qb3x07",
       "headline": "Microsoft outage eases after over a day, recovery timeline uncertain",
       "summary": "Microsoft said server issues were behind the incident that also affected its Copilot AI assistant and that a broader rollout ​of software fixes was stabilizing the system",
       "date": "2026-11-14T02:08:21.000Z",
@@ -1178,7 +1571,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-64-1w9qkkm",
+      "id": "newsapi-india-0-86-1w9qkkm",
       "headline": "‘This isn’t 9/11’: US Homeland Security Secy says no security threat indicated behind flight halt",
       "summary": "Authorities are investigating the communications failure that disrupted air traffic nationwide, while assuring passengers that all flights were accounted for",
       "date": "2026-11-14T00:40:37.000Z",
@@ -1193,403 +1586,6 @@
         "safety",
         "airports",
         "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-65-msf7xz",
-      "headline": "Microsoft apologises after global outage disrupts Outlook, Teams and Copilot for nearly 18 hours",
-      "summary": "Millions of users, businesses, government agencies and airlines faced disruption before Microsoft gradually restored services and promised a detailed investigation",
-      "date": "2026-11-14T00:25:51.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-apologises-after-global-outage-disrupts-outlook-teams-and-copilot-for-nearly-18-hours/article71700683.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-66-5m7f2w",
-      "headline": "US grounds all flights nationwide after air traffic control communication outage",
-      "summary": "The FAA grounds departing flights across the US after a telecommunications outage disrupts air traffic control, raising concerns over domestic and international travel.",
-      "date": "2026-11-13T23:51:11.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/us-grounds-all-flights-nationwide-after-air-traffic-control-communication-outage/article71700537.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation",
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-67-11k4mho",
-      "headline": "SpaceX aims for first double catch of Starship in its most ambitious test flight yet",
-      "summary": "SpaceX aims for first double catch of Starship in its most ambitious test flight yet",
-      "date": "2026-11-13T19:30:50.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet-11794598250576.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-68-he9aks",
-      "headline": "Why are SpiceJet flights being cancelled across India? Financial crisis, airport dues and crew shortages explained",
-      "summary": "Airport authorities have restricted the financially distressed airline's operations over its inability to pay mandatory charges for using airport facilities and services, according to a report",
-      "date": "2026-11-13T18:42:28.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/infrastructure/why-are-spicejet-flights-being-cancelled-across-india-financial-crisis-airport-dues-and-crew-shortages-explained-11794584173566.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-69-1xs6yre",
-      "headline": "Air India, AI Express extends flight cancellations to Saudi Arabia",
-      "summary": "Tata-owned Air India and Air India Express on Friday extended the cancellation of their flights connecting Riyadh and Dammam till November 30, while services to Jeddah will remain suspended till November 21. Earlier, on November 10, IndiGo said it was extendi…",
-      "date": "2026-11-13T18:00:07.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-ai-express-extends-flight-cancellations-to-saudi-arabia-126111301503_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-70-o60rsc",
-      "headline": "Venu Srinivasan, Vijay Singh hit back at Khambata, accuse him of ignoring governance failures",
-      "summary": "They Khambata's account of the events leading to the September board meeting, asking why he had not objected when an earlier unanimous decision to renew Chandrasekaran's tenure was allowed to remain unresolved for 7 months",
-      "date": "2026-11-13T16:00:43.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/venu-srinivasan-vijay-singh-hit-back-at-khambata-accuse-him-of-ignoring-governance-failures/article71699180.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-12-1s1vozo",
-      "headline": "Microsoft 365 outage hits Indian companies, disrupts workplace operations",
-      "summary": "The global Microsoft 365 outage disrupted email and workplace services across Indian companies, forcing some firms to reschedule meetings and raising concerns over cloud reliance",
-      "date": "2026-11-13T15:20:13.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/technology/tech-news/microsoft-365-outage-hits-indian-companies-disrupts-workplace-operations-126111301699_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-71-13885em",
-      "headline": "PM Modi calls for greater nuclear investment as AI, data centres drive power demand",
-      "summary": "Modi urges expanded nuclear investment to power India's AI, data centres and tech growth, linking energy security to renewable and decentralised power.",
-      "date": "2026-11-13T14:45:18.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/pm-modi-calls-for-greater-nuclear-investment-as-ai-data-centres-drive-power-demand/article71698428.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-72-10vuvl1",
-      "headline": "Microsoft services recover after global outage disrupts users in 74 countries",
-      "summary": "The disruption affected businesses, schools and government agencies, while Microsoft continued efforts to stabilise infrastructure and clear delayed email backlogs",
-      "date": "2026-11-13T14:09:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-services-recover-after-global-outage-disrupts-users-in-74-countries/article71698487.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-73-ycwxhr",
-      "headline": "Andhra Pradesh inks investments deals worth ₹9.89 lakh crore in CII Partnership Summit",
-      "summary": "AP secures ₹9.89 lakh crore in investment deals at the 31st CII Partnership Summit, highlighting rapid approvals and key sector investments.",
-      "date": "2026-11-13T12:59:27.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/andhra-pradesh-inks-investments-deals-worth-989-lakh-crore-in-cii-partnership-summit/article71697940.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "faa-1-i2dtaf",
-      "headline": "FAA Daily Air Traffic Report",
-      "summary": "FAA Daily Air Traffic Report jennifer_rossi Fri, 11/13/2026 - 07:56 Today's Air Traffic Report Friday, November 13, 2026 Gusty wind and low clouds may delay flights in Boston (BOS), New York (EWR, JFK, LGA), Philadelphia (PHL), Las Vegas (LAS) and San Francisco (SFO) . High wind in Washington, D.C. (BWI, DCA, IAD) . Rain and snow showers are forecast in…",
-      "date": "2026-11-13T12:56:37.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/faa-daily-air-traffic-report",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "regulation",
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-74-13w8jop",
-      "headline": "The Adani Group faces pushback over its Navi Mumbai airport moves—here’s why it’s a test of the conglomerate’s dominance",
-      "summary": "The corporation’s move to shift flight takeoffs to certain international destinations from the legacy airport in Mumbai to the new airport on the outskirts has ruffled the feathers of foreign carriers, passengers and even the chief minister of Maharashtra. Ho…",
-      "date": "2026-11-13T11:16:31.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/opinion/online-views/the-adani-group-faces-pushback-over-its-navi-mumbai-airport-moves-here-s-why-it-s-a-test-of-the-conglomerate-s-dominance-11794565304116.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-75-1odprk",
-      "headline": "Air India and SIA: not all marriages are made in heaven",
-      "summary": "Air India might need to take a deeper dive to see what it has gained from its union with Singapore Airlines (SIA)",
-      "date": "2026-11-13T11:02:42.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/opinion/air-india-sia-marriages-heaven-union-11794554085175.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-air-india-0-15-14q3kw2",
-      "headline": "Tata Sons rejects Noel Tata's request for Sept 17 board meeting recording",
-      "summary": "Tata Sons has rejected Tata Trusts Chairman Noel Tata's request for sharing an audio-video recording of proceedings of a board meeting held on September 17 in which N Chandrasekaran was reappointed as the chairman of the largest conglomerate's holding company…",
-      "date": "2026-11-13T10:52:42.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/tata-sons-rejects-noel-tata-s-request-for-sept-17-board-meeting-recording-126111300995_1.html",
-      "scopeHint": "air-india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-76-nrzl1f",
-      "headline": "Microsoft disruption exposes risks of relying on single provider: Experts",
-      "summary": "Microsoft 365 outage disrupted workplace services worldwide and in India, exposing cloud dependency risks as experts urged Indian businesses to strengthen disaster recovery and diversify providers",
-      "date": "2026-11-13T10:27:31.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/technology/tech-news/microsoft-disruption-exposes-risks-of-relying-on-single-provider-experts-126111300971_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-77-1ox9m6l",
-      "headline": "Chandrababu Naidu backs Modi’s leadership, says next 20 years crucial for India",
-      "summary": "Speaking at the CII Partnership Summit, the Andhra Pradesh Chief Minister discussed political alliances, economic reforms and the State’s development priorities",
-      "date": "2026-11-13T09:58:54.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/chandrababu-naidu-backs-modis-leadership-says-next-20-years-crucial-for-india/article71697412.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-78-1hovy6v",
-      "headline": "PM Modi inaugurates Bengaluru Metro Pink Line stretch, network crosses 100 km",
-      "summary": "PM Modi inaugurates Bengaluru Metro's 7.5-km Pink Line stretch, taking the network beyond 100 km, and is set to launch projects worth ₹15,600 crore.",
-      "date": "2026-11-13T09:43:54.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/pm-modi-inaugurates-bengaluru-metro-pink-line-stretch-network-crosses-100-km/article71697361.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-79-19d7fh5",
-      "headline": "Microsoft outage explained: What happened, how businesses were affected and when services will return",
-      "summary": "Microsoft's global outage disrupted Outlook, Teams, Copilot and other services, affecting businesses, airlines and government operations. Microsoft is exploring alternative fixes after initial recovery efforts failed to restore services fully.",
-      "date": "2026-11-13T09:18:13.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/microsoft-outage-explained-what-happened-how-businesses-were-affected-and-when-services-will-return-11794560994159.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-80-v9w8m3",
-      "headline": "Microsoft service disruption impacts IndiGo's email support services",
-      "summary": "IndiGo on Friday said its email support services have been impacted by the Microsoft service disruption. In a post on X, the country's largest airline said all other support channels remain available. \"Due to a global Microsoft service disruption, our email s…",
-      "date": "2026-11-13T08:57:22.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/aviation/microsoft-service-disruption-impacts-indigo-s-email-support-services-126111300719_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-81-1lcrjyk",
-      "headline": "Microsoft outage enters second day; company says not aware of malicious activity",
-      "summary": "Microsoft outages persist globally with no known malicious activity; Microsoft investigates multiple root causes as services like Outlook and Teams face disruptions.",
-      "date": "2026-11-13T08:49:40.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-outage-enters-second-day-company-says-not-aware-of-malicious-activity/article71697103.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-82-f2xfu8",
-      "headline": "Microsoft outage impacts IndiGo's email support services",
-      "summary": "IndiGo’s email support impaired by global Microsoft outage; Air India confirms normal operations and rerouted emails, with a broader service disruption ongoing.",
-      "date": "2026-11-13T08:36:07.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/microsoft-outage-impacts-indigos-email-support-services/article71697132.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-83-rcfoc5",
-      "headline": "SpiceJet to file overdue results after exchange's suspension warning",
-      "summary": "BSE has warned it will suspend trading in SpiceJet shares if it does not announce its results by December 7",
-      "date": "2026-11-13T08:19:10.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/spicejet-to-file-overdue-results-after-exchanges-suspension-warning/article71696953.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-84-srnm1q",
-      "headline": "SpiceJet board to consider fresh fundraising proposal on November 18",
-      "summary": "Budget carrier SpiceJet on Friday said its board will consider a proposal for raising fresh funds on November 18. In recent times, the airline has been facing significant financial and operational headwinds. It has also curtailed flights. SpiceJet said its bo…",
-      "date": "2026-11-13T07:48:09.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/spicejet-board-to-consider-fresh-fundraising-proposal-on-november-18-126111300700_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-85-16wog1j",
-      "headline": "SpiceJet to file overdue financial results after BSE warns of suspension",
-      "summary": "SpiceJet's share of India's domestic aviation market, the world's third-largest, has plunged to ‌just 0.6% from nearly 15% in 2019",
-      "date": "2026-11-13T07:05:58.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/companies/news/spicejet-to-file-overdue-financial-results-after-bse-warns-of-suspension-126111300636_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
       ]
     }
   ]
