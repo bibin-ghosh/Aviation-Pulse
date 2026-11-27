@@ -1,9 +1,434 @@
 {
-  "refreshedAt": "2026-11-26T10:58:44.287Z",
+  "refreshedAt": "2026-11-27T10:56:43.655Z",
   "edition": "github-scheduled-source-check",
   "items": [
     {
-      "id": "newsapi-india-0-0-oe5iw5",
+      "id": "newsapi-india-0-0-qlncd1",
+      "headline": "India Inc revenue growth seen at 18-20% in Q3, margins to shrink: ICRA",
+      "summary": "ICRA forecasts India Inc’s Q3 revenue growth at 18-20% with margins easing 50-75 bps amid inflation and cost pressures.",
+      "date": "2026-11-26T09:54:51.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/india-inc-revenue-growth-seen-at-18-20-in-q3-margins-to-shrink-icra/article71745897.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-1-19m4gjg",
+      "headline": "IndiGo up 22% in a month; Anand Rathi sees macro tailwinds aiding recovery",
+      "summary": "IndiGo share price: Anand Rathi has maintained a 'Buy' rating on IndiGo stock and raised the target price to ₹6,600 from ₹5,550. The target implies an upside of nearly 16 per cent from the previous close of ₹5,720.",
+      "date": "2026-11-26T09:44:58.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/indigo-up-22-in-a-month-anand-rathi-sees-macro-tailwinds-aiding-recovery-126112600733_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-2-u64zhz",
+      "headline": "LOC against CJP's Saurav Das, discrepancies in passport: Centre tells HC",
+      "summary": "The Centre on Thursday informed the Delhi High Court that a Look Out Circular has been issued against CJP co-convener Saurav Das, who was stopped at the airport from travelling to the United Kingdom. The submission was made before Justice Amit Mahajan, who is…",
+      "date": "2026-11-26T09:08:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/loc-against-cjp-s-saurav-das-discrepancies-in-passport-centre-tells-hc-126112600585_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-3-flw3j0",
+      "headline": "Could a humans-only policy become a competitive edge for companies in the AI age?",
+      "summary": "With the proliferation of artificial intelligence (AI), the customer service experience has become more impersonal. A human-attended response system designed for the needs of users and not business efficiency could serve as a differentiator. Here's how.",
+      "date": "2026-11-26T08:30:57.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/opinion/online-views/could-a-humans-only-policy-become-a-competitive-edge-for-companies-in-the-ai-age-11795600257862.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-4-10pfoxs",
+      "headline": "Four Indian deep-tech startups selected for Israel Aerospace Industries’ NeuSPHERE programme",
+      "summary": "Four Indian deep-tech startups—Aganitha Space, Nostradamus, Pramatra, and Kawa Space—join IAI NeuSPHERE’s second cohort for advanced aerospace tech.",
+      "date": "2026-11-26T07:17:55.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/four-indian-deep-tech-startups-selected-for-israel-aerospace-industries-neusphere-programme/article71745469.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-5-uew4xa",
+      "headline": "₹2,014 crore for new Assam Greenfield Airport, ₹4,000 crore boost to Tamil Nadu port: Union Cabinet's big decisions",
+      "summary": "The Union Cabinet approved the development of Greenfield Airport at Doloo, Silchar, Assam at an estimated cost of 2,014 crore.",
+      "date": "2026-11-26T06:23:06.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/infrastructure/rs-2-014-crore-for-new-assam-greenfield-airport-rs-4-000-crore-boost-to-tamil-nadu-port-union-cabinets-big-decisions-11795673592717.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-6-1krswgy",
+      "headline": "Tata Trusts to challenge Chandrasekaran's reappointment in Bombay HC",
+      "summary": "The charitable entities controlling the Tata Group are set to challenge N Chandrasekaran's reappointment as Tata Sons chairman",
+      "date": "2026-11-26T05:10:27.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/tata-trusts-to-challenge-chandrasekaran-s-reappointment-in-bombay-hc-126112600185_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-7-vji53b",
+      "headline": "Norse Atlantic’s financial woes deepen: Flights cancelled, IndiGo deal ends, takeover talks on",
+      "summary": "Norse Atlantic’s financial crisis worsened as shares plunged, flights were cancelled and the airline disclosed talks over short-term financing and a possible takeover. Its wet-lease agreement with IndiGo has ended, while PIA has shifted cancelled Norse-operat…",
+      "date": "2026-11-26T02:47:43.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/norse-atlantic-s-financial-woes-deepen-flights-cancelled-indigo-deal-ends-takeover-talks-on-11795658948871.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-8-1cp64f7",
+      "headline": "Green Aero raises $14 million to develop jet engines and combat drones",
+      "summary": "Crane Ventures leads the Series A funding round as the Bengaluru-based startup expands its engine testing facilities and develops autonomous aircraft for military and commercial markets",
+      "date": "2026-11-26T00:30:27.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/green-aero-raises-14-million-to-develop-jet-engines-and-combat-drones-126112501253_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-9-dmq3yo",
+      "headline": "Alice Huang-linked firms listed $270 million in AI servers in China",
+      "summary": "Reuters-reviewed records show Alice Huang-linked firms raised financing against AI servers and networking equipment worth $301 million in China, as US authorities investigate suspected chip diversion.",
+      "date": "2026-11-25T18:42:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/world-news/alice-huang-linked-firms-listed-270-million-in-ai-servers-in-china-126112501268_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "safety",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-10-uwmmfv",
+      "headline": "New Air India CEO Tewolde Gebremariam flags internal brand rivalry",
+      "summary": "Airline to integrate finance, HR and IT with Air India Express, while keeping operational and customer-facing functions separate",
+      "date": "2026-11-25T17:25:18.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/new-air-india-ceo-tewolde-gebremariam-flags-internal-brand-rivalry-126112501278_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-11-5p2kk7",
+      "headline": "Someone repaid your loan in cash and you deposited it in the bank. Can the taxman treat it as your income? ITAT explains",
+      "summary": "The Delhi ITAT deleted a ₹12.09 lakh addition after a taxpayer established that cash deposited in his bank account came from repayment of a ₹25 lakh loan. The borrower had denied taking the loan, but its own balance sheets supported his claim.",
+      "date": "2026-11-25T17:20:21.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/money/personal-finance/someone-repaid-your-loan-in-cash-and-you-deposited-it-in-the-bank-can-the-taxman-treat-it-as-your-income-itat-explains-11795626911398.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-12-urnw8s",
+      "headline": "SC examines duty-free shops' regulatory exemption in nicotine pouch case",
+      "summary": "The Supreme Court issued notice on a plea challenging a Bombay High Court ruling that goods sold at duty-free shops are not exempt from domestic regulatory requirements",
+      "date": "2026-11-25T16:04:18.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/sc-examines-duty-free-shops-regulatory-exemption-in-nicotine-pouch-case-126112501234_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-world-2-0-1s7ahki",
+      "headline": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
+      "summary": "Thanksgiving travel is in full swing, with airline and road traffic ramping up across the U.S. But travelers in many spots are facing weather challenges, including rain on the East Coast, snow in the nation's mid-section and coastal flooding in…",
+      "date": "2026-11-25T15:42:00.000Z",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/travel-thanksgiving-airports-highways-041a81e33ed10df50e89dc04705a6dcc",
+      "scopeHint": "world",
+      "scopes": [
+        "world"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-13-1irydw9",
+      "headline": "Air India CEO Tewolde targets ₹6,000 crore in savings under ‘one group’ push",
+      "summary": "The restructuring brings Air India and Air India Express closer through shared back-end functions while keeping their flying permits separate.",
+      "date": "2026-11-25T14:56:44.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/air-india-ceo-tewolde-targets-6-000-crore-in-savings-under-one-group-push-11795615847512.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-14-1m66u2m",
+      "headline": "Cabinet approves ₹2,014-crore greenfield airport at Silchar",
+      "summary": "Cabinet approves ₹2,014 crore greenfield Doloo airport in Assam to ease capacity constraints and boost regional connectivity and tourism.",
+      "date": "2026-11-25T14:47:04.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/cabinet-approves-2014-crore-greenfield-airport-at-silchar/article71741953.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports",
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-15-1oa6b76",
+      "headline": "Air India CEO outlines group integration, ₹6,000-crore savings plan",
+      "summary": "Air India's GebreMmariam unveils group integration, ₹6,000-crore savings plan, shared services, network redesign, and new ventures to boost profitability.",
+      "date": "2026-11-25T14:46:42.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/air-india-ceo-outlines-group-integration-6000-crore-savings-plan/article71743022.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "business",
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-16-8o87gv",
+      "headline": "Green Aero bags $14 million to commercialise jet engines, military drones",
+      "summary": "The round also saw participation from 3one4 Capital, Antler Elevate, and returning investors: pi Ventures, Antler India, and Rebalance",
+      "date": "2026-11-25T14:32:43.000Z",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/green-aero-bags-14-million-to-commercialise-jet-engines-military-drones/article71742985.ece",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "fleet"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-17-ulqdlm",
+      "headline": "Cabinet clears ₹20,000-crore infra push led by ₹11,000-crore equipment scheme",
+      "summary": "The Cabinet also cleared a Kamarajar Port container terminal, a new Assam airport, and postal infrastructure plans.",
+      "date": "2026-11-25T14:04:37.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/infrastructure/cabinet-clears-20-000-crore-infra-push-led-by-11-000-crore-equipment-scheme-11795612296651.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "airports"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-18-1hmbtql",
+      "headline": "Passport rules: When can authorities stop Indians from travelling abroad?",
+      "summary": "The Passports Act, 1967 specifies when overseas travel can be restricted. Here is what authorities can do when discrepancies surface and what remedies citizens have",
+      "date": "2026-11-25T13:16:13.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/india-news/passport-rules-when-can-authorities-stop-indians-from-travelling-abroad-126112501088_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-19-klrymn",
+      "headline": "Aero India 2027 outgrows its venue as exhibitor demand hits record high",
+      "summary": "The Ministry of Defence is constructing two additional exhibition hangars at Air Force Station Yelahanka after requests for space exceeded initial capacity by about 12,000 sq m",
+      "date": "2026-11-25T13:04:01.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/aero-india-2027-outgrows-its-venue-as-exhibitor-demand-hits-record-high-126112501049_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-20-rtlwk7",
+      "headline": "Ball Corp to set up ₹2,900 cr beverage can manufacturing unit in Meerut",
+      "summary": "Uttar Pradesh Chief Minister Yogi Adityanath laid the foundation stone for the facility, which is expected to generate thousands of direct and indirect employment opportunities",
+      "date": "2026-11-25T12:55:39.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/uttar-pradesh/ball-corp-to-set-up-2-900-cr-beverage-can-manufacturing-unit-in-meerut-126112501028_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-21-h2b3ak",
+      "headline": "Air India & Air India Express to operate under ‘One Air India Group’- What changes for passengers? What you should know?",
+      "summary": "Air India and Air India Express will operate under a ‘One Air India Group’ structure, targeting ₹6,000 crore in savings. Here's what changes for passengers.",
+      "date": "2026-11-25T12:47:29.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/air-india-air-india-express-to-operate-under-one-air-india-group-what-changes-for-passengers-what-you-should-k-11795609795575.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-air-india-0-3-1lksuvu",
+      "headline": "Air India plans closer ties with Air India Express to tackle cost pressures",
+      "summary": "Air India and Air India Express plan closer operational coordination to tackle rising costs and address operational challenges",
+      "date": "2026-11-25T12:43:22.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/aviation/air-india-plans-closer-ties-with-air-india-express-to-tackle-cost-pressures-126112500970_1.html",
+      "scopeHint": "air-india",
+      "scopes": [
+        "world",
+        "india",
+        "air-india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-22-1tvwist",
+      "headline": "PNB partners with Deutsche Bank to explore acquisition financing in India",
+      "summary": "The partnership follows similar arrangements by SBI and Bank of Baroda with Japan's MUFG Bank and Mizuho Bank, respectively, to tap opportunities in acquisition financing",
+      "date": "2026-11-25T12:24:23.000Z",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/banking/pnb-partners-with-deutsche-bank-to-explore-acquisition-financing-in-india-126112500965_1.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "industry"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-23-1th1a23",
+      "headline": "Technocrat E Sreedharan pitches ₹60,000-crore Kerala semi-high-speed rail corridor, proposes crowdfunding",
+      "summary": "Sreedharan has argued that Kerala's proposed 472-km semi-high-speed rail corridor could cost less than constructing additional railway tracks along the existing route. Estimated at ₹60k cr, the elevated, solar-powered project could also reduce operating and m…",
+      "date": "2026-11-25T11:39:40.000Z",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/industry/infrastructure/technocrat-e-sreedharan-pitches-60-000-crore-kerala-semi-high-speed-rail-corridor-proposes-crowdfunding-11795605717367.html",
+      "scopeHint": "india",
+      "scopes": [
+        "world",
+        "india"
+      ],
+      "topics": [
+        "operations"
+      ]
+    },
+    {
+      "id": "newsapi-india-0-24-oe5iw5",
       "headline": "Who is behind China's $270 million AI server network? Fresh Alice Huang links emerge after US blacklists Megaspeed",
       "summary": "The US has blacklisted Megaspeed amid scrutiny of Nvidia chip exports to China. Report finds Alice Huang's family-linked firms financed $270 million in AI servers.",
       "date": "2026-11-25T10:56:03.000Z",
@@ -20,7 +445,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-1-16i7tpw",
+      "id": "newsapi-india-0-25-16i7tpw",
       "headline": "Noise Master Buds Open review: Clipped on, tuned in",
       "summary": "Open Earbuds with Bose-tuned sound, stylish design, and strong situational awareness; a solid, value-driven entry into the growing Open TWS segment.",
       "date": "2026-11-25T10:13:28.000Z",
@@ -36,7 +461,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-2-4ap5n8",
+      "id": "newsapi-india-0-26-4ap5n8",
       "headline": "Hyderabad Airport commissions upgraded ETV-based storage system, increasing ULD capacity by over 140%",
       "summary": "The RGIA Hyderabad, operated by GMR Hyderabad International Airport Limited (GHIAL), said in a post on X that the upgraded system has increased the terminal’s Unit Load Device (ULD) storage capacity “by over 140% [from 33 to 80 ULDs] within the existing termi…",
       "date": "2026-11-25T08:37:39.000Z",
@@ -53,7 +478,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-3-18rfqh7",
+      "id": "newsapi-india-0-27-18rfqh7",
       "headline": "Why China's space link with Pakistan matters to India",
       "summary": "According to Indian defence officials, China could have provided Pakistan with real-time satellite information during Operation Sindoor",
       "date": "2026-11-25T08:30:29.000Z",
@@ -69,7 +494,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-4-enkyqx",
+      "id": "newsapi-india-0-28-enkyqx",
       "headline": "Markets hold ground mid-session; metals drag as Banks, FMCG underpin rally",
       "summary": "Indian markets hold gains midday as banking, FMCG lift indices; metals and media lag while RBI/U.S. data loom.",
       "date": "2026-11-25T08:15:27.000Z",
@@ -85,7 +510,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-5-4pqfai",
+      "id": "newsapi-india-0-29-4pqfai",
       "headline": "SC notice to Centre on Adani-backed retailer’s challenge over nicotine pouch sales at Mumbai airport",
       "summary": "The dispute is over whether Indian drug laws apply to products sold at duty-free shops beyond the customs barrier, and whether nicotine pouches sold by Adani-backed retailers at Mumbai airport qualify as “drugs” under the Drugs and Cosmetics Act",
       "date": "2026-11-25T07:24:39.000Z",
@@ -101,7 +526,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-6-1i20kq7",
+      "id": "newsapi-india-0-30-1i20kq7",
       "headline": "Alice Huang-linked firms listed $270 million in AI servers in China, records show",
       "summary": "China-linked firms tied to Alice Huang financed and leased up to 764 AI servers worth $270M for major data centres, amid US scrutiny of Nvidia technology.",
       "date": "2026-11-25T06:43:57.000Z",
@@ -117,7 +542,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-7-x3yo6x",
+      "id": "newsapi-india-0-31-x3yo6x",
       "headline": "US shelves plans for business deals with Russia to end Ukraine war: Report",
       "summary": "Trump's envoys Steve Witkoff and Jared Kushner told European officials ‌that corporate tie-ups were no longer a core aspect of the US pitch to Russia",
       "date": "2026-11-25T06:29:26.000Z",
@@ -133,7 +558,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-8-17czukq",
+      "id": "newsapi-india-0-32-17czukq",
       "headline": "Oil-sensitive stocks rally up to 5% as Brent slips below $90; CEAT leads",
       "summary": "Brent crude, the global oil benchmark, was trading 1.54 per cent lower at $89.99 per barrel, while West Texas Intermediate (WTI) crude fell 1.7 per cent to $80.60.",
       "date": "2026-11-25T06:28:30.000Z",
@@ -149,7 +574,7 @@
       ]
     },
     {
-      "id": "newsapi-india-0-9-esleiw",
+      "id": "newsapi-india-0-33-esleiw",
       "headline": "Global airports court private capital to fund upgrades, raising cost concerns",
       "summary": "More than $4 trillion is expected to be spent over the next 30 years on such infrastructure, according to data from trade group Airports Council International presented at a UN aviation gathering ‌in Montreal",
       "date": "2026-11-25T05:28:53.000Z",
@@ -162,433 +587,6 @@
       ],
       "topics": [
         "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-10-ayycg1",
-      "headline": "Malaysia Airlines' parent to buy 10 Boeing 787 Dreamliners, says CEO",
-      "summary": "The order will include an option to buy an additional six aircraft, MAG ‌President and CEO Nasaruddin A Bakar said at a ceremony to exchange documents",
-      "date": "2026-11-25T05:24:52.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/malaysia-airlines-parent-to-buy-10-boeing-787-dreamliners-says-ceo-126112500231_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-11-bgz912",
-      "headline": "New CEO Tewolde Gebremariam gets free hand from Tata Sons for Air India revamp: Report",
-      "summary": "Tata Sons has reportedly authorized Air India CEO Tewolde Gebremariam to overhaul management and improve performance. The airline’s plans include reducing expenses, adjusting routes affected by airspace closures, pursuing wide-body aircraft and examining ways…",
-      "date": "2026-11-25T05:17:04.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/new-ceo-tewolde-gebremariam-gets-free-hand-from-tata-sons-for-air-india-revamp-report-11795583129626.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "fleet",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-12-7wm3sh",
-      "headline": "What is ‘Code Red’ declared by Microsoft after historic Outlook, Teams outage on Nov 12-13? Explained",
-      "summary": "Microsoft declared a “Code Red” to overhaul how it prevents and responds to major service failures, according to a memo seen by Reuters. Here's all you need to know about it.",
-      "date": "2026-11-25T03:32:17.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/what-is-code-red-declared-microsoft-after-historic-outlook-teams-outage-on-november-explained-11795577119032.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-13-1qntjy8",
-      "headline": "Karnataka clears Pixxel’s ₹350-crore satellite manufacturing project",
-      "summary": "Karnataka has approved Pixxel’s ₹350-crore proposal to set up a satellite manufacturing facility, with the company seeking six acres of land for the project.",
-      "date": "2026-11-24T23:54:42.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/karnataka-clears-pixxels-350-crore-satellite-manufacturing-project/article71740209.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "easa-0-1xr9j8k",
-      "headline": "A new EASA Pro homepage – discover the breadth of EASA’s work",
-      "summary": "The European Union Aviation Safety Agency (EASA) has redesigned the homepage of its website for aviation professionals, EASA Pro, to give visitors a clearer picture at a glance of the breadth of the Agency’s activities and how they contribute to safe and sustainable aviation. The new homepage provides a more structured overview of EASA’s work across the…",
-      "date": "2026-11-24T22:00:00.000Z",
-      "source": "EASA",
-      "sourceUrl": "https://www.easa.europa.eu/newsroom-and-events/news/new-easa-pro-homepage-discover-breadth-easas-work",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "safety",
-        "regulation"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-14-179xq3",
-      "headline": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-      "summary": "The November 12-13 outage hit governments from Australia and Japan to the United States, delayed trading firms and disrupted airline communications, fueling broader concerns about the vulnerability of critical digital infrastructure. Microsoft said the incide…",
-      "date": "2026-11-24T19:56:14.000Z",
-      "source": "Moneycontrol",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/companies/microsoft-declares-code-red-after-historic-outage-internal-memos-show-14088239.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-15-1t0ruqz",
-      "headline": "Sreedharan says Kerala semi-high-speed rail project will require less funding than constructing new tracks",
-      "summary": "According to Sreedharan, the proposed Thiruvananthapuram-Kannur semi-high-speed rail corridor would be powered entirely by solar panels installed along both sides of the elevated viaduct",
-      "date": "2026-11-24T18:37:19.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/infrastructure/sreedharan-says-kerala-semi-high-speed-rail-project-will-require-less-funding-than-constructing-new-tracks-11795544053590.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-16-12y9q9e",
-      "headline": "Microsoft declares Code Red after 24-hour outage disrupts Outlook, Teams and other services",
-      "summary": "The company is tightening engineering controls, speeding up software fixes and deploying AI agents to improve diagnosis and recovery during future disruptions",
-      "date": "2026-11-24T16:56:18.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-declares-code-red-after-24-hour-outage-disrupts-outlook-teams-and-other-services/article71739821.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-17-11gd3eh",
-      "headline": "TIME’s World’s Best Airports 2027 list: Delhi’s IGI Airport ranks 38th",
-      "summary": "IGI Airport ranked 38th among 47 major airports, with an overall score of 84.96. Singapore’s Changi Airport topped the list, followed by two airports in China.",
-      "date": "2026-11-24T16:38:19.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/infrastructure/times-world-s-best-airports-2027-list-delhi-s-igi-airport-ranks-38th-which-are-the-top-10-11795536729129.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-18-11sac7y",
-      "headline": "Pixxel’s big Bengaluru bet: Inside the startup’s plan to build 2.5 lakh sq ft satellite factory near Kempegowda airport",
-      "summary": "Pixxel will set up a 2.5 lakh sq ft satellite manufacturing facility near Bengaluru’s Kempegowda airport. The GigaPixxel unit aims to produce 50 satellites simultaneously by mid-2027, scaling to 200 by mid-2028, boosting Karnataka’s spacetech ecosystem.",
-      "date": "2026-11-24T15:18:41.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/pixxels-big-bengaluru-bet-inside-the-startup-s-plan-to-build-2-5-lakh-sq-ft-satellite-factory-near-kempegowda-airport-11795530432336.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-19-1coqlw1",
-      "headline": "Centre extends regional air connectivity fund’s tax exemption through FY30",
-      "summary": "Centre extends tax exemption for Regional Air Connectivity Fund Trust’s receipts through FY30 to preserve funding for UDAN regional connectivity.",
-      "date": "2026-11-24T15:14:08.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/centre-extends-regional-air-connectivity-funds-tax-exemption-through-fy30/article71739216.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-20-1n1c0gu",
-      "headline": "Spactech start-up Pixxel to set up its satellite manufacturing factory in Karnataka",
-      "summary": "With a built-up area of 250,000 sq ft, the plot is located close to Kempegowda International Airport",
-      "date": "2026-11-24T14:28:28.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/spactech-start-up-pixxel-to-set-up-its-satellite-manufacturing-factory-in-karnataka/article71738676.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-21-13cni3c",
-      "headline": "AERA rejects GMR’s distance-based user development fees proposal at Bhogapuram airport",
-      "summary": "The regulator has rejected GMR’s proposal to vary passenger fees by travel distance, but approved domestic departure charges that are significantly higher than at the other two new greenfield airports.",
-      "date": "2026-11-24T14:18:37.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/aera-rejects-gmr-s-distance-based-user-development-fees-proposal-at-bhogapuram-airport-11795526312556.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "regulation",
-        "airports"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-22-1ld9frt",
-      "headline": "Tata Sons reviews Air India, Tata Digital and Tata Electronics after Noel Tata flags losses of nearly ₹29,000 crore",
-      "summary": "Tata Sons chairman N Chandrasekaran has begun reviewing businesses flagged by Noel Tata over mounting losses. After Air India, the review is expected to cover Tata’s Dholera semiconductor project, as the group assesses turnaround plans.",
-      "date": "2026-11-24T13:50:06.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/tata-sons-reviews-air-india-tata-digital-and-tata-electronics-after-noel-tata-flags-losses-of-nearly-29-000-crore-11795527586758.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "faa-0-4fnte6",
-      "headline": "Trump’s Transportation Department Announces Record-Breaking Thanksgiving Air Travel for 2026",
-      "summary": "Trump’s Transportation Department Announces Record-Breaking Thanksgiving Air Travel for 2026 beth_krappweis Tue, 11/24/2026 - 07:20 WASHINGTON, D.C. — U.S. Transportation Department’s Federal Aviation Administration today released the 2026 flight forecast ahead of Thanksgiving travel, projecting the busiest holiday skies in 16 years. The Trump…",
-      "date": "2026-11-24T12:20:05.000Z",
-      "source": "FAA",
-      "sourceUrl": "https://www.faa.gov/newsroom/trumps-transportation-department-announces-record-breaking-thanksgiving-air-travel-2026",
-      "scopeHint": "world",
-      "scopes": [
-        "world"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-23-3k9zag",
-      "headline": "Mint Explainer: Can SpiceJet raise ₹5,500 crore to stay afloat?",
-      "summary": "SpiceJet is struggling to pay aircraft lessors, salaries and small suppliers. Without the financial lifeline, the airline's survival could be at risk.",
-      "date": "2026-11-24T10:05:16.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/mint-explainer-spicejet-fundraising-financial-lifeline-survival-repay-lessors-salaries-small-suppliers-dgca-ajay-singh-11795498920707.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "fleet"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-24-fnz1yu",
-      "headline": "SpiceJet operations shrink to six aircraft, just over 20 daily flights",
-      "summary": "SpiceJet’s fleet shrinks to six aircraft with just over 20 daily flights as promoter meets authorities amid DGCA notices and revival funding plans.",
-      "date": "2026-11-24T09:43:48.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/spicejet-operations-shrink-to-six-aircraft-just-over-20-daily-flights/article71737916.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "fleet",
-        "regulation",
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-25-xbw3f3",
-      "headline": "GMR Hyderabad airport enhances cargo-handling capacity",
-      "summary": "GMR Hyderabad International Airport (GHIAL) has enhanced its cargo handling infrastructure with the commissioning of an upgraded Elevated Transfer Vehicle (ETV)-based storage system at the Cargo Terminal.",
-      "date": "2026-11-24T09:43:39.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/economy/logistics/gmr-hyderabad-airport-enhances-cargo-handling-capacity/article71737951.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "airports",
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-26-97apol",
-      "headline": "China leveraging India's supply-chain dependence to curb its rise: US panel",
-      "summary": "The US commission's report alleged that China is using export curbs, technology restrictions and control over industrial inputs to undermine India's manufacturing ambitions and constrain its economic",
-      "date": "2026-11-24T09:02:51.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/world-news/us-panel-china-using-control-industrial-inputs-curb-india-rise-126112400488_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-27-15l2ij2",
-      "headline": "How a Bengaluru couple explored Egypt in 8 days for ₹3.2 lakh",
-      "summary": "A December 2025 trip to Egypt cost an Indian couple ₹3.23 lakh, with flights, accommodation and private cabs accounting for much of the budget. Here is how they planned their holiday and saved money",
-      "date": "2026-11-24T08:58:58.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/money/personal-finance/egypt-trip-cost-from-india-eight-day-itinerary-budget-11795496422496.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "operations"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-28-grmh4n",
-      "headline": "Why is China showcasing the Type 055 destroyer at Zhuhai Airshow",
-      "summary": "Chinese navy says it wants to present its carrier strike group as one air and sea system",
-      "date": "2026-11-24T08:14:10.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/blueprint-defence-magazine/reports/why-is-china-showcasing-the-type-055-destroyer-at-zhuhai-airshow-126112400428_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-29-1ybjc8k",
-      "headline": "Blackstone-backed REIT Nexus Select Trust concludes acquisition of Kolkata’s Diamond Plaza Mall for ₹355 crore",
-      "summary": "Real Estate Investment Trust (REIT) Nexus Select Trust has concluded the acquisition of Diamond Plaza Mall, a landmark retail asset in Kolkata, for ₹355 crore.",
-      "date": "2026-11-24T07:46:20.000Z",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/real-estate/blackstone-backed-reit-nexus-select-trust-concludes-acquisition-of-kolkatas-diamond-plaza-mall-for-355-crore/article71737625.ece",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-30-knp5u4",
-      "headline": "Mumbai among Apac's top 10 real estate investment destinations: Colliers",
-      "summary": "Strong occupier demand, infrastructure upgrades and a deeper pool of investment-grade assets are improving Mumbai's appeal to global real estate investors, Colliers said",
-      "date": "2026-11-24T05:17:34.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/industry/news/mumbai-apac-top-10-cross-border-real-estate-investment-colliers-2027-126112400255_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-31-48acqc",
-      "headline": "Higher fares, softer demand leave Indian airlines with more empty seats",
-      "summary": "According to provisional monthly operating data filed with the Directorate General of Civil Aviation and analysed by Mint, five major airlines—IndiGo, Air India, Air India Express, Akasa Air and SpiceJet—operated 88,644 domestic departures in October, up over…",
-      "date": "2026-11-24T05:02:27.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/industry/india-air-travel-demand-slows-higher-airfares-flight-cuts-11795445207320.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india",
-        "air-india"
-      ],
-      "topics": [
-        "business"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-32-g2cmvj",
-      "headline": "Mumbai in Asia Pacific's top 10 as Indian realty attracts global capital",
-      "summary": "India to witness greater traction across hospitality & alternative assets",
-      "date": "2026-11-24T05:01:48.000Z",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/finance/personal-finance/mumbai-in-asia-pacific-s-top-10-as-indian-realty-attracts-global-capital-126112400239_1.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "industry"
-      ]
-    },
-    {
-      "id": "newsapi-india-0-33-d37ali",
-      "headline": "FAA launches probe after Amazon delivery drone strikes Michigan home garage, fiber-optic cable",
-      "summary": "An Amazon Prime Air drone crashed into a garage in Huntington Woods, Michigan, after striking a fiber-optic cable during takeoff following a shampoo delivery. The garage sustained minor damage, and no one was injured. The FAA is investigating; the NTSB is gat…",
-      "date": "2026-11-24T03:28:30.000Z",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/faa-launches-probe-after-amazon-delivery-drone-strikes-michigan-home-garage-fiber-optic-cable-11795490301460.html",
-      "scopeHint": "india",
-      "scopes": [
-        "world",
-        "india"
-      ],
-      "topics": [
-        "safety",
-        "fleet",
-        "regulation"
       ]
     }
   ]
